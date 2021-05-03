@@ -1,0 +1,95 @@
+---
+title: "Data Wrangling"
+author: "Naturers"
+date: "5/2/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+library(readxl)
+library(tidyverse)
+library(robotstxt)
+library(rvest)
+library(knitr)
+library(pdftools)
+library(janitor)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data wrangling on Nuclear
+
+```{r}
+nuclear<- read.csv("Nuclear.csv")
+
+nuclear_adjusted<-nuclear[-c(1:4,6:8,12:19,20:21,23:28,31:34)]
+```
+
+
+# Data wrangling on Wind
+
+```{r}
+wind<-read.csv("Wind.csv")
+
+wind_adjusted <- wind[-c(1:4,6:8,12:23,25:28,31:34)]
+```
+
+
+# Data wrangling on Hydroelectric
+
+```{r}
+hydroelectric<-read.csv("Hydroelectric.csv")
+
+hydroelectric_adjusted <- hydroelectric[-c(1:4,6:8,12:19,21:28,31:34)]
+```
+
+
+# Data wrangling on Solar
+
+```{r}
+solar<-read.csv("Solar.csv")
+
+solar_adjusted <- solar[-c(1:4,6:8,12:22,24:28,31:34)]
+```
+
+# Data wrangling on Geothermal
+
+```{r}
+geothermal<-read.csv("Geothermal.csv")
+
+geothermal_adjusted <- geothermal[-c(1:4,6:8,12:19,20:28,32:34)]
+
+head(geothermal)
+```
+
+
+# Data wrangling on Coal
+
+```{r}
+coal <-read.csv("Coal.csv")
+
+coal_adjusted <- coal[-c(1:4,6:8,12:16,18:28,31:34)]
+
+head(coal)
+```
+
+# Data wrangling on Natural Gas
+
+```{r}
+natural_gas<-read.csv("Natural_Gas.csv")
+
+natural_gas_adjusted <- natural_gas[-c(1:4,6:8,12:17,19:28,31:34)]
+```
+
+# Data wrangling on Petroleum
+
+```{r}
+petroleum<-read.csv("Petroleum.csv")
+
+petroleum_adjusted <- petroleum[-c(1:4,6:8,12:18,20:28,31:34)]
+```
+
+
+
