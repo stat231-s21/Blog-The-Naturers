@@ -24,7 +24,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 nuclear<- read.csv("Nuclear.csv")
 
-nuclear_adjusted<-nuclear[-c(1:4,6:8,12:19,20:21,23:28,31:34)]
+nuclear_adjusted<-nuclear[-c(1:4,6:8,12:19,20:21,23:28,31:34)] %>%
+  mutate(energy_type = "Nuclear") %>% 
+  rename(Energy_Produced = Nuclear_MW )
 ```
 
 
@@ -33,7 +35,9 @@ nuclear_adjusted<-nuclear[-c(1:4,6:8,12:19,20:21,23:28,31:34)]
 ```{r}
 wind<-read.csv("Wind.csv")
 
-wind_adjusted <- wind[-c(1:4,6:8,12:23,25:28,31:34)]
+wind_adjusted <- wind[-c(1:4,6:8,12:23,25:28,31:34)] %>%
+  mutate(energy_type = "Wind") %>% rename(Energy_Produced = Wind_MW  )
+
 ```
 
 
@@ -42,7 +46,8 @@ wind_adjusted <- wind[-c(1:4,6:8,12:23,25:28,31:34)]
 ```{r}
 hydroelectric<-read.csv("Hydroelectric.csv")
 
-hydroelectric_adjusted <- hydroelectric[-c(1:4,6:8,12:19,21:28,31:34)]
+hydroelectric_adjusted <- hydroelectric[-c(1:4,6:8,12:19,21:28,31:34)] %>%
+  mutate(energy_type = "Hydroelectric") %>% rename(Energy_Produced = Hydro_MW)
 ```
 
 
@@ -51,7 +56,8 @@ hydroelectric_adjusted <- hydroelectric[-c(1:4,6:8,12:19,21:28,31:34)]
 ```{r}
 solar<-read.csv("Solar.csv")
 
-solar_adjusted <- solar[-c(1:4,6:8,12:22,24:28,31:34)]
+solar_adjusted <- solar[-c(1:4,6:8,12:22,24:28,31:34)]  %>%
+  mutate(energy_type = "Solar")%>% rename(Energy_Produced = Solar_MW)
 ```
 
 # Data wrangling on Geothermal
@@ -59,9 +65,8 @@ solar_adjusted <- solar[-c(1:4,6:8,12:22,24:28,31:34)]
 ```{r}
 geothermal<-read.csv("Geothermal.csv")
 
-geothermal_adjusted <- geothermal[-c(1:4,6:8,12:19,20:28,32:34)]
-
-head(geothermal)
+geothermal_adjusted <- geothermal[-c(1:4,6:8,12:19,20:28,32:34)]  %>%
+  mutate(energy_type = "Geothermal") %>% rename(Energy_Produced = Geoth_MW)
 ```
 
 
@@ -70,9 +75,8 @@ head(geothermal)
 ```{r}
 coal <-read.csv("Coal.csv")
 
-coal_adjusted <- coal[-c(1:4,6:8,12:16,18:28,31:34)]
-
-head(coal)
+coal_adjusted <- coal[-c(1:4,6:8,12:16,18:28,31:34)]  %>%
+  mutate(energy_type = "Coal") %>% rename(Energy_Produced = Coal_MW)
 ```
 
 # Data wrangling on Natural Gas
@@ -80,7 +84,8 @@ head(coal)
 ```{r}
 natural_gas<-read.csv("Natural_Gas.csv")
 
-natural_gas_adjusted <- natural_gas[-c(1:4,6:8,12:17,19:28,31:34)]
+natural_gas_adjusted <- natural_gas[-c(1:4,6:8,12:17,19:28,31:34)]  %>%
+  mutate(energy_type = "Natural_Gas")%>% rename(Energy_Produced = NG_MW )
 ```
 
 # Data wrangling on Petroleum
@@ -88,7 +93,17 @@ natural_gas_adjusted <- natural_gas[-c(1:4,6:8,12:17,19:28,31:34)]
 ```{r}
 petroleum<-read.csv("Petroleum.csv")
 
-petroleum_adjusted <- petroleum[-c(1:4,6:8,12:18,20:28,31:34)]
+petroleum_adjusted <- petroleum[-c(1:4,6:8,12:18,20:28,31:34)]  %>%
+  mutate(energy_type = "Petroleum") %>% rename(Energy_Produced = Crude_MW )
+```
+
+
+### Combining
+
+```{r}
+combined <- rbind(nuclear_adjusted,wind_adjusted, hydroelectric_adjusted, solar_adjusted, geothermal_adjusted, coal_adjusted, natural_gas_adjusted, petroleum_adjusted )
+
+write_csv(combined, "combined_energy_locations")
 ```
 
 
