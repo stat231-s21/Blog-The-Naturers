@@ -12,10 +12,8 @@ library(knitr)
 library(pdftools)
 library(janitor)
 library(viridis)
-# for networks
 library(ggnetwork)
 library(igraph)
-# for mapping
 library(datasets)
 library(mdsr)
 library(gapminder)
@@ -29,11 +27,17 @@ knitr::opts_chunk$set(echo = TRUE)
 state_co2 <- read_csv("state_co2_adjusted")
 stateCO2_perCapita <- read_csv("stateCO2_perCapita")
 
+usa_states <- map_data(map = "state"
+                       , region = ".")
+state_info <- data.frame(state_full = tolower(state.name)
+                         , State = state.abb
+                         , Region = state.region)
 
 
 
 state_co2 <- state_co2 %>%
   mutate(State = tolower(state.name))
+
 state_co2_map <- state_co2 %>%
   left_join(state_info, by = "State") %>%
   right_join(usa_states, by = c("State" = "region")) %>%
