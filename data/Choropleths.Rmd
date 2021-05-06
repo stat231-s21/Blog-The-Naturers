@@ -76,3 +76,202 @@ ggplot(perCapita_co2_map, aes(x = long, y = lat, group = group
   theme(legend.position="bottom") +
   scale_fill_distiller(palette = "PuBu", direction = "horizantle")
 ```
+
+
+
+
+
+
+```{r}
+geothermal_adjusted2 <- geothermal_adjusted %>%
+  group_by(State) %>%
+  summarize(Geoth_MW = sum(Geoth_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+geo_map <- geothermal_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(geo_map, aes(x = long, y = lat, group = group
+                          , fill = Geoth_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
+
+```{r}
+hydroelectric_adjusted2 <- hydroelectric_adjusted %>%
+  group_by(State) %>%
+  summarize(Hydro_MW = sum(Hydro_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+hydro_map <- hydroelectric_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(hydro_map, aes(x = long, y = lat, group = group
+                          , fill = Hydro_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
+
+
+
+```{r}
+natural_gas_adjusted2 <- natural_gas_adjusted %>%
+  group_by(State) %>%
+  summarize(NG_MW = sum(NG_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+ng_map <- natural_gas_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(ng_map, aes(x = long, y = lat, group = group
+                          , fill = NG_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
+
+
+
+
+```{r}
+coal_adjusted2 <- coal_adjusted %>%
+  group_by(State) %>%
+  summarize(Coal_MW = sum(Coal_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+coal_map <- coal_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(coal_map, aes(x = long, y = lat, group = group
+                          , fill = Coal_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
+
+
+```{r}
+nuclear_adjusted2 <- nuclear_adjusted %>%
+  group_by(State) %>%
+  summarize(Nuclear_MW = sum(Nuclear_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+nuclear_map <- nuclear_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(nuclear_map, aes(x = long, y = lat, group = group
+                          , fill = Nuclear_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+```{r}
+petroleum_adjusted2 <- petroleum_adjusted %>%
+  group_by(State) %>%
+  summarize(Crude_MW = sum(Crude_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+petroleum_map <- petroleum_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(petroleum_map, aes(x = long, y = lat, group = group
+                          , fill = Crude_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
+```{r}
+solar_adjusted2 <- solar_adjusted %>%
+  group_by(State) %>%
+  summarize(Solar_MW = sum(Solar_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+solar_map <- solar_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(solar_map, aes(x = long, y = lat, group = group
+                          , fill = Solar_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
+```{r}
+wind_adjusted2 <- wind_adjusted %>%
+  group_by(State) %>%
+  summarize(Wind_MW = sum(Wind_MW)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+wind_map <- wind_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+ggplot(wind_map, aes(x = long, y = lat, group = group
+                          , fill = Wind_MW)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
+
