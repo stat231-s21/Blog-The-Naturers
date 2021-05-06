@@ -1,0 +1,74 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(readxl)
+library(tidyverse)
+library(robotstxt)
+library(rvest)
+library(knitr)
+library(pdftools)
+library(janitor)
+library(viridis)
+# for networks
+library(ggnetwork)
+library(igraph)
+# for mapping
+library(datasets)
+library(mdsr)
+library(gapminder)
+library(fivethirtyeight)
+library(maps)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+state_co2 <- read_csv("state_co2_adjusted")
+stateCO2_perCapita <- read_csv("stateCO2_perCapita")
+
+
+
+
+state_co2 <- state_co2 %>%
+  mutate(State = tolower(state.name))
+state_co2_map <- state_co2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region")) %>%
+  rename(Y1990 = "1990", Y2018 = "2018") 
+
+
+ggplot(state_co2_map, aes(x = long, y = lat, group = group
+                          , fill = Y2018)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Carbon Dioxide Emissions by State", 
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+
+
+stateCO2_perCapita <- stateCO2_perCapita %>%
+  mutate(State = tolower(state.name))
+perCapita_co2_map <- stateCO2_perCapita %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region")) %>%
+  rename(Y1990 = "1990", Y2018 = "2018") 
+
+
+
+ggplot(perCapita_co2_map, aes(x = long, y = lat, group = group
+                              , fill = Y2018)) +
+  geom_polygon(color = "white") +
+  theme_void() +
+  coord_fixed(ratio = 1.3) +
+  labs(title = "Per Capita Carbon Dioxide Emissions by State",
+       subtitle = "as of 2018",
+       fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+  theme(legend.position="bottom") +
+  scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+```
