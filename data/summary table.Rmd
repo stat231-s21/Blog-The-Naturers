@@ -1,0 +1,65 @@
+---
+title: "Total energy produced per type per state"
+author: "Naturers"
+date: "5/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(mdsr)   
+library(tidyverse)
+library(mosaic)
+library(ggplot2)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+Energy_type<- combined %>%
+  group_by(energy_type)%>%
+  summarise(
+    no_powerplant_type=n(), 
+    total_energy=sum(Energy_Produced),
+    average_energy_per_type = (total_energy/no_powerplant_type)
+    )
+
+```
+
+The bargraph below is intended to show the average energy production of every energy type. In a way see which powerplant types could be considered efficient. We do this by dividing the total energy produced for a specific type and dividing it with the total number of powerplant type available. This enabled us to see which type of powerplants produce the most energy on average. We found nuclear and coal as the leading, and solar with the lowest. We were surprised by the petroluem. We expected a higher average energy production per powerplant. 
+
+(This cann be used to argue why transitioning to renewable energy sources is highly opposed because of the low energy production per powerplant they produce)
+
+```{r}
+#bargraphs for showing average energy production per type
+p<-ggplot(data=Energy_type, aes(x=energy_type, y=average_energy_per_type)) +
+  geom_bar(stat="identity", width=0.5, fill="steelblue")+
+  theme_minimal() + labs(title = "Average energy production per type", y = "average energy", x = "energy type") + coord_flip()
+p
+
+
+```
+
+The graph below is to show us the energy production per state.
+(Since we are going to be using shiny app, we can include a place where one can choose the state of interest, and then the total energy per type appears for that state. So basically the lines below are just the data we will use.)
+
+```{r}
+state_energy_consumption<- combined%>%
+  group_by(State, energy_type)%>%
+  summarise(
+    total_energy=sum(Energy_Produced)
+    )
+  
+```
+
+
+This is me just writing my thoughts. I was thinking that maybe we could create something that allows us to compare the types of powerplants being used and the amount of CO2 emission that was recorded ans see if there is any relationship. So maybe a scatter plot that shows the CO2 and number of renewable powerplants in the area, but then we also have to account for size. 
+
+
+
+
+
+
+
+
+
+
