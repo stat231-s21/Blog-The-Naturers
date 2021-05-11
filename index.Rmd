@@ -3,7 +3,7 @@ title: "Your Project Title Here"
 author: "Graham Chickering, Lorraine Oloo, Zac Miller"
 date: "Add a date"
 output:
-  rmdformats::readthedown:
+  rmdformats::material:
     thumbnails: false
     highlight: NULL
 ---
