@@ -3,7 +3,7 @@ title: "Your Project Title Here"
 author: "Your Names Here"
 date: "Add a date"
 output:
-  rmdformats::readthedown:
+  rmdformats::material:
     thumbnails: false
     highlight: NULL
 ---
