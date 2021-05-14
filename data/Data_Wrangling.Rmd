@@ -29,7 +29,6 @@ nuclear_adjusted<-nuclear[-c(1:4,6:8,12:19,20:21,23:28,31:34)] %>%
   rename(Energy_Produced = Nuclear_MW )
 
 write_csv(nuclear_adjusted, "nuclear_adjusted")
- ok <-read_csv("nuclear_adjusted")
 ```
 
 
