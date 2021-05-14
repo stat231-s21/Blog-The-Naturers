@@ -1,0 +1,877 @@
+Power_Plant_Name,City,County,State,Energy_Produced,Latitude,Longitude,energy_type
+Gold Creek,Juneau,Juneau,Alaska,8.1,58.3107,-134.4174,Petroleum
+Lemon Creek,Juneau,Juneau,Alaska,57.5,58.3536,-134.4953,Petroleum
+Skagway,Skagway,Skagway Hoonah Angoon,Alaska,3.4,59.4545,-135.3131,Petroleum
+Haines,Haines,Haines,Alaska,8.1,59.235931,-135.446228,Petroleum
+S W Bailey,Ketchikan,Ketchikan Gateway,Alaska,23,55.357397,-131.69696,Petroleum
+Snake River,Nome,Nome,Alaska,16.4,64.505331,-165.429814,Petroleum
+Petersburg,Petersburg,Wrangell Petersburg,Alaska,10.8,56.81104,-132.957091,Petroleum
+Seward (AK),Seward,Kenai Peninsula,Alaska,15.6,60.130922,-149.43501,Petroleum
+Wrangell,Wrangell,Wrangell Petersburg,Alaska,8.5,56.460976,-132.379439,Petroleum
+Dillingham,Dillingham,Dillingham,Alaska,6.6,59.042914,-158.468597,Petroleum
+Douglas,Douglas,Cochise,Arizona,15,31.364122,-109.5538,Petroleum
+Osceola (AR),Osceola,Mississippi,Arkansas,1.6,35.705381,-89.9689,Petroleum
+Municipal Light,Piggott,Clay,Arkansas,7.2,36.3858,-90.1867,Petroleum
+Tok,Tok,Southeast Fairbanks,Alaska,5.4,63.33552,-142.99997,Petroleum
+Craig (AK),Craig,Prince of Wales Ketchikan,Alaska,4.6,55.47691,-133.14869,Petroleum
+Hydaburg,Prince of Wales,Prince of Wales Ketchikan,Alaska,1,55.204937,-132.821435,Petroleum
+Pueblo,Pueblo,Pueblo,Colorado,8,38.2667,-104.6144,Petroleum
+Center,Center,Saguache,Colorado,1.5,37.753606,-106.10467,Petroleum
+Holly,Holly,Prowers,Colorado,2.7,38.032717,-102.073659,Petroleum
+Julesburg,Julesburg,Sedgwick,Colorado,2.2,40.9505,-102.2795,Petroleum
+La Junta,La Junta,Otero,Colorado,14.4,37.9876,-103.5468,Petroleum
+Las Animas,Las Animas,Bent,Colorado,5.1,38.0647,-103.2159,Petroleum
+Trinidad (CO),Trinidad,Las Animas,Colorado,5.4,37.178979,-104.487492,Petroleum
+Branford,Branford,New Haven,Connecticut,17.4,41.2925,-72.7942,Petroleum
+Cos Cob,Greenwich,Fairfield,Connecticut,95.6,41.0289,-73.5989,Petroleum
+Devon Station,Milford,New Haven,Connecticut,132.5,41.209797,-73.108976,Petroleum
+Montville Station,Uncasville,New London,Connecticut,496.4,41.4281,-72.1019,Petroleum
+Tunnel,Preston,New London,Connecticut,16.5,41.555425,-72.041829,Petroleum
+Franklin Drive,Torrington,Litchfield,Connecticut,16.1,41.798943,-73.116267,Petroleum
+Middletown,Middletown,Middlesex,Connecticut,417.2,41.554944,-72.579075,Petroleum
+South Meadow,Hartford,Hartford,Connecticut,148.4,41.7495,-72.6524,Petroleum
+Torrington Terminal,Torrington,Litchfield,Connecticut,17.4,41.776109,-73.120886,Petroleum
+North Main Street,Norwich,New London,Connecticut,15.3,41.52679,-72.064935,Petroleum
+Christiana,Wilmington,New Castle,Delaware,50,39.7302,-75.5371,Petroleum
+Delaware City 10,Delaware City,New Castle,Delaware,18,39.600408,-75.626811,Petroleum
+West Station (DE),Wilmington,New Castle,Delaware,15,39.7283,-75.6289,Petroleum
+Bayboro,St. Petersburg,Pinellas,Florida,171,27.758056,-82.635278,Petroleum
+Marathon Generating Plant,Marathon,Monroe,Florida,11,24.710833,-81.0927,Petroleum
+Trenton North,Trenton,Grundy,Missouri,13.5,40.0786,-93.635,Petroleum
+McManus,Brunswick,Glynn,Georgia,416,31.213645,-81.546165,Petroleum
+Boulevard,Savannah,Chatham,Georgia,14,32.0411,-81.145,Petroleum
+Kahe,Kapolei,Honolulu,Hawaii,582.1,21.356395,-158.128853,Petroleum
+Waiau,Pearl City,Honolulu,Hawaii,456.6,21.388997,-157.961518,Petroleum
+Waimea,Kamuela,Hawaii,Hawaii,7.5,20.0252,-155.6955,Petroleum
+Kanoelehua,Hilo,Hawaii,Hawaii,20,19.7052,-155.0625,Petroleum
+W H Hill,Hilo,Hawaii,Hawaii,35.5,19.7041,-155.0607,Petroleum
+Orca,Cordova,Valdez Cordova,Alaska,10.7,60.555889,-145.752983,Petroleum
+Palaau Power Hybrid,Kaunakakai,Maui,Hawaii,14,21.106,-157.0647,Petroleum
+Salmon Diesel,Salmon,Lemhi,Idaho,5.4,45.183368,-113.885307,Petroleum
+Fisk Street,Chicago,Cook,Illinois,197.2,41.8508,-87.6533,Petroleum
+Breese,Breese,Clinton,Illinois,17,38.607456,-89.524514,Petroleum
+Bushnell,Bushnell,McDonough,Illinois,10.8,40.548586,-90.513814,Petroleum
+Carlyle,Carlyle,Clinton,Illinois,12.3,38.6106,-89.3583,Petroleum
+Carmi,Carmi,White,Illinois,12,38.0967,-88.1631,Petroleum
+Fairfield,Fairfield,Wayne,Illinois,7.5,38.380709,-88.366006,Petroleum
+Farmer City,Farmer City,DeWitt,Illinois,5.6,40.24611,-88.638761,Petroleum
+Freeburg,Freeburg,St Clair,Illinois,15.8,38.425556,-89.914444,Petroleum
+Highland,Highland,Madison,Illinois,16.8,38.7412,-89.6849,Petroleum
+McLeansboro,McLeansboro,Hamilton,Illinois,8.4,38.094683,-88.541331,Petroleum
+Marshall (IL),Marshall,Clark,Illinois,16.9,39.392138,-87.68513,Petroleum
+Peru (IL),City of Peru,LaSalle,Illinois,27.5,41.3237,-89.1123,Petroleum
+Rantoul,Rantoul,Champaign,Illinois,14.4,40.312222,-88.159444,Petroleum
+Red Bud,Red Bud,Randolph,Illinois,14.3,38.2165,-89.9992,Petroleum
+South Main Street,Rochelle,Ogle,Illinois,10.8,41.9092,-89.0504,Petroleum
+Lakeside,Springfield,Sangamon,Illinois,5.1,39.757327,-89.600512,Petroleum
+Reynolds,Springfield,Sangamon,Illinois,14,39.806868,-89.641653,Petroleum
+Sullivan (IL),Sullivan,Moultrie,Illinois,24.5,39.596667,-88.611944,Petroleum
+Waterloo,Waterloo,Monroe,Illinois,15.1,38.334786,-90.158939,Petroleum
+Peru (IN),Peru,Miami,Indiana,1.8,40.7551,-86.0575,Petroleum
+Algona,Algona,Kossuth,Iowa,16.1,43.0733,-94.2392,Petroleum
+Alta Municipal Utilities,Alta,Buena Vista,Iowa,4.9,42.6736,-95.3026,Petroleum
+Anita,Anita,Cass,Iowa,2.7,41.444224,-94.766474,Petroleum
+Bancroft,Bancroft,Kossuth,Iowa,4.1,43.292628,-94.217075,Petroleum
+Bellevue,Bellevue,Jackson,Iowa,7,42.25,-90.4167,Petroleum
+Brooklyn,Brooklyn,Poweshiek,Iowa,2,41.7278,-92.4479,Petroleum
+Cascade,Cascade,Dubuque,Iowa,4.9,42.29821,-91.011974,Petroleum
+Coggon,Coggon,Linn,Iowa,1.8,42.280827,-91.532705000000007,Petroleum
+Corning,Corning,Adams,Iowa,6.8,40.9871,-94.7352,Petroleum
+Dayton (IA),Dayton,Webster,Iowa,1.8,42.260162,-94.069243,Petroleum
+Forest City Light Plant,Forest City,Winnebago,Iowa,21.2,43.263235,-93.635383,Petroleum
+Gowrie,Gowrie,Webster,Iowa,2.2,42.282807,-94.288965,Petroleum
+Graettinger,Graettinger,Palo Alto,Iowa,3.6,43.2397,-94.7498,Petroleum
+Grand Junction,Grand Junction,Greene,Iowa,1.7,42.0296,-94.3699,Petroleum
+Grundy Center City Light Plant,Grundy Center,Grundy,Iowa,8.7,42.363094,-92.772322,Petroleum
+Harlan,Harlan,Shelby,Iowa,3.2,41.644542,-95.315283,Petroleum
+Indianola,Indianola,Warren,Iowa,51.2,41.359491,-93.563268,Petroleum
+Lake Park,Lake Park,Dickinson,Iowa,4,43.4301,-95.3153,Petroleum
+Lake Mills,Lake Mills,Winnebago,Iowa,18.5,43.4172,-93.5322,Petroleum
+Lamoni Municipal Utilities,Lamoni,Decatur,Iowa,10,40.622,-93.9326,Petroleum
+La Porte,La Porte City,Black Hawk,Iowa,5.4,42.3159,-92.1928,Petroleum
+Laurens,Laurens,Pocahontas,Iowa,8.3,42.8486,-94.8506,Petroleum
+Lenox,Lenox,Taylor,Iowa,5.8,40.88,-94.5589,Petroleum
+Manning,Manning,Carroll,Iowa,7.9,41.9067,-95.0347,Petroleum
+McGregor,McGregor,Clayton,Iowa,1.5,43.023733,-91.174927,Petroleum
+Milford,Milford,Dickinson,Iowa,6.5,43.326083,-95.148338999999993,Petroleum
+Montezuma,Montezuma,Poweshiek,Iowa,5.5,41.586026,-92.5228,Petroleum
+Mt Pleasant,Mt Pleasant,Henry,Iowa,24,40.971826,-91.551221,Petroleum
+Ogden,Ogden,Boone,Iowa,4,42.0372,-94.0462,Petroleum
+Primghar,Primghar,O'Brien,Iowa,1.5,43.08713,-95.62596,Petroleum
+Rockford,Rockford,Floyd,Iowa,2.9,43.0489,-92.9468,Petroleum
+Rock Rapids,Rock Rapids,Lyon,Iowa,2.5,43.429444,-96.169166,Petroleum
+Spencer Gas Turbine,Spencer,Clay,Iowa,17,43.144585,-95.144257,Petroleum
+State Center,State Center,Marshall,Iowa,6.3,42.01667,-93.16333,Petroleum
+Story City,Story City,Story,Iowa,13.5,42.186076,-93.600479000000007,Petroleum
+Stuart (IA),Stuart,Guthrie,Iowa,2.7,41.503889,-94.3172,Petroleum
+Sumner,Sumner,Bremer,Iowa,5.5,42.8464,-92.0978,Petroleum
+Traer Main,Traer,Tama,Iowa,3.2,42.1926,-92.4636,Petroleum
+Villisca Municipal Power Plant,Villisca,Montgomery,Iowa,4,40.9315,-94.9855,Petroleum
+Vinton,Vinton,Benton,Iowa,17.1,42.1697,-92.0222,Petroleum
+Webster City,Webster City,Hamilton,Iowa,20.7,42.471022,-93.81499,Petroleum
+West Bend,West Bent,Palo Alto,Iowa,6.4,42.961151,-94.445574,Petroleum
+West Liberty,West Liberty,Muscatine,Iowa,14.8,41.569128,-91.26405,Petroleum
+Whittemore,Whittemore,Kossuth,Iowa,1.1,43.064444,-94.421944,Petroleum
+Wilton,Wilton,Muscatine,Iowa,9.2,41.587748,-91.019456,Petroleum
+Winterset,Winterset,Madison,Iowa,13.6,41.3372,-94.0126,Petroleum
+Bird City,Bird City,Cheyenne,Kansas,4,39.7581,-101.5319,Petroleum
+Ashland,Ashland,Clark,Kansas,3.6,37.193787,-99.763073,Petroleum
+Baldwin City Plant No 1,Baldwin City,Douglas,Kansas,2.9,38.7745,-95.1867,Petroleum
+Belleville,Belleville,Republic,Kansas,14.3,39.832769,-97.632038,Petroleum
+Beloit,Beloit,Mitchell,Kansas,16.6,39.4578,-98.1122,Petroleum
+Colby City of,Colby,Thomas,Kansas,14.7,39.394414,-101.058372,Petroleum
+Ellinwood,Ellinwood,Barton,Kansas,7.2,38.354514,-98.583436,Petroleum
+Erie,Erie,Neosho,Kansas,3.9,37.56681,-95.237499,Petroleum
+Garnett Municipal,Garnett,Anderson,Kansas,10.2,38.2697,-95.2447,Petroleum
+Herington,Herington,Dickinson,Kansas,1.5,38.6658,-96.9492,Petroleum
+Holton,City of Holton,Jackson,Kansas,13.4,39.4735,-95.73155,Petroleum
+Iola,Iola,Allen,Kansas,14.5,37.923076,-95.425572,Petroleum
+Jetmore,Jetmore,Hodgeman,Kansas,2.5,38.080332,-99.893587,Petroleum
+Quindaro,Kansas,Wyandotte,Kansas,102,39.1492,-94.6381,Petroleum
+La Crosse,La Crosse,Rush,Kansas,5.5,38.531667,-99.308333,Petroleum
+Larned,Larned,Pawnee,Kansas,16,38.176167,-99.099984,Petroleum
+Lincoln,Lincoln,Lincoln,Kansas,8.7,39.03719,-98.152993,Petroleum
+Oberlin (KS),Oberlin,Decatur,Kansas,5.2,39.8217,-100.5289,Petroleum
+Osawatomie City of,Osawatomie,Miami,Kansas,5.6,38.501719,-94.960069,Petroleum
+Osborne,Osborne,Osborne,Kansas,3.2,39.441979,-98.690296,Petroleum
+Sabetha Power Plant,Sabetha,Nemaha,Kansas,14.6,39.904922,-95.803367,Petroleum
+St Francis,St Francis,Cheyenne,Kansas,5.1,39.770868,-101.810082,Petroleum
+St John,St. John,Stafford,Kansas,5,37.9953,-98.7602,Petroleum
+Stafford,Stafford,Stafford,Kansas,2.5,37.956117,-98.599286,Petroleum
+Sterling,Sterling,Rice,Kansas,8.3,38.2143,-98.2071,Petroleum
+Washington,Washington,Washington,Kansas,7.4,39.7306,-96.9795,Petroleum
+Paris (KY),Paris,Bourbon,Kentucky,11.9,38.2049,-84.2383,Petroleum
+Rayne,Rayne,Acadia,Louisiana,7,30.234627,-92.272174,Petroleum
+Cape Gas Turbine,Portland,Cumberland,Maine,32,43.6436,-70.2544,Petroleum
+William F Wyman Hybrid,Yarmouth,Cumberland,Maine,810.9,43.7508,-70.1567,Petroleum
+Caribou Generation Station,Caribou,Aroostook,Maine,30,46.848,-68.0026,Petroleum
+Flos Inn Diesel,Presque Isle,Aroostook,Maine,4.2,46.71,-67.9556,Petroleum
+Philadelphia,Baltimore,Baltimore City,Maryland,60.9,39.2986,-76.5636,Petroleum
+Crisfield,Crisfield,Somerset,Maryland,10.4,37.994134,-75.837679,Petroleum
+Vienna Operations,Vienna,Dorchester,Maryland,167.3,38.4878,-75.8208,Petroleum
+Easton,Easton,Talbot,Maryland,31.9,38.7786,-76.0769,Petroleum
+Exelon Framingham LLC,Framingham,Norfolk,Massachusetts,31.4,42.2672,-71.3983,Petroleum
+Exelon Medway LLC,Medway,Norfolk,Massachusetts,123.8,42.140028,-71.446441,Petroleum
+Oak Bluffs Diesel Generating Facility,Oak Bluffs,Dukes,Massachusetts,8.4,41.425786,-70.608273,Petroleum
+Canal,Sandwich,Barnstable,Massachusetts,1113,41.7694,-70.5097,Petroleum
+Doreen,Pittsfield,Berkshire,Massachusetts,15.8,42.4433,-73.2058,Petroleum
+Woodland Road,Lee,Berkshire,Massachusetts,15.8,42.336215,-73.235486,Petroleum
+Colfax,Fowlerville,Livingston,Michigan,14,42.658653,-84.095181,Petroleum
+Oliver,Oliver Twp,Huron,Michigan,14,43.8264,-83.2383,Petroleum
+Placid 12,Clarkston,Oakland,Michigan,14,42.7106,-83.4569,Petroleum
+Putnam (MI),Mayville,Oakland,Michigan,14,42.7108,-83.4561,Petroleum
+Slocum,Trenton,Wayne,Michigan,14,42.1225,-83.185,Petroleum
+Superior,Superior Twp,Washtenaw,Michigan,52,42.2639,-83.6422,Petroleum
+Wilmot,Kingston Twp,Tuscola,Michigan,14,43.4566,-83.1889,Petroleum
+Manistique,Manistique,Schoolcraft,Michigan,4.8,45.955014,-86.256291,Petroleum
+Hart,Hart,Oceana,Michigan,3.7,43.704076,-86.366256,Petroleum
+Plant Four,Marquette,Marquette,Michigan,20,46.575965,-87.403579,Petroleum
+Newberry,Newberry,Luce,Michigan,4.5,46.351975,-85.506408,Petroleum
+Frank Jenkins,Portland,Ionia,Michigan,3.5,42.868611,-84.895555,Petroleum
+St Louis,St. Louis,Gratiot,Michigan,6.5,43.4019,-84.6014,Petroleum
+Main Street (MI),Sebewaing,Huron,Michigan,5.6,43.732508,-83.453306,Petroleum
+Sturgis City Diesel Plant,Sturgis,St Joseph,Michigan,6,41.7992,-85.4256,Petroleum
+Dafter,Dafter,Chippewa,Michigan,6.8,46.37437,-84.41723,Petroleum
+Tower,Tower,Cheboygan,Michigan,19.3,45.36282,-84.29497,Petroleum
+Caro,Caro,Tuscola,Michigan,8.5,43.4659,-83.3278,Petroleum
+Ubly,Ubly,Huron,Michigan,12.3,43.7217,-82.9388,Petroleum
+St James,St James,Watonwan,Minnesota,12,43.988158,-94.61564,Petroleum
+Adrian,Adrian,Nobles,Minnesota,2,43.63711,-95.932794,Petroleum
+Alexandria,Alexandria,Douglas,Minnesota,8.2,45.889167,-95.379722,Petroleum
+Benson City of,Benson,Swift,Minnesota,9,45.314444,-95.602777,Petroleum
+Blooming Prairie,Blooming Prairie,Steele,Minnesota,6.5,43.866,-93.0504,Petroleum
+Blue Earth,Blue Earth,Faribault,Minnesota,11,43.6375,-94.101667,Petroleum
+Delano,Delano,Wright,Minnesota,19.1,45.041378,-93.790522,Petroleum
+Detroit Lakes,Detroit Lakes,Becker,Minnesota,9.6,46.8175,-95.843333,Petroleum
+Elk River City of,Elk River,Sherburne,Minnesota,9,45.3158,-93.5781,Petroleum
+Fairfax,Fairfax,Renville,Minnesota,1.9,44.525887,-94.718812,Petroleum
+Glencoe,Glencoe,McLeod,Minnesota,35.7,44.7709,-94.1582,Petroleum
+Grand Marais,Grand Marais,Cook,Minnesota,6.1,47.750278,-90.357222,Petroleum
+Janesville,Janesville,Waseca,Minnesota,4.3,44.1172,-93.7073,Petroleum
+Kenyon Municipal,Kenyon,Goodhue,Minnesota,5.4,44.2718,-92.9848,Petroleum
+Lake Crystal,Lake Crystal,Blue Earth,Minnesota,5.8,44.106888,-94.219697,Petroleum
+Lanesboro,Lanesboro,Fillmore,Minnesota,2.1,43.720026,-91.977738,Petroleum
+Litchfield,Litchfield,Meeker,Minnesota,15.7,45.128164,-94.53515,Petroleum
+Luverne,Luverne,Rock,Minnesota,3.5,43.654444,-96.201944,Petroleum
+Marshall (MN),Marshall,Lyon,Minnesota,15.5,44.446585,-95.792118,Petroleum
+Melrose,Melrose,Stearns,Minnesota,8.1,45.675,-94.815277,Petroleum
+Moose Lake,Moose Lake,Carlton,Minnesota,8.2,46.454097,-92.760557,Petroleum
+Mora,Mora,Kanabec,Minnesota,6.3,45.877088,-93.295137,Petroleum
+Mountain Lake,Mountain Lake,Cottonwood,Minnesota,7.5,43.9405,-94.9434,Petroleum
+New Ulm,New Ulm,Brown,Minnesota,48,44.3159,-94.4581,Petroleum
+North Branch (MN),North Branch,Chisago,Minnesota,10,45.510601,-92.979042,Petroleum
+Princeton (MN),Princeton,Mille Lacs,Minnesota,12.8,45.569468,-93.587244,Petroleum
+Sleepy Eye,Sleepy Eye,Brown,Minnesota,11.2,44.298116,-94.725191,Petroleum
+Springfield (MN),Springfield,Brown,Minnesota,9,44.239539,-94.976262,Petroleum
+Spring Valley,Spring Valley,Fillmore,Minnesota,7.1,43.687322,-92.389392,Petroleum
+Thief River Falls,Thief River Falls,Pennington,Minnesota,5.3,48.114262,-96.179176,Petroleum
+Truman,Truman,Martin,Minnesota,6,43.828415,-94.436908,Petroleum
+Wells IC,Wells,Faribault,Minnesota,8.1,43.74453,-93.724129,Petroleum
+Westbrook,Westbrook,Cottonwood,Minnesota,2,44.0399,-95.4429,Petroleum
+Windom,Windom,Cottonwood,Minnesota,7.6,43.86811,-95.114444,Petroleum
+Worthington,Worthington,Nobles,Minnesota,14,43.63349,-95.609234,Petroleum
+Maple Lake,Maple Lake,Wright,Minnesota,21.4,45.229073,-94.009673,Petroleum
+Northeast (MO),Kansas City,Jackson,Missouri,396,39.1228,-94.5606,Petroleum
+Fairgrounds,Jefferson City,Cole,Missouri,54,38.5935,-92.2206,Petroleum
+Nevada,Nevada,Vernon,Missouri,18.1,37.8503,-94.3444,Petroleum
+Butler Municipal Power Plant,Butler,Bates,Missouri,10.3,38.264408,-94.344385,Petroleum
+Fayette,Fayette,Howard,Missouri,9.2,39.1406,-92.68,Petroleum
+Gallatin (MO),Gallatin,Daviess,Missouri,7,39.917222,-93.953889,Petroleum
+Jackson Square,Independence,Jackson,Missouri,30,39.094574,-94.411522,Petroleum
+Station I,Independence,Jackson,Missouri,38,39.055954,-94.392957,Petroleum
+Jackson (MO),Jackson,Cape Girardeau,Missouri,25.3,37.3847,-89.6606,Petroleum
+Kahoka,Kahoka,Clark,Missouri,4.2,40.4225,-91.7206,Petroleum
+La Plata,La Plata,Macon,Missouri,3.4,40.0244,-92.4896,Petroleum
+Macon,Macon,Macon,Missouri,0.7,39.7378,-92.4689,Petroleum
+Malden,Malden,Dunklin,Missouri,14.7,36.5531,-89.9682,Petroleum
+Memphis,Memphis,Scotland,Missouri,8.8,40.4578,-92.181,Petroleum
+Monroe (MO),Monroe City,Monroe,Missouri,10,39.6525,-91.7325,Petroleum
+Unionville City of,Unionville,Putnam,Missouri,8,40.476742,-93.010018,Petroleum
+Old Faithful,Yellowstone,Teton,Wyoming,2,44.4533,-110.8347,Petroleum
+Arnold,Arnold,Custer,Nebraska,1,41.421928,-100.19561,Petroleum
+Burwell,Burwell,Garfield,Nebraska,3.9,41.780313,-99.136071,Petroleum
+Cambridge,Cambridge,Furnas,Nebraska,4,40.286178,-100.176836,Petroleum
+Campbell Village,Campbell,Franklin,Nebraska,1.3,40.2992,-98.7331,Petroleum
+Chappell,Chappell,Deuel,Nebraska,1,41.092589,-102.471547,Petroleum
+David City,David City,Butler,Nebraska,4.7,41.254652,-97.119202,Petroleum
+Deshler,Deshler,Thayer,Nebraska,1.7,40.1408,-97.7239,Petroleum
+Kimball,Kimball,Kimball,Nebraska,7.6,41.2382,-103.6667,Petroleum
+Lyons,Lyons,Burt,Nebraska,1.1,41.9374,-96.4668,Petroleum
+Hebron,Hebron,Thayer,Nebraska,41.5,40.187928,-97.577857,Petroleum
+McCook,McCook,Red Willow,Nebraska,42.7,40.2214,-100.6508,Petroleum
+Jones Street,Omaha,Douglas,Nebraska,122.6,41.251488,-95.922682,Petroleum
+Ord,Ord,Valley,Nebraska,10.8,41.604164,-98.926144,Petroleum
+Plainview Muncipal Power,Plainview,Pierce,Nebraska,5,42.35,-97.790556,Petroleum
+Red Cloud,Red Cloud,Webster,Nebraska,5.2,40.097954,-98.519032,Petroleum
+Sargent,Sargent,Custer,Nebraska,2.4,41.641588,-99.3698,Petroleum
+Spalding,Spalding,Greeley,Nebraska,1.9,41.68138,-98.36756,Petroleum
+Stuart (NE),Stuart,Holt,Nebraska,1.9,42.599377,-99.143707,Petroleum
+Tecumseh,Tecumseh,Johnson,Nebraska,6.6,40.3664,-96.19,Petroleum
+Wayne IC,Wayne,Wayne,Nebraska,20.2,42.2278,-97.0183,Petroleum
+Wilber,Wilber,Saline,Nebraska,3.1,40.4797,-96.9604,Petroleum
+Wisner,Wisner,Cuming,Nebraska,3.8,41.988069,-96.915994,Petroleum
+Lost Nation,Groveton,Coos,New Hampshire,14,44.595117,-71.494398,Petroleum
+White Lake,Tamworth,Carroll,New Hampshire,17.5,43.8478,-71.2069,Petroleum
+South Cairo,Cairo,Greene,New York,20.1,42.291275,-73.986452,Petroleum
+Hudson Avenue,New York,Kings,New York,44.9,40.7052,-73.9807,Petroleum
+74th Street,New York,New York,New York,37.9,40.768,-73.9515,Petroleum
+East Hampton,East Hampton,Suffolk,New York,25.2,40.961706,-72.210277,Petroleum
+Glenwood,Glenwood Landing,Nassau,New York,104.1,40.827149,-73.647473,Petroleum
+Shoreham,Wading River,Suffolk,New York,65.7,40.96159,-72.864976,Petroleum
+South Hampton,Southampton,Suffolk,New York,8.5,40.899997,-72.381977,Petroleum
+Southold,Greenport,Suffolk,New York,10,41.1059,-72.3761,Petroleum
+West Babylon,West Babylon,Suffolk,New York,49.7,40.695485,-73.348573,Petroleum
+Harris Lake,Town of Newcomb,Essex,New York,4,43.9719,-74.1861,Petroleum
+Oswego Harbor Power,Oswego,Oswego,New York,1638,43.4586,-76.5319,Petroleum
+Plant No 1 Freeport,Freeport,Nassau,New York,8.7,40.6561,-73.5922,Petroleum
+Greenport,Greenport,Suffolk,New York,8.5,41.1055,-72.3758,Petroleum
+Blewett,Lilesville,Anson,North Carolina,52,34.9833,-79.8775,Petroleum
+W H Weatherspoon,Lumberton,Robeson,North Carolina,124,34.587538,-78.97552,Petroleum
+Buxton,Buxton,Dare,North Carolina,15,35.267222,-75.534722,Petroleum
+Jamestown,Jamestown,Stutsman,North Dakota,41.7,46.905665,-98.662183,Petroleum
+Grafton,Grafton,Walsh,North Dakota,4,48.430028,-97.403328,Petroleum
+FirstEnergy Eastlake,Eastlake,Lake,Ohio,24,41.6711,-81.4425,Petroleum
+Monument,Dayton,Montgomery,Ohio,12,39.7667,-84.1739,Petroleum
+Sidney (OH),Sidney,Shelby,Ohio,13.5,40.27917,-84.19097,Petroleum
+Niles Power Plant,Niles,Trumbull,Ohio,25,41.166928,-80.74769,Petroleum
+FirstEnergy Bay Shore,Oregon,Lucas,Ohio,152,41.6917,-83.4378,Petroleum
+Stryker,Stryker,Williams,Ohio,17,41.5014,-84.4283,Petroleum
+Arcanum,Arcanum,Darke,Ohio,1.4,39.9861,-84.5503,Petroleum
+Piqua Power Plant,Piqua,Miami,Ohio,36.5,40.133848,-84.237258,Petroleum
+St Marys,St. Marys,Auglaize,Ohio,12,40.5458,-84.3889,Petroleum
+Shelby Municipal Light Plant,Shelby,Richland,Ohio,3,40.88,-82.6567,Petroleum
+Anadarko,Woodsfield,Monroe,Ohio,7.8,39.756982,-81.115503,Petroleum
+Cushing,Cushing,Payne,Oklahoma,21.2,35.982597,-96.775683,Petroleum
+Pawhuska,Pawhuska,Osage,Oklahoma,6.8,36.669425,-96.347408,Petroleum
+Boomer Lake Station,Stillwater,Payne,Oklahoma,6,36.1438,-97.0681,Petroleum
+Hamilton (PA),Abbottstown,Adams,Pennsylvania,18,39.908732,-76.988454,Petroleum
+Hunterstown,Gettysburg,Adams,Pennsylvania,60,39.8662,-77.1648,Petroleum
+Mountain,Mount Holly Springs,Cumberland,Pennsylvania,36,40.12282,-77.1716,Petroleum
+Orrtanna,Orrtanna,Adams,Pennsylvania,18,39.8442,-77.3508,Petroleum
+Portland (PA),Mt. Bethel,Northampton,Pennsylvania,169,40.910205,-75.079398,Petroleum
+Shawnee (PA),East Stroudsburg,Monroe,Pennsylvania,17,41.061194,-75.058242,Petroleum
+Titus,Birsboro,Berks,Pennsylvania,27,40.3056,-75.9081,Petroleum
+Tolna,New Freedom,York,Pennsylvania,36,39.760634,-76.635341,Petroleum
+TalenEnergy Martin Creek LLC Allentown,Allentown,Lehigh,Pennsylvania,56,40.608388,-75.45599,Petroleum
+TalenEnergy Martins Creek LLC Fishbach,Pottsville,Schuylkill,Pennsylvania,28,40.689064,-76.219639,Petroleum
+TalenEnergy Martins Creek LLC Harrisburg,Harrisburg,Dauphin,Pennsylvania,42,40.257865,-76.857897,Petroleum
+TalenEnergy Martins Creek LLC Harwood,West Hazleton,Luzerne,Pennsylvania,27,40.9353,-76.0284,Petroleum
+TalenEnergy Martins Creek LLC Jenkins,Laflin,Luzerne,Pennsylvania,28,41.282405,-75.816439,Petroleum
+TalenEnergy Martins Creek LLC Lock Haven,Caldwell,Lycoming,Pennsylvania,14,41.1189,-77.4709,Petroleum
+Sunbury Generation LP,Shamokin Dam,Snyder,Pennsylvania,41,40.8361,-76.825,Petroleum
+TalenEnergy Martins Creek LLC West Shore,Camp Hill,Cumberland,Pennsylvania,28,40.1908,-76.94579,Petroleum
+TalenEnergy Martins Creek LLC Williamsport,Williamsport,Lycoming,Pennsylvania,27,41.2361,-77.00755,Petroleum
+Chester Generating Station,Chester,Chester,Pennsylvania,39,39.8301,-75.3837,Petroleum
+Delaware Generating Station,Philadelphia,Philadelphia,Pennsylvania,56,39.968021,-75.125203,Petroleum
+Falls,Morrisville,Bucks,Pennsylvania,51,40.176486,-74.789976,Petroleum
+Moser Generating Station,Pottstown,Montgomery,Pennsylvania,51,40.2352,-75.6193,Petroleum
+Richmond Generating Station,Phila.,Philadelphia,Pennsylvania,98,39.984469,-75.075247,Petroleum
+Schuylkill Generating Station,Phila.,Philadelphia,Pennsylvania,30,39.9419,-75.1883,Petroleum
+Southwark,Philadelphia,Philadelphia,Pennsylvania,52,39.9144,-75.135,Petroleum
+Hardeeville,Hardeeville,Jasper,South Carolina,9,32.298805,-81.073866,Petroleum
+Hilton Head,Hilton Head Island,Beaufort,South Carolina,90,32.208871,-80.698754,Petroleum
+Myrtle Beach,Myrtle Beach,Horry,South Carolina,75,33.708283,-78.924146,Petroleum
+Clark (SD),Clark,Clark,South Dakota,2.6,44.876484,-97.732102,Petroleum
+Faulkton,Faulkton,Faulk,South Dakota,2.5,45.036685,-99.120186,Petroleum
+Lake Preston,Lake Preston,Kingsbury,South Dakota,19.9,44.364871,-97.381063,Petroleum
+Ascutney,Weatherfield,Windsor,Vermont,9,43.4011,-72.4203,Petroleum
+Rutland,Rutland City,Rutland,Vermont,8.4,43.603,-72.9923,Petroleum
+Berlin 5,Berlin,Washington,Vermont,35,44.251,-72.6027,Petroleum
+Colchester 16,Colchester,Chittenden,Vermont,8.7,44.4906,-73.1703,Petroleum
+Burlington GT,Burlington,Chittenden,Vermont,19.7,44.4814,-73.2239,Petroleum
+Bayview,Bayview,Northampton,Virginia,12.6,37.2717,-75.9682,Petroleum
+Tasley,Tasley,Accomack,Virginia,29.9,37.7061,-75.7031,Petroleum
+Low Moor,Covington,Alleghany,Virginia,48,37.777,-79.892,Petroleum
+Northern Neck,Warsaw,Richmond,Virginia,47,37.95,-76.711,Petroleum
+Chesapeake,Chesapeake,Chesapeake City,Virginia,51,36.7711,-76.3019,Petroleum
+Possum Point,Dumfries,Prince William,Virginia,858,38.5367,-77.2806,Petroleum
+Yorktown,Yorktown,York,Virginia,790,37.2144,-76.4611,Petroleum
+Crystal Mountain,Greenwater,Pierce,Washington,2.5,46.953468,-121.475198,Petroleum
+Gordon,Gordon,Douglas,Wisconsin,2.8,46.23669,-91.785532,Petroleum
+French Island,La Cross,La Crosse,Wisconsin,122,43.8292,-91.2597,Petroleum
+Frederic Diesel,Frederic,Polk,Wisconsin,13.5,45.654835,-92.465063,Petroleum
+Grantsburg Diesel,Grantsburg,Burnett,Wisconsin,6.3,45.779189,-92.678047,Petroleum
+Arcadia Electric,Arcadia,Trempealeau,Wisconsin,10.9,44.2524,-91.5034,Petroleum
+Barron,Barron,Barron,Wisconsin,8.3,45.40193,-91.840382,Petroleum
+Cashton,Cashton,Monroe,Wisconsin,2.4,43.742874,-90.780325,Petroleum
+Elroy,Elroy,Juneau,Wisconsin,6.6,43.7395,-90.2675,Petroleum
+Fennimore,Fennimore,Grant,Wisconsin,8,42.9828,-90.6558,Petroleum
+La Farge,La Farge,Vernon,Wisconsin,1.5,43.5722,-90.6391,Petroleum
+Manitowoc,Manitowoc,Manitowoc,Wisconsin,58.4,44.082,-87.6558,Petroleum
+New Lisbon,New Lisbon,Juneau,Wisconsin,7.6,43.8797,-90.1645,Petroleum
+Viola,Viola,Richland,Wisconsin,1.8,43.507,-90.669,Petroleum
+Washington Island,Washington Island,Door,Wisconsin,5,45.370922,-86.930822,Petroleum
+Easton 2,Easton,Talbot,Maryland,37,38.795,-76.07,Petroleum
+Manatee,Parrish,Manatee,Florida,1618,27.6058,-82.3456,Petroleum
+DeBary,DeBary,Volusia,Florida,324,28.903863,-81.332329,Petroleum
+West Tisbury Generating Facility,West Tisbury,Dukes,Massachusetts,5.6,41.392486,-70.620089,Petroleum
+Kahului,Kahului,Maui,Hawaii,32.4,20.896884,-156.462696,Petroleum
+Stony Brook,Ludlow,Hampden,Massachusetts,439.7,42.1978,-72.5106,Petroleum
+Spirit Mound,Vermillion,Clay,South Dakota,100.1,42.897663,-96.990494,Petroleum
+Shrewsbury,Shrewsbury,Worcester,Massachusetts,14,42.2747,-71.7172,Petroleum
+Bellefonte,Hollywood,Jackson,Alabama,14,34.7092,-85.9278,Petroleum
+Brame Energy Center,Lena,Rapides,Louisiana,626.7,31.395,-92.716667,Petroleum
+Dynegy Oakland Power Plant,Oakland,Alameda,California,165,37.79675,-122.28185,Petroleum
+Durant,Durant,Cedar,Iowa,4.4,41.59976,-90.91195,Petroleum
+Mobile,York,York,Nebraska,3.1,40.883013,-97.601363,Petroleum
+Pearl Station,Pearl,Pike,Illinois,20.1,39.449185,-90.614119,Petroleum
+Germantown,Germantown,Washington,Wisconsin,189.2,43.1952,-88.1496,Petroleum
+Wilson,Waynesboro,Burke,Georgia,297.5,33.137711,-81.748294,Petroleum
+Kodiak Microgrid,Kodiak,Kodiak Island,Alaska,18.3,57.789956,-152.396982,Petroleum
+Port Lions Microgrid,Port Lions,Kodiak Island,Alaska,0.5,57.864775,-152.855441,Petroleum
+Seldovia,Seldovia,Kenai Peninsula,Alaska,2.2,59.439542,-151.713439,Petroleum
+North Pole,North Pole,Fairbanks North Star,Alaska,145,64.7356,-147.3481,Petroleum
+Fairbanks,Fairbanks,Fairbanks North Star,Alaska,36.1,64.854171,-147.719351,Petroleum
+Unalakleet,Unalakleet,Nome,Alaska,1.6,63.876789,-160.790414,Petroleum
+Naknek,Naknek,Bristol Bay,Alaska,15.9,58.730417,-157.007222,Petroleum
+Kotzebue Hybrid,Kotzebue,NORTHWEST ARCTIC,Alaska,11.8,66.837778,-162.556944,Petroleum
+Glennallen,Glennallen,Valdez Cordova,Alaska,9,62.110415,-145.532529,Petroleum
+Valdez,Valdez,Valdez Cordova,Alaska,7.5,61.1303,-146.3647,Petroleum
+Chevak,Chevak,Bethel,Alaska,1.8,61.525297,-165.590152,Petroleum
+Emmonak,Emmonak,Wade Hampton,Alaska,3.2,62.777694,-164.531517,Petroleum
+Hooper Bay,Hooper Bay,Bethel,Alaska,2.2,61.530858,-166.101944,Petroleum
+Kiana,Kiana,Northwest Arctic,Alaska,1.2,66.973889,-160.428592,Petroleum
+Mountain Village,Mountain Village,Bethel,Alaska,2.3,62.085569,-163.729072,Petroleum
+Noorvik,Noorvik,Northwest Arctic,Alaska,1.5,66.834519,-161.038717,Petroleum
+Nunapitchuk,Nunapitchuk,Bethel,Alaska,0.5,60.89588,-162.459756,Petroleum
+St Marys IC,St. Mary's,Bethel,Alaska,2,62.051525,-163.172567,Petroleum
+Selawik,Selawik,Northwest Arctic,Alaska,1.3,66.606778,-160.014808,Petroleum
+Shishmaref,Shishmaref,Nome,Alaska,1.5,66.255072,-166.073589,Petroleum
+Togiak,Togiak,Dillingham,Alaska,2.8,59.059744,-160.380278,Petroleum
+Sixth Street Gas Turbine,Holland,Ottawa,Michigan,16,42.792645,-86.103583,Petroleum
+Detour,Detour,Chippewa,Michigan,5,45.98363,-83.90788,Petroleum
+Ocracoke Hybrid,Ocracoke,Hyde,North Carolina,3,35.109444,-75.979722,Petroleum
+Tangier,Tangier,Accomack,Virginia,2.4,37.8277,-75.9915,Petroleum
+Smith Island,Ewell,Somerset,Maryland,1.6,37.9955,-76.038881,Petroleum
+Ames GT,Ames,Story,Iowa,40.9,42.0272,-93.5828,Petroleum
+Port Allen (HI),Eleele,Kauai,Hawaii,91.5,21.899583,-159.585042,Petroleum
+Maalaea,Kihei,Maui,Hawaii,197.9,20.80117,-156.492981,Petroleum
+Brunswick,Carson City,Carson City,Nevada,6,39.1522,-119.7478,Petroleum
+Rocky Ford,Rocky Ford,Otero,Colorado,10,38.0492,-103.7136,Petroleum
+Kings Beach,Kings Beach,Placer,California,12,39.245833,-120.027222,Petroleum
+Vergennes 9,Vergennes,Addison,Vermont,4,44.1664,-73.2575,Petroleum
+Waverly Municipal Electric North Plant,Waverly,Bremer,Iowa,14.2,42.7317,-92.4711,Petroleum
+McGrath,McGrath,Yukon Koyukuk,Alaska,2.2,62.95699,-155.594997,Petroleum
+Unionville,Unionville,Putnam,Missouri,44,40.459344,-93.021833,Petroleum
+Berlin,Berlin,Worcester,Maryland,5.4,38.327778,-75.217222,Petroleum
+Bethel,Bethel,Bethel,Alaska,12.6,60.7897,-161.787778,Petroleum
+Block Island,Block Island,Washington,Rhode Island,7.1,41.175556,-71.5711,Petroleum
+Johnson,Johnson,Stanton,Kansas,6,37.566881,-101.751065,Petroleum
+Stock Island,Stock Island,Monroe,Florida,114.5,24.563333,-81.7342,Petroleum
+Wilkins Station,Marblehead,Essex,Massachusetts,5,42.5131,-70.8583,Petroleum
+Burlington (CO),Burlington,Kit Carson,Colorado,100,39.3561,-102.2431,Petroleum
+Yakutat,Yakutat,Yakutat,Alaska,3.8,59.544553,-139.724306,Petroleum
+Mexico,Mexico,Audrain,Missouri,53,39.1481,-91.8306,Petroleum
+Moberly,Moberly,Randolph,Missouri,53,39.4244,-92.4837,Petroleum
+Moreau,Moreau,Cole,Missouri,53,38.555713,-92.102316,Petroleum
+Pebbly Beach Generating Station,Avalon,Los Angeles,California,11.7,33.333056,-118.310278,Petroleum
+Rock Lake CT,Pine City,Pine,Minnesota,22.1,45.805443,-92.97176,Petroleum
+West Station (NJ),Vineland,Cumberland,New Jersey,22.9,39.4912,-75.0486,Petroleum
+Jarvis Street,Sitka,Sitka,Alaska,25.1,57.0497,-135.3128,Petroleum
+St Bonifacius,St. Bonifacius,Carver,Minnesota,60.1,44.905026,-93.820761,Petroleum
+Hugoton 2,Hugoton,Stevens,Kansas,16.8,37.16424,-101.340133,Petroleum
+Lake (WY),Yellowstone,Teton,Wyoming,2.7,44.415,-110.5739,Petroleum
+Solon Diesel,Solon Springs,Douglas,Wisconsin,6.4,46.358956,-91.823631,Petroleum
+St George Red Rock,St George,Washington,Utah,14,37.113736,-113.568944,Petroleum
+Centennial,Metlakatla,Prince of Wales Ketchikan,Alaska,3.3,55.121433,-131.560267,Petroleum
+Gladstone,Gladstone,Delta,Michigan,17,45.8475,-87.0036,Petroleum
+Puna,Keaau,Hawaii,Hawaii,34,19.6316,-155.0313,Petroleum
+Wading River,Shoreham,Suffolk,New York,240.6,40.956932,-72.877411,Petroleum
+Lime Creek,Mason City,Cerro Gordo,Iowa,70,43.2481,-93.205,Petroleum
+Northway,Tok,Southeast Fairbanks,Alaska,0.9,62.9617,-141.9372,Petroleum
+Gwitchyaa Zhee,Fort Yukon,Yukon Koyukuk,Alaska,1.2,66.566287,-145.253052,Petroleum
+Aniak,Aniak,Bethel,Alaska,1.4,61.580678,-159.535643,Petroleum
+Newhalen,Iliamna,Lake and Peninsula,Alaska,1.5,59.899054,-154.698735,Petroleum
+Watertown Power Plant,Watertown,Codington,South Dakota,50,44.901667,-97.108333,Petroleum
+Auke Bay,Juneau,Juneau,Alaska,28.3,58.3875,-134.6446,Petroleum
+Miki Basin,Lanai City,Maui,Hawaii,10.2,20.79,-156.9342,Petroleum
+Florence,Florence,Rutland,Vermont,5.9,43.7089,-73.0631,Petroleum
+Front Street,Chicopee,Hampden,Massachusetts,8.4,42.1483,-72.5911,Petroleum
+Salisbury City of,Salisbury,Chariton,Missouri,5.2,39.4236,-92.8028,Petroleum
+Shelbina Power #1,Shelbina,Shelby,Missouri,4.6,39.694755,-92.047014,Petroleum
+Shelbina Power #2,Shelbina,Shelby,Missouri,6.6,39.694784,-92.04674,Petroleum
+Thorne Bay Plant,Craig,Prince of Wales Ketchikan,Alaska,1,55.68586,-132.52892,Petroleum
+Lakefield Utilities,Lakefield,Jackson,Minnesota,3,43.674186,-95.1706,Petroleum
+Edenton Generators,Edenton,Chowan,North Carolina,2.4,36.028611,-76.571944,Petroleum
+Oxford (KS),Oxford,Sumner,Kansas,4.8,37.2758,-97.1636,Petroleum
+Vernon,Vernon,Los Angeles,California,18,33.9986,-118.2219,Petroleum
+Galena Electric Utility,Galena,Yukon Koyukuk,Alaska,3.9,64.74417,-156.8736,Petroleum
+Church Street Plant,Manassas,Prince William,Virginia,4,38.752347,-77.462918,Petroleum
+Godwin Drive Plant,Manassas,Prince William,Virginia,6,38.74054,-77.508061,Petroleum
+VMEA 1 Credit Gen,Manassas,Prince William,Virginia,12.3,38.74054,-77.508061,Petroleum
+VMEA Peaking Gen,Manassas,Prince William,Virginia,6,38.74054,-77.508061,Petroleum
+Angoon,Angoon,Skagway Hoonah Angoon,Alaska,1.5,57.499166,-134.58614,Petroleum
+Hoonah,Hoonah,Skagway Hoonah Angoon,Alaska,2,58.106432,-135.43074,Petroleum
+Kake,Kake,Wrangell Petersburg,Alaska,3.1,56.962983,-133.922557,Petroleum
+Madison Utilities,Madison,Madison,Nebraska,4.6,41.829754,-97.456275,Petroleum
+Marceline,Marceline,Linn,Missouri,8,39.716944,-92.945833,Petroleum
+North Road Peak,Oangeburg,Orangeburg,South Carolina,13,33.5452,-80.9109,Petroleum
+City Light & Water,Blue Hill,Webster,Nebraska,1.3,40.327952,-98.450252,Petroleum
+NSB Atqasuk Utility,Atqasuk,North Slope,Alaska,3.2,70.4826,-157.4252,Petroleum
+NSB Kaktovik Utility,Kaktovik,North Slope,Alaska,2.6,70.125617,-143.619033,Petroleum
+NSB Point Hope Utility,Pt Hope,North Slope,Alaska,3.1,68.348424,-166.737211,Petroleum
+NSB Point Lay Utility,PT Lay,North Slope,Alaska,2.4,69.740833,-163.005833,Petroleum
+NSB Anaktuvuk Pass,Anaktuvuk Pass,North Slope,Alaska,2.7,68.13795,-151.741017,Petroleum
+NSB Wainwright Utility,Wainwright,North Slope,Alaska,3,70.642877,-160.020461,Petroleum
+King Cove,King Cove,Aleutians East,Alaska,1.6,55.061683,-162.3103,Petroleum
+Croswell,Croswell,Sanilac,Michigan,5.1,43.271944,-82.613889,Petroleum
+Dutch Harbor,Dutch Harbor,Aleutians West,Alaska,18.4,53.892459,-166.538185,Petroleum
+Unalaska Power Module,Unalaska,Aleutians West,Alaska,0.8,53.863993,-166.512591,Petroleum
+Fergus Control Ctr,Fergus Falls,Otter Tail,Minnesota,2,46.280657,-96.070449,Petroleum
+State Farm,Bloomington,McLean,Illinois,5.1,40.4535,-88.9605,Petroleum
+Panora,Panora,GUTHRIE,Iowa,4.5,41.694673,-94.367571,Petroleum
+Prospect Municipal,Prospect,Marion,Ohio,1.8,40.4411,-83.1883,Petroleum
+Meridian,Meridian,Lauderdale,Mississippi,9,32.55078,-88.60669,Petroleum
+Nymans Plant Microgrid,Kodiak,Kodiak Island,Alaska,9.8,57.731608,-152.507044,Petroleum
+South Plant,Waverly,Bremer,Iowa,11.4,42.7317,-92.4711,Petroleum
+Erie Energy Center,Erie,Neosho,Kansas,20,37.574167,-95.237222,Petroleum
+Bloomington Power Plant,Bloomington,Washington,Utah,9,37.041997,-113.626736,Petroleum
+Cleveland Peaking,Cleveland,Cuyahoga,Ohio,10.8,41.556714,-81.588233,Petroleum
+Versailles Peaking,Versailles,Darke,Ohio,5.4,40.2247,-84.4769,Petroleum
+Napoleon Peaking,Napoleon,Henry,Ohio,5.4,41.4079,-84.1095,Petroleum
+Dover Peaking,Dover,Tuscarawas,Ohio,10.8,40.5416,-81.4985,Petroleum
+Orrville Peaking,Orrville,Wayne,Ohio,5.4,40.86,-81.7586,Petroleum
+Bryan Peaking,Bryan,Williams,Ohio,10.8,41.4609,-84.527,Petroleum
+Jackson Cntr Peaking,Jackson Center,Shelby,Ohio,1.8,40.4597,-84.0401,Petroleum
+Arcanum Peaking,Arcanum,Darke,Ohio,1.8,39.9867,-84.5513,Petroleum
+Montpelier,Montpelier,Williams,Ohio,10.8,41.5855,-84.5794,Petroleum
+Dominion/Lo Mar,Manassas,Prince William,Virginia,15.8,38.7443,-77.4974,Petroleum
+Gateway Gen,Manassas,Prince William,Virginia,3.4,38.725278,-77.509722,Petroleum
+Argyle,Argyle,Lafayette,Wisconsin,2,42.7019,-89.8697,Petroleum
+Webb Forging,Carlisle,Union,South Carolina,4.8,34.5567,-81.4919,Petroleum
+Shelby North,Shelby,Richland,Ohio,1.8,40.8969,-82.6625,Petroleum
+Shelby South,Shelby,Richland,Ohio,1.8,40.908889,-82.653333,Petroleum
+Beaver Island,Beaver Island,Charlevoix,Michigan,2.8,45.7291,-85.5244,Petroleum
+Valdez Cogen,Valdez,Valdez Cordova,Alaska,5.1,61.0839,-146.2529,Petroleum
+Coon Rapids II,Coon Rapids,Carroll,Iowa,5.1,41.871043,-94.680777,Petroleum
+Knoxville Industrial,Knoxville,Marion,Iowa,16,41.315962,-93.060973,Petroleum
+Shenandoah,Shenandoah,Page,Iowa,20,40.77069,-95.37683,Petroleum
+Waterloo Lundquist,Waterloo,Black Hawk,Iowa,18,42.506156,-92.34558,Petroleum
+West Receiving,Denison,Crawford,Iowa,1.8,42.021667,-95.363333,Petroleum
+Avenue A Generator Sets,Rock Falls,Whiteside,Illinois,3.6,41.780735,-89.689416,Petroleum
+North,Greenfield,Adair,Iowa,8,41.3164,-94.455,Petroleum
+Gilliam South,Stuart,Adair,Iowa,4,41.496111,-94.327222,Petroleum
+Shelbina Power #3,Shelbina,Shelby,Missouri,3.6,39.69755,-92.053456,Petroleum
+Earlville,Earlville,Delaware,Iowa,1.8,42.4942,-91.2725,Petroleum
+Edgerton,Edgerton,Williams,Ohio,3.6,41.449992,-84.767208,Petroleum
+Wellington,Wellington,Lorain,Ohio,1,41.163069,-82.227208,Petroleum
+Powell Valley,Kyles Ford,Hancock,Tennessee,19.8,36.5748,-83.0321,Petroleum
+Dakota Magic,Hankinson,Richland,North Dakota,1.5,45.938611,-96.835833,Petroleum
+New Knoxville,New Knoxville,Auglaize,Ohio,1,40.499364,-84.309201,Petroleum
+Galion,Galion,Crawford,Ohio,5.4,40.7303,-82.7939,Petroleum
+Seville,Seville,Medina,Ohio,5.4,41.0317,-81.8714,Petroleum
+Traer South,Traer,Tama,Iowa,1.8,42.1925,-92.4747,Petroleum
+Maquoketa 2,Maquoketa,Jackson,Iowa,5.1,42.07,-90.66,Petroleum
+Brooklyn City North Plant,Brooklyn,Poweshiek,Iowa,1.8,41.7394,-92.4394,Petroleum
+Albertville,Albertville,Marshall,Alabama,3.6,34.363389,-86.223889,Petroleum
+South Strawberry,Strawberry Point,Clayton,Iowa,3.6,42.7114,-91.5469,Petroleum
+Industrial Park,Rock Falls,Whiteside,Illinois,13.4,41.768199,-89.674385,Petroleum
+Trenton South,Trenton,Grundy,Missouri,13.2,40.067218,-93.604363,Petroleum
+Ponton Diesel Generating Facility,Amelia,Amelia,Virginia,4,37.2953,-77.9862,Petroleum
+Nottoway Diesel Generating Facility,Courtland,Southampton,Virginia,4,36.697222,-77.105,Petroleum
+Field Street,New Smyrna Beach,Volusia,Florida,44,29.0213,-80.9949,Petroleum
+Sediver,York,York,South Carolina,2.4,34.965278,-81.1872,Petroleum
+Pella Peaking,Pella,Marion,Iowa,25.2,41.4106,-92.9378,Petroleum
+Sharpe,Waverly,Coffey,Kansas,20,38.275,-95.6839,Petroleum
+Mulvane 2,Mulvane,Sedgwick,Kansas,8.6,37.4908,-97.2216,Petroleum
+Granite Falls 2,Granite Falls,Yellow Medicine,Minnesota,6,44.8047,-95.557,Petroleum
+South Generation,Redwood Falls,Redwood,Minnesota,6.2,44.5331,-95.1122,Petroleum
+Altamont,Altamont,Effingham,Illinois,7.2,39.068747,-88.755547000000007,Petroleum
+Airport Industrial,Pueblo,Pueblo,Colorado,10,38.2844,-104.5308,Petroleum
+Winston,Lakeland,Polk,Florida,50,28.0274,-82.0164,Petroleum
+Newington,Newington,Rockingham,New Hampshire,400.2,43.1,-70.790833,Petroleum
+Holtsville,Holtsville,Suffolk,New York,532.3,40.817037,-73.066265,Petroleum
+Croydon CT Generating Station,Bristol Twp.,Bucks,Pennsylvania,391,40.08,-74.8917,Petroleum
+Winter,Winter,Sawyer,Wisconsin,5.6,45.836675,-90.97352,Petroleum
+Factory,Springfield,Sangamon,Illinois,18,39.825934,-89.637282,Petroleum
+Portage,South Range,Houghton,Michigan,17.4,47.0808,-88.6472,Petroleum
+Baldwin City Plant No 2,Baldwin City,Douglas,Kansas,6,38.764905,-95.192006,Petroleum
+Keahole,Kailua Kona,Hawaii,Hawaii,79,19.7317,-156.0283,Petroleum
+Springfield (CO),Springfield,Baca,Colorado,2.7,37.4028,-102.6217,Petroleum
+Halstad,Halstad,Norman,Minnesota,3.8,47.350064,-96.831911,Petroleum
+Tipton,Tipton,Cedar,Iowa,6,41.7717,-91.1321,Petroleum
+Hopkinton,Hopkinton,Delaware,Iowa,3.8,42.343542,-91.2471,Petroleum
+Cherry Street,Hudson,Middlesex,Massachusetts,14.6,42.388611,-71.56,Petroleum
+General Electric Diesel Engine Plant,Grove City,Mercer,Pennsylvania,4.3,41.1694,-80.1055,Petroleum
+Tesoro Hawaii,Kapolei,Honolulu,Hawaii,20,21.303229,-158.091438,Petroleum
+Seadrift Coke LP,Port Lavaca,Calhoun,Texas,7.6,28.513929,-96.794154,Petroleum
+Childrens Hospital,San Diego,San Diego,California,6.5,32.7992,-117.1517,Petroleum
+M Street Jet,Boston,Suffolk,Massachusetts,50,42.339387,-71.031407,Petroleum
+Hawaii Cogen,Kapolei,Honolulu,Hawaii,6.4,21.311667,-158.113889,Petroleum
+Central Plant,Greenville,GREENVILLE,South Carolina,4.1,34.871811,-82.366035,Petroleum
+Savannah River Mill,Rincon,Effingham,Georgia,83.8,32.331274,-81.201496,Petroleum
+Anderson Power Products Division,Sterling,Worcester,Massachusetts,1,42.471389,-71.743333,Petroleum
+Georgia-Pacific Port Hudson,Zachary,East Baton Rouge,Louisiana,60,30.6547,-91.28,Petroleum
+Deer Island Treatment Plant,Winthrop,Suffolk,Massachusetts,44,42.353333,-70.962778,Petroleum
+University of Northern Iowa,Cedar Falls,Black Hawk,Iowa,7.5,42.513608,-92.459122,Petroleum
+Valero Refinery Corpus Christi West,Corpus Christi,Nueces,Texas,53.2,27.8175,-97.4814,Petroleum
+Bucksport Generation LLC,Bucksport,Hancock,Maine,178,44.5738,-68.8046,Petroleum
+Oakwood Hospital & Medical Center,Dearborn,Wayne,Michigan,4.5,42.2917,-83.2119,Petroleum
+Alpena Cement Plant,Alpena,Alpena,Michigan,47.2,45.069929,-83.408182,Petroleum
+Phillips 66 Carbon Plant,Rodeo,Contra Costa,California,17,38.018056,-122.2344,Petroleum
+Rosemary Power Station,Roanoke Rapids,Halifax,North Carolina,165,36.4517,-77.6594,Petroleum
+Yellowstone Energy LP,Billings,Yellowstone,Montana,52,45.8117,-108.4278,Petroleum
+Caterpillar,Lafayette,Tippecanoe,Indiana,6.2,40.4175,-86.8447,Petroleum
+William Beaumont Hospital,Royal Oak,Oakland,Michigan,3.8,42.5175,-83.1919,Petroleum
+Toledo Ref Power Recovery Train,Oregon,Lucas,Ohio,6,41.6325,-83.5042,Petroleum
+Marathon Electric,Wausau,Marathon,Wisconsin,1.8,44.9783,-89.6328,Petroleum
+New York Methodist Hospital,Brooklyn,Kings,New York,4.4,40.6679,-73.9787,Petroleum
+Naval Submarine Base Kings Bay,Kings Bay,Camden,Georgia,30,30.7917,-81.5333,Petroleum
+Inforum,Atlanta,Fulton,Georgia,1.3,33.7533,-84.3889,Petroleum
+West Group Data Center,Eagan,Dakota,Minnesota,2.4,44.8256,-93.1139,Petroleum
+Westward Seafoods,Dutch Harbor,Aleutians West,Alaska,6.6,53.858508,-166.55288,Petroleum
+CNN Center,Atlanta,Fulton,Georgia,12.8,33.759167,-84.395,Petroleum
+Fuyao Glass Illinois Inc.,Decatur,Macon,Illinois,4.7,39.77896,-88.901629,Petroleum
+"Shelby, NC",Shelby,Cleveland,North Carolina,2.8,35.3264,-81.6292,Petroleum
+Works 4,Wichita Falls,Wichita,Texas,4.9,34.003489,-98.553539,Petroleum
+Capitol Heat and Power,Madison,Dane,Wisconsin,2,43.078512,-89.377261,Petroleum
+Waupun Correctional Central Heating Plt,Waupun,Dodge,Wisconsin,2.3,43.6233,-88.7297,Petroleum
+Dartmouth College Heating Plant,Hanover,Grafton,New Hampshire,7,43.701916,-72.286735,Petroleum
+John Deere Dubuque Works,Dubuque,Dubuque,Iowa,8.4,42.5734,-90.6926,Petroleum
+Unisea G 2,Dutch Harbor,Aleutians West,Alaska,15.5,53.8796,-166.5532,Petroleum
+Hewlett Packard Enterprise,Alpharetta,Fulton,Georgia,7.8,34.0864,-84.2677,Petroleum
+Crotched Mountain Rehabilitation Center,Greenfield,Hillsborough,New Hampshire,2.1,42.971653,-71.87268,Petroleum
+YKK USA Chestney,Macon,Bibb,Georgia,1.3,32.8061,-83.5456,Petroleum
+Bayville Central Facility,Bayville,Ocean,New Jersey,6,39.909424,-74.178041,Petroleum
+Warner Lambert,Ann Arbor,Washtenaw,Michigan,9.4,42.299332,-83.705318,Petroleum
+Kalaeloa Cogen Plant,Kapolei,Honolulu,Hawaii,220,21.302106,-158.096318,Petroleum
+Spartanburg Water System,Chesnee,Spartanburg,South Carolina,3.3,35.1103,-81.9675,Petroleum
+Alliant SBD 9205 A Y McDonald,Dubuque,Dubuque,Iowa,3.6,42.490556,-90.745,Petroleum
+Alliant SBD 9201 Norplex,Postville,Allamakee,Iowa,2.1,43.0906,-91.5542,Petroleum
+Alliant SBD 8501 Aegon LI,Cedar Rapids,Linn,Iowa,3.1,42.02425,-91.70405,Petroleum
+Alliant SBD 9107 JBS USA,Marshalltown,Marshall,Iowa,11.4,42.056,-92.8971,Petroleum
+Alliant SBD 8602 Marion Sub,Marion,Linn,Iowa,5.6,42.0289,-91.5975,Petroleum
+Alliant SBD 9106 Rockwell CR,Cedar Rapids,Linn,Iowa,16,42.0356,-91.6458,Petroleum
+Alliant SBD 9206 Donaldson,Cresco,Howard,Iowa,1.6,43.3744,-92.1331,Petroleum
+Alliant SBD 9203 Profol,Cedar Rapids,Linn,Iowa,5.6,41.935,-91.6361,Petroleum
+Alliant SBD 8601 Quad Graphics,Marengo,Iowa,Iowa,3.6,41.7958,-92.0592,Petroleum
+Hendricks Regional Health,Danville,Hendricks,Indiana,4.3,39.761513,-86.501588,Petroleum
+Freeport McMoRan,Tyrone,Grant,New Mexico,29,32.66176,-108.3628,Petroleum
+Alliant SBD 9301 Prairie Farms,Dubuque,Dubuque,Iowa,3.5,42.53,-90.6847,Petroleum
+Boydton Plank Road Cogen Plant,Petersburg,Dinwiddie,Virginia,10.2,37.193584,-77.467185,Petroleum
+NYU Luthern Medical Center,New York City,Kings,New York,3,40.6467,-74.0211,Petroleum
+Plymouth State College Cogeneration,Plymouth,Grafton,New Hampshire,2.8,43.7644,-71.6881,Petroleum
+University of Washington Power Plant,Seattle,King,Washington,10,47.6539,-122.3036,Petroleum
+Shepherd Center,Atlanta,Fulton,Georgia,1.7,33.8111,-84.3928,Petroleum
+Riverwood 100 Building,Atlanta,Cobb,Georgia,1.1,33.8775,-84.4603,Petroleum
+191 Peachtree Tower,Atlanta,Fulton,Georgia,2.4,33.7583,-84.3869,Petroleum
+Smithfield Farmland Corp Bladen,Tar Heel,Bladen,North Carolina,28.5,34.74625,-78.807292,Petroleum
+Emory Decatur Hospital,Decatur,DeKalb,Georgia,3.6,33.7919,-84.2831,Petroleum
+Fort Greely Power Plant,Delta Jct,Southeast Fairbanks,Alaska,7.4,63.973572,-145.716581,Petroleum
+Evonik Industries AG,Lafayette,Tippecanoe,Indiana,1.2,40.387242,-86.939136,Petroleum
+Valdosta Water Treatment Plant,Valdosta,Lowndes,Georgia,3.4,30.9136,-83.2529,Petroleum
+Sun Trust Plaza,Atlanta,Fulton,Georgia,2,33.7625,-84.387200000000007,Petroleum
+South Georgia Medical Center,Valdosta,Lowndes,Georgia,5.5,30.8625,-83.2894,Petroleum
+Southwestern Bell Telephone,St. Louis,St Louis City,Missouri,17.2,38.627566,-90.193377,Petroleum
+Bassett Medical Center,Cooperstown,Otsego,New York,5.6,42.6944,-74.9242,Petroleum
+Atlanta Gift Mart LP,Atlanta,Fulton,Georgia,1.2,33.7611,-84.3892,Petroleum
+CenturyLink Regional HQ,Wake Forest,Franklin,North Carolina,0.6,36.0205,-78.516,Petroleum
+Presence Saint Mary of Nazareth Hospital,Chicago,Cook,Illinois,2.6,41.9031,-87.6831,Petroleum
+DSM Pharmaceuticals,Greenville,Pitt,North Carolina,5.2,35.665961,-77.35744,Petroleum
+Georgia Pacific Center,Atlanta,Fulton,Georgia,1.4,33.757513,-84.386871,Petroleum
+Alliant SBD 9403 Aegon DC,Cedar Rapids,Linn,Iowa,4.1,41.9167,-91.6542,Petroleum
+Alliant SBD 9302 Aegon NP,Cedar Rapids,Linn,Iowa,1.2,42.0264,-91.7042,Petroleum
+Alliant SBD 9502 Eaton,Belmond,Wright,Iowa,5.4,42.83815,-93.60325,Petroleum
+Crestwood Dothan,Dothan,Houston,Alabama,9,31.262356,-85.402737,Petroleum
+Murphy-Brown LLC,Warsaw,Duplin,North Carolina,2.4,34.9944,-78.1583,Petroleum
+MPEA Energy Center,Chicago,Cook,Illinois,6,41.852709,-87.61851,Petroleum
+Thomson Reuters Campus Bldg A-D,Eagan,Dakota,Minnesota,11.2,44.8196,-93.1156,Petroleum
+Bank of America Plaza,Atlanta,Fulton,Georgia,2.6,33.7708,-84.3861,Petroleum
+State Farm Support Center East,Alpharetta,Fulton,Georgia,10.8,34.086,-84.245,Petroleum
+Athens Regional Medical Center,Athens,Clarke,Georgia,4.6,33.9625,-83.3981,Petroleum
+Hamakua Energy Plant,Honokaa,Hawaii,Hawaii,60.8,20.0939,-155.4711,Petroleum
+Commonwealth Chesapeake,New Church,Accomack,Virginia,320.9,37.9892,-75.54,Petroleum
+State Farm Insur Support Center Central,Irving,Dallas,Texas,10.8,32.9192,-96.9894,Petroleum
+Water Filter Plant #2,Morganton,Burke,North Carolina,1.7,35.737748,-81.7278,Petroleum
+Shoreham Energy LLC,Shoreham,Suffolk,New York,85,40.957053,-72.865877,Petroleum
+MNDOT Standby Generation,St. Paul,Ramsey,Minnesota,1.9,44.953014,-93.105692,Petroleum
+McMinnville,McMinnville,Warren,Tennessee,19.8,35.705,-85.7439,Petroleum
+Pretlow,Franklin,Southampton,Virginia,3.2,36.659167,-76.926667,Petroleum
+Downtown,Franklin,Southampton,Virginia,3.2,36.680278,-76.921944,Petroleum
+Hawkeye Energy Greenport LLC,Greenport,Suffolk,New York,53.5,41.10603,-72.376155,Petroleum
+Stillwater Water Treatment Plant,Stillwater,Payne,Oklahoma,2,36.2039,-97.0739,Petroleum
+Alliant SBD0201 Ingredion,Cedar Rapids,Linn,Iowa,6.1,41.97007,-91.66623,Petroleum
+Danbury Diesel,Danbury,Burnett,Wisconsin,5,46.002834,-92.371377,Petroleum
+Mount Clinton,Harrisonburg,Rockingham,Virginia,19,38.4681,-78.865,Petroleum
+Pleasant Valley (VA),Harrisonburg,Rockingham,Virginia,13,38.4006,-78.8983,Petroleum
+Walton Bainbridge Power Facility,Bainbridge,Decatur,Georgia,74,30.910985,-84.547304,Petroleum
+Waste Water Plant Generator,Winfield,Cowley,Kansas,1.6,37.227778,-96.989722,Petroleum
+Traer East,Tracer,Tama,Iowa,4,42.1817,-92.4663,Petroleum
+Smithfield Packaged Meats Corp.,Wilson,WILSON,North Carolina,2.6,35.694344,-77.91919,Petroleum
+Casey City of,Casey,Clark,Illinois,5.4,39.310555,-87.992592,Petroleum
+Hana Substation,Hana,Maui,Hawaii,2,20.765833,-155.996111,Petroleum
+"High Point, Fairfield",High Point,Guilford,North Carolina,1.8,35.924393,-79.990124,Petroleum
+"Statesville, Highway 64",Statesville,Iredell,North Carolina,1.8,35.798462,-80.942709,Petroleum
+"Shelby, Toms Street",Shelby,Cleveland,North Carolina,1.8,35.3036,-81.5225,Petroleum
+"Morganton, Parker Road",Morganton,Burke,North Carolina,1.8,35.7208,-81.66243,Petroleum
+Lexington Health Center,Lexington,Davidson,North Carolina,1.8,35.830877,-80.242154,Petroleum
+Diesel Generators,Madison,Dane,Wisconsin,49.1,43.0802,-89.3747,Petroleum
+Alliant SBD 9901 Wells Fargo,Cedar Rapids,Linn,Iowa,1.1,41.9244,-91.63852,Petroleum
+Hillsboro,Hillsboro,Traill,North Dakota,4,47.396944,-97.060555,Petroleum
+St. Charles Power Plant,St. Charles,Winona,Minnesota,8,43.9742,-92.0597,Petroleum
+IMEA Highland,Highland,Madison,Illinois,3.6,38.7417,-89.6847,Petroleum
+IMEA Flora,Flora,Clay,Illinois,9,38.6658,-88.4625,Petroleum
+Flora Site A,Flora,Clay,Illinois,5.4,38.6693,-88.4635,Petroleum
+Flora Site B,Flora,Clay,Illinois,3.6,38.6714,-88.4894,Petroleum
+Sub 2 Generating Station,Macon,Macon,Missouri,3.6,39.7503,-92.5,Petroleum
+Sub 3 Generating Station,Macon,Macon,Missouri,7.2,39.761389,-92.453333,Petroleum
+Thermal Kem,Rock Hill,York,South Carolina,2.4,34.8894,-81.0725,Petroleum
+Valenite,Westminster,Oconee,South Carolina,2.4,34.65724,-83.03832,Petroleum
+Honea Path,Honea Path,Abbeville,South Carolina,2.4,34.44128,-82.3652,Petroleum
+Anderson Erickson,Des Moines,Polk,Iowa,2,41.6014,-93.5765,Petroleum
+Jamaica Bay Peaking,Far Rockaway,Queens,New York,53.9,40.6097,-73.762200000000007,Petroleum
+False Island,Thorne Bay,Prince of Wales Ketchikan,Alaska,1.3,55.48918,-133.1345,Petroleum
+Viking,Craig,Prince of Wales Ketchikan,Alaska,1,55.540708,-133.102344,Petroleum
+Ft. Pierre,Fort Pierre,Stanley,South Dakota,6,44.368056,-100.380833,Petroleum
+Genoa Diesel Generating Station,Genoa,Ottawa,Ohio,6,41.5092,-83.3606,Petroleum
+"Waterside Power, LLC",Stamford,Fairfield,Connecticut,69.9,41.0372,-73.5564,Petroleum
+Dike City Power Plant,Dike,Grundy,Iowa,2,42.4622,-92.6264,Petroleum
+Emory Hillandale Hospital,Lithonia,DeKalb,Georgia,1.4,33.7036,-84.1494,Petroleum
+Kindred School,Kindred,Cass,North Dakota,2,46.64974,-97.00953,Petroleum
+State Auto Insurance,Milbank,Grant,South Dakota,1.7,45.220717,-96.616781,Petroleum
+Stevens Community Medical Center,Morris,Stevens,Minnesota,1,45.585,-95.9042,Petroleum
+West Group Data Center F,Eagan,Dakota,Minnesota,2.4,44.8283,-93.1167,Petroleum
+"High Point, Pump Station Rd",High Point,Guilford,North Carolina,3.6,35.9861,-79.949700000000007,Petroleum
+Lexington,Lexington,Davidson,North Carolina,3.6,35.7736,-80.2594,Petroleum
+"Gastonia, Tulip Drive",Gastonia,Gaston,North Carolina,5.4,35.28914,-81.205219,Petroleum
+Albemarle Prime Power Park,New London,Stanly,North Carolina,3.6,35.407208,-80.151849,Petroleum
+WPPI Hartford DG,Hartford,Washington,Wisconsin,1.1,43.3358,-88.4097,Petroleum
+IBM West,Rochester,Olmsted,Minnesota,3.6,44.0587,-92.5119,Petroleum
+Valley Queen Cheese,Milbank,Grant,South Dakota,1.5,45.221111,-96.637222,Petroleum
+Salem Water Plant,Salem,Salem City,Virginia,2,37.2875,-80.0771,Petroleum
+Salem Street Dept,Salem,Salem City,Virginia,2,37.2794,-80.0447,Petroleum
+Delta Power,Delta Junction,Southeast Fairbanks,Alaska,23.1,64.028056,-145.719444,Petroleum
+Albemarle Hospital Unit,Albemarle,Stanly,North Carolina,1.8,35.3636,-80.1939,Petroleum
+Cherryville City Hall,Cherryville,Gaston,North Carolina,1.8,35.3778,-81.38,Petroleum
+Lincolnton High School,Lincolnton,Lincoln,North Carolina,1.8,35.477415,-81.262259,Petroleum
+Maiden Community Center,Maiden,Catawba,North Carolina,1.8,35.5772,-81.2081,Petroleum
+Monroe Middle School,Monroe,Union,North Carolina,1.8,34.973274,-80.540038,Petroleum
+Morganton Station 5,Morganton,Burke,North Carolina,1.8,35.729,-81.748075,Petroleum
+Pineville Delivery 2,Pineville,Mecklenburg,North Carolina,1.8,35.0767,-80.8816,Petroleum
+Laverne Diesel Generating Plant,Laverne,Harper,Oklahoma,4,36.7106,-99.8906,Petroleum
+Danville New Design Plant,Danville,Danville City,Virginia,1.2,36.6308,-79.3894,Petroleum
+Danville Kentuck Road Plant,Ringgold,Pittsylvania,Virginia,1.2,36.6533,-79.2906,Petroleum
+Danville Westover Plant,Danville,Danville City,Virginia,1.2,36.6114,-79.4631,Petroleum
+Electric Avenue Facility,Culpeper,Culpeper,Virginia,6.9,38.28,-77.59,Petroleum
+Water Treatment Plant Generators,Gainesville,Prince William,Virginia,1.7,38.760695,-77.62089,Petroleum
+Renick Run Pumping Station 03-04,Columbus,Franklin,Ohio,2.2,39.9294,-83.012,Petroleum
+PS ST-8 Engine No 1,Columbus,Franklin,Ohio,1.8,39.961419,-83.049072,Petroleum
+ST-1/1A Engine No 1,Columbus,Franklin,Ohio,1.1,39.95,-83.015833,Petroleum
+Dodge Park Engine No 1,Columbus,Franklin,Ohio,1.8,39.952367,-83.014425,Petroleum
+West Diesel Generation Unit,Pocahontas,Pocahontas,Iowa,3.8,42.730291,-94.664394,Petroleum
+Salem Electric Department,Salem,Salem City,Virginia,1.3,37.2894,-80.07,Petroleum
+Seneca City of,Seneca,Oconee,South Carolina,9,34.6875,-82.9525,Petroleum
+Cornelius Delivery No 1,Cornelius,Mecklenburg,North Carolina,2,35.483274,-80.856916,Petroleum
+Bostic Delivery No 2,Bostic,Rutherford,North Carolina,1,35.3619,-81.8344,Petroleum
+Drexel Operations Center,Drexel,Burke,North Carolina,2,35.7481,-81.6072,Petroleum
+Granite Falls Walmart,Granite Falls,Caldwell,North Carolina,2,35.7811,-81.3928,Petroleum
+Huntersville Delivery No 2,Huntersville,Mecklenburg,North Carolina,2,35.383222,-80.832879,Petroleum
+Landis Delivery No 2,Landis,Rowan,North Carolina,2,35.541982,-80.612301,Petroleum
+Statesville Delivery No 3,Statesville,Iredell,North Carolina,2,35.7972,-80.8542,Petroleum
+Catawba River Pollution Control,Morganton,Burke,North Carolina,1.1,35.7766,-81.6643,Petroleum
+Elm Street Substation Generators,Farmington,St Francois,Missouri,3.9,37.7814,-90.4156,Petroleum
+Walton Street Substation,Farmington,St Francois,Missouri,1.3,37.7881,-90.4336,Petroleum
+Overall Road Station,Farmington,St Francois,Missouri,5.2,37.7608,-90.4526,Petroleum
+Rockville 1 & 2,Rockville,Goochland,Virginia,10.8,37.7036,-77.6639,Petroleum
+IRC Generator Facility,Fredonia,Coconino,Arizona,3,36.9708,-112.5264,Petroleum
+Biotech LS 0836,Pullman,Whitman,Washington,1,46.7331,-117.1583,Petroleum
+Fairbanks Morse Engine,Beloit,Rock,Wisconsin,1.5,42.51846,-89.0287,Petroleum
+Gastonia Prime Power Park,Dallas,Gaston,North Carolina,11.2,35.3017,-81.2092,Petroleum
+Pacolet Diesel Generation Facility,Pacolet,Spartanburg,South Carolina,5.4,34.8986,-81.7397,Petroleum
+Willmar Municipal East Substation,Willmar,Kandiyohi,Minnesota,6,45.1272,-95.025,Petroleum
+Willmar Municipal SW Substation,Willmar,Kandiyohi,Minnesota,6,45.105,-95.0844,Petroleum
+Noatak,Noatak,Northwest Arctic,Alaska,1.3,67.570931,-162.965728,Petroleum
+Savoonga,Savoonga,Nome,Alaska,1.7,63.695267,-170.475661,Petroleum
+Alakanuk,Alakanuk,Wade Hampton,Alaska,0.8,62.6833,-164.6544,Petroleum
+Upper Kalskag,Upper Kalskag,Bethel,Alaska,1.1,61.526858,-160.348128,Petroleum
+Stebbins,Stebbins,Nome,Alaska,2,63.521047,-162.286322,Petroleum
+Scammon Bay,Scammon Bay,Wade Hampton,Alaska,1.3,61.843036,-165.581497,Petroleum
+Quinhagak,Quinhagak,Bethel,Alaska,1.2,59.747436,-161.910647,Petroleum
+Pilot Station,Pilot Station,Wade Hampton,Alaska,1.3,61.936456,-162.880706,Petroleum
+Koyuk,Koyuk,Nome,Alaska,1.1,64.932089,-161.167103,Petroleum
+Elim,Elim,Nome,Alaska,1.1,64.616558,-162.263717,Petroleum
+St. Michael,St. Michael,Nome,Alaska,0.7,63.4775,-162.0383,Petroleum
+Gambell,Gambell,Nome,Alaska,1.6,63.777058,-171.712439,Petroleum
+Shungnak,Shungnak,Northwest Arctic,Alaska,1.2,66.888114,-157.140206,Petroleum
+Kotlik,Kotlik,Wade Hampton,Alaska,1.6,63.03215,-163.553106,Petroleum
+Kivalina,Kivalina,Northwest Arctic,Alaska,1.1,67.726644,-164.538447,Petroleum
+Kasigluk,Kasigluk,Bethel,Alaska,2,60.8731,-162.5197,Petroleum
+Toksook Bay,Toksook Bay,Bethel,Alaska,2.1,60.530142,-165.108575,Petroleum
+GenConn Middletown LLC,Middletown,Middlesex,Connecticut,194,41.554444,-72.576666,Petroleum
+GenConn Devon LLC,Milford,New Haven,Connecticut,196,41.2108,-73.1075,Petroleum
+"High Point, POLO",High Point,Guilford,North Carolina,1.8,35.97,-79.96,Petroleum
+Thomson Reuters Data Center Bldg ES101,Eagan,Dakota,Minnesota,0.6,44.8244,-93.1139,Petroleum
+Thomson Reuters Data Center Bldg H,Eagan,Dakota,Minnesota,2.4,44.8289,-93.1167,Petroleum
+Carleton College,Northfield,Rice,Minnesota,4.6,44.461908,-93.156387,Petroleum
+TSGT Mobile Generator #15,Dulce,Rio Arriba,New Mexico,2,36.934,-106.9865,Petroleum
+Cana Gas Processing Plant,Calumet,Canadian,Oklahoma,7.5,35.5331,-98.1011,Petroleum
+Bridge Street 1 & 2,Groton,New London,Connecticut,5,41.362778,-72.0825,Petroleum
+"Fort Hill 1, 2, 3 & 4",Uncasville,New London,Connecticut,10,41.4711,-72.1022,Petroleum
+Fishers Island 1,Fisher's Island,Suffolk,New York,2.5,41.268611,-72.01,Petroleum
+Gary Court 1 & 2,Groton,New London,Connecticut,5,41.3367,-72.02,Petroleum
+Jewett City 1,Jewett City,New London,Connecticut,2.5,41.6041,-71.9825,Petroleum
+LNG 1 & 2,Norwich,New London,Connecticut,5,41.5694,-72.1175,Petroleum
+Lebanon Pines 1 & 2,Lebanon,New London,Connecticut,5,41.5683,-72.2322,Petroleum
+Water Treatment 1 & 2,Groton,New London,Connecticut,5,41.3469,-72.0411,Petroleum
+Eastside WWTP,High Point,Guilford,North Carolina,5.4,35.9428,-79.9089,Petroleum
+Ward WTP,High Point,Guilford,North Carolina,2,35.9678,-79.9708,Petroleum
+Westside WWTP,Thomasville,Davidson,North Carolina,1.8,35.9403,-80.1106,Petroleum
+Norwich WWTP,Norwich,New London,Connecticut,2,41.5256,-72.0833,Petroleum
+Gaston Memorial Hospital,Gastonia,Gaston,North Carolina,1.8,35.2747,-81.1383,Petroleum
+Long Creek Waste Water Plant,Dallas,Gaston,North Carolina,5.1,35.3119,-81.1414,Petroleum
+Norden 1-3,Norwalk,Fairfield,Connecticut,6,41.1117,-73.3928,Petroleum
+City West Diesel Plant,Union,Union,South Carolina,7.2,34.7225,-81.646944,Petroleum
+Centennial Generating Station,Moorhead,Clay,Minnesota,10,46.8661,-96.7464,Petroleum
+East Campus Utility Plant,Cincinnati,Hamilton,Ohio,3.2,39.137935,-84.504948,Petroleum
+Lilly Technical Center,Indianapolis,Marion,Indiana,6,39.7475,-86.183056,Petroleum
+Works 53,Lexington,Davidson,North Carolina,3,35.755,-80.277778,Petroleum
+PPG Monroeville Chemicals Center,Monroeville,Allegheny,Pennsylvania,1.1,40.442222,-79.731111,Petroleum
+Vitro Architectural Glass (PA),Carlisle,Cumberland,Pennsylvania,5,40.126389,-77.164444,Petroleum
+Vitro Flat Glass LLC,Fresno,Fresno,California,2.6,36.69,-119.72,Petroleum
+PRSI FCC Generator,Pasadena,Harris,Texas,3,29.723333,-95.210278,Petroleum
+PRC-Desoto Intl/PPG Aerospace,Mojave,Kern,California,1.5,34.989722,-118.150556,Petroleum
+Quay County,Tucumcari,Quay,New Mexico,17,35.182778,-103.731111,Petroleum
+Williams College - Campus CHP,Williamstown,Berkshire,Massachusetts,4,42.709722,-73.202222,Petroleum
+Mercy Medical Center,Rockville Centre,Nassau,New York,2.6,40.688333,-73.630833,Petroleum
+Seaside Heights Power Plant,Seaside Heights,Ocean,New Jersey,6,39.943333,-74.078611,Petroleum
+Poet Biorefining Lake Crystal,Lake Crystal,Blue Earth,Minnesota,6,44.093333,-94.276667,Petroleum
+NCAH Central Utility Plant,Ames,Story,Iowa,11.9,42.046111,-93.579444,Petroleum
+Smithfield Packaged Meats Corp.,Kinston,Lenoir,North Carolina,9.2,35.268333,-77.659167,Petroleum
+Melrose 2,Melrose,Stearns,Minnesota,0.9,45.676389,-94.801944,Petroleum
+St. Olaf StandBy Generators,Northfield,Rice,Minnesota,3.8,44.461111,-93.180833,Petroleum
+"SC 1 Data Center, Phase 2",Santa Clara,Santa Clara,California,92.7,37.361667,-121.943611,Petroleum
+Portable Generator 2,Ray,Williams,North Dakota,2,48.145,-103.6375,Petroleum
+Portable Generator 3,Ray,Williams,North Dakota,2,48.145,-103.6375,Petroleum
+Wapsie Valley Creamery Back Up Generator,Independence,Buchanan,Iowa,1.1,42.477778,-91.891111,Petroleum
+Backus Microgrid Project,Norwich,New London,Connecticut,10,41.542778,-72.093611,Petroleum
+Monterey Diesel Generation Facility,Monterey,Highland,Virginia,6,38.421389,-79.591389,Petroleum
+Framingham State University Plant,Framingham,Middlesex,Massachusetts,2.4,42.297949,-71.436065,Petroleum
+Industrial Plant,Juneau,Juneau,Alaska,23.5,58.367635,-134.60802,Petroleum
+Mountain Home Energy Center,Mountain Home,Washington,Tennessee,3.6,36.309609,-82.377504,Petroleum
+Belle Haven Diesel Generation Facility,Belle Haven,Accomack,Virginia,4,37.54864,-75.790823,Petroleum
+Perdue Diesel Generation Facility,Accomack,Accomack,Virginia,4,37.741967,-75.655979,Petroleum
+Onancock Diesel Generation Facility,Onancock,Accomack,Virginia,4,37.74542,-75.720487,Petroleum
+Ambler,Ambler,Northwest Arctic,Alaska,1.1,67.08798,-157.856719,Petroleum
+Marshall,Marshall,Wade Hampton,Alaska,1.1,61.878186,-162.085147,Petroleum
+New Stuyahok,New Stuyahok,Dillingham,Alaska,1.4,59.448358,-157.325528,Petroleum
+Swampy Acres Microgrid,Kodiak,Kodiak Island,Alaska,8.4,57.77556,-152.48028,Petroleum
+Brevig Mission,Brevig Mission,Nome,Alaska,1,65.331716,-166.479506,Petroleum
+Osawatomie Power Plant South Sub,Osawatomie,Miami,Kansas,6,38.495623,-94.95255,Petroleum
+Osawatomie Power Plant North Sub,Osawatomie,Miami,Kansas,6,38.501309,-94.956918,Petroleum
+Montefiore - Westchester Square,Bronx,Bronx,New York,1,40.840648,-73.848367,Petroleum
+New York Presbyterian Hospital-168th St,New York,New York,New York,11.9,40.840854,-73.941391,Petroleum
+City of Shelby Electric Distribution,Shelby,Richland,Ohio,1.8,40.896088,-82.66564,Petroleum
+Aguirre Plant,Salinas,Salinas,Puerto Rico,1461.2,17.9492,-66.234,Petroleum
+Central San Juan Plant,San Juan,,Puerto Rico,783.9,18.4271,-66.1045,Petroleum
+Palo Seco Plant,Toa Baja,,Puerto Rico,479.4,18.4559,-66.1484,Petroleum
+Cambalache Plant,Arecibo,Arecibo,Puerto Rico,241.5,18.471,-66.6969,Petroleum
+Mayaguez Plant,Mayaguez,,Puerto Rico,220,18.2186,-67.1592,Petroleum
+Jobos,Guayama,,Puerto Rico,42,17.9602,-66.1398,Petroleum
+Culebra,Culebra,Culebra,Puerto Rico,2.1,18.316713,-65.27956,Petroleum
+Daguao,Ceiba,,Puerto Rico,42,18.2364,-65.6656,Petroleum
+Vega Baja,Vega Baja,,Puerto Rico,42,18.446,-66.391,Petroleum
+Vieques,Vieques,,Puerto Rico,6.4,18.152679,-65.431763,Petroleum
+Yabucoa,Humacao,,Puerto Rico,42,18.047,-65.864,Petroleum
+NY - Presbyt. Hospital - 525 E 68TH St,New York,New York,New York,15.2,40.764396,-73.95393,Petroleum
+Hurricane Creek Lift Station,Greenwood,Johnson,Indiana,2,39.5879,-86.1858,Petroleum
+Northern Westchester Hospital,Mount Kisco,Westchester,New York,4.6,41.196839,-73.725695,Petroleum
+NYC-HH - CONEY ISLAND HOSPITAL,Brooklyn,Kings,New York,2.8,40.58549,-73.965581,Petroleum
+NY Times Daily Production Facility,Flushing,Queens,New York,12,40.775397,-73.830918,Petroleum
+Mount Sinai Hospital,New York,New York,New York,18.7,40.78999,-73.953689,Petroleum
+"CoreSite Real Estate 2972 Stender, L.P.",Santa Clara,Santa Clara,California,12,37.376248,-121.970706,Petroleum
+CoreSite Real Estate 55 S. Market Street,San Jose,Santa Clara,California,8,37.334151,-121.891622,Petroleum
+"CoreSite Real Estate 1656 McCarthy, L.P.",Milpitas,Santa Clara,California,5,37.405727,-121.916248,Petroleum
+"CoreSite Real Estate 2901 Coronado, L.P.",Santa Clara,Santa Clara,California,10,37.375089,-121.971728,Petroleum
+"CoreSite Real Estate 3032 Coronado, L.P.",Santa Clara,Santa Clara,California,30,37.376181,-121.973097,Petroleum
+NYU LANGONE HEALTH,New York,New York,New York,10.5,40.746778,-73.972226,Petroleum
+Good Samaritan Hospital,Suffern,Rockland,New York,1.7,41.111498,-74.135402,Petroleum
+Woodhull Hospital,Brooklyn,Kings,New York,8,40.704774,-73.94186,Petroleum
+The Allen Hospital,New York,New York,New York,1,40.873268,-73.912967,Petroleum
+Mount Sinai Beth Israel,New York,New York,New York,4.8,40.732666,-73.981597,Petroleum
+"Holsum de Puerto Rico, Inc.",San Juan,Toa Baja,Puerto Rico,2.6,18.409197,-66.235059,Petroleum
+Janssen Ortho LLC,Gurabo,Gurabo,Puerto Rico,15.5,18.244494,-65.948302,Petroleum
+Klawock Power Generation Station,Klawock,Prince of Wales Ketchikan,Alaska,2.5,55.553197,-133.08535,Petroleum
+Slana Generating Station	,Slana,Southeast Fairbanks,Alaska,1.2,62.592756,-143.588869,Petroleum
+HIMA San Pablo - Caguas,Caguas,Caguas,Puerto Rico,9,18.21805,-66.03833,Petroleum
+"Princeton Energy Center, LLC",Plainsboro,Middlesex,New Jersey,6,40.339838,-74.62393,Petroleum
+Amana Society Service Company,Middle Amana,Iowa,Iowa,21.6,41.79323,-91.89179,Petroleum
+NRG Chalk Point CT,Aquasco,Prince Georges,Maryland,84.3,38.5444,-76.6861,Petroleum
+The Bank of New York,New York,Kings,New York,7.2,40.659328,-73.933752,Petroleum
+Brooklyn Hospital Center,Brooklyn,Kings,New York,1.5,40.690544,-73.97793,Petroleum
+Saint Catherine of Siena Medical Center,Smithtown,Suffolk,New York,1.8,40.89952,-73.27093,Petroleum
+Kingsbrook Jewish Medical Center,Brooklyn,Kings,New York,1.7,40.659328,-73.933752,Petroleum
+St Johns Riverside Hospital,Yonkers,Westchester,New York,2,40.968929,-73.886589,Petroleum
+4710 Hosting,Rochester,Olmsted,Minnesota,5,44.070814,-92.522265,Petroleum
+Maimonides Medical Center,Brooklyn,Kings,New York,3.9,40.639538,-73.998833,Petroleum
+NYC-HH-New Bellevue Hospital,New York,New York,New York,6,40.739556,-73.976083,Petroleum
+Westchester County Medical Center,Valhalla,Westchester,New York,9.5,41.08921,-73.80443,Petroleum
+NYPH-Queens,Flushing,Queens,New York,4.5,40.75043,-73.82573,Petroleum
+NYP-Lower Manhattan Hospital,New York,New York,New York,1.5,40.710315,-74.004965,Petroleum
+Albert Einstein College of Medicine,Bronx,Bronx,New York,8.4,40.85132,-73.8483,Petroleum
+Cervecera de Puerto Rico,Mayaguez,Mayaguez,Puerto Rico,1.9,18.207153,-67.141643,Petroleum
+NYP-Hudson Valley Hospital Center,Cortlandt Manor,Westchester,New York,2.4,41.286739,-73.888802,Petroleum
+Regeneron Pharmaceuticals Inc.,Tarrytown,Westchester,New York,14,41.07875,-73.82227,Petroleum
+JLL-One Rockwood Road,Sleppy Hollow,Westchester,New York,3,41.109042,-73.862594,Petroleum
+Mount Sinai South Nassau,Oceanside,Nassau,New York,2.9,40.651614,-73.62993,Petroleum
+St. Johns Episcopal Hospital,Far Rockaway,Queens,New York,1.2,40.598688,-73.753461,Petroleum
+St. Joseph Hospital,Yonkers,Westchester,New York,1.1,40.928827,-73.898015,Petroleum
+Mt.Sinai-St.Lukes Roosevelt Hosp. Center,New york,Westchester,New York,6.7,40.928827,-73.898015,Petroleum
+Farmers Electric Cooperative - Kalona,Kalona,Johnson,Iowa,6,41.566688,-91.736663,Petroleum
+Montefiore Mount Vernon Hospital,Mount Vernon,Westchester,New York,1.1,40.902825,-73.868738,Petroleum
+Wolf Creek Generator,Burlington,Coffey,Kansas,1,38.27433,-95.68403,Petroleum
+West Water Street,Taunton,Bristol,Massachusetts,10,41.8809,-71.0927,Petroleum
+MBS Texbook Exchange,COLUMBIA,Boone,Missouri,2,38.95718,-92.3776,Petroleum
+New York Presbyterian-The Allen Hospital,New York,New York,New York,1,40.873278,-73.912866,Petroleum
+Cuyahoga Falls 1,Cuyahoga Falls,Summit,Ohio,9,41.141773,-81.474535,Petroleum
+Epic Verona,Verona,Dane,Wisconsin,41.4,42.996838,-89.568745,Petroleum
+HIMA San Pablo Bayamon,Bayamon,,Puerto Rico,4.5,18.39838,-66.14712,Petroleum
+HIMA San Pablo Fajardo,Fajardo,Fajardo,Puerto Rico,3,18.33643,-65.6547,Petroleum
+HIMA San Pablo Cupey,Cupey,Cupey,Puerto Rico,1.2,18.372652,-66.046486,Petroleum
+HIMA San Pablo Humacao,Humacao,Humacao,Puerto Rico,1.6,18.150795,-65.82669,Petroleum
+Hannibal - Oakwood Substation,Hannibal,Marion,Missouri,14.4,39.679842,-91.3988,Petroleum
+Hannibal - Water Treatment Plant,Hannibal,Marion,Missouri,1.8,39.723032,-91.374428,Petroleum
+Hannibal - Wastewater Treatment Plant,Hannibal,Marion,Missouri,1.8,39.699516,-91.37138,Petroleum
+Orange Street G1,Bedford,Bedford,Virginia,1.8,37.33206,-79.51109,Petroleum
+VPPSA Project 10,Swanton,Franklin,Vermont,47.7,44.916666,-73.1,Petroleum
+Progress Drive Generation Station,,,Ohio,3.6,40.53,-82.4,Petroleum
+ECP Uptown Campus,,,Pennsylvania,4.3,40.43727,-79.98741,Petroleum
