@@ -7,11 +7,19 @@ library(RColorBrewer)
 library(shinybusy)
 library(ggrepel)
 library(leaflet)
-
-##Team Contributions
-## Lorraine was responsible for Energy Consumption Section
-## Zac was responsible for the CO2 Emission Section
-##Graham was responsible for the Energy Production Section
+library(readxl)
+library(robotstxt)
+library(rvest)
+library(knitr)
+library(pdftools)
+library(janitor)
+library(viridis)
+library(ggnetwork)
+library(igraph)
+library(datasets)
+library(mdsr)
+library(gapminder)
+library(maps)
 
 
 ##getting our data into Shiny App
@@ -49,7 +57,7 @@ names(US_line_var_values) <- US_line_var_names
 
 
 
-#For Choropleths
+#####For Choropleths
 state_co2 <- read_csv("state_co2_adjusted")
 stateCO2_perCapita <- read_csv("stateCO2_perCapita")
 
@@ -77,7 +85,95 @@ perCapita_co2_map <- stateCO2_perCapita %>%
   right_join(usa_states, by = c("State" = "region")) %>%
   rename(Y1990 = "1990", Y2018 = "2018") 
 
+#for geothermal
+geothermal_adjusted2 <- geothermal_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
 
+geo_map <- geothermal_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+
+#for hydro
+hydroelectric_adjusted2 <- hydroelectric_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+hydro_map <- hydroelectric_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+#for natural gas
+natural_gas_adjusted2 <- natural_gas_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+ng_map <- natural_gas_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+#for coal
+coal_adjusted2 <- coal_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+coal_map <- coal_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+#for nuclear
+nuclear_adjusted2 <- nuclear_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+nuclear_map <- nuclear_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+#for petroleum
+petroleum_adjusted2 <- petroleum_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+petroleum_map <- petroleum_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+#for solar
+solar_adjusted2 <- solar_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+solar_map <- solar_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
+
+
+#for wind
+wind_adjusted2 <- wind_adjusted %>%
+  group_by(State) %>%
+  summarize(Energy_Produced = sum(Energy_Produced)) %>%
+  rename(state = State) %>%
+  mutate(State = tolower(state))
+
+wind_map <- wind_adjusted2 %>%
+  left_join(state_info, by = "State") %>%
+  right_join(usa_states, by = c("State" = "region"))
 
 
 
@@ -93,73 +189,93 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
 navbarMenu("Choropleths",
            tabPanel(
              title="Petroleum",
-               mainPanel(plotOutput(outputId = "state_renewable_lineplot"), width=8
+               mainPanel(plotOutput(outputId = "petroleum_choro"), width = 12
                )
              ),
            
            tabPanel(
              title="Natural Gas",
-             mainPanel(plotOutput(outputId = "US_renewable_lineplot")
+             mainPanel(plotOutput(outputId = "ng_choro"), width = 12 
                  )
              ),
                
            tabPanel(
              title= "Coal",
-               mainPanel(
-                 plotOutput("distPlot")
+               mainPanel(plotOutput("coal_choro"), width = 12 
                  )
              ),
   
            tabPanel(
              title = "Geothermal",
-             mainPanel(plotOutput(outputId = "state_co2_plot"), width =8
+             mainPanel(plotOutput(outputId = "geo_choro"), width = 12 
              )
            ),
            
            tabPanel(
              title = "Hydroelectric",
-             mainPanel(plotOutput(outputId = "state_co2_plot"), width =8
+             mainPanel(plotOutput(outputId = "hydro_choro"), width = 12 
              )
            ),
            
            tabPanel(
              title = "Nuclear",
-             mainPanel(plotOutput(outputId = "state_co2_plot"), width =8
+             mainPanel(plotOutput(outputId = "nuclear_choro"), width = 12 
              )
            ),
            
            tabPanel(
              title = "Wind",
-             mainPanel(plotOutput(outputId = "state_co2_plot"), width =8
+             mainPanel(plotOutput(outputId = "wind_choro"), width = 12 
              )
            ),
            
            tabPanel(
              title = "Solar",
-             mainPanel(plotOutput(outputId = "state_co2_plot"), width =8
+             mainPanel(plotOutput(outputId = "solar_choro"), width = 12 
              )
            ),
            
            tabPanel(
              title = " CO2 Emissions: State",
-             mainPanel(plotOutput(outputId = "state_co2_plot"), width =8
+             mainPanel(plotOutput(outputId = "state_co2_choro"), width = 12 
              )
            ),
            
            tabPanel("CO2 Emissions: Per Capita",
-              mainPanel(plotOutput(outputId = "percapita_plot"), width = 8
-                      )
-                    )
-)
-)
+              mainPanel(plotOutput(outputId = "percapita_choro"), width = 12 
+             )
+           )
+         )
+       )
            
 
 
 server <- function(input, output) {
   
   
+  output$petroleum_choro <- renderPlot({
+    ggplot(petroleum_map, aes(x = long, y = lat, group = group
+                              , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Petroleum Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Petroleum Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
-  
+  output$geo_choro <- renderPlot({
+    ggplot(geo_map, aes(x = long, y = lat, group = group
+                        , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Geothermal Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Geothermal Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
   
   
