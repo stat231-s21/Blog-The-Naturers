@@ -1,0 +1,12 @@
+name: Final_App
+title: Final_App
+username:
+account: gchickering21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3927086
+bundleId: 4444529
+url: https://gchickering21.shinyapps.io/Final_App/
+when: 1617849839.78297
+asMultiple: FALSE
+asStatic: FALSE
