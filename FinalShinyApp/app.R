@@ -25,6 +25,21 @@ state_co2_2 <- read.csv("state_co2_adjusted2")
 stateCO2_perCapita2<-read_csv("stateCO2_perCapita2")
 new_energy<- read_csv("combined_energy_locations") 
 
+#This for Lorraines plot
+state_energy_consumption<- new_energy %>%
+    group_by(State, energy_type)%>%
+    summarise(
+        total_energy=sum(Energy_Produced)
+    )
+
+Energy_type_per_state <- new_energy %>%
+    group_by(State, energy_type) %>%
+    summarise(
+        no_powerplant_type=n()
+    )
+
+
+
 ##This is necessary for renewables section of app
 US_renewables_col_names<-colnames(US_renewables)
 state_renewables_col_names<-colnames(state_renewables)
@@ -128,7 +143,7 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                                     
                                     # Show a plot of the generated distribution
                                     mainPanel(
-                                        plotOutput("distPlot")
+                                        plotOutput("distPlotEnergy")
                                     )
                                 )
                                 
@@ -204,13 +219,43 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                          
                          # Show a plot of the generated distribution
                          mainPanel(
-                             leafletOutput("leafletPlot"),
-                             #plotOutput("distPlot-leaflet")
+                             leafletOutput("leafletPlot")
+                         )
+                         
+                     ),
+                     br(),
+                     sidebarLayout(
+                         sidebarPanel(
+                             # Select Name
+                             selectInput(inputId = "leaflet_state1", 
+                                         label = "State:",
+                                         choices = unique(state_energy_consumption$State),
+                                         selected = "Delaware",
+                                         multiple = FALSE)
+                         ),
+                         
+                         # Show a plot of the generated distribution
+                         mainPanel(
+                             plotOutput("distPlot1Leaflet", height = "300px")
+                         )
+                     ), 
+                     br(),
+                     sidebarLayout(
+                         sidebarPanel(
+                             # Select Name
+                             selectInput(inputId = "leaflet_state2", 
+                                         label = "State:",
+                                         choices = unique(Energy_type_per_state$State),
+                                         selected = "Delaware",
+                                         multiple = FALSE)
+                         ),
+                         
+                         # Show a plot of the generated distribution
+                         mainPanel(
+                             plotOutput("distPlot2Leaflet")
                          )
                      )
-                     
-                     
-                     
+                
                      )
                  
 
@@ -262,19 +307,19 @@ server <- function(input, output) {
     
     
     ## Plot for Energy Consumption by State
-    # output$distPlot-leaflet <- renderPlot({
-    #     
-    #     dat <- energy %>%
-    #         filter(state %in% input$st) %>%
-    #         filter(year >= input$energy_years[1] & year <= input$energy_years[2] )
-    #     
-    #     
-    #     ggplot(data = dat, aes(x = year, y = energy_intensity, color= state)) +
-    #         geom_line() + 
-    #         labs(x = "Year", y = "Total energy consumption (Thousand BTU per 2012$GDP)"
-    #              , title = paste("Total Energy Consumption by State"))
-    #     
-    # })
+    output$distPlotEnergy<- renderPlot({
+
+        dat <- energy %>% 
+            filter(state %in% input$st) %>% 
+            filter(year >= input$energy_years[1] & year <= input$energy_years[2] )
+
+
+        ggplot(data = dat, aes(x = year, y = energy_intensity, color= state)) + 
+        geom_line() + labs(x = "Year", y = "Total energy consumption
+        (Thousand BTU per 2012$GDP)" , title = paste("Total Energy Consumption
+        by State"))
+
+    })
     ##Plot for co2 emissions by state
     data_for_co2_plot <- reactive({
         data <- state_co2_2 %>%
@@ -337,6 +382,32 @@ server <- function(input, output) {
                                                                               "Energy Type: ", data$energy_type )
             )
        
+    })
+    
+    output$distPlot1Leaflet <- renderPlot({
+        
+        dat <- state_energy_consumption %>%
+            filter(State %in% input$leaflet_state1)
+        
+        ggplot(data = dat, 
+               aes(x = energy_type, y = total_energy)) +
+            geom_bar(stat = "identity") + 
+            labs(x = "Energy type", y = "Total energy production"
+                 , title = paste("This is energy production for", input$leaflet_state1))
+        
+    })
+    
+    output$distPlot2Leaflet <- renderPlot({
+        
+        dat <- Energy_type_per_state %>%
+            filter(State %in% input$leaflet_state2)
+        
+        ggplot(data = dat, 
+               aes(x = energy_type, y = no_powerplant_type)) +
+            geom_bar(stat = "identity") + 
+            labs(x = "Energy type", y = "No. of powerplant"
+                 , title = paste("This is the number of powerplants in ", input$leaflet_state2))
+        
     })
 
     
