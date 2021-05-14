@@ -8,13 +8,11 @@ library(shinybusy)
 library(ggrepel)
 
 #Data to shiny app
-combined<- read_csv("combined_energy_locations")
-Energy_type<- combined %>%
-  group_by(energy_type)%>%
+combined <- read_csv("combined_energy_locations")
+state_energy_consumption<- combined%>%
+  group_by(State, energy_type)%>%
   summarise(
-    no_powerplant_type=n(), 
-    total_energy=sum(Energy_Produced),
-    average_energy_per_type = (total_energy/no_powerplant_type)
+    total_energy=sum(Energy_Produced)
   )
 
 #part 2 of shinyapp
@@ -94,7 +92,7 @@ server <- function(input, output) {
            aes(x = energy_type, y = no_powerplant_type)) +
       geom_bar(stat = "identity") + 
       labs(x = "Energy type", y = "No. of powerplant"
-           , title = paste("This is the number od powerplants in ", input$st))
+           , title = paste("This is the number of powerplants in ", input$st))
     
   })
 }

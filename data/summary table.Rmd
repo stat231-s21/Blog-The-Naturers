@@ -13,6 +13,10 @@ library(ggplot2)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+combined <- read_csv("combined_energy_locations")
+```
+
 
 ```{r}
 Energy_type<- combined %>%
@@ -65,6 +69,14 @@ state_energy_consumption<- combined%>%
 This is me just writing my thoughts. I was thinking that maybe we could create something that allows us to compare the types of powerplants being used and the amount of CO2 emission that was recorded ans see if there is any relationship. So maybe a scatter plot that shows the CO2 and number of renewable powerplants in the area, but then we also have to account for size. 
 
 
+```{r}
+combined <- read_csv("combined_energy_locations")
+state_energy_consumption<- combined%>%
+  group_by(State, energy_type)%>%
+  summarise(
+    total_energy=sum(Energy_Produced)
+  )
+```
 
 
 
