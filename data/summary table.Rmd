@@ -30,6 +30,16 @@ The bargraph below is intended to show the average energy production of every en
 (This cann be used to argue why transitioning to renewable energy sources is highly opposed because of the low energy production per powerplant they produce)
 
 ```{r}
+no_energy_type_state <- combined %>%
+  group_by(State, energy_type) %>%
+  summarise(
+    no_powerplant_type=n()
+  )
+```
+
+
+
+```{r}
 #bargraphs for showing average energy production per type
 p<-ggplot(data=Energy_type, aes(x=energy_type, y=average_energy_per_type)) +
   geom_bar(stat="identity", width=0.5, fill="steelblue")+
