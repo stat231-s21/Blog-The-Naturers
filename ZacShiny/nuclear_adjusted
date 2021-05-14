@@ -1,0 +1,59 @@
+Power_Plant_Name,City,County,State,Energy_Produced,Latitude,Longitude,energy_type
+Browns Ferry,Decatur,Limestone,Alabama,3774.4,34.7042,-87.1189,Nuclear
+Clinton Power Station,Clinton,DeWitt,Illinois,1065,40.1719,-88.8339,Nuclear
+Wolf Creek Generating Station,Burlington,Coffey,Kansas,1225,38.23926,-95.68978,Nuclear
+Columbia Generating Station,Richland,Benton,Washington,1163,46.4711,-119.3339,Nuclear
+Millstone,Waterford,New London,Connecticut,2073.1,41.3107,-72.1677,Nuclear
+Turkey Point,Homestead,Miami Dade,Florida,1658,25.4356,-80.3308,Nuclear
+Vogtle,Waynesboro,Burke,Georgia,2302,33.1427,-81.7625,Nuclear
+Dresden Generating Station,Morris,Grundy,Illinois,1797,41.39,-88.27,Nuclear
+Quad Cities Generating Station,Cordova,Rock Island,Illinois,1819,41.726111,-90.310278,Nuclear
+Duane Arnold Energy Center,Palo,Linn,Iowa,601.4,42.1011,-91.7781,Nuclear
+Palisades,Covert,Van Buren,Michigan,771.6,42.323,-86.3146,Nuclear
+Fermi,Frenchtown Twp,Monroe,Michigan,1141,41.9631,-83.2581,Nuclear
+Monticello Nuclear Facility,Monticello,Wright,Minnesota,617,45.3338,-93.8493,Nuclear
+Prairie Island,Welch,Goodhue,Minnesota,1040,44.622,-92.6333,Nuclear
+PSEG Salem Generating Station,Hancocks Bridge,Salem,New Jersey,2295.1,39.4625,-75.5358,Nuclear
+Indian Point 2,Buchanan,Westchester,New York,1016.1,41.270556,-73.9527,Nuclear
+Nine Mile Point Nuclear Station,Lycoming,Oswego,New York,1916.6,43.5211,-76.41,Nuclear
+Peach Bottom,Delta,York,Pennsylvania,2450.4,39.758936,-76.268742,Nuclear
+H B Robinson,Hartsville,Darlington,South Carolina,741,34.4017,-80.1589,Nuclear
+Oconee,Seneca,Oconee,South Carolina,2554,34.7939,-82.8986,Nuclear
+Surry,Surry,Surry,Virginia,1676,37.1661,-76.6986,Nuclear
+Point Beach Nuclear Plant,Two Rivers,Manitowoc,Wisconsin,1201.1,44.2806,-87.5369,Nuclear
+Waterford 3,Killona,St Charles,Louisiana,1165.4,29.995267,-90.471581,Nuclear
+Donald C Cook,Bridgman,Berrien,Michigan,2177,41.975604,-86.565206,Nuclear
+Joseph M Farley,Columbia,Houston,Alabama,1751,31.2231,-85.1116,Nuclear
+Palo Verde,Wintersburg,Maricopa,Arizona,3937,33.3881,-112.8617,Nuclear
+Calvert Cliffs Nuclear Power Plant,Lusby,Calvert,Maryland,1725.8,38.4344,-76.4417,Nuclear
+Brunswick Nuclear,Southport,Brunswick,North Carolina,1870,33.9597,-78.0114,Nuclear
+Harris,New Hill,Wake,North Carolina,964,35.6334,-78.9556,Nuclear
+Perry,Perry,Lake,Ohio,1240,41.8006,-81.1439,Nuclear
+Braidwood Generation Station,Braceville,Will,Illinois,2337,41.2435,-88.2286,Nuclear
+Byron Generating Station,Byron,Ogle,Illinois,2300,42.0742,-89.2819,Nuclear
+LaSalle Generating Station,Marseilles,LaSalle,Illinois,2264.4,41.245498,-88.669066,Nuclear
+Catawba,York,York,South Carolina,2310.2,35.0514,-81.0694,Nuclear
+McGuire,Huntersville,Mecklenburg,North Carolina,2315.6,35.4331,-80.9486,Nuclear
+Beaver Valley,Shippingport,Beaver,Pennsylvania,1808,40.6219,-80.4336,Nuclear
+St Lucie,Jensen Beach,St Lucie,Florida,1968,27.348611,-80.246389,Nuclear
+Edwin I Hatch,Baxley,Appling,Georgia,1759,31.9342,-82.3447,Nuclear
+Grand Gulf,Port Gibson,Claiborne,Mississippi,1401,32.0081,-91.0478,Nuclear
+Diablo Canyon,Avila Beach,San Luis Obispo,California,2240,35.211536,-120.855542,Nuclear
+TalenEnergy Susquehanna,Berwick,Luzerne,Pennsylvania,2494,41.0919,-76.1462,Nuclear
+Limerick,Sanatoga,Montgomery,Pennsylvania,2241.8,40.224303,-75.58744,Nuclear
+James A Fitzpatrick,Lycoming,Oswego,New York,848.1,43.52139,-76.408394,Nuclear
+Seabrook,Seabrook,Rockingham,New Hampshire,1250.4,42.899167,-70.848889,Nuclear
+PSEG Hope Creek Generating Station,Hancocks Bridge,Salem,New Jersey,1172,39.4666,-75.5377,Nuclear
+R E Ginna Nuclear Power Plant,Ontario,Wayne,New York,582,43.2777,-77.3099,Nuclear
+V C Summer,Jenkinsville,Fairfield,South Carolina,971,34.2983,-81.3153,Nuclear
+Comanche Peak,Glen Rose,Somervell,Texas,2400,32.298365,-97.785515,Nuclear
+Davis Besse,Oak Harbor,Ottawa,Ohio,894,41.5967,-83.0861,Nuclear
+Sequoyah,Soddy Daisy,Hamilton,Tennessee,2277.7,35.2267,-85.0917,Nuclear
+Callaway,Fulton,Callaway,Missouri,1190,38.758919,-91.778841,Nuclear
+North Anna,Mineral,Louisa,Virginia,1892,38.06,-77.7897,Nuclear
+South Texas Project,Wadsworth,Matagorda,Texas,2560,28.795,-96.0481,Nuclear
+River Bend,St. Francisville,West Feliciana,Louisiana,967.5,30.757,-91.3327,Nuclear
+Watts Bar Nuclear Plant,Spring City,Rhea,Tennessee,2245,35.6021,-84.7895,Nuclear
+Cooper Nuclear Station,Brownville,Nemaha,Nebraska,770,40.3628,-95.6408,Nuclear
+Arkansas Nuclear One,Russellville,Pope,Arkansas,1817.8,35.311,-93.2351,Nuclear
+Indian Point 3,Buchanan,Westchester,New York,1037.9,41.2706,-73.9526,Nuclear

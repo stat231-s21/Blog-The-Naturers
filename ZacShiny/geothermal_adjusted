@@ -1,0 +1,65 @@
+Power_Plant_Name,City,County,State,Latitude,Longitude,Energy_Produced,energy_type
+Geysers Unit 5-20,Middletown,Sonoma,California,38.777,-122.745,578,Geothermal
+Blundell,Milford,Beaver,Utah,38.4889,-112.8533,34,Geothermal
+Sonoma California Geothermal,Middletown,Lake,California,38.7903,-122.7559,50,Geothermal
+Bottle Rock Power,Cobb,Lake,California,38.8348,-122.7677,9,Geothermal
+Geothermal 1,Middletown,Sonoma,California,38.752,-122.7195,47,Geothermal
+Geothermal 2,Middletown,Sonoma,California,38.7492,-122.7117,66,Geothermal
+Desert Peak Power Plant,Fernley,Lyon,Nevada,39.753999,-118.953497,17.3,Geothermal
+Beowawe Power,Beowawe,Lander,Nevada,40.5547,-116.6175,14.1,Geothermal
+Ples I,Mammoth Lakes,Mono,California,37.6455,-118.9096,9.9,Geothermal
+Mammoth Pacific I,Mammoth lakes,Mono,California,37.6451,-118.9143,6.6,Geothermal
+Mammoth Pacific II,Mammoth Lakes,Mono,California,37.6464,-118.9092,9.9,Geothermal
+CE Leathers,Calipatria,Imperial,California,33.1779,-115.565,42,Geothermal
+Del Ranch Company,Calipatria,Imperial,California,33.1646,-115.616,42,Geothermal
+Elmore Company,Calipatria,Imperial,California,33.1777,-115.6033,49,Geothermal
+Salton Sea Power Gen Co - Unit 3,Calipatria,Imperial,California,33.158153,-115.638656,50,Geothermal
+Geo East Mesa III,Holtville,Imperial,California,32.7757,-115.2637,19.7,Geothermal
+Coso Finance Partners,Inyokern,Inyo,California,36.0372,-117.7981,81.2,Geothermal
+Coso Power Developers,Inyokern,Inyo,California,36.0192,-117.7917,80.3,Geothermal
+Coso Energy Developers,Inyokern,Inyo,California,36.0019,-117.7886,67.8,Geothermal
+Salton Sea Power Gen Co Unit 1,Calipatria,Imperial,California,33.158,-115.6475,10,Geothermal
+Salton Sea Power Gen Co - Unit 2,Calipatria,Imperial,California,33.1589,-115.6455,23.1,Geothermal
+Calistoga Power Plant,Middletown,Lake,California,38.7879,-122.7434,100,Geothermal
+Vulcan-BN Geothermal Power Company,Calipatria,Imperial,California,33.1633,-115.6167,38,Geothermal
+Steamboat Hills LP,Reno,Washoe,Nevada,39.37,-119.766944,14.6,Geothermal
+Stillwater Facility,Fallon,Churchill,Nevada,39.547537,-118.555613,40.4,Geothermal
+Ormesa I,Holtville,Imperial,California,32.8156,-115.2568,17.6,Geothermal
+Amedee Geothermal Venture I,Amedee,Lassen,California,40.300833,-120.105,2.2,Geothermal
+Terra-Gen Dixie Valley,Fallon,Churchill,Nevada,39.9663,-117.8557,58.5,Geothermal
+Puna Geothermal Venture I,Pahoa,Hawaii,Hawaii,19.478976,-154.888362,43,Geothermal
+Aidlin Geothermal Power Plant,Middletown,Sonoma,California,38.8339,-122.881,18,Geothermal
+Soda Lake Geothermal No I II,Fallon,Churchill,Nevada,39.557,-118.8383,7.6,Geothermal
+Geo East Mesa II,Holtville,Imperial,California,32.7757,-115.2637,14.4,Geothermal
+Second Imperial Geothermal,Heber,Imperial,California,32.7144,-115.5356,64.8,Geothermal
+Steamboat II,Reno,Washoe,Nevada,39.395603,-119.746762,10.8,Geothermal
+Steamboat III,Reno,Washoe,Nevada,39.394444,-119.7475,10.8,Geothermal
+Heber Geothermal,Heber,Imperial,California,32.7146,-115.518,54.3,Geothermal
+Ormesa II,Holtville,Imperial,California,32.7881,-115.2481,16,Geothermal
+Salton Sea Power Gen Co - Unit 4,Calipatria,Imperial,California,33.157,-115.6386,44,Geothermal
+Salton Sea Power LLC - Unit 5,Calipatria,Imperial,California,33.1533,-115.6384,46,Geothermal
+CE Turbo LLC,Calipatria,Imperial,California,33.1669,-115.5114,10,Geothermal
+Brady,Fallon,Churchill,Nevada,39.796032,-119.010013,14.3,Geothermal
+Raft River Geothermal Power Plant,Malta,Cassia,Idaho,42.099417,-113.38245,10,Geothermal
+Richard Burdette Geothermal,Reno,Washoe,Nevada,39.390843,-119.754593,20,Geothermal
+Galena 2 Geothermal Power Plant,Reno,Washoe,Nevada,39.373189000000004,-119.764507,9,Geothermal
+Galena 3 Geothermal Power Plant,Reno,Washoe,Nevada,39.388722,-119.748908,20,Geothermal
+North Brawley Geothermal Plant,Brawley,Imperial,California,33.0139,-115.5439,53.5,Geothermal
+NGP Blue Mountain I LLC,Winnemucca,Humboldt,Nevada,40.9961,-118.1414,39,Geothermal
+ENEL Salt Wells LLC,Fallon,Churchill,Nevada,39.2944,-118.5725,20.2,Geothermal
+Thermo No 1,Milford,Beaver,Utah,38.160653,-113.194462,14,Geothermal
+Jersey Valley Geothermal Power Plant,Imlay,Pershing,Nevada,40.1808,-117.4739,15.6,Geothermal
+McGinness Hills,Austin,Lander,Nevada,39.5911,-116.9119,66.6,Geothermal
+Tuscarora Geothermal Power Plant,Tuscarora,Elko,Nevada,41.4828,-116.1511,21.4,Geothermal
+San Emidio,Gerlach,Washoe,Nevada,40.380556,-119.399722,6,Geothermal
+John L. Featherstone Plant,Calipatria,Imperial,California,33.204635,-115.573303,49.9,Geothermal
+Neal Hot Springs Geothermal Project,Vale,Malheur,Oregon,44.023056,-117.46806,17.7,Geothermal
+"Patua Acquisition Project, LLC",Hazen,Churchill,Nevada,39.585833,-119.073056,30,Geothermal
+Don A Campbell 1 Geothermal,Gabbs,Mineral,Nevada,38.836667,-118.323889,14.8,Geothermal
+Enel Cove Fort,Cove Fort,Beaver,Utah,38.560278,-112.581111,25,Geothermal
+"Lightning Dock Geothermal HI-01, LLC",Animas,Hidalgo,New Mexico,32.144722,-108.838333,8.6,Geothermal
+Paisley Geothermal Generating Plant,Paisley,Lake,Oregon,42.695833,-120.557778,1.8,Geothermal
+Don A Campbell 2 Geothermal,Luning,Mineral,Nevada,38.835836,-118.325339,16.2,Geothermal
+Tungsten Mountain,Fallon,Churchill,Nevada,39.667002,-117.693658,24.4,Geothermal
+McGinness Hills 3,Austin,Lander,Nevada,39.5963,-116.8942,49.4,Geothermal
+Whitegrass No. 1,Yerington,Lyon,Nevada,39.163279,-119.180472,6.4,Geothermal

@@ -1,0 +1,1139 @@
+Power_Plant_Name,City,County,State,Energy_Produced,Latitude,Longitude,energy_type
+Lamar Plant,Lamar,Prowers,Colorado,5.5,38.033327,-102.537915,Wind
+Medicine Bow,Medicine Bow,Carbon,Wyoming,6.1,41.835278,-106.242778,Wind
+Searsburg Wind Turbine,Searsburg,Bennington,Vermont,5.2,42.8625,-72.9628,Wind
+Princeton Wind Farm,Princeton,Worcester,Massachusetts,3,42.4789,-71.9,Wind
+Solano Wind,Rio Vista,Solano,California,228.1,38.116415,-121.769031,Wind
+Springview,Springview,Keya Paha,Nebraska,3,42.82579,-99.777467,Wind
+Moorhead Wind Turbine,Moorhead,Clay,Minnesota,1.4,46.895,-96.7347,Wind
+Wind Turbine,Casco,Kewaunee,Wisconsin,0.8,44.6694,-87.6333,Wind
+Buffalo Mountain,Oliver Springs,Anderson,Tennessee,2.1,36.120994,-84.338733,Wind
+Nine Canyon,Kennewick,Benton,Washington,95,46.0958,-119.0964,Wind
+Salt Valley Wind Plant,Lincoln,Lancaster,Nebraska,1.4,40.9044,-96.6231,Wind
+Iowa Distributed Wind Generation Project,Algona,Kossuth,Iowa,2.3,43.034722,-94.140556,Wind
+Chamberlain Wind Project,Chamberlain,Brule,South Dakota,2.6,43.848529,-99.24757,Wind
+Dinosaur Point,Los Banos,Merced,California,17,37.0478,-121.1708,Wind
+Tehachapi Wind Resource I,Tehachapi,Kern,California,8.7,35.060556,-118.389722,Wind
+Cameron Ridge LLC,Mojave,Kern,California,59.6,35.075,-118.3158,Wind
+Ridgetop Energy LLC,Mojave,Kern,California,29,35.0697,-118.3167,Wind
+Karen Avenue Wind Farm,North Palm Springs,Riverside,California,11.7,33.92194,-116.56222,Wind
+Wintec Energy Ltd,Palm Springs,Riverside,California,5.9,33.9131,-116.5631,Wind
+San Gorgonio Farms Wind Farm,Whitewater,Riverside,California,31,33.926111,-116.615,Wind
+Windland,Mojave,Kern,California,15.3,35.0522,-118.3581,Wind
+Altech III,North Palm Springs,Riverside,California,25.1,33.915023,-116.555064,Wind
+Victory Garden (Tehachapi),Tehachapi,Kern,California,18.8,35.068600000000004,-118.3833,Wind
+Mesa Wind Power Corp,North Palm Springs,Riverside,California,29.9,33.9461,-116.6769,Wind
+Sky River LLC,Tehachapi,Kern,California,76.9,35.2608,-118.2469,Wind
+GPS Cabazon Wind LLC,North Palm Springs,Riverside,California,38.9,33.914986,-116.71026,Wind
+Edom Hills Project 1 LLC,Cathedral City,Riverside,California,20,33.881667,-116.460278,Wind
+San Gorgonio Westwinds II LLC,North Palm Springs,Riverside,California,43.4,33.934,-116.5781,Wind
+Oak Creek Energy Systems I,Mojave,Kern,California,34.5,35.043889,-118.276388,Wind
+East Winds Project,Palm Springs,Riverside,California,3,33.890913,-116.541515,Wind
+Mojave 16,Mojave,Kern,California,48,35.045,-118.2642,Wind
+Mojave 18,Mojave,Kern,California,40.5,35.046,-118.2757,Wind
+Mojave 4,Mojave,Kern,California,24.3,35.0506,-118.2572,Wind
+Mojave 3,Mojave,Kern,California,22.7,35.068,-118.2898,Wind
+Mojave 5,Mojave,Kern,California,20,35.076,-118.2487,Wind
+85 A,Tehachapi,Kern,California,14.1,35.1011,-118.3372,Wind
+85 B,Tehachapi,Kern,California,21.2,35.1011,-118.3372,Wind
+Helzel & Schwarzhoff 88 Wind Farm,Tehachapi,Kern,California,1.8,35.0908,-118.3936,Wind
+Coram Energy LLC (ECT),Tehachapi,Kern,California,7.5,35.0583,-118.3417,Wind
+Coram Energy LLC,Tehachapi,Kern,California,3,35.075,-118.3417,Wind
+CTV Power Purchase Contract Trust,Tehachapi,Kern,California,4.6,35.0583,-118.3083,Wind
+EDF Renewable Windfarm V Inc,Birds Landing,Solano,California,15.5,38.1167,-121.8333,Wind
+San Gorgonio Windplant WPP1993,North Palm Springs,Riverside,California,49.5,33.918395,-116.573906,Wind
+TPC Windfarms LLC,Mojave,Kern,California,28.7,35.05,-118.2572,Wind
+Swanmill Windfarm I,North Palm Springs,Riverside,California,18.7,33.942,-116.661,Wind
+Difwind Farms Ltd VI,Mojave,Kern,California,25.3,35.0506,-118.1714,Wind
+Coram Tehachapi,Tehachapi,Kern,California,6.5,35.0663,-118.339444,Wind
+Storm Lake 1,Alta,Buena Vista,Iowa,109.4,42.6878,-95.405,Wind
+Tehachapi Wind Resource II,Tehachapi,Kern,California,21.9,35.1061,-118.3114,Wind
+Ridgetop,Mojave,Kern,California,46.9,35.074,-118.3153,Wind
+Big Spring Wind Power Facility,Big Spring,Howard,Texas,34.3,32.2075,-101.388333,Wind
+Vansycle,Touchet,Umatilla,Oregon,25,45.936157,-118.65999,Wind
+Lake Benton I,Lake Benton,Lincoln,Minnesota,104.5,44.2917,-96.375,Wind
+Lake Benton II,Ruthton,Pipestone,Minnesota,103.5,44.129369,-96.116971,Wind
+Storm Lake II,Alta,Buena Vista,Iowa,76.5,42.8417,-95.405,Wind
+Woodstock Windfarm,Woodstock,Pipestone,Minnesota,10.2,43.985833,-96.078611,Wind
+Lakota Ridge LLC,Hendricks,Lincoln,Minnesota,11.2,44.39956,-96.428367,Wind
+Shaokatan Hills LLC,Hendricks,Lincoln,Minnesota,11.8,44.421711,-96.434694,Wind
+Wethersfield Wind Farm,Gainesville,Wyoming,New York,6.6,42.678819,-78.243792,Wind
+Green Power I,North Palm Springs,Riverside,California,16.5,33.9014,-116.7167,Wind
+FPL Energy Vansycle LLC (WA),Touchet,Walla Walla,Washington,176.9,46.06,-118.917,Wind
+Tsar Nicholas LLC,Hendricks,Lincoln,Minnesota,1.9,44.42,-96.4347,Wind
+Sun River LLC,Hendricks,Lincoln,Minnesota,1.9,44.4289,-96.4358,Wind
+Julia Hills LLC,Hendricks,Lincoln,Minnesota,1.9,44.4231,-96.4458,Wind
+Jessica Mills LLC,Hendricks,Lincoln,Minnesota,1.9,44.4278,-96.43,Wind
+Jack River LLC,Hendricks,Lincoln,Minnesota,1.9,44.4233,-96.4411,Wind
+Autumn Hills LLC,Hendricks,Lincoln,Minnesota,1.9,44.4131,-96.4325,Wind
+Winters Spawn LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2081,-96.1989,Wind
+Twin Lake Hills LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2258,-96.2789,Wind
+Spartan Hills LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2358,-96.2383,Wind
+Soliloquoy Ridge LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2364,-96.2331,Wind
+Ruthton Ridge LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2128,-96.2131,Wind
+Hope Creek LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2275,-96.2192,Wind
+Hadley Ridge LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2253,-96.235,Wind
+Florence Hills LLC,Lake Benton,Lincoln,Minnesota,1.9,44.2297,-96.225,Wind
+Agassiz Beach LLC,Averill,Clay,Minnesota,1.9,47.0053,-96.4356,Wind
+Llano Estacado Wind Ranch,White Deer,Carson,Texas,80,35.28375,-101.14812,Wind
+King Mountain Wind Ranch 1,McCamey,Upton,Texas,278,31.2092,-102.2417,Wind
+Foote Creek I,McFadden,Carbon,Wyoming,41.4,41.6283,-106.2013,Wind
+Foote Creek II,Rock River,Albany,Wyoming,1.8,41.657539,-106.189183,Wind
+Foote Creek III,Rock River,Albany,Wyoming,24.8,41.666469,-106.183278,Wind
+Foote Creek IV,Rock River,Carbon,Wyoming,16.8,41.6744,-106.1805,Wind
+Mountain View I&2,North Palm Springs,Riverside,California,66.6,33.9211,-116.5642,Wind
+Gray County Wind Energy,Montezuma,Gray,Kansas,112,37.613256,-100.378197,Wind
+Condon Windpower LLC,Condon,Gilliam,Oregon,49.8,45.2766,-120.2794,Wind
+Rock River I LLC,Rock River,Carbon,Wyoming,50,41.7172,-106.1077,Wind
+Ridge Crest Wind Partners,Peetz,Logan,Colorado,29.7,40.945911,-103.162028,Wind
+Montfort Wind Energy Center,Montfort,Iowa,Wisconsin,2.6,42.9625,-90.386667,Wind
+NWP Indian Mesa Wind Farm,Iraan,Pecos,Texas,82.5,30.931467,-102.201433,Wind
+Madison Windpower LLC,Madison,Madison,New York,11.5,42.894722,-75.451666,Wind
+Noble Ridge LLC,Wilmont,Nobles,Minnesota,1.5,43.754739,-95.853447,Wind
+Fenner Wind,Cazenovia,Madison,New York,30,42.988989,-75.762536,Wind
+Woodward Mountain II,Girvin,Pecos,Texas,78,30.9514,-102.414067,Wind
+Woodward Mountain I,Girvin,Pecos,Texas,82,30.9514,-102.414067,Wind
+Somerset Windpower LLC,Ohiopyle,Somerset,Pennsylvania,9,39.979167,-79.012778,Wind
+Northern Iowa Windfarm,Joice,Worth,Iowa,80,43.3833,-93.4167,Wind
+Mill Run Windpower LLC,Rockwood,Somerset,Pennsylvania,15,39.913408,-79.393644,Wind
+Kas Brothers Windfarm,Woodstock,Pipestone,Minnesota,1.5,44.0119,-96.1125,Wind
+Hawkeye Power Partners LLC,Garner,Cerro Gordo,Iowa,42,43.047222,-93.4775,Wind
+Klondike Wind Power,Wasco,Sherman,Oregon,24,45.5563,-120.5507,Wind
+Bay Windpower I,Mackinaw City,Cheboygan,Michigan,1.8,45.7644,-84.7381,Wind
+Trent Wind Farm LP,Trent,Nolan,Texas,152,32.4301,-100.235652,Wind
+Champepaden Wind Power,Chandler,Murray,Minnesota,2,43.899722,-95.950556,Wind
+Moulton Wind Power,Chandler,Murray,Minnesota,2,43.9204,-95.955885,Wind
+Mountaineer Wind Energy Center,Thomas,Tucker,West Virginia,66,39.1828,-79.5372,Wind
+FPL Energy Vansycle LLC (OR),Touchet,Umatilla,Oregon,122.8,46.01279,-118.816246,Wind
+Desert Sky,Iraan,Pecos,Texas,167.7,30.9178,-102.0867,Wind
+Minot Wind Project,Minot,Ward,North Dakota,7.1,48.021271,-101.280517,Wind
+Waymart Wind,Forest City,Wayne,Pennsylvania,64.5,41.5533,-75.4542,Wind
+Minwind,Luverne,Rock,Minnesota,3.8,43.5564,-96.303611,Wind
+Hancock County Wind Energy Center,Garner,Hancock,Iowa,98,43.052758,-93.629956,Wind
+Cabazon Wind Partners,Cabazon,Riverside,California,41,33.9172,-116.735,Wind
+Whitewater Hill Wind Partners,North Palm Springs,Riverside,California,61.5,33.925,-116.617778,Wind
+"Meyersdale Windpower, LLC",Meyersdale,Somerset,Pennsylvania,30,39.790739,-79.002047,Wind
+G McNeilus Wind Farm Dodge Center,Dodge Center,Dodge,Minnesota,43,43.978486,-92.851078,Wind
+High Winds LLC,Birds Landing,Solano,California,162,38.1381,-121.8053,Wind
+Blue Canyon Windpower,Carnegie,Comanche,Oklahoma,74.3,34.850781,-98.577311,Wind
+South Dakota Wind Energy Cente,Highmore,Hyde,South Dakota,40.5,44.5492,-99.5,Wind
+TransAlta Wyoming Wind,Evanston,Uinta,Wyoming,142.2,41.2874,-110.5556,Wind
+Oklahoma Wind Energy Center,Woodward,Woodward,Oklahoma,102,36.603967,-99.340047,Wind
+New Mexico Wind Energy Center,House,Quay,New Mexico,204,34.63566,-104.04733,Wind
+FPL Energy North Dakota Wind I/II,Edgeley,LaMoure,North Dakota,61.5,46.327169,-98.898356,Wind
+Kimball Wind,Kimball,Kimball,Nebraska,30,41.2736,-103.6983,Wind
+Brazos Wind Farm,Fluvanna,Scurry,Texas,160,32.94793,-101.147784,Wind
+Mountain View III,North Palm Springs,Riverside,California,22.4,33.9141,-116.5914,Wind
+Minwind 3-9,Beaver Creek,Rock,Minnesota,11.6,43.6383,-96.391944,Wind
+"Chanarambie Power Partners, LLC",Lake Wilson,Murray,Minnesota,85.5,44.011,-96.0446,Wind
+Viking Wind Partners,Lake Wilson,Murray,Minnesota,12,43.983462,-96.011809,Wind
+"Mendota Hills, LLC",Paw Paw,Lee,Illinois,76.2,41.7194,-89.0492,Wind
+Ainsworth Wind,Ainsworth,Brown,Nebraska,59.4,42.4489,-99.8917,Wind
+Flying Cloud Power Partners LLC,Lake Park,Dickinson,Iowa,43.5,43.3897,-95.2997,Wind
+Colorado Green Holdings LLC,Lamar,Prowers,Colorado,162,37.7033,-102.6231,Wind
+Moraine Wind LLC,Woodstock,Pipestone,Minnesota,51,44.0667,-96.0667,Wind
+Combine Hills I,Milton-Freewater,Umatilla,Oregon,43,45.943,-118.591,Wind
+TG Windfarm LLC,Pipestone,Pipestone,Minnesota,2,43.9897,-96.2236,Wind
+CG Windfarm LLC,Woodstock,Pipestone,Minnesota,2,43.9931,-96.2186,Wind
+Bisson Windfarm LLC,Pipestone,Pipestone,Minnesota,2,43.984444,-96.219444,Wind
+Tofteland Windfarm LLC,Pipestone,Pipestone,Minnesota,2,43.980278,-96.223333,Wind
+Westridge Windfarm LLC,Woodstock,Pipestone,Minnesota,2,43.988611,-96.215556,Wind
+Fey Windfarm LLC,Woodstock,Pipestone,Minnesota,2,44.0364,-96.0736,Wind
+Windcurrent Farms LLC,Woodstock,Pipestone,Minnesota,2,44.0236,-96.0789,Wind
+K-Brink Windfarm LLC,Woodstock,Pipestone,Minnesota,2,44.0197,-96.1183,Wind
+DL Windy Acres LLC,Brewster,Jackson,Minnesota,2,43.651389,-95.368611,Wind
+S&P Windfarm LLC,Brewster,Jackson,Minnesota,2,43.651389,-95.3825,Wind
+Boeve Windfarm LLC,Woodstock,Pipestone,Minnesota,2,44.05,-96.0933,Wind
+B&K Energy Systems LLC,Brewster,Jackson,Minnesota,2,43.651389,-95.3755,Wind
+Sweetwater Wind 1 LLC,Sweetwater,Nolan,Texas,37.5,32.3606,-100.3389,Wind
+Sweetwater Wind 2 LLC,Sweetwater,Nolan,Texas,98.8,32.3472,-100.3703,Wind
+Allendorf,Allendorf,Osceola,Iowa,3.8,43.4,-95.6333,Wind
+Aeolus Wind Facility,Spearman,Hansford,Texas,3,36.4725,-101.3278,Wind
+Bowling Green Wind,Bowling Green,Wood,Ohio,7.2,41.3786,-83.7383,Wind
+Buffalo Gap Wind Farm,Merkel,Taylor,Texas,120.6,32.311556,-100.061589,Wind
+Intrepid,Schaller,Buena Vista,Iowa,175.5,42.5539,-95.3283,Wind
+Century,Blairsburg,Hamilton,Iowa,201.2,42.5644,-93.6369,Wind
+Hopkins Ridge Wind,Dayton,Columbia,Washington,156.6,46.4211,-117.8331,Wind
+Callahan Divide Wind Energy Center,Tusocola,Taylor,Texas,114,32.303889,-100.021667,Wind
+Diablo Winds LLC,Livermore,Alameda,California,18,37.763653,-121.614392,Wind
+Weatherford Wind Energy Center,Weatherford,Custer,Oklahoma,147,35.5094,-98.7346,Wind
+Helzel & Schwarzhoff 86,Tehachapi,Kern,California,2.4,35.0925,-118.3952,Wind
+ZCO,Tehachapi,Kern,California,1.6,35.0772,-118.3811,Wind
+Maple Ridge Wind Farm,Lowville,Lewis,New York,322,43.7853,-75.5753,Wind
+Horse Hollow Wind Energy Center,Wingate,Taylor,Texas,735.5,32.214024,-100.05712,Wind
+Caprock Wind Farm,San Jon,Quay,New Mexico,80,34.980556,-103.353889,Wind
+Kumeyaay Wind,Campo,San Diego,California,50,32.705556,-116.3425,Wind
+Trimont Area Wind Farm,Trimont,Martin,Minnesota,100.5,43.7938,-94.8499,Wind
+Crescent Ridge,Tiskilwa,Bureau,Illinois,53,41.25,-89.5708,Wind
+Wind Park Bear Creek,Bear Creek,Luzerne,Pennsylvania,24,41.235278,-75.753056,Wind
+Jersey-Atlantic Wind Farm,Atlantic City,Atlantic,New Jersey,7.5,39.382222,-74.4475,Wind
+Wolverine Creek,Idaho Falls,Bonneville,Idaho,64.5,43.4195,-111.8294,Wind
+Oasis Wind,Mojave,Kern,California,59,35.06094,-118.292406,Wind
+Elk River Wind,Beaumont,Butler,Kansas,150,37.5797,-96.5503,Wind
+San Juan Mesa Wind Project LLC,Elida,Roosevelt,New Mexico,120,33.9716,-103.8604,Wind
+Adams Wind Farm,Adams,Mower,Minnesota,24,43.554778,-92.724139,Wind
+Fossil Gulch,Hagerman,Gooding,Idaho,10.5,42.858056,-114.949444,Wind
+Sweetwater Wind 3 LLC,Sweetwater,Nolan,Texas,135,32.290833,-100.4219,Wind
+Spring Canyon,Peetz,Logan,Colorado,60,40.983,-102.9647,Wind
+Wild Horse,Ellensburg,Kittitas,Washington,272.6,47.036269,-120.206494,Wind
+Blue Canyon Windpower II,Carnegie,Comanche,Oklahoma,151,34.8661,-98.6056,Wind
+Aragonne Wind LLC,Santa Rosa,Guadalupe,New Mexico,90,34.8147,-105.0108,Wind
+Sweetwater Wind 4 LLC,Roscoe,Nolan,Texas,241,32.3122,-100.5303,Wind
+High Trail Wind Farm LLC,Ellsworth,McLean,Illinois,198,40.4792,-88.7989,Wind
+Cedar Ridge,Eden,Fond Du Lac,Wisconsin,67.7,43.692647,-88.329742,Wind
+Spearville,Ford,Ford,Kansas,148.5,37.8641,-99.7528,Wind
+Whispering Willow Wind Farm - East,Iowa Falls,Franklin,Iowa,199.7,42.630513,-93.206389,Wind
+FPL Energy Burleigh County Wind,Wilton,Burleigh,North Dakota,49.5,47.1167,-100.7333,Wind
+Klondike Windpower II,Wasco,Sherman,Oregon,75,45.571,-120.593,Wind
+Leaning Juniper,Arlington,Gilliam,Oregon,109.2,45.652457,-120.209783,Wind
+Big Horn Wind Project,Bickleton,Klickitat,Washington,199,45.8877,-120.2896,Wind
+Shiloh I Wind Project,Rio Vista,Solano,California,150,38.12,-121.85,Wind
+Casselman Wind Power Project,Garrett,Somerset,Pennsylvania,34.5,39.85,-79.138,Wind
+Cedar Creek Wind,Grover,Weld,Colorado,300.5,40.8944,-104.0206,Wind
+Sweetwater Wind 5,Roscoe,Nolan,Texas,80.5,32.236944,-100.4833,Wind
+Pike County Wind Power,Pittsfield,Pike,Illinois,1.7,39.6189,-90.8461,Wind
+Judith Gap Wind Energy Center,Harlowton,Wheatland,Montana,135,46.5725,-109.7531,Wind
+Pakini Nui Wind Farm,Naalehu,Hawaii,Hawaii,21,18.9742,-155.6914,Wind
+Victory Wind Farm,Westside,Carroll,Iowa,105,42.1169,-95.1292,Wind
+Centennial Wind Farm,Fort Supply,Harper,Oklahoma,120,36.637733,-99.601869,Wind
+Northern Iowa Windpower II,Kensett,Worth,Iowa,80,43.3608,-93.2978,Wind
+Top of Iowa Windfarm III,Kensett,Worth,Iowa,3.4,43.3597,-93.3208,Wind
+Blue Sky Green Field Wind Project,Fond du Lac,Fond Du Lac,Wisconsin,16,43.8794,-88.2708,Wind
+FPL Energy Oliver Wind I LLC,Center,Oliver,North Dakota,50.6,47.152847,-101.197716,Wind
+Forest Creek Wind Farm LLC,Big Springs,Glasscock,Texas,124.2,32.039,-101.22,Wind
+Mesquite Wind Power LLC,Abilene,Shackelford,Texas,200,32.6256,-99.4928,Wind
+Lempster Wind LLC,Lempster,Sullivan,New Hampshire,24,43.233,-72.1455,Wind
+Agriwind,Tiskilwa,BUREAU,Illinois,8.4,41.3017,-89.6236,Wind
+Stahl Wind Energy,Pipestone,Pipestone,Minnesota,1.7,44.0256,-96.4303,Wind
+Carstensen Wind,Pipestone,Pipestone,Minnesota,1.7,44.0247,-96.4369,Wind
+Northern Lights Wind LLC,Pipestone,Pipestone,Minnesota,1.7,44.015,-96.4367,Wind
+Lucky Wind,Pipestone,Pipestone,Minnesota,1.7,44.0211,-96.4406,Wind
+Greenback Energy,Pipestone,Pipestone,Minnesota,1.7,44.0208,-96.4331,Wind
+Redwood Falls Wind,Redwood Falls,Redwood,Minnesota,3.4,44.502778,-95.175,Wind
+Fairmont Wind,Fairmont,Martin,Minnesota,5.2,43.575,-94.446667,Wind
+Michigan Wind 1,Ubly,Huron,Michigan,69,43.7092,-82.9633,Wind
+Mower County Wind Energy Center,Grand Meadow,Mower,Minnesota,98.9,43.61407,-92.59882,Wind
+Wildorado Wind LLC,Vega,Oldham,Texas,161,35.291944,-102.303056,Wind
+Pine Tree Wind Power Project,Cantil,Kern,California,135,35.248006,-118.175356,Wind
+Burley Butte Windpark,Burley,Cassia,Idaho,21.3,42.490341,-113.926605,Wind
+Golden Valley Wind Park LLC,Burley,Cassia,Idaho,12,42.436804,-113.925536,Wind
+Milner Dam Wind Park LLC,Burley,Cassia,Idaho,19.5,42.460629,-114.017297,Wind
+Oregon Trail Wind Park,Hagerman,Twin Falls,Idaho,13.5,42.840556,-114.989722,Wind
+Pilgrim Stage Wind Park,Hagerman,Twin Falls,Idaho,10.5,42.7975,-114.998611,Wind
+Salmon Falls Wind Park,Hagerman,Twin Falls,Idaho,21,42.681944,-114.989167,Wind
+Thousand Springs Wind Park,Hagerman,Twin Falls,Idaho,12,42.870278,-114.967778,Wind
+Tuana Gulch Wind Park,Hagerman,Twin Falls,Idaho,10.5,42.836854,-114.969342,Wind
+Buena Vista Energy LLC,Byron,Contra Costa,California,38,37.805,-121.6672,Wind
+Hawi Wind Farm,Hawi,Hawaii,Hawaii,10.6,20.257252,-155.850382,Wind
+Mars Hill Wind Farm Project,Mars Hill,Aroostook,Maine,42,46.54422,-67.8111,Wind
+Kaheawa Pastures Wind Farm,Maalaea,Maui,Hawaii,30,20.81421,-156.551,Wind
+GSG LLC,West Brooklyn,Lee,Illinois,80,41.643611,-89.173056,Wind
+Allegheny Ridge Wind Farm,Portage,Cambria,Pennsylvania,80,40.383889,-78.579444,Wind
+Post Wind Farm LP,Fluvanna,Borden,Texas,84,32.92544,-101.219397,Wind
+MinnDakota Wind LLC,Ivanhoe,Lincoln,Minnesota,150,44.2667,-96.3444,Wind
+Twin Buttes Wind Project,Lamar,Bent,Colorado,75,37.6735,-102.8622,Wind
+Marengo Wind Plant,Dayton,Columbia,Washington,234,46.3747,-117.7772,Wind
+Klondike Windpower III,Wasco,Sherman,Oregon,297.5,45.5836,-120.5042,Wind
+Locust Ridge,Mahanoy City,Schuylkill,Pennsylvania,26,40.855,-76.1292,Wind
+Sand Bluff Wind Farm,Big Spring,Glasscock,Texas,90,31.991442,-101.302637,Wind
+Post Oak Wind LLC,Abilene,Shackelford,Texas,200,32.5144,-99.6564,Wind
+Buffalo Gap 2 Wind Farm,Merkel,Nolan,Texas,232.5,32.318221,-100.176986,Wind
+Biglow Canyon Wind Farm,Wasco,Sherman,Oregon,449.7,45.653745,-120.603414,Wind
+White Creek Wind Farm,Roosevelt,Klickitat,Washington,204,45.815467,-120.341883,Wind
+Smoky Hills Wind Project Phase I,Lincoln,Lincoln,Kansas,100.8,38.879936,-98.160159,Wind
+Buffalo Mountain Energy Center,Oliver Springs,Anderson,Tennessee,27,36.127092,-84.344168,Wind
+Prairie Star Wind Farm,Grand Meadow,Mower,Minnesota,100.6,43.6861,-92.6272,Wind
+NedPower Mount Storm,Mount Storm,Grant,West Virginia,264,39.2175,-79.2094,Wind
+Pomeroy Wind Farm,Fonda,Pocahontas,Iowa,296,42.5842,-94.7467,Wind
+Scurry County Wind LP,Snyder,Scurry,Texas,130.5,32.7204,-100.9952,Wind
+Cow Branch,Tarkio,Atchison,Missouri,50.4,40.4535,-95.4683,Wind
+Conception,Stanberry,Nodaway,Missouri,50.4,40.2572,-94.6722,Wind
+Loess Hills,Rock Port,Atchison,Missouri,5,40.4144,-95.54,Wind
+Eastridge Wind Project,Porter,Murray,Minnesota,10.4,43.9358,-95.9222,Wind
+Windom Wind Project,Bingham Lake,Cottonwood,Minnesota,15.6,43.9578,-95.1306,Wind
+Bluegrass Ridge,King City,Gentry,Missouri,56.7,40.1006,-94.4869,Wind
+Porterhouse Wind (4) LLC,Gruver,Hansford,Texas,79.8,36.4144,-101.3864,Wind
+Filet Wind (5) LLC,Stratford,Sherman,Texas,10,36.4453,-101.8761,Wind
+Tenderloin Wind (6) LLC,Texhoma,Sherman,Texas,10,36.4669,-101.8222,Wind
+Peetz Table Wind Energy,Peetz,Logan,Colorado,199.5,40.986,-103.436,Wind
+Terra-Gen VG Wind LLC,Tehachapi,Kern,California,7.4,35.1161,-118.3789,Wind
+FPL Energy Oliver Wind II LLC,Center,Oliver,North Dakota,48,47.152847,-101.197716,Wind
+Steel Winds Wind Farm,Lackawanna,Erie,New York,20,42.8167,-78.8675,Wind
+Shane's Wind Machine,Ruthton,Pipestone,Minnesota,1.3,44.1508,-96.1361,Wind
+Blue Breezes LLC,Blue Earth,Faribault,Minnesota,1.3,43.6558,-94.1536,Wind
+Blue Breezes II LLC,Blue Earth,Faribault,Minnesota,1.3,43.6558,-94.1564,Wind
+Sunset Breeze LLC,Rushmore,Nobles,Minnesota,1.3,43.5811,-95.78,Wind
+Minnesota Breeze LLC,Rushmore,Nobles,Minnesota,1.3,43.5833,-95.7781,Wind
+G Flow Wind LLC,Rushmore,Nobles,Minnesota,1.3,43.586111,-95.776111,Wind
+Wolf Wind Enterprises LLC,Rushmore,Nobles,Minnesota,1.3,43.581111,-95.775833,Wind
+Green Acres Breeze LLC,Rushmore,Nobles,Minnesota,1.3,43.586111,-95.780278,Wind
+Horseshoe Bend Wind Park,Great Falls,Cascade,Montana,9,47.4983,-111.4392,Wind
+Champion Wind Farm LLC,Roscoe,Nolan,Texas,126.5,32.3983,-100.6481,Wind
+Roscoe Wind Farm LLC,Roscoe,Nolan,Texas,209,32.4694,-100.6664,Wind
+Munnsville Wind Farm LLC,Madison,Madison,New York,34.5,42.9086,-75.5697,Wind
+Snyder Wind Farm,Synder,Scurry,Texas,63,32.739294,-100.738949,Wind
+"Langdon Renewables, LLC",Langdon,Cavalier,North Dakota,118.5,48.63,-98.315,Wind
+Prairie Winds ND1,Minot,Ward,North Dakota,115.5,47.933621,-101.269189,Wind
+Prairie Winds SD1,Crow Lake,Jerauld,South Dakota,162,43.886389,-98.7875,Wind
+Logan Wind Energy,Peetz,Logan,Colorado,201,40.941,-103.259,Wind
+Old Trail Wind Farm,Ellsworth,McLean,Illinois,198,40.4792,-88.7989,Wind
+Fenton Wind Farm,Chandler,Murray,Minnesota,205.5,43.852778,-96.018333,Wind
+Noble Clinton Windpark LLC,Churubusco,Clinton,New York,100.5,44.8914,-74.0061,Wind
+Noble Ellenburg Windpark LLC,Churubusco,Clinton,New York,81,44.8914,-74.0061,Wind
+Noble Bliss Windpark LLC,Bliss,Wyoming,New York,100.5,42.5367,-78.3047,Wind
+Sleeping Bear LLC,Woodward,Harper,Oklahoma,94.5,36.640278,-99.500556,Wind
+Providence Heights Wind LLC,Tiskilwa,Bureau,Illinois,72,41.2294,-89.5572,Wind
+Elkhorn Valley Wind Farm,Union,Union,Oregon,100.7,45.085221,-117.816273,Wind
+BC Energy LLC,Worthington,Jackson,Minnesota,4,43.6183,-95.4253,Wind
+KC Energy LLC,Worthington,Jackson,Minnesota,4,43.6292,-95.4169,Wind
+K&D Energy LLC,Worthington,Jackson,Minnesota,4,43.6181,-95.4172,Wind
+KSS Turbines LLC,Worthington,Jackson,Minnesota,4,43.6247,-95.4314,Wind
+Prairie Wind Power LLC,Worthington,Jackson,Minnesota,4,43.5958,-95.3833,Wind
+Taconite Ridge 1 Wind Energy Center,Mountain Iron,St Louis,Minnesota,25,47.5747,-92.5917,Wind
+Dutch Hill Wind Project,Cohocton,Steuben,New York,37.5,42.5456,-77.4967,Wind
+Cohocton Wind Project,Cohocton,Steuben,New York,87.5,42.45,-77.52,Wind
+Harvest,Elkton,Huron,Michigan,52.8,43.83,-83.2064,Wind
+Mountain Home,Mountain Home,Elmore,Idaho,21,43.0272,-115.4656,Wind
+Bennett Creek Windfarm LLC - Mountain Home,Mountain Home,Elmore,Idaho,21,43.0536,-115.4803,Wind
+Buffalo Gap 3 Wind Farm,Nolan,Nolan,Texas,170.2,32.2878,-100.1,Wind
+Camp Grove Wind Farm,Wyoming,STARK,Illinois,150,41.090583,-89.639811,Wind
+Stanton Wind Energy LLC,Lenorah,Martin,Texas,120,32.2353,-101.8367,Wind
+Osceola Windpower LLC,Harris,Osceola,Iowa,100,43.4303,-95.4167,Wind
+Chandler Hills Wind Farm,Chandler,Murray,Minnesota,2,43.917,-95.954,Wind
+Butler Ridge,Mayville,Dodge,Wisconsin,54,43.400278,-88.481111,Wind
+Majestic 1 Wind Farm,Panhandle,Carson,Texas,79.5,35.3919,-101.53,Wind
+South Trent Wind Farm,Sweetwater,Nolan,Texas,101.2,32.4081,-100.1286,Wind
+Wessington Springs,Wessington Springs,Jerauld,South Dakota,51,44.0025,-98.590833,Wind
+North Allegheny Windpower Project,Lilly,Blair,Pennsylvania,70,40.4381,-78.5436,Wind
+Hatchet Ridge Wind Project,Burney,Shasta,California,101.2,40.8981,-121.8036,Wind
+Michigan Wind 2,Minden City,Sanilac,Michigan,90,43.663056,-82.746944,Wind
+Pattern Gulf Wind,Armstrong,Kenedy,Texas,283.2,27.0011,-97.5994,Wind
+Dempsey Ridge Wind Farm,Cheyenne,Roger Mills,Oklahoma,132,35.529778,-99.814456,Wind
+Goodnoe Hills,Goldendale,Klickitat,Washington,103.4,45.781825,-120.521151,Wind
+Tatanka Wind Power LLC,Ashley,Dickey,North Dakota,180,45.959325,-98.946325,Wind
+Velva Windfarm LLC,Velva,McHenry,North Dakota,11.9,48.083625,-100.9215,Wind
+Whirlwind Energy Center,Floydada,Floyd,Texas,57,34.105,-101.0986,Wind
+Charles City Wind Farm,Charles City,Floyd,Iowa,80,43.0003,-92.62,Wind
+Benton County Wind Farm,Earl Park,Benton,Indiana,130.5,40.695,-87.4886,Wind
+Forward Windpower LLC,Berlin,Somerset,Pennsylvania,29.4,40.0853,-78.8633,Wind
+Lookout Windpower LLC,Berlin,Somerset,Pennsylvania,37.8,39.8794,-78.9183,Wind
+Tuolumne Wind Project,Goldendale,Klickitat,Washington,136.3,45.8797,-120.8072,Wind
+Jeffers Wind 20 LLC,Jeffers,Cottonwood,Minnesota,50,44.057778,-95.2525,Wind
+Spanish Fork Wind Park 2 LLC,Spanish Fork,Utah,Utah,18.9,40.071389,-111.582222,Wind
+Mountain Wind Power LLC,Fort Bridger,Uinta,Wyoming,61,41.288056,-110.480741,Wind
+Mountain Wind Power II LLC,Fort Bridger,Uinta,Wyoming,80,41.263889,-110.544444,Wind
+Goat Wind LP,Sterling City,Sterling,Texas,149.6,31.951944,-100.791389,Wind
+Odin Wind Farm LLC,Mountainlake,Cottonwood,Minnesota,20,43.8953,-94.9142,Wind
+Capricorn Ridge Wind LLC,Sterling City,Sterling,Texas,662.5,31.951958,-101.018936,Wind
+Winnebago Wind Power Project,Forest City,Winnebago,Iowa,20,43.315,-93.77,Wind
+Barton Windpower LLC,Kensett,Worth,Iowa,160,43.393,-93.091,Wind
+Farmers City Wind LLC,Tarkio,Atchison,Missouri,146,40.575,-95.5228,Wind
+Locust Ridge II LLC,Shenandoah,Schuylkill,Pennsylvania,102,40.8411,-76.1547,Wind
+Silver Star I Wind Power Project,Dublin,Erath,Texas,60,32.338659,-98.476051,Wind
+McAdoo Wind Energy LLC,McAdoo,Dickens,Texas,150,33.752201,-100.967402,Wind
+Turkey Track Wind Energy LLC,Blackwell,Nolan,Texas,169.5,32.1981,-100.2686,Wind
+Scurry County Wind II,Snyder,Scurry,Texas,120,32.718056,-100.793333,Wind
+Gunsight Mountain Wind Energy LLC,Big Spring,Howard,Texas,120,32.240278000000004,-101.473611,Wind
+Fowler Ridge Wind Farm LLC,Fowler,Benton,Indiana,600.3,40.583889,-87.3336,Wind
+Sherbino I Wind Farm,Fort Stockton,Pecos,Texas,150,30.807272,-102.355628,Wind
+Diamond Willow Wind Facility,Baker,Fallon,Montana,30,46.2753,-104.1836,Wind
+Elbow Creek Wind Project LLC,Forsan,Howard,Texas,121.9,32.1408,-101.3986,Wind
+Cloud County Wind Farm,Concordia,Cloud,Kansas,201,39.4375,-97.6644,Wind
+Pebble Springs Wind LLC,Wasco,Gilliam,Oregon,98.7,45.7119,-120.125,Wind
+Hay Canyon Wind Power LLC,Moro,Sherman,Oregon,100.8,45.52,-120.5744,Wind
+Dillon Wind LLC,North Palm Springs,Riverside,California,45,33.9393,-116.5527,Wind
+Buffalo Ridge I LLC,Elkton,Brookings,South Dakota,50.4,44.4328,-96.4779,Wind
+Elm Creek Wind LLC,Trimont,Jackson,Minnesota,99,43.7542,-94.949700000000007,Wind
+Moraine II Wind LLC,Woodstock,Pipestone,Minnesota,49.5,44.1238,-96.0784,Wind
+Penascal Wind Power LLC,Sarita,Kenedy,Texas,201.6,27.0702,-97.5077,Wind
+South Chestnut LLC,Farmington,Fayette,Pennsylvania,50.4,39.7513,-79.7271,Wind
+Pioneer Prairie Wind Farm,McIntire,Mitchell,Iowa,300,43.4839,-92.6131,Wind
+Hull Wind II,Hull,Plymouth,Massachusetts,1.8,42.261111,-70.856389,Wind
+Red Hills Wind Project LLC,Hammon,Roger Mills,Oklahoma,123,35.535,-99.3828,Wind
+EcoGrove Wind LLC,Lena,Stephenson,Illinois,100.5,42.451481,-89.878428,Wind
+Carroll Wind Farm,Carroll,Carroll,Iowa,159.1,42.1622,-94.93,Wind
+Adair Wind Farm,Adair,Adair,Iowa,174.8,41.4236,-94.665,Wind
+Walnut Wind Farm,Walnut,Pottawattamie,Iowa,165.2,41.4517,-95.2383,Wind
+Central Plains Wind Farm,Marienthal,Wichita,Kansas,99,38.503167,-101.161472,Wind
+Flat Ridge Wind Farm,Nashville,Barber,Kansas,50,37.369167,-98.460278,Wind
+Hackberry Wind Farm,Albany,Shackelford,Texas,162.3,32.7683,-99.4228,Wind
+Marshall Wind 2 LLC,Marshall,Lyon,Minnesota,4.2,44.3236,-95.8222,Wind
+Marshall Wind 3 LLC,Marshall,Lyon,Minnesota,4.2,44.3211,-95.7942,Wind
+Marshall Wind 4 LLC,Marshall,Lyon,Minnesota,4.2,44.3361,-95.8242,Wind
+Marshall Wind 5 LLC,Marshall,Lyon,Minnesota,2.1,44.3303,-95.8344,Wind
+Marshall Wind 6 LLC,Marshall,Lyon,Minnesota,2.1,44.3308,-95.8297,Wind
+Kibby Wind Facility,Chain of Ponds,Franklin,Maine,132,45.3853,-70.5258,Wind
+Crane Creek Wind Energy Center,Riceville,Howard,Iowa,15.9,43.397778,-92.473611,Wind
+High Plains,Panhandle,Carson,Texas,10,35.3503,-101.54,Wind
+Ribeye Wind (11) LLC,Dumas,Moore,Texas,10,35.8119,-101.9789,Wind
+T-Bone Wind (10) LLC,Dumas,Moore,Texas,10,35.8081,-101.9986,Wind
+Tri-Tip Wind (9) LLC,Sunray,Moore,Texas,10,35.9614,-101.8033,Wind
+Brisket Wind (8) LLC,Sunray,Moore,Texas,10,36.0075,-101.8614,Wind
+Flat Iron Wind (7) LLC,Sunray,Moore,Texas,10,36.0264,-101.9,Wind
+Marshall Wind 1 LLC,Marshall,Lyon,Minnesota,2.1,44.3253,-95.8142,Wind
+Glenrock,Glenrock,Converse,Wyoming,158.3,43.0181,-105.835278,Wind
+Rolling Hills,Glenrock,Converse,Wyoming,138,43.0572,-105.8543,Wind
+Seven Mile Hill,Medicine Bow,Carbon,Wyoming,146.2,41.9203,-106.3758,Wind
+Wheat Field Wind Power Project,Arlington,Gilliam,Oregon,96.6,45.675804,-120.31832,Wind
+Arlington Wind Power Project,Arlington,Gilliam,Oregon,102.9,45.7167,-120.2008,Wind
+Rail Splitter Wind Farm,Hopedale,Tazewell,Illinois,100.5,40.3692,-89.4022,Wind
+Marble River Wind Farm,Churubusco,Clinton,New York,215,44.975833,-73.929722,Wind
+Sagebrush Power Partners,Ellensburg,Kittitas,Washington,100.7,47.1356,-120.6872,Wind
+Crosswind Energy Project,Ruthven,Palo Alto,Iowa,21,43.0475,-94.9228,Wind
+Hardin Hilltop Wind LLC,Jefferson,Greene,Iowa,14.7,42.0822,-94.365,Wind
+Shiloh Wind Project 2 LLC,Birds Landing,Solano,California,150,38.1711,-121.8461,Wind
+Wapsipinicon Wind Project,Dexter,Mower,Minnesota,100.5,43.8006,-92.6822,Wind
+Hoosier Wind Project LLC,Goodland,Benton,Indiana,106,40.7178,-87.2631,Wind
+Flat Ridge Wind Energy LLC,Medicine Lodge,Barber,Kansas,49.7,37.3764,-98.4583,Wind
+Noble Altona Windpark LLC,Altona,Clinton,New York,97.5,44.8216,-73.6509,Wind
+Noble Wethersfield Windpark LLC,Gainsville,Wyoming,New York,126,42.6697,-78.2278,Wind
+Noble Chateaugay Windpark LLC,Chateaugay,Franklin,New York,106.5,44.8917,-74.0299,Wind
+Great Plains Windpark LLC,Spearman,Hansford,Texas,114,36.4964,-101.3917,Wind
+Langdon Wind II LLC,Osnabrock,Cavalier,North Dakota,40.5,48.6292,-98.3164,Wind
+Osceola Windpower II,Harris,Osceola,Iowa,50,43.4303,-95.4167,Wind
+FPL Energy Ashtabula Wind LLC,Luverne,Barnes,North Dakota,148.5,47.1294,-97.8853,Wind
+Panther Creek Wind Farm I,Big Spring,Howard,Texas,142.5,32.100823,-101.451385,Wind
+Panther Creek Wind Farm II,Big Spring,Glasscock,Texas,115.5,31.9361,-101.2983,Wind
+FPL Energy Crystal Lake Wind LLC,Britt,Hancock,Iowa,150,43.2125,-93.8311,Wind
+FPL Energy Story Wind LLC,Zearing,Story,Iowa,150,42.1044,-93.2722,Wind
+FPL Energy Crystal Lake Wind II LLC,Britt,Hancock,Iowa,200,43.273731,-93.800002,Wind
+Threemile Canyon,Boardman,Morrow,Oregon,9.9,45.6758,-119.9375,Wind
+Cassia Wind,Hagerman,Twin Falls,Idaho,10.5,42.8444,-115.0369,Wind
+Cassia Gulch,Hagerman,Twin Falls,Idaho,18.9,42.8744,-115.0172,Wind
+Grand Ridge Wind Energy Center,Marseilles,LaSalle,Illinois,210,41.2269,-88.6836,Wind
+Forward Wind Energy Center,Brownsville,Dodge,Wisconsin,18.9,43.6161,-88.4969,Wind
+High Lonesome Mesa LLC,Willard,Torrance,New Mexico,100,34.466667,-105.9625,Wind
+Buffalo Bear LLC,Woodward,Harper,Oklahoma,18.9,36.7767,-99.6353,Wind
+Elkhorn Ridge Wind LLC,Bloomfield,Knox,Nebraska,81,42.6978,-97.6189,Wind
+Willow Creek Energy Center,Lone,Morrow,Oregon,72,45.6533,-119.9914,Wind
+High Sheldon Wind Farm,Strykersville,Wyoming,New York,112,42.7794,-78.4269,Wind
+Bull Creek Wind,O'Donnell,Borden,Texas,180,32.929014,-101.578617,Wind
+Ocotillo Windpower,Forsan,Howard,Texas,58.8,32.1217,-101.3853,Wind
+Happy Jack Windpower Project,Cheyenne,Laramie,Wyoming,29.4,41.139722,-104.997778,Wind
+Notrees Windpower Hybrid,Goldsmith,Ector,Texas,152.5,31.995,-102.828333,Wind
+Butter Creek Power LLC,Echo,Umatilla,Oregon,5,45.7017,-119.4222,Wind
+Big Top LLC,Echo,Morrow,Oregon,1.7,45.655,-119.4647,Wind
+Four Corners Windfarm LLC,Echo,Umatilla,Oregon,10,45.7286,-119.4181,Wind
+Four Mile Canyon Windfarm LLC,Echo,Morrow,Oregon,10,45.6447,-119.4533,Wind
+Oregon Trail Windfarm LLC,Echo,Umatilla,Oregon,9.9,45.7122,-119.4044,Wind
+Pacific Canyon Windfarm LLC,Echo,Morrow,Oregon,8.3,45.6542,-119.4869,Wind
+Sand Ranch Windfarm LLC,Echo,Morrow,Oregon,9.9,45.6447,-119.4767,Wind
+Wagon Trail LLC,Echo,Morrow,Oregon,3.3,45.6531,-119.4625,Wind
+Ward Butte Windfarm LLC,Echo,Umatilla,Oregon,6.6,45.6967,-119.4097,Wind
+Panther Creek Wind Farm Three,Big Spring,Sterling,Texas,199.5,31.9925,-101.1167,Wind
+Stony Creek Wind Farm LLC,Berlin,Somerset,Pennsylvania,52.5,40.0311,-78.8153,Wind
+Pyron Wind Farm LLC Hybrid,Hermleigh,Fisher,Texas,249,32.5886,-100.6728,Wind
+Papalote Creek I LLC,Taft,San Patricio,Texas,180,27.9386,-97.4586,Wind
+Inadale Wind Farm LLC Hybrid,Roscoe,Nolan,Texas,197,32.4969,-100.5797,Wind
+Smoky Hills Wind Project Phase II,Lincoln,Lincoln,Kansas,148.5,38.892653,-98.168876,Wind
+Stetson Wind I,Danforth,Washington,Maine,57,45.4822,-67.9944,Wind
+Rollins Wind Project,Winn Village,Penobscot,Maine,60,45.34598,-68.3802,Wind
+Stetson Wind II,Danforth,Washington,Maine,25.5,45.61498,-67.971,Wind
+Grand Meadow,Dexter,Mower,Minnesota,100.5,43.7189,-92.705,Wind
+Oakfield Wind Project,City of Oakfield,Aroostook,Maine,148,46.058056,-68.147222,Wind
+Luverne Wind Energy Center,Luverne,Steele,North Dakota,49.5,47.3272,-97.8975,Wind
+Ashtabula Wind Energy Center,Luverne,Barnes,North Dakota,48,47.1244,-97.8961,Wind
+Langdon Wind Energy Center,Langdon,Cavalier,North Dakota,40.5,48.6303,-98.3169,Wind
+Bison I Wind Energy Center,New Salem,Morton,North Dakota,81.8,46.98,-101.554722,Wind
+McFadden Ridge,Rock River,Albany,Wyoming,35.2,41.7244,-105.9906,Wind
+High Plains,Rock River,Albany,Wyoming,122.1,41.675052,-106.011124,Wind
+Armenia Mountain Wind Farm,Mainesburg,Tioga,Pennsylvania,100.5,41.7619,-76.8553,Wind
+Rolling Thunder Wind Farm Hybrid,Miller,Hand,South Dakota,25,44.477778,-99.133889,Wind
+Nobles Wind Project,Reading,Nobles,Minnesota,200,43.7036,-95.7131,Wind
+NaturEner Glacier Wind Energy 1,Ethridge,Toole,Montana,104.2,48.51,-112.1097,Wind
+NaturEner Glacier Wind Energy 2,Ethridge,Toole,Montana,101.4,48.5333,-112.1847,Wind
+Steel Winds II,Lackawanna,Erie,New York,15,42.8072,-78.8617,Wind
+Milford Wind Corridor I LLC,Milford,Beaver,Utah,203.5,38.53569,-112.935,Wind
+Sheffield Wind,Sheffield,Caledonia,Vermont,40,44.67598,-72.1013,Wind
+Kaheawa Wind Power II LLC,Wailuku,Maui,Hawaii,21,20.79467,-156.536,Wind
+Bull Hill Wind Project,Eastbrook,Hancock,Maine,34.5,44.723056,-68.2425,Wind
+Kahuku Wind Power LLC,Honolulu,Honolulu,Hawaii,30,21.68097,-157.975,Wind
+Campbell Hill Windpower,Glenrock,Converse,Wyoming,99,43.01455,-105.999,Wind
+Silver Sage Windpower,Cheyenne,Laramie,Wyoming,42,41.12968,-105.024,Wind
+Casper Wind Farm,Evansville,Natrona,Wyoming,17,42.884703,-106.221442,Wind
+Streator Cayuga Ridge South,Odell,Livingston,Illinois,300,40.9969,-88.49,Wind
+Penascal II Wind Project LLC,Sarita,Kenedy,Texas,201,27.1197,-97.5499,Wind
+Star Point Wind Project LLC,Wasco,Sherman,Oregon,98.7,45.51,-120.48,Wind
+Rugby Wind Power Project,Barton,Pierce,North Dakota,149,48.4968,-99.9513,Wind
+Dry Lake Wind LLC,Heber,Navajo,Arizona,63,34.6596,-110.2842,Wind
+Mesalands Comm College Wind Turbine,Tucumcari,Quay,New Mexico,1.5,35.17,-103.74,Wind
+Milford Wind Corridor Stage II LLC,Milford,Beaver,Utah,102,38.58523,-112.931,Wind
+Blue Canyon Windpower V LLC,Carnegie,Caddo,Oklahoma,99,34.8217,-98.4525,Wind
+Meadow Lake Wind Farm LLC,Lafayette,White,Indiana,199.7,40.6275,-86.935,Wind
+Blackstone Wind Farm LLC,Ransom,Livingston,Illinois,102,41.1508,-88.6233,Wind
+Lost Lakes Wind Farm LLC,Lake Park,Dickinson,Iowa,100,43.3456,-95.3233,Wind
+Meadow Lake Wind Farm II LLC,Lafayette,White,Indiana,99,40.6431,-87.0242,Wind
+Blackstone Wind Farm II LLC,Dwight,Livingston,Illinois,200,41.1406,-88.53,Wind
+Meadow Lake Wind Farm III LLC,Lafayette,White,Indiana,103.5,40.5986,-87.0194,Wind
+Quilt Block Wind Farm LLC,Darlington,Lafayette,Wisconsin,98,42.673333,-90.265277,Wind
+Greensburg,Greensburg,Kiowa,Kansas,12.5,37.5499,-99.3444,Wind
+Wilton Wind II LLC,Wilton,Burleigh,North Dakota,49.5,47.1333,-100.7011,Wind
+Ashtabula Wind II LLC,Luverne,Steele,North Dakota,120,47.292437,-97.931692,Wind
+Payne's Ferry,Hagerman,Twin Falls,Idaho,21,42.825278,-115.010833,Wind
+Camp Reed,Glenns Ferry,Elmore,Idaho,22.5,42.811944,-115.048889,Wind
+Yahoo Creek,Hagerman,Twin Falls,Idaho,21,42.770833,-114.988611,Wind
+Beaver Ridge Wind,Freedom,Waldo,Maine,4.5,44.4967,-69.35,Wind
+Stoney Corners Wind Farm,McBain,Missaukee,Michigan,59,44.19,-85.2983,Wind
+Big Sky Wind LLC,Ohio,Bureau,Illinois,240,41.599167,-89.456111,Wind
+Tuana Springs,Hagerman,Twin Falls,Idaho,16.8,42.8925,-115.0164,Wind
+Eurus Combine Hills Turbine Ranch 2,Milton Freewater,Umatilla,Oregon,66.1,45.943,-118.591,Wind
+Highland Wind Project (PA),Sidman,Cambria,Pennsylvania,62.5,40.3042,-78.6908,Wind
+Beech Ridge Energy LLC,Rupert,Greenbrier,West Virginia,100.5,38.0878,-80.4925,Wind
+Harvest Wind Project,Roosevelt,Klickitat,Washington,98.9,45.8131,-120.3475,Wind
+Langford Wind Power,Christoval,Tom Green,Texas,150,31.085435,-100.67882,Wind
+Barton Chapel Wind Farm,Jacksboro,Jack,Texas,120,33.06797,-98.337652,Wind
+Windy Flats Wind Project,Centerville,Klickitat,Washington,262.2,45.7269,-120.8339,Wind
+Cedar Hills Wind Farm,Rhame,Bowman,North Dakota,19.5,46.245556,-103.767222,Wind
+Colorado Highlands Wind,Fleming,Logan,Colorado,96.1,40.756944,-102.743055,Wind
+University of Delaware Wind Turbine,Lewes,Sussex,Delaware,2,38.782931,-75.164903,Wind
+Meadow Lake Wind Farm IV,Lafayette,White,Indiana,98.7,40.6778,-87.0328,Wind
+PPL Frey Farm Landfill Wind,Conestoga,Lancaster,Pennsylvania,3.2,39.959167,-76.455555,Wind
+Pillar Mountain Wind Project Microgrid,Kodiak,Kodiak Island,Alaska,9,57.7869,-152.4406,Wind
+Vantage Wind Energy LLC,Ellensburg,Kittitas,Washington,90,46.9547,-120.1819,Wind
+Lost Creek Wind Energy Facility,King City,DeKalb,Missouri,150,39.981389,-94.518056,Wind
+Spring Valley Wind Project,Ely,White Pine,Nevada,150,39.104167,-114.492222,Wind
+Day County Wind LLC,Conde,Day,South Dakota,99,45.215,-97.9056,Wind
+Lower Snake River Wind Energy Project,Pomeroy,Garfield,Washington,342.7,46.524167,-117.821666,Wind
+Bent Tree Wind Farm Phase 1,Hartland,Freeborn,Minnesota,201.3,43.724596,-93.450429,Wind
+Glacier Hills,Cambria,Columbia,Wisconsin,24,43.563889,-89.148056,Wind
+FPL Energy Montezuma Winds LLC,Birds Landing,Solano,California,36.8,38.163581,-121.79661,Wind
+Cedar Creek II,New Raymer,Weld,Colorado,248.3,40.9475,-103.783889,Wind
+Goshen Phase II,Idaho Falls,Bonneville,Idaho,124.5,43.467057,-111.836381,Wind
+Papalote Creek II LLC,Taft,San Patricio,Texas,200.1,27.9958,-97.2967,Wind
+Waverly Community Wind Project,Waverly,Bremer,Iowa,2.7,42.7317,-92.4711,Wind
+Roth Rock Wind Farm LLC,Oakland,Garrett,Maryland,40,39.254444,-79.467222,Wind
+"Roth Rock North Wind Farm, LLC",Oakland,Garrett,Maryland,10,39.287222,-79.434444,Wind
+Kit Carson Windpower,Burlington,Kit Carson,Colorado,51,39.3383,-102.3533,Wind
+Welcome Wind Turbine,Welcome,Martin,Minnesota,2.1,43.6825,-94.5892,Wind
+Lakota Wind Wind Farm,Lakota,Kossuth,Iowa,10.5,43.3839,-94.1475,Wind
+Iowa Lakes Superior Wind Farm,Superior,Dickinson,Iowa,10.5,43.445,-94.980278,Wind
+MA Military Reservation Wind Project,Otis ANG Base Bourne,Barnstable,Massachusetts,4.5,41.6647,-70.5942,Wind
+Iowa Lakes Community College Wind Farm,Estherville,Emmet,Iowa,1,43.385347,-94.815655,Wind
+Texico Wind Ranch LP,Texico,Curry,New Mexico,1.9,34.36,-103.0667,Wind
+Cedro Hill Wind LLC,Bruni,Webb,Texas,150,27.576111,-98.905278,Wind
+Taloga Wind LLC,Putnam,Dewey,Oklahoma,130,35.855556,-98.968333,Wind
+Laredo Ridge Wind LLC,Petersburg,Boone,Nebraska,79.9,41.880278,-98.023889,Wind
+Little Pringle I Wind Farm,Morse,Hutchinson,Texas,10,35.964272,-101.540238,Wind
+Little Pringle II Wind Farm,Morse,Hutchinson,Texas,10,35.924858,-101.541363,Wind
+Chestnut Flats Wind Farm,Altoona,Blair,Pennsylvania,38,40.522846,-78.476921,Wind
+Grant County Wind LLC,Woodstock,Grant,Minnesota,20,45.8033,-95.8844,Wind
+Crofton Bluffs Wind LLC,Bloomfield,Knox,Nebraska,40,42.698333,-97.58,Wind
+Alta Wind Energy Center I,Mojave,Kern,California,150,35.033725,-118.353422,Wind
+Flat Water Wind Farm LLC,Du Bois,Richardson,Nebraska,60,40.0011,-95.9289,Wind
+Minonk Wind Farm,Minonk,Woodford,Illinois,192.3,40.888611,-88.997222,Wind
+Sandy Ridge Wind Farm,Tyrone,Blair,Pennsylvania,48.2,40.729207,-78.28735,Wind
+OU Spirit Wind Farm,Woodward,Woodward,Oklahoma,101.2,36.333803,-99.480144,Wind
+Hardscrabble Wind Power LLC,Little Falls,Herkimer,New York,74,43.112222,-74.878888,Wind
+Big Blue,Blue Earth,Faribault,Minnesota,36,43.612222,-94.191944,Wind
+Northern Colorado Wind LLC,Peetz,Logan,Colorado,174.3,40.9881,-102.8969,Wind
+Alta Wind Energy Center II,Mojave,Kern,California,150,35.023889,-118.295278,Wind
+Alta Wind Energy Center III,Mojave,Kern,California,150,35.023889,-118.295278,Wind
+Alta Wind Energy Center IV,Mojave,Kern,California,102,35.008611,-118.242222,Wind
+Alta Wind Energy Center V,Mojave,Kern,California,168,35.008611,-118.242222,Wind
+Dunlap,Medicine Bow,Carbon,Wyoming,111,42.043611,-106.160278,Wind
+Criterion,Oakland,GARRETT,Maryland,70,39.4047,-79.29,Wind
+Dutch Wind Energy,North Palm Springs,Riverside,California,8,33.8942,-116.5603,Wind
+Garnet Wind Energy Center,North Palm Springs,Riverside,California,6.5,33.9053,-116.5825,Wind
+Loraine Windpark Project LLC,Loraine,Mitchell,Texas,150,32.4375,-100.7444,Wind
+Cedar Point Wind,Limon,Lincoln,Colorado,252,39.421787,-103.67814,Wind
+Big Horn Wind II,Bickleton,Klickitat,Washington,50,45.9192,-120.3039,Wind
+Juniper Canyon I Wind Project,Bickleton,Klickitat,Washington,151.2,45.9215,-120.2355,Wind
+FPL Energy Illinois Wind LLC,Shabbona,DeKalb,Illinois,217.5,41.7678,-88.8867,Wind
+Sunray Wind I,Sunray,Moore,Texas,49.5,35.9454,-101.9005,Wind
+Top of the World Windpower Project,Glenrock,Converse,Wyoming,200,42.9258,-105.7872,Wind
+Crossroads Wind Farm,Canton,Dewey,Oklahoma,227,36.035,-98.722222,Wind
+Leaning Juniper Wind Power II,Arlington,Gilliam,Oregon,201,45.651,-120.2598,Wind
+White Oak Energy LLC,Carlock,McLean,Illinois,150,40.590833,-89.046666,Wind
+Elk City LLC,Sweetwater,Roger Mills,Oklahoma,198.1,35.4642,-99.8983,Wind
+Baldwin Wind LLC,Wilton,Burleigh,North Dakota,102.4,47.1133,-100.7086,Wind
+Uilk Wind LLC,Pipestone,Pipestone,Minnesota,4.5,43.9811,-96.4269,Wind
+Fox Island Wind LLC,Vinalhaven,Knox,Maine,4.5,44.094167,-68.865833,Wind
+Red Mesa Wind LLC,Seboyeta,Sandoval,New Mexico,102.4,35.2689,-107.3828,Wind
+Keenan II Renewable Energy Co LLC,Woodward,Woodward,Oklahoma,151.8,36.276111,-99.490833,Wind
+Lakefield Wind Project LLC,Lakefield,Jackson,Minnesota,205.5,43.675,-95.156666,Wind
+Adams Wind Generations LLC,Cosmos,Meeker,Minnesota,20,44.916944,-94.735555,Wind
+"Poseidon Wind, LLC",Herber,Navajo,Arizona,65.1,34.6062,-110.1734,Wind
+New England Wind LLC,Monroe,Berkshire,Massachusetts,28.5,42.7297,-73.0236,Wind
+Community Wind North LLC,Verdi Township,Lincoln,Minnesota,30,44.245556,-96.406389,Wind
+Ridgewind,Woodstock,Pipestone,Minnesota,25.3,44.018889,-96.065277,Wind
+Ashtabula Wind III LLC,Luverne,Barnes,North Dakota,62.4,47.1242,-97.8956,Wind
+Danielson Wind Farms LLC,Cosmos,KANDIYOHI,Minnesota,20,45.071667,-94.752222,Wind
+Notus Wind 1,E. Falmouth,Barnstable,Massachusetts,1.7,41.6083,-70.6089,Wind
+Sherbino II,Ft. Stockton,Pecos,Texas,145,30.772575,-102.505808,Wind
+Elk Wind Farm,Greeley,Delaware,Iowa,40.8,42.583889,-91.370833,Wind
+Gratiot Wind Park,Breckenridge,Gratiot,Michigan,102,43.433889,-84.4975,Wind
+Buffalo Ridge II LLC,Elkton,Brookings,South Dakota,210,44.5281,-96.6267,Wind
+Ryegrass Windfarm,Glenns Ferry,Elmore,Idaho,23,43.037147,-115.439731,Wind
+Hammett Hill Windfarm,Glenns Ferry,Elmore,Idaho,23,43.006133,-115.463289,Wind
+Mainline Windfarm,Glenns Ferry,Elmore,Idaho,23,43.04835,-115.412886,Wind
+Desert Meadow Windfarm,Glenns Ferry,Elmore,Idaho,23,43.056622,-115.452025,Wind
+Cold Springs Windfarm,Glenns Ferry,Elmore,Idaho,23,43.028056,-115.400469,Wind
+Oak Glen Wind Farm,Blooming Prairie,Steele,Minnesota,44,43.920556,-93.140555,Wind
+Valley View Transmission LLC,Edgerton,Murray,Minnesota,10,43.902753,-96.021744,Wind
+Two Ponds Windfarm,Glenns Ferry,Elmore,Idaho,23,43.033781,-115.482592,Wind
+Laurel Mountain Hybrid,Belington,Barbour,West Virginia,97.6,39.0072,-79.8866,Wind
+Blue Creek Wind Project,Paulding,Van Wert,Ohio,302,40.931515,-84.561824,Wind
+Mountain View IV,North Palm Springs,Riverside,California,49,33.8816,-116.5527,Wind
+Bishop Hill Energy LLC,Cambridge,Henry,Illinois,200,41.215278,-90.120833,Wind
+Crystal Lake 3 LLC,Britt,Winnebago,Iowa,66,43.3192,-93.8836,Wind
+Garden Wind LLC,Zearing,Hardin,Iowa,150,42.224436,-93.373625,Wind
+Ralls Wind Farm,Ralls,Crosby,Texas,10,33.661111,-101.39,Wind
+Manzana Wind LLC,Rosamond,Kern,California,189,34.9349,-118.4612,Wind
+Settlers Trail Wind Farm LLC,Sheldon,Iroquois,Illinois,150.4,40.694444,-87.570833,Wind
+Laurel Wind Farm,Laurel,Marshall,Iowa,119.6,41.883333,-92.933333,Wind
+Rolling Hills Wind Farm,Massena,Cass,Iowa,443.9,41.1973,-94.7744,Wind
+Ocotillo Express LLC,Ocotillo,Imperial,California,265.4,32.752778,-116.044722,Wind
+KODE Novus I,Guymon,Texas,Oklahoma,80,36.543889,-101.393611,Wind
+DeWind Frisco,Gruver,Hansford,Texas,20,36.498514,-101.605278,Wind
+Trinity Hills,Olney,Young,Texas,225,33.383611,-98.711944,Wind
+North Hurlburt Wind LLC,Arlington,Gilliam,Oregon,265,45.731611,-120.083466,Wind
+Kawailoa Wind,Haleiwa,Honolulu,Hawaii,69,21.610278,-158.040833,Wind
+Palouse,Oakesdale,Whitman,Washington,105.3,47.155833,-117.364444,Wind
+Bingham Wind,Bingham,Piscataquis,Maine,186,45.103333,-69.761944,Wind
+Winona County Wind LLC,Altura,Winona,Minnesota,0.5,44.1125,-91.924722,Wind
+South Hurlburt Wind LLC,Arlington,Gilliam,Oregon,290,45.706262,-120.079987,Wind
+Horseshoe Bend Wind LLC,Arlington,Gilliam,Oregon,290,45.58555,-120.008249,Wind
+Shirley Wind,Denmark,Brown,Wisconsin,20,44.3481,-87.9278,Wind
+GE - Tehachapi,Tehachapi,Kern,California,5.3,35.155278,-118.369444,Wind
+Record Hill Wind,Roxbury,Oxford,Maine,50.6,44.633611,-70.627777,Wind
+Cooper Farms VW Project,Van Wert,Van Wert,Ohio,4.5,40.905833,-84.570277,Wind
+PaTu Wind Farm LLC,Wasco,Sherman,Oregon,9,45.613061,-120.616906,Wind
+Shiloh III Wind Project LLC,Birds Landing,Solano,California,102.5,38.169444,-121.846944,Wind
+"Minco Wind I, LLC",Minco,Grady,Oklahoma,99.2,35.280278,-97.975556,Wind
+Broken Bow Wind LLC,Broken Bow,Custer,Nebraska,79.9,41.454722,-99.568056,Wind
+Teichert Materials-Teichert Vernalis,San Joaquin,San Joaquin,California,1,37.6167,-121.3564,Wind
+Pinnacle Wind Force LLC,Keyser,Mineral,West Virginia,55.2,39.445,-79.03,Wind
+New Harvest Wind Project LLC,Schleswig,Crawford,Iowa,100,42.159722,-95.439722,Wind
+LE Wind Turbine 1,Euclid,Cuyahoga,Ohio,2.5,41.584444,-81.525555,Wind
+Waverly Wind Farm LLC,Waverly,Coffey,Kansas,199,38.256944,-95.814166,Wind
+Blue Canyon Windpower VI LLC,Carnegie,Caddo,Oklahoma,100,34.910361,-98.5599,Wind
+Hidalgo Wind Farm LLC,McCook,Hidalgo,Texas,250,26.465556,-98.411111,Wind
+Paulding Wind Farm II,Payne,Paulding,Ohio,99,41.025278,-84.779166,Wind
+Rising Tree Wind Farm,Mojave,Kern,California,79.2,35.0775,-118.218333,Wind
+Bright Stalk Wind Farm I,Chenoa,McLean,Illinois,205.2,40.701241,-88.701054,Wind
+Foundation ST,Tracy,San Joaquin,California,2,37.714167,-121.521666,Wind
+Meadow Lake Wind Farm V LLC,Chalmers,White,Indiana,100,40.716111,-87.021111,Wind
+Wolverine,Greenfield,Adair,Iowa,1.5,41.3931,-94.4447,Wind
+Bulldog,Orient,Adair,Iowa,1.5,41.2258,-94.4406,Wind
+Linden Wind Energy Project,Goldendale,Klickitat,Washington,50,45.744171,-120.783568,Wind
+Union City Wind Turbine,Union City,Randolph,Indiana,1,40.1908,-84.8172,Wind
+Randolph Eastern School Wind Turbine,Union City,Randolph,Indiana,1,40.2097,-84.8219,Wind
+Ironwood Wind,Spearville,Ford,Kansas,167.9,37.81828,-99.7754,Wind
+"Vestas Towers America, Inc.",Pueblo,Pueblo,Colorado,1.8,38.1728,-104.62,Wind
+Prairie Rose Wind Farm,Hardwick,Rock,Minnesota,200,43.828217,-96.321567,Wind
+Zotos International WPGF,Geneva,Ontario,New York,3.4,42.886944,-76.968333,Wind
+Elm Creek Wind II LLC,Trimont,Martin,Minnesota,148.8,43.6848,-94.8799,Wind
+Cimarron Windpower II,Cimarron,Gray,Kansas,131,37.90133,-100.372,Wind
+"Pioneer Trail Wind Farm, LLC",Paxton,Iroquois,Illinois,150.4,40.46405,-88.021517,Wind
+"Post Rock Wind Power Project, LLC",Ellsworth,Ellsworth,Kansas,201,38.841667,-98.299444,Wind
+DOE Golden NWTC Research Side,Golden,Jefferson,Colorado,5.8,39.9139,-105.2153,Wind
+Vasco Winds,Livermore,Contra Costa,California,78.2,37.790833,-121.718055,Wind
+Montezuma Wind II,Birds Landing,Solano,California,78.2,38.116667,-121.821944,Wind
+Berkshire Wind Power Project,Lanesboro,Berkshire,Massachusetts,19.6,42.586667,-73.275,Wind
+Shiloh IV Wind Project LLC,Birds Landing,Solano,California,102.5,38.137488,-121.855342,Wind
+UMM Wind Turbine,Morris,Stevens,Minnesota,0.6,45.5897,-95.877033,Wind
+Suzlon Project VIII LLC,Channing,Hartley,Texas,4.2,35.75,-102.28,Wind
+Laurel Hill Wind,Roaring Branch,Lycoming,Pennsylvania,69,41.5323,-77.0296,Wind
+Gordon Butte Wind LLC,Martinsdale,Meagher,Montana,9.6,46.411944,-110.337777,Wind
+Sawtooth Wind Project,Glenns Ferry,Elmore,Idaho,22.4,42.982222,-115.393333,Wind
+Los Vientos Wind 1A,Sebastian,Cameron,Texas,200,26.33072,-97.5857,Wind
+Los Vientos Wind 1B,Sebastian,Cameron,Texas,201.6,26.34892,-97.6668,Wind
+TPW Petersburg,Petersburg,Boone,Nebraska,40.5,41.864583,-97.961194,Wind
+Coastal Energy Project,Aberdeen,Grays Harbor,Washington,6,46.793581,-124.065412,Wind
+Pacific Wind LLC,Rosamond,Kern,California,140,34.891389,-118.4325,Wind
+Power County Wind Park South,American Falls,Power,Idaho,22.5,42.703333,-112.757778,Wind
+Power County Wind Park North,American Falls,Power,Idaho,22.5,42.738889,-112.748611,Wind
+Cimarron Wind Energy LLC,Cimmaron,Gray,Kansas,165.6,37.873889,-100.280277,Wind
+Rockland Wind Farm,American Falls,Power,Idaho,79.2,42.674722,-112.901944,Wind
+Brown County Wind Turbine,Mount Sterling,Brown,Illinois,1.5,39.973333,-90.699166,Wind
+Mehoopany Wind Energy LLC,Noxen,Wyoming,Pennsylvania,140.8,41.420556,-76.049167,Wind
+Windstar 1,Tehachapi,Kern,California,120,35.054167,-118.354722,Wind
+Kingman 1,Kingman,Mohave,Arizona,10,35.145833,-114.0675,Wind
+Flat Ridge 2 Wind Energy LLC,Zenda,Kingman,Kansas,470.4,37.366509,-98.261077,Wind
+Foundation AB,Fairfield,Solano,California,1.5,38.232222,-122.092778,Wind
+Foundation IE,Rancho Cucamonga,San Bernardino,California,1,34.084722,-117.529444,Wind
+Bison 2 Wind Energy Center,New Salem,Morton,North Dakota,105,46.98,-101.554722,Wind
+Bison 3 Wind Energy Center,New Salem,Morton,North Dakota,105,46.98,-101.554722,Wind
+Magic Valley Wind Farm I LLC,San Perlita,Willacy,Texas,203,26.475278,-97.691111,Wind
+Lime Wind,Huntington,Baker,Oregon,3,44.396944,-117.271944,Wind
+GL Wind,Lewiston,Winona,Minnesota,3.3,43.991667,-91.877777,Wind
+WCROC Wind Farm,Morris,Stevens,Minnesota,0.4,45.589722,-95.876944,Wind
+Rippey Wind Farm,Grand Junction,Greene,Iowa,50,42.006111,-94.237778,Wind
+Hawkeye Wind Farm,Sumner,Bremer,Iowa,34,42.948889,-92.062222,Wind
+Mustang Hills LLC,Mojave,Kern,California,150,35.030855,-118.293188,Wind
+Pinyon Pine I,Mojave,Kern,California,168,35.043411,-118.211835,Wind
+Alta Wind VIII,Mojave,Kern,California,150,35.026683,-118.234811,Wind
+Pinyon Pine II,Mojave,Kern,California,132,35.026759,-118.223333,Wind
+Franklin County Wind Farm,Iowa Falls,Franklin,Iowa,99,42.606737,-93.336453,Wind
+Sigel Wind Park,Harbor Beach,Huron,Michigan,64,43.850833,-82.783611,Wind
+Minden Wind Park,Minden City,Sanilac,Michigan,32,43.67,-82.758611,Wind
+McKinley Wind Park,Pigeon,Huron,Michigan,14,43.871944,-83.241388,Wind
+Ipswich Wind Turbine,Ipswich,Essex,Massachusetts,1.6,42.716389,-70.841944,Wind
+Caney River Wind Project,Howard,Elk,Kansas,200,37.46,-96.42,Wind
+"Wildcat Wind Farm I, LLC",Elwood,Tipton,Indiana,200,40.349444,-85.843056,Wind
+Golden Spread Panhandle Wnd Rch,Wilderado,Oldham,Texas,78.2,35.243611,-102.21,Wind
+Howard Wind Farm,Hornell,Steuben,New York,55.4,42.315278,-77.538333,Wind
+Eclipse Wind Farm,Adair,Guthrie,Iowa,200.1,41.554651,-94.685004,Wind
+Vienna Wind Farm,Marshalltown,Marshall,Iowa,150.2,42.159444,-92.776111,Wind
+Morning Light Wind Farm,Adair,Adair,Iowa,101.2,41.454241,-94.575056,Wind
+Eolos Wind Energy Research Field Station,Rosemount,Dakota,Minnesota,2.5,44.728333,-93.048056,Wind
+Wildcat Wind,Lovington,Lea,New Mexico,27.3,32.952778,-103.285278,Wind
+Harvest 2,Elkton,Huron,Michigan,59.4,43.8556,-83.1669,Wind
+KODE Novus II,Guymon,Texas,Oklahoma,40,36.548958,-101.495936,Wind
+"Horse Butte Wind I, LLC",Iona,Bonneville,Idaho,57.6,43.386389,-111.726389,Wind
+Tule Wind LLC,Boulevard,San Diego,California,143,32.663889,-116.289722,Wind
+Baffin Wind,Sarita,Kenedy,Texas,188,27.223056,-97.789167,Wind
+Eva Creek Wind,Healy,Denali,Alaska,24.6,64.058333,-148.9,Wind
+Macho Springs Power I,Deming,Luna,New Mexico,50.4,32.55434,-107.50929,Wind
+"Minco Wind II, LLC",Minco,Grady,Oklahoma,100.8,35.325278,-98.071389,Wind
+Brookfield Tehachapi 1,Mojave,Kern,California,102,35.008333,-118.241389,Wind
+Musselshell Wind Project,Shawmut,Wheatland,Montana,10,46.275278,-109.482778,Wind
+Shady Oaks Wind Farm,Compton,Lee,Illinois,109.5,41.666944,-89.059722,Wind
+Musselshell Wind Project Two LLC,Shawmut,Wheatland,Montana,10,46.275278,-109.482778,Wind
+Cashton Greens Wind Farm,Cashton,Monroe,Wisconsin,4.8,43.733889,-90.805,Wind
+Spinning Spur Wind LLC,Vegas,Oldham,Texas,161,35.2375,-102.203056,Wind
+Bobcat Bluff Wind Project LLC,Archer,Archer,Texas,150,33.493056,-98.581944,Wind
+Spearville 3 LLC,Spearville,Ford,Kansas,108,37.851111,-99.838056,Wind
+Pocahontas Prairie Wind Farm,Pomeroy,Pocahontas,Iowa,80,42.568056,-94.658056,Wind
+Kingdom Community Wind,Lowell,Orleans,Vermont,65,44.748333,-72.425278,Wind
+Busch Ranch Wind Energy Farm,Walsenburg,Huerfano,Colorado,29,37.801111,-104.491944,Wind
+Senate Wind LLC,Bryson,Jack,Texas,150,33.205801,-98.365069,Wind
+Stephens Ranch Wind Energy LLC,O'Donnell,Borden,Texas,376,32.926389,-101.647778,Wind
+Lake Winds Energy Park,Ludington,Mason,Michigan,100.8,43.871944,-86.334722,Wind
+Canadian Hills Wind,El Rino,Canadian,Oklahoma,298.5,35.629722,-98.024722,Wind
+Highland North Wind Farm,Sidman,Cambria,Pennsylvania,75,40.319561,-78.680633,Wind
+NaturEner Rim Rock Energy,Kevin,Toole,Montana,184.6,48.820278,-112.103333,Wind
+Auwahi Wind Energy Hybrid,Kula,Maui,Hawaii,24,20.596,-156.318,Wind
+Twin Ridges Wind Farm,Meyersdale,Somerset,Pennsylvania,139.4,39.760556,-78.874722,Wind
+Patton Wind Farm,Patton,Cambria,Pennsylvania,30,40.63067,-78.696078,Wind
+"Anacacho Wind Farm, LLC",Brackettville,Kinney,Texas,99.8,29.234722,-100.209167,Wind
+Granite Reliable Power,Dummer,Coos,New Hampshire,99,44.704444,-71.2925,Wind
+California Ridge Wind Energy LLC,Fithian,Vermilion,Illinois,200,40.211667,-87.878333,Wind
+Shooting Star,Mullinville,Kiowa,Kansas,104,37.518889,-99.446389,Wind
+High Mesa,King Hill,Twin Falls,Idaho,39.9,42.88,-115.036667,Wind
+Beebe 1A,Ithaca,Gratiot,Michigan,81.6,43.256944,-84.499722,Wind
+Whitetail,Oilton,Webb,Texas,91.2,27.488056,-99.005278,Wind
+Mt Wachusett Community College,Gardner,Worcester,Massachusetts,3.4,42.588583,-71.984194,Wind
+Spruce Mountain WInd,Bryant Pond,Oxford,Maine,20,44.415587,-70.559814,Wind
+Block Island Wind Farm,NA,Washington,Rhode Island,29.3,41.114722,-71.521111,Wind
+Buffalo Center Wind LLC,Little Cedar,Mitchell,Iowa,1.5,43.385833,-92.759444,Wind
+Chisholm View Wind Project,Hunter,Garfield,Oklahoma,300,36.574722,-97.673611,Wind
+"Anchor Wind, LLC",Mechanicsville,Cedar,Iowa,5.9,41.850833,-91.234167,Wind
+Community Wind South,Rushmore,Nobles,Minnesota,30,43.713611,-95.802778,Wind
+BayWa r.e Mozart LLC,Jayton,Kent,Texas,30,32.969722,-100.524167,Wind
+Charlestown Wind Turbine,Charlestown,Suffolk,Massachusetts,1.5,42.391389,-71.070833,Wind
+Windwalkers LLC,Northwood,Worth,Iowa,1.6,43.384722,-93.221389,Wind
+Rocky Ridge Wind Project,Hobart,Kiowa,Oklahoma,148.8,35.135556,-99.003056,Wind
+Wolf Ridge Wind,Muenster,Cooke,Texas,112.5,33.733006,-97.428406,Wind
+Stony Creek Wind Farm NY,Strykersville,Wyoming,New York,94.4,42.767614,-78.415843,Wind
+Roeder Family Wind Farm LLC,Manly,Worth,Iowa,1.6,43.297222,-93.283333,Wind
+El Cabo Wind,Encino,Torrance,New Mexico,298,34.651111,-105.461667,Wind
+Montague Wind Power Facility LLC,Arlington,Gilliam,Oregon,200,45.5857,-120.0904,Wind
+Foundation Cemex River Plant,Victorville,San Bernardino,California,3.2,34.561944,-117.307222,Wind
+Foundation Cemex BMQ,Apple Valley,San Bernardino,California,3,34.623056,-117.1125,Wind
+Heritage Garden Wind Farm I LLC,Garden,Delta,Michigan,28,45.795556,-86.533889,Wind
+Foundation Superior Farms,Dixon,Solano,California,1,38.42,-121.818056,Wind
+Foundation Wal-Mart Red Bluff,Red Bluff,Tehama,California,1,40.111111,-122.193889,Wind
+Meadow Creek Project Company,Idaho Falls,Bonneville,Idaho,115.8,43.524429,-111.803921,Wind
+Bishop Hill II Wind Farm,Cambridge,Henry,Illinois,81,41.2325,-90.174167,Wind
+Foundation Cemex Madison,Madison,Yolo,California,1,38.692778,-121.9325,Wind
+Foundation RRM,Cabazon,Riverside,California,2,33.917222,-116.815,Wind
+Foundation NWNA,Cabazon,Riverside,California,5.1,33.914167,-116.749167,Wind
+Echo Wind Park,Elkton,Huron,Michigan,162,43.8825,-83.161389,Wind
+Limon Wind I,Limon,Lincoln,Colorado,200,39.380975,-103.573236,Wind
+Limon Wind II,Limon,Lincoln,Colorado,200,39.341389,-103.581111,Wind
+Ensign Wind LLC,Montezuma,Gray,Kansas,98.9,37.614473,-100.278666,Wind
+Groton Wind LLC,Groton,Grafton,New Hampshire,48,43.7681,-71.8189,Wind
+North Sky River Energy LLC,Weldon,Kern,California,162,35.347778,-118.186389,Wind
+Perrin Ranch Wind LLC,Williams,Coconino,Arizona,99.2,35.415556,-112.271111,Wind
+Cirrus Wind 1 LLC,Tahoka,Lynn,Texas,61.2,33.033056,-101.6875,Wind
+"Minco Wind III, LLC",Minco,Caddo,Oklahoma,100.8,35.372359,-98.182731,Wind
+"NextEra-Blackwell Wind, LLC",Blackwell,Kay,Oklahoma,59.8,36.846667,-97.4175,Wind
+Spion Kop Wind Farm,Geyser,Judith Basin,Montana,40,47.333333,-110.639167,Wind
+Haviland Plastic Products,Haviland,Paulding,Ohio,4.5,41.016111,-84.5875,Wind
+Wagner Wind LLC,Palm Springs,Riverside,California,6,33.908889,-116.555556,Wind
+Georgia Mountain Community Wind Farm,Milton,Chittenden,Vermont,10,44.661667,-73.07,Wind
+Pattern Panhandle Wind LLC,Panhandle,Carson,Texas,218,35.4275,-101.253056,Wind
+Goldthwaite Wind Energy Facility,Goldthwaite,Mills,Texas,150,31.383333,-98.466667,Wind
+Prairie Breeze,Elgin,Antelope,Nebraska,206.5,41.951667,-98.076667,Wind
+Vansycle II Wind Energy Center,Athena,Umatilla,Oregon,98.9,45.899167,-118.591389,Wind
+Tuscola Bay Wind,Reese,Tuscola,Michigan,120,43.525278,-83.65,Wind
+Majestic II Wind,Panhandle,Carson,Texas,79.6,35.386038,-101.578572,Wind
+Blue Summit Wind LLC,Vernon,Wilbarger,Texas,135.4,34.29,-99.364722,Wind
+Alta Wind X,Mojave,Kern,California,138,35.06,-118.2,Wind
+Alta Wind XI,Mojave,Kern,California,90,35.065,-118.39,Wind
+Pantex,Amarillo,Carson,Texas,11.5,35.322778,-101.5325,Wind
+Luther College Wind Project,Decorah,Winneshiek,Iowa,1.6,43.326944,-91.810833,Wind
+NLMU Wind,New London,Henry,Iowa,1.5,40.955,-91.394444,Wind
+Headwaters Wind Farm LLC,Winchester,Randolph,Indiana,200,40.066667,-85.013333,Wind
+Harbor Wind LLC,Corpus Christi,Nueces,Texas,9,27.832222,-97.440278,Wind
+Fire Island Wind,Anchorage,Anchorage,Alaska,18,61.13,-150.243611,Wind
+Swauk Wind LLC,Thorp,Kittitas,Washington,4.3,47.139167,-120.753056,Wind
+Junction Hilltop Wind Farm,Dana,Greene,Iowa,8,42.098889,-94.269167,Wind
+Cumberland Rose,Orient,Adair,Iowa,1.6,41.226944,-94.434722,Wind
+Fontanelle,Fontanelle,Adair,Iowa,1.6,41.338889,-94.57,Wind
+Greenfield Wind,Greenfield,Adair,Iowa,1.6,41.29,-94.485,Wind
+Meadow Ridge,Greenfield,Adair,Iowa,1.6,41.39,-94.445833,Wind
+Sky Volt,Greenfield,Adair,Iowa,1.6,41.29,-94.485,Wind
+Wiota,Wiota,Cass,Iowa,1.6,41.391944,-94.876389,Wind
+Broadview Energy Prime LLC,Grady,Curry,New Mexico,9.9,34.746944,-103.325,Wind
+Broadview Energy Prime 2 LLC,Grady,Curry,New Mexico,9.9,34.728056,-103.305,Wind
+Buffalo Dunes Wind Project,Satanta,Haskell,Kansas,249.8,37.620833,-101.076111,Wind
+Delta Wind Farm,Delta Junction,Southeast Fairbanks,Alaska,1.9,64.013889,-145.596667,Wind
+Huerfano River Wind,Walsenburg,Huerfano,Colorado,8,37.772222,-104.832222,Wind
+Tucannon River Wind Farm,Dayton,Columbia,Washington,266.8,46.421111,-118.026944,Wind
+Pheasant Run Wind LLC,Pigeon,Huron,Michigan,74.8,43.757778,-83.297778,Wind
+Tuscola Wind II LLC,Reese,Tuscola,Michigan,100.3,43.526944,-83.566944,Wind
+Steele Flats Wind Project LLC,Diller,Jefferson,Nebraska,74.8,40.048889,-96.952222,Wind
+"Grandview Wind Farm, LLC",Panhandle,Carson,Texas,211.2,35.238333,-101.310833,Wind
+Saddleback Ridge Wind Farm,Carthage,Franklin,Maine,34.2,44.593333,-70.381111,Wind
+Patriot Wind Farm,TBD,Nueces,Texas,226.1,27.592778,-97.648056,Wind
+Canton Mountain Wind,Canton,Oxford,Maine,22.8,44.514722,-70.303056,Wind
+RP Wind,Russells Point,Logan,Ohio,3.4,40.449444,-83.893333,Wind
+Odell Wind Farm,Mountain Lake,Cottonwood,Minnesota,200,43.853333,-94.931944,Wind
+Courtenay Wind Farm,Courtenay,Stutsman,North Dakota,195,47.179722,-98.594722,Wind
+Cape Cod Air Force Station - 6 SWS,Sagamore,Barnstable,Massachusetts,3.4,41.7525,-70.538889,Wind
+Alexander Wind Farm LLC,Alexander,Rush,Kansas,50.7,38.424722,-99.5075,Wind
+Gratiot County Wind LLC,Breckenridge,Gratiot,Michigan,110.4,43.408056,-84.462222,Wind
+Route 66 Wind Plant,Panhandle,Carson,Texas,150,35.205278,-101.434167,Wind
+"Osage Wind, LLC",Burbank,Osage,Oklahoma,150.4,36.706944,-96.700278,Wind
+Hancock Wind Plant,T22 MD,Hancock,Maine,51,44.760833,-68.146944,Wind
+Apple Blossom Wind Farm,Pigeon,Huron,Michigan,100,43.815032,-83.315002,Wind
+South Fork Wind Farm,Round Lake,Jackson,Minnesota,13,43.587283,-95.375119,Wind
+Black Oak Wind Farm,Sauk Centre,Stearns,Minnesota,78,45.660833,-95.012778,Wind
+Walnut Ridge Wind Farm,Sheffield,Bureau,Illinois,212,41.496667,-89.580278,Wind
+Grande Prairie Wind Farm,O'Neill,Holt,Nebraska,400,42.608056,-98.428333,Wind
+Brookfield,Pigeon,Huron,Michigan,74.8,43.757778,-83.297778,Wind
+Pattern Panhandle Wind 2 LLC,Panhandle,Carson,Texas,181.7,35.442778,-101.372778,Wind
+Miami Wind Energy Center,Miami,Roberts,Texas,288.6,35.653889,-100.538611,Wind
+Wake Wind Energy Center,Floydada,Crosby,Texas,257,33.825,-101.099722,Wind
+Buckeye Wind Energy Center,Hays,Ellis,Kansas,205.7,39.003873,-99.414161000000007,Wind
+Marsh Hill Wind Farm,Jasper,Steuben,New York,16.2,42.163889,-77.528889,Wind
+Spring Canyon Expansion Wind Energy Ctr,Peetz,Logan,Colorado,62.6,40.964167,-103.077222,Wind
+Roosevelt County,Portales,Roosevelt,New Mexico,250,33.926111,-103.511111,Wind
+Longhorn Wind,Silverton,Briscoe,Texas,200,34.311111,-101.251111,Wind
+TX Hereford Wind,Hereford,Deaf Smith,Texas,200,34.748056,-102.174444,Wind
+Spinning Spur Wind II,Adrian,Oldham,Texas,161,35.276944,-102.682778,Wind
+Spinning Spur Wind III,Adrian,Oldham,Texas,194,35.295,-102.721111,Wind
+Cross Winds Energy Park,Unionville,Tuscola,Michigan,230.9,43.610278,-83.485556,Wind
+Lakeswind Power Partners,Pelican Rapids,Clay,Minnesota,50,46.718056,-96.211944,Wind
+Keechi Wind,Jacksboro,Jack,Texas,110,33.143056,-98.161111,Wind
+Bison 4 Wind Energy Center,New Salem,Morton,North Dakota,205,46.98,-101.554722,Wind
+Highland Wind Project (IA),Primghar,O'Brien,Iowa,502,43.080278,-95.656111,Wind
+Lundgren Wind Project,Otho,Webster,Iowa,251,42.334722,-94.170833,Wind
+Macksburg Wind Project,Macksburg,Madison,Iowa,119.6,41.209167,-94.103611,Wind
+Wellsburg Wind Project,Wellsburg,Grundy,Iowa,138.6,42.390833,-92.966667,Wind
+Com Adam 1WF-1,Sublette,Lee,Illinois,5,41.660278,-89.249722,Wind
+"Big Turtle Wind Farm, LLC",Harbor Beach,Huron,Michigan,49.4,43.850833,-82.7825,Wind
+Pilot Hill Wind Farm,Herscher,Kankakee,Illinois,175,40.999169,-88.056247,Wind
+Balko Wind LLC,Balko,Beaver,Oklahoma,299.7,36.518056,-100.847222,Wind
+Kingfisher Wind LLC,Kingfisher,Kingfisher,Oklahoma,298,35.770278,-97.799722,Wind
+Fourmile Ridge,Frostburg,Garrett,Maryland,40,39.641111,-79.011111,Wind
+Beebe 1B,Ithaca,Gratiot,Michigan,50.4,43.256944,-84.499722,Wind
+Story City Wind Project,Story City,Story,Iowa,1.5,42.208056,-93.599444,Wind
+Traer Wind Project,Traer,Tama,Iowa,1.5,42.161389,-92.4425,Wind
+Origin Wind,Hennepin,Murray,Oklahoma,150,34.446111,-97.269722,Wind
+Anderson Wind I,Hagerman,Chaves,New Mexico,5,33.029444,-103.855833,Wind
+Anderson Wind II,Hagerman,Chaves,New Mexico,10,33.013889,-103.865,Wind
+Camelot Wind LLC,Plymouth,Plymouth,Massachusetts,1.5,41.925278,-70.64,Wind
+"Thunder Spirit Wind, LLC",Hettinger,Adams,North Dakota,155.5,46.075,-102.563333,Wind
+Fairfield Wind,Fairfield,Teton,Montana,10,47.723333,-111.965278,Wind
+Copenhagen Wind Farm,Copenhagen,Lewis,New York,79.9,43.913056,-75.698611,Wind
+"Broken Bow Wind II, LLC",Broken Bow,Custer,Nebraska,73.1,41.323889,-99.323056,Wind
+Dept of Corrections NCCI Wind,Gardner,Worcester,Massachusetts,3.4,42.572222,-71.944722,Wind
+Breckinridge Wind Project LLC,Enid,Garfield,Oklahoma,98.8,36.476944,-97.685556,Wind
+St. Olaf Wind Turbine,Northfield,Rice,Minnesota,1.6,44.462222,-93.192778,Wind
+Goodwell Wind Project LLC,Goodwell,Texas,Oklahoma,200,36.541389,-101.565556,Wind
+Little Elk Wind Project LLC,Cordell,Washita,Oklahoma,74,35.194722,-98.907222,Wind
+Two Dot Wind Farm,Two Dot,Wheatland,Montana,9.7,46.449444,-110.087222,Wind
+Mariah del Norte,Friona,Parmer,Texas,230.4,34.6675,-102.577778,Wind
+Hoopeston Wind LLC,Rossville,Vermilion,Illinois,98,40.399722,-87.799167,Wind
+Kingston Wind Independence,Kingston,Plymouth,Massachusetts,2,41.978889,-70.715833,Wind
+Ipswich Wind Independence,Ipswich,Essex,Massachusetts,2,42.717222,-70.846389,Wind
+"Euclid Farm, Stamco N-54",Euclid,Cuyahoga,Ohio,1,41.602222,-81.496944,Wind
+Shannon Wind,Windhorst,Clay,Texas,204,33.509722,-98.360833,Wind
+Michelangelo Wind 3 LLC,Huxley,Story,Iowa,3,42.019,-93.514,Wind
+Radfords Run Wind Farm,Maroa,Dewitt,Illinois,278,40.011111,-89.047222,Wind
+Stella Wind Farm,Armstrong,Kenedy,Texas,201,26.941667,-97.6425,Wind
+Drift Sand Wind Project LLC,Rush Springs,Grady,Oklahoma,108,34.827778,-97.957222,Wind
+Bruennings Breeze Wind Farm,Raymondville,Willacy,Texas,228,26.522222,-97.691111,Wind
+"Colbeck's Corner, LLC",Groom,Carson,Texas,200,35.254184,-101.186622,Wind
+Jericho Power,Berlin,Coos,New Hampshire,12.1,44.466944,-71.225,Wind
+Carroll Area Wind Farm,Templeton,Carroll,Iowa,20.7,41.94143,-94.8861,Wind
+Chopin Wind LLC,Milton-Freewater,Umatilla,Oregon,10,45.88,-118.463333,Wind
+Limon III Wind LLC,Limon,Lincoln,Colorado,200.6,39.353333,-103.474167,Wind
+Marshall Wind Farm,Frankfort,Marshall,Kansas,72,39.701111,-96.360833,Wind
+Cameron Wind 1 LLC,Rio Hondo,Cameron,Texas,165,26.195278,-97.466111,Wind
+Fair Wind,Oakland,Garrett,Maryland,30,39.404564,-79.291143,Wind
+Beethoven Wind,Tripp,Bon Homme,South Dakota,80,43.16,-98.08,Wind
+Chapman Ranch Wind I,Corpus Christi,Nueces,Texas,249,27.5925,-97.500833,Wind
+Border Winds Wind Farm,Rolla,Rolette,North Dakota,148,48.964722,-99.613889,Wind
+Pleasant Valley Wind Farm,Dexter,Mower,Minnesota,196,43.805,-92.769722,Wind
+Passadumkeag Windpark LLC,Greenbush,Penobscot,Maine,39.9,45.07,-68.21,Wind
+Optimum Wind 5 LLC,Nevada,Story,Iowa,3,42.014,-93.518056,Wind
+Optimum Wind 6 LLC,Nevada,Story,Iowa,3,42.006944,-93.523611,Wind
+Optimum Wind 7 LLC,Nevada,Story,Iowa,3,42.028333,-93.430278,Wind
+Optimum Wind 4 LLC,Nevada,Story,Iowa,3,42.016389,-93.515833,Wind
+Optimum Wind 3 LLC,Nevada,Story,Iowa,3,42.019167,-93.513611,Wind
+Leonardo Wind 1 LLC,Alden,Hardin,Iowa,3,42.498056,-93.367778,Wind
+Venus Wind 3 LLC,Grinnell,Poweshiek,Iowa,3,41.741944,-92.672222,Wind
+Michelangelo Wind 1 LLC,Huxley,Story,Iowa,3,41.881,-93.623056,Wind
+Michelangelo Wind 4 LLC,Ames,Boone,Iowa,3,41.978,-93.700556,Wind
+Arbuckle Mountain Wind Farm LLC,Davis,Murray,Oklahoma,100,34.386944,-97.136944,Wind
+Rising Tree Wind Farm II,Mojave,Kern,California,19.8,35.088889,-118.206389,Wind
+Rising Tree Wind Farm III,Mojave,Kern,California,99,35.060556,-118.243333,Wind
+Windthorst-2,Archer,Archer,Texas,67.6,33.495278,-98.5,Wind
+Lorenzo Wind,Lorenzo,Crosby,Texas,80,33.699167,-101.524722,Wind
+Fluvanna,Fluvanna,Scurry,Texas,155.4,32.931944,-101.143611,Wind
+Hale Community Wind Farm,Plainview,Hale,Texas,478,33.927778000000004,-101.742222,Wind
+Mammoth Plains,Oakwood,Dewey,Oklahoma,199,35.978889,-98.710278,Wind
+Rattlesnake Creek Wind Project,Dixon,Dixon,Nebraska,318.1,42.374,-96.829,Wind
+WED NK Green,North Kingstown,Washington,Rhode Island,1.5,41.581667,-71.486667,Wind
+Northwest Ohio Wind,Grover Hill,Paulding,Ohio,105,41.016944,-84.593611,Wind
+WED Coventry 1,Coventry,Kent,Rhode Island,1.5,41.675833,-71.7075,Wind
+WED Coventry 2,Coventry,Kent,Rhode Island,4.5,41.6725,-71.705833,Wind
+WED Coventry 3,Coventry,Kent,Rhode Island,1.5,41.695556,-71.720833,Wind
+WED Coventry 4,Coventry,Kent,Rhode Island,1.5,41.686389,-71.728333,Wind
+Seiling Wind I,Seiling,Dewey,Oklahoma,199,36.1225,-98.992222,Wind
+Seiling Wind II,Seiling,Dewey,Oklahoma,98.6,36.1225,-98.992222,Wind
+WED Coventry 5,Coventry,Kent,Rhode Island,1.5,41.659722,-71.699722,Wind
+WED Coventry 6,Coventry,Kent,Rhode Island,4.5,41.669722,-71.708333,Wind
+Los Vientos Windpower III,Rio Grande City,Starr,Texas,200,26.388611,-98.806111,Wind
+Los Vientos Windpower IV,Rio Grande City,Starr,Texas,200,26.380556,-98.818333,Wind
+Golden Acorn Casino,Campo,San Diego,California,1,32.702107,-116.354587,Wind
+City of Soledad Water Reclamation,Soledad,Monterey,California,1,36.421111,-121.340278,Wind
+Taylor Farms,Gonzales,Monterey,California,1,36.505,-121.451667,Wind
+Anheuser-Busch #2,Fairfield,Solano,California,1.6,38.233611,-122.0925,Wind
+Mesquite Creek Wind,Lamesa,Dawson,Texas,211.2,32.7,-101.741111,Wind
+South Plains Wind Phase I,Floydada,Floyd,Texas,200,34.080556,-101.323611,Wind
+Pleasant Hill Wind Energy Project,Lorenzo,Crosby,Texas,20,33.738889,-101.485,Wind
+Oak Tree Energy,Clark,Clark,South Dakota,19.5,44.933333,-97.741389,Wind
+Logans Gap Wind LLC,Comanche,Comanche,Texas,200.1,31.8225,-98.690556,Wind
+"Kay Wind, LLC",Newkirk,Kay,Oklahoma,299,36.984167,-97.133611,Wind
+Palo Duro Wind,Perryton,Ochiltree,Texas,249.9,36.243889,-101.001389,Wind
+Jett Creek Windfarm (Burnt River),Huntington,Baker,Oregon,10,44.425,-117.273889,Wind
+Benson Creek Windfarm (Burnt River),Huntington,Baker,Oregon,10,44.366944,-117.343889,Wind
+Durbin Creek Windfarm (Burnt River),Huntington,Baker,Oregon,10,44.353056,-117.323056,Wind
+Prospector Windfarm (Burnt River),Huntington,Baker,Oregon,10,44.418056,-117.255,Wind
+Willow Spring Windfarm (Burnt River),Huntington,Baker,Oregon,10,44.381944,-117.273056,Wind
+Fowler Ridge IV Wind Farm LLC,Fowler,Benton,Indiana,150,40.620556,-87.378056,Wind
+TX Jumbo Road Wind,Hereford,Deaf Smith,Texas,299.7,34.72,-102.253333,Wind
+Future Generation Wind,Plymouth,Plymouth,Massachusetts,7.9,41.774444,-70.615833,Wind
+Jericho Rise Wind Farm LLC,Chateaugay,Franklin,New York,77.7,44.888889,-74.103333,Wind
+Adams Wind,Lenox,Adams,Iowa,154.3,40.92,-94.671667,Wind
+Lightolier Wind I Turbine,Fall River,Bristol,Massachusetts,2,41.745556,-71.117222,Wind
+Sendero,Hebbronville,Jim Hogg,Texas,78,27.18,-98.916667,Wind
+Campbell County Wind Farm,Pollock,Campbell,South Dakota,97.8,45.753333,-100.275,Wind
+"Lindahl Wind Project, LLC",Tioga,Williams,North Dakota,150,48.533,-102.933,Wind
+NBC Field's Point Wind Farm,Providence,Providence,Rhode Island,4.5,41.79413,-71.38919,Wind
+"San Roman Wind I, LLC",Los Fresnos,Cameron,Texas,95.3,26.125979,-97.377599,Wind
+Scituate Wind,Scituate,Plymouth,Massachusetts,1.5,42.175083,-70.728467,Wind
+Fairhaven Wind,Fairhaven,Bristol,Massachusetts,3,41.639061,-70.873372,Wind
+Green Pastures Wind I,Seymour,Baylor,Texas,150,33.628222,-99.411169,Wind
+Green Pastures Wind II,Seymour,Knox,Texas,150,33.645964,-99.532944,Wind
+Briscoe Wind Farm,Silverton,Briscoe,Texas,150,34.432267,-101.237233,Wind
+Kirkwood Wind Turbine,Cedar Rapids,Linn,Iowa,0.7,41.916558,-91.650897,Wind
+"Valentine Wind, LLC",Valentine,Cherry,Nebraska,1.9,42.859103,-100.592439,Wind
+Heartland Community College,Normal,McLean,Illinois,1.7,40.537,-89.019,Wind
+Bayonne MUA- Leitner-Poma Wind Turbine,Bayonne,Hudson,New Jersey,0.1,40.652778,-74.117778,Wind
+Tooele Army Depot,Tooele,Tooele,Utah,1.7,40.50303,-112.37059000000001,Wind
+Slate Creek Wind Project LLC,Geuda Springs,Sumner,Kansas,150,37.1146,-97.2376,Wind
+Milo Wind Project LLC,Portales,Roosevelt,New Mexico,50,33.901781,-103.34675,Wind
+CP Bloom Wind LLC,Minneola,Ford,Kansas,178.2,37.4863,-99.9247,Wind
+New Frontier Wind,Ruso,McHenry,North Dakota,100,47.861531,-100.947664,Wind
+Rattlesnake Den,Garden City,Glasscock,Texas,207.2,31.74325,-101.493407,Wind
+Antrim Wind,Antrim,Hillsborough,New Hampshire,28.4,43.06435,-72.00635,Wind
+Latigo Wind Park,Monticello,San Juan,Utah,62.1,37.886706,-109.36839,Wind
+"Desert Wind Farm, LLC",Hertford,Perquimans,North Carolina,208,36.31,-76.42,Wind
+Bearkat,St. Lawrence,Glasscock,Texas,196.7,31.727237,-101.582,Wind
+Golden West Power Partners LLC,Calhan,El Paso,Colorado,250,38.935,-104.212,Wind
+Carousel Wind Farm LLC,Burlington,Kit Carson,Colorado,150,39.334,-102.173,Wind
+"Grant Wind, LLC",Medford,Grant,Oklahoma,151.8,36.927071,-97.696331,Wind
+Findlay Wind Farm,Findlay,Hancock,Ohio,3,41.101219,-83.644394,Wind
+Golden Hills Wind,Livermore,Alameda,California,85.9,37.713311,-121.640353,Wind
+Los Vientos V Wind Power,Rio Grande City,Starr,Texas,110,26.411689,-98.571554,Wind
+"Cedar Bluff Wind, LLC",Brownwell,Ness,Kansas,198.6,38.697606,-99.729289,Wind
+South Plains II,Lockney,Floyd,Texas,300,34.196962,-101.381494,Wind
+Sunflower Wind Project,Hebron,Morton,North Dakota,104,46.837569,-102.07455,Wind
+"Javelina Wind Energy, LLC",Mirando City,Webb,Texas,249.7,27.32,-99,Wind
+Harpster Wind,Harpster,Wyandot,Ohio,1.5,40.718292,-83.22865,Wind
+Zephyr Wind,Findlay,Hancock,Ohio,4.5,41.096111,-83.641381,Wind
+New Creek Wind,New Creek,Grant,West Virginia,103,39.200639,-79.140639,Wind
+Peak View Wind Farm,Walsenburg,Huerfano,Colorado,60.8,37.710444,-104.505464,Wind
+"Broadview Energy JN, LLC",Texico,Curry,New Mexico,181.7,34.734179,-103.108047,Wind
+"Broadview Energy KW, LLC",Texico,Curry,New Mexico,142.6,34.727007,-103.166771,Wind
+Cotton Plains Wind Farm,Floydada,Floyd,Texas,50.4,34.060333,-101.187628,Wind
+Rocksprings,Del Rio,Val Verde,Texas,149.3,29.72753,-100.79431,Wind
+Frontier Windpower,Newkirk,Kay,Oklahoma,200,36.838884,-97.181015,Wind
+Bluestem,Beaver,Beaver,Oklahoma,198,36.552151,-100.587557,Wind
+"Pioneer Wind Park, LLC",Glenrock,Converse,Wyoming,80,42.728198,-105.866765,Wind
+Prairie Breeze II,Elgin,Antelope,Nebraska,73.4,41.987656,-98.210401,Wind
+Blue Cloud Wind Energy LLC,Sudan,Bailey,Texas,148.4,34.03821,-102.665242,Wind
+Prairie Breeze III,Elgin,Antelope,Nebraska,35.8,41.987656,-98.210401,Wind
+"Grady Wind Energy Center, LLC",Clovis,Curry,New Mexico,220.5,34.734142,-103.092227,Wind
+O'Brien Wind,Primghar,O'Brien,Iowa,250.3,43.200421,-95.624313,Wind
+"Ringer Hill Wind Farm, LLC",Salisbury,Somerset,Pennsylvania,38.3,39.744722,-79.188056,Wind
+Electra Wind Farm,Oklaunion,Wilbarger,Texas,230,34.102943,-99.118746,Wind
+Horse Creek Wind Farm,Weinert,Haskell,Texas,230,33.35,-99.54,Wind
+Ida Grove Wind,Ida Grove,Ida,Iowa,301.1,42.355721,-95.42038,Wind
+Brady II Wind Energy Center,Dickinson,Stark,North Dakota,150,46.611515,-102.78821,Wind
+Brady Wind Energy Center,Dickinson,Stark,North Dakota,150,46.646471,-102.765089,Wind
+Old Settler Wind,Floydada,Floyd,Texas,151.2,34.060333,-101.187628,Wind
+Pisgah Mountain Wind,Clifton,Penobscot,Maine,9.1,44.777337,-68.523419,Wind
+Bethel Wind Farm LLC,Dimmitt,Castro,Texas,276,34.575311,-102.474698,Wind
+Paulding Wind Farm III,Payne,Paulding,Ohio,100.8,41.121,-84.751,Wind
+Green River Wind Farm,TBD,Lee,Illinois,194.3,41.620264,-89.557033,Wind
+Greenfield Wind - MT,Fairfield,Teton,Montana,25,47.723,-111.963,Wind
+"Tyler Bluff Wind Project, LLC",Muenster,Cooke,Texas,125.6,33.703851,-97.372009,Wind
+Crowned Ridge Wind Energy Center,Watertown,Codington,South Dakota,200.1,45.154947,-96.836839,Wind
+Crocker Wind Farm,Clark,Clark,South Dakota,200,45.051544,-97.826423,Wind
+Wind GEM,Stuart,Adair,Iowa,1.9,41.469985,-94.339357,Wind
+"Grant Plains Wind, LLC",Medford,Grant,Oklahoma,147.2,36.9708,-97.7053,Wind
+Big Level Wind,Hector Township,Potter,Pennsylvania,90,41.869326,-77.665939,Wind
+"Great Western Wind Energy, LLC",Arnett,Ellis,Oklahoma,225,36.166503,-99.596006,Wind
+Kelly Creek Wind Project,Cabery,Ford,Illinois,184,40.9675,-88.1975,Wind
+Rush Springs Wind,Marlow,Stephens,Oklahoma,249.9,34.682883,-97.829283,Wind
+Voyager Wind I,Mojave,Kern,California,131.1,35.046061,-118.28273,Wind
+Rush Creek Wind,Matheson,Elbert,Colorado,600,39.172111,-103.845358,Wind
+"Ninnescah Wind Energy, LLC",Cunningham,Pratt,Kansas,208.3,37.586714,-98.579264,Wind
+Kingman Wind,Cunningham,Pratt,Kansas,200,37.586714,-98.579264,Wind
+"Javelina Wind Energy II, LLC",MIRANDO,Webb,Texas,200,27.44,-98.91,Wind
+Rock Creek Wind Project,Tarkio,Atchison,Missouri,300,40.4,-95.2,Wind
+"Salt Fork Wind Project, LLC",Clarendon,Donley,Texas,174,35.18172,-100.934408,Wind
+Osborn Wind Energy,Stewartsville,DeKalb,Missouri,195.8,39.747699,-94.473482,Wind
+"Cimarron Bend Wind Project I, LLC",Minneola,Clark,Kansas,200,37.355,-99.991,Wind
+"Cimarron Bend Wind Project II, LLC",Minneola,Clark,Kansas,200,37.355,-99.991,Wind
+Western Plains Wind Farm,Spearville,Ford,Kansas,280.6,37.854801,-99.67981,Wind
+Wind Colebrook South,Colebrook,Litchfield,Connecticut,1,41.961067,-73.140779,Wind
+"Rattlesnake Power, LLC",Brady,McCulloch,Texas,160,31.360331,-99.551356,Wind
+Astra Wind Farm,Happy,Randall,Texas,163,34.769544,-102.05242200000001,Wind
+Equity Industrial Turbines,Gloucester,Essex,Massachusetts,4,42.625649,-70.656489,Wind
+Prairie Wind Farm,Montezuma,Mahaska,Iowa,168,41.4369,-92.703817,Wind
+"Deerfield Wind Energy, LLC",Kinde,Huron,Michigan,149,43.941851,-82.898675,Wind
+Willow Springs Wind Farm,Weinert,Haskell,Texas,250,33.345366,-99.624257,Wind
+Dermott Wind,Snyder,Scurry,Texas,253,32.863769,-100.975128,Wind
+"Oliver Wind III, LLC",Mandan,Morton,North Dakota,99.3,46.9571,-101.1681,Wind
+Green Energy Machine,Anita,Cass,Iowa,1.7,41.373,-94.754,Wind
+CCC Hastings Wind Turbine,Hastings,Adams,Nebraska,1.7,40.57,-98.334,Wind
+Creston Ridge Wind Farm,Creston,Platte,Nebraska,6.8,41.678,-97.386,Wind
+Buckthorn Wind Project,Mingus,Erath,Texas,100.5,32.371306,-98.377389,Wind
+Santa Rita Wind Energy,Big Lake,Reagan,Texas,300,31.181377,-101.318787,Wind
+Sterling I Wind Farm,Tatum,Lea,New Mexico,29.9,33.3596,-103.25058,Wind
+Cactus Flats Wind Energy Project,Eden,Concho,Texas,150,31.112474,-100.028142,Wind
+"WED Portsmouth One, LLC",Portsmouth,Newport,Rhode Island,1.5,41.612027,-71.249262,Wind
+Whirlpool Corporation - Ottawa Wind Farm,Ottawa,Putnam,Ohio,1.5,41.002764,-84.033742,Wind
+Whirlpool Corporation - Marion Wind Farm,Marion,Marion,Ohio,4.5,40.591154,-83.178491,Wind
+Pattern Santa Isabel LLC,Santa Isabel,Santa Isabel,Puerto Rico,75,17.971696,-66.393154,Wind
+Deerfield Wind LLC,Searsburg,Bennington,Vermont,30,42.877215,-72.993721,Wind
+Twin Buttes II Wind,Lamar,Prowers,Colorado,75,37.773,-102.546,Wind
+Coyote Ridge,Brookings,Brookings,South Dakota,98,44.45,-96.55,Wind
+Seward Wind Farm,Seward,Seward,Nebraska,1.7,40.895,-97.1951,Wind
+Foundation CDCR LAC,Lancaster,Los Angeles,California,1.9,34.691,-118.221,Wind
+Foundation Scheid Vineyards,Greenfield,Monterey,California,1.9,36.274508,-121.191589,Wind
+Saratoga Wind Farm,Lime Springs,Howard,Iowa,66,43.448855,-92.280725,Wind
+Orient Wind Farm,Orient,Adair,Iowa,500.8,41.202447,-94.417197,Wind
+Beaver Creek Wind,Ogden,Boone,Iowa,340,42.106964,-94.164636,Wind
+Pine River Wind Park,Shepherd,Isabella,Michigan,161.3,43.524324,-84.696781,Wind
+Punta Lima Wind Farm,Naguabo,Naguabo,Puerto Rico,23.4,18.189872,-65.695197,Wind
+Big Timber Wind Farm,Big Timber,Sweet Grass,Montana,25,45.855428,-109.649167,Wind
+Flat Top Wind I,Mullin,Mills,Texas,200,31.684511,-98.603358,Wind
+Redbed Plains Wind Farm,Tuttle,Grady,Oklahoma,99.1,35.290759,-97.854,Wind
+Golden Hills North Wind Energy Center,Livermore,Alameda,California,46,37.769189,-121.630163,Wind
+Rock Falls Wind Farm LLC,Braman,Kay,Oklahoma,154.5,36.927165,-97.4271,Wind
+Thunder Ranch Wind Project,Marland,Noble,Oklahoma,297.8,36.550834,-97.058944,Wind
+Red Dirt Wind Project,Hennessy,Kingfisher,Oklahoma,299.3,36.1,-97.8,Wind
+Bluff Point Wind Facility,Portland,Jay,Indiana,119.7,40.319,-84.9769,Wind
+Hog Creek Wind Project,Ada,Hardin,Ohio,66,40.793073,-83.728714,Wind
+Karankawa Wind LLC,Mathis,San Patricio,Texas,307.1,28.109303,-97.750481,Wind
+Valfilm Wind Project,Findlay,Hancock,Ohio,3,41.084329,-83.644131,Wind
+Red Pine Wind Project,Ivanhoe,Lincoln,Minnesota,200,44.478,-96.1538,Wind
+Foard City Wind,Crowell,Foard,Texas,350.3,33.915315,-99.740278,Wind
+Cottonwood Wind Energy Center,Blue Hill,Webster,Nebraska,89.7,40.240168,-98.405956,Wind
+Gopher Creek Wind Farm,Fluvanna,Borden,Texas,158,32.875073,-101.208955,Wind
+Foundation California Training Facility,Soledad,Monterey,California,1.8,36.464,-121.382,Wind
+Foundation Mann Packing,Gonzales,Monterey,California,1.8,36.504,-121.454,Wind
+Foundation SaIinas Valley State Prison,Soledad,Monterey,California,1.8,36.474,-121.371,Wind
+Fort Hays State University Wind Farm,Hays,Ellis,Kansas,4,38.874316,-99.405214,Wind
+Upland Prairie,Everly,Clay,Iowa,299.3,43.207406,-95.349397,Wind
+English Farms,Montezuma,Poweshiek,Iowa,169.9,41.57,-92.40718,Wind
+Voyager Wind II,Mojave,Kern,California,128.7,35.073377,-118.268616,Wind
+Voyager Wind III,Mojave,Kern,California,43.2,35.060768,-118.264734,Wind
+Voyager Wind IV,Mojave,Kern,California,21.6,35.077872,-118.2497,Wind
+UL Advanced Wind Turbine Test Facility,Canyon,Randall,Texas,3.5,34.966012,-101.78412,Wind
+"Heartland Divide Wind Project, LLC",Melville,Audubon,Iowa,103.5,41.71138,-94.80199,Wind
+Turtle Creek Wind Farm LLC,St. Ansgar,Mitchell,Iowa,200.1,43.429604,-92.839506,Wind
+August Wind Farm,Clearfield,Taylor,Iowa,1.8,40.764914,-94.475628,Wind
+Whirlpool Corp-Greenville Wind Farm,Greenville,Darke,Ohio,4.5,40.131293,-84.609857,Wind
+"Creston Ridge II, LLC",Creston,Platte,Nebraska,6.9,41.677,-97.391,Wind
+Arkwright Summit Wind Farm LLC,Fredonia,Chautauqua,New York,78.4,42.414911,-79.242681,Wind
+Wildcat Ranch Wind Project,Morton,Cochran,Texas,150,33.5296,-102.9619,Wind
+Perennial Windfarm,Fairmont,Fillmore,Nebraska,6.9,40.631872,-97.642708,Wind
+Seneca Nation Cattaraugus Wind Turbine,Irving,Erie,New York,1.5,42.5809,-79.1027,Wind
+Hilltopper Wind Project,Mt. Pulaski,Logan,Illinois,185,39.952927,-89.310249,Wind
+Aurora County Wind,White Lake,Aurora,South Dakota,20,43.719,-98.752,Wind
+Brule County Wind,Kimball,Brule,South Dakota,20,43.717,-98.922,Wind
+"Foxtail Wind, LLC",Forbes,Dickey,North Dakota,150,46.098211,-98.880073,Wind
+Meadow Lake Wind Farm VI LLC,Remington,Benton,Indiana,200.4,40.692552,-87.127011,Wind
+Town of Otis Wind Energy Project,Otis,Berkshire,Massachusetts,1.5,42.225765,-73.025764,Wind
+"Midway Wind, LLC",Taft,San Patricio,Texas,162.9,27.954976,-97.300202,Wind
+Live Oak Wind Project,Eldorado,Schleicher,Texas,199.5,31.048557,-100.623114,Wind
+Upstream Wind Energy LLC,Neligh,Antelope,Nebraska,202.5,42.184336,-97.964978,Wind
+Bishop Hill III,Cambridge,Henry,Illinois,119,41.211057,-90.276024,Wind
+Hilltop Power,Edgerton,Pipestone,Minnesota,2,43.912882,-96.193221,Wind
+"Diamond Vista Wind Project, LLC",Tampa,Marion,Kansas,299.3,38.56564,-97.040628,Wind
+"Minco Wind IV, LLC",Hinton,Canadian,Oklahoma,130,35.381047,-98.269562,Wind
+"PYCO Industries, Inc. Wind Farm",Lubbock,Lubbock,Texas,3,33.553184,-101.792412,Wind
+"Stillwater Wind, LLC",Reed Point,Stillwater,Montana,80,45.86584,-109.476647,Wind
+"Rio Bravo Windpower, LLC",Roma,Starr,Texas,237.6,26.649,-99.0387,Wind
+Wildhorse Mountain Wind Facility,Tuskahoma,Pushmataha,Oklahoma,100,34.591031,-95.191808,Wind
+"Persimmon Creek Wind Farm 1, LLC",Vici,Woodward,Oklahoma,198.6,36.174278,-99.349164,Wind
+Sholes Wind Energy Center,Randolph,Wayne,Nebraska,160,42.3119,-97.3647,Wind
+Ivester Wind Farm,Wellsburg,Grundy,Iowa,90.8,42.33327,-92.946436,Wind
+Tahoka Wind,Tahoka,Lynn,Texas,300,33.150904,-101.679188,Wind
+Casa Mesa Wind Energy Center,House,Quay,New Mexico,50.9,34.604989,-103.966089,Wind
+"Armadillo Flats Wind Project, LLC",Enid,Garfield,Oklahoma,247.3,36.300964,-97.567042,Wind
+"Pratt Wind, LLC",Andover,Pratt,Kansas,243.5,37.55,-98.8,Wind
+"Torrecillas Wind Energy, LLC",Bruni,Webb,Texas,300,27.614411,-98.7945,Wind
+"Blue Summit II Wind, LLC",Vernon,Wilbarger,Texas,99.4,34.225882,-99.477986,Wind
+"Solomon Forks Wind Project, LLC",Colby,Thomas,Kansas,275.6,39.306,-101.0744,Wind
+Glaciers Edge Wind Project,Cleghorn,Cherokee,Iowa,200,42.862,-95.772,Wind
+Santa Rita East,Barnhart,Irion,Texas,302.4,31.207988,-101.110787,Wind
+Whispering Willow North,Alexander,Franklin,Iowa,201.3,42.774955,-93.418067,Wind
+"WED Green Hill, LLC",Johnston,Providence,Rhode Island,3,41.79785,-71.529736,Wind
+"WED Plainfield II, LLC",Johnston,Providence,Rhode Island,3,41.794583,-71.539967,Wind
+"WED Plainfield III, LLC",Johnston,Providence,Rhode Island,3,41.793519,-71.530622,Wind
+"WED Plainfield, LLC",Johnston,Providence,Rhode Island,3,41.796078,-71.535825,Wind
+"WED Shun I, LLC",Johnston,Providence,Rhode Island,3,41.798456,-71.540656,Wind
+"WED Shun II, LLC",Johnston,Providence,Rhode Island,3,41.800111,-71.536189,Wind
+"WED Shun III, LLC",Johnston,Providence,Rhode Island,3,41.799078,-71.549331,Wind
+Roseman,Anita,Cass,Iowa,1.8,41.370997,-94.753929,Wind
+Arbor Hill Wind Farm,Greenfield,Adair,Iowa,250,41.404231,-94.261358,Wind
+North English,Montezuma,Poweshiek,Iowa,340,41.642776,-92.499064,Wind
+Galactic Wind,Waunakee,Dane,Wisconsin,9.9,43.101605,-89.331855,Wind
+Birch,Clearfield,Taylor,Iowa,1.8,40.767636,-94.474375,Wind
+"Seymour Hills Wind Project, LLC",Seymour,Baylor,Texas,30.2,33.57824,-99.1921,Wind
+Mesteno,Rio Grande City,Starr,Texas,200,26.523692,-98.745522,Wind
+Ranchero Wind Farm LLC,Iraan,Crockett,Texas,300,30.594908,-101.453021,Wind
+"Stoneray Power Partners, LLC",Woodstock,Pipestone,Minnesota,100,44.104377,-96.126733,Wind
+"Palmer's Creek Wind Farm, LLC",Granite Falls,Chippewa,Minnesota,44.6,44.857694,-95.568888,Wind
+"Polk County Renewables, LLC",Osceola,Polk,Nebraska,2.5,41.165278,-97.570194,Wind
+Lockett Windfarm,Vernon,Wilbarger,Texas,183.8,34.072251,-99.264676,Wind
+"Emmons-Logan Wind, LLC",Linton,Emmons,North Dakota,200,46.373013,-100.051111,Wind
+"Lake Region Community Hybrid, LLC",Rothsay,Otter Tail,Minnesota,2,46.505052,-96.157281,Wind
+Busch Ranch II Wind Farm,Walsenburg,Huerfano,Colorado,59.4,37.766416,-104.42945,Wind
+Prairie Queen Wind Farm,Moran,Allen,Kansas,199.3,37.9788,-95.2244,Wind
+Blue Summit III Wind,Chilicothe,Hardeman,Texas,200.2,34.170488,-99.563436,Wind
+Jiminy Peak Wind QF,Hancock,Berkshire,Massachusetts,1.7,42.543748,-73.292632,Wind
+GE-Lubbock,Lubbock,Lubbock,Texas,6.1,33.59145,-102.056875,Wind
+Harbec Energy,Ontario,Ontario,New York,1.2,43.226884,-77.361325,Wind
+Pembina Land Port of Entry Wind Turbine,Pembina,Pembina,North Dakota,0.8,48.996866,-97.24161,Wind
+Ida Grove II,Ida Grove,Ida,Iowa,201,42.326854,-95.458818,Wind
+Holiday Hill Community Wind,Russell,Hampden,Massachusetts,5,42.212535,-72.871262,Wind
+Glen Ullin Energy Center,Glen Ullin,Morton,North Dakota,106.7,46.964077,-101.816495,Wind
+Timber Road IV,Payne,Paulding,Ohio,125.1,41.121,-84.751,Wind
+"Canadian Breaks, LLC",Vega,Deaf Smith,Texas,210.1,35.200164,-102.315517,Wind
+Palo Alto Wind Farm,Emmetsburg,Palo Alto,Iowa,250,43.206691,-94.548094,Wind
+"Cuming County Renewables, LLC",,,Nebraska,2.5,42.019972,-96.861833,Wind
+Cisco,,,Minnesota,8.4,43.6256,-95.3725,Wind
+Lincoln Heights I,,,Minnesota,5.2,44.287778,-96.433333,Wind
+Lincoln Heights II,,,Minnesota,3.9,44.315537,-96.331677,Wind

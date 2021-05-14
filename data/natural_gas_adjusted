@@ -1,0 +1,1746 @@
+Power_Plant_Name,City,County,State,Energy_Produced,Latitude,Longitude,energy_type
+Barry,Bucks,Mobile,Alabama,1268.4,31.0069,-88.0103,Natural_Gas
+Gadsden,Gadsden,Etowah,Alabama,130,34.0128,-85.9708,Natural_Gas
+Copper,El Paso,El Paso,Texas,63,31.7569,-106.375,Natural_Gas
+Greene County,Demopolis,Greene,Alabama,1256.1,32.6017,-87.7811,Natural_Gas
+E C Gaston,Wilsonville,Shelby,Alabama,1020,33.244211,-86.458056,Natural_Gas
+Madelia,City of Madelia,Watonwan,Minnesota,10.3,44.0501,-94.4178,Natural_Gas
+Colbert,Tuscumbia,Colbert,Alabama,363.2,34.7439,-87.8486,Natural_Gas
+J K Smith,Winchester,Clark,Kentucky,784,37.8833,-84.1017,Natural_Gas
+Anchorage 1,Anchorage,Anchorage,Alaska,60.4,61.2221,-149.8661,Natural_Gas
+Beluga,Beluga,Kenai Peninsula,Alaska,300.4,61.1861,-151.0356,Natural_Gas
+Frederickson,Tacoma,Pierce,Washington,134,47.079722,-122.365,Natural_Gas
+Ocotillo,Tempe,Maricopa,Arizona,623.5,33.4225,-111.9122,Natural_Gas
+West Phoenix,Phoenix,Maricopa,Arizona,920,33.4417,-112.1583,Natural_Gas
+Saguaro,Red Rock,Pinal,Arizona,176,32.5517,-111.3,Natural_Gas
+Yucca,Yuma,Yuma,Arizona,257,32.7214,-114.7106,Natural_Gas
+Demoss Petrie,Tucson,Pima,Arizona,75,32.252273,-110.992148,Natural_Gas
+H Wilson Sundt Generating Station,Tucson,Pima,Arizona,399,32.16,-110.9047,Natural_Gas
+Agua Fria,Glendale,Maricopa,Arizona,626,33.5561,-112.2153,Natural_Gas
+Kyrene,Tempe,Maricopa,Arizona,525,33.3556,-111.9353,Natural_Gas
+McClure,Modesto,Stanislaus,California,53.5,37.62936,-120.93139,Natural_Gas
+Apache Station,Cochise,Cochise,Arizona,373.5,32.0603,-109.8931,Natural_Gas
+GREC,Chouteau,Mayes,Oklahoma,507.5,36.190278,-95.2894,Natural_Gas
+Lake Catherine,Jones Mill,Hot Spring,Arkansas,522,34.4341,-92.9049,Natural_Gas
+Thomas Fitzhugh,Ozark,Franklin,Arkansas,162,35.462382,-93.804926,Natural_Gas
+Carl Bailey,Augusta,Woodruff,Arkansas,122,35.260102,-91.363426,Natural_Gas
+McClellan (AR),Camden,Ouachita,Arkansas,134,33.5648,-92.7917,Natural_Gas
+Humboldt Bay,Eureka,Humboldt,California,163.4,40.7415,-124.2103,Natural_Gas
+Dynegy Moss Landing Power Plant,Moss Landing,Monterey,California,1020,36.804837,-121.782241,Natural_Gas
+AES Alamitos LLC,Long Beach,Los Angeles,California,1152,33.7688,-118.1009,Natural_Gas
+AES Huntington Beach LLC,Huntington Beach,Orange,California,225.8,33.6439,-117.9792,Natural_Gas
+Long Beach Generation LLC,Long Beach,Los Angeles,California,260,33.7641,-118.2248,Natural_Gas
+Ormond Beach,Oxnard,Ventura,California,1491,34.1292,-119.1689,Natural_Gas
+AES Redondo Beach LLC,Redondo Beach,Los Angeles,California,830,33.8504,-118.395,Natural_Gas
+Mountainview Generating Station,Redlands,San Bernardino,California,972,34.0818,-117.2418,Natural_Gas
+Grayson,Glendale,Los Angeles,California,238,34.1556,-118.2782,Natural_Gas
+Joliet 29,Joliet,Will,Illinois,1036,41.494636,-88.123827,Natural_Gas
+El Centro Hybrid,El Centro,Imperial,California,314,32.802222,-115.54,Natural_Gas
+Harbor,Wilmington,Los Angeles,California,439,33.7706,-118.2656,Natural_Gas
+Haynes,Long Beach,Los Angeles,California,1595.4,33.764741,-118.09913,Natural_Gas
+Scattergood,Playa del Rey,Los Angeles,California,783.1,33.918151,-118.427648,Natural_Gas
+Valley (CA),Sun Valley,Los Angeles,California,576,34.244991,-118.391327,Natural_Gas
+Glenarm,Pasadena,Los Angeles,California,235.6,34.126,-118.1494,Natural_Gas
+Alamosa,Alamosa,Alamosa,Colorado,27,37.4594,-105.8947,Natural_Gas
+Cherokee,Denver,Adams,Colorado,886,39.807275,-104.964548,Natural_Gas
+Fruita,Grand Junction,Mesa,Colorado,14,39.1364,-108.7347,Natural_Gas
+Valmont,Boulder,Boulder,Colorado,43,40.0195,-105.202,Natural_Gas
+George Birdsall,Colorado Springs,El Paso,Colorado,55,38.881389,-104.816944,Natural_Gas
+McWilliams,Gantt,Covington,Alabama,663,31.400255,-86.476449,Natural_Gas
+McClellan (CA),Sacramento,Sacramento,California,77,38.652731,-121.393336,Natural_Gas
+Bridgeport Station,Bridgeport,Fairfield,Connecticut,576.3,41.1706,-73.1844,Natural_Gas
+Edge Moor,Wilmington,New Castle,Delaware,710,39.73886,-75.50384,Natural_Gas
+McKee Run,Dover,Kent,Delaware,103.1,39.176222,-75.546628,Natural_Gas
+Fredonia,Mt Vernon,Skagit,Washington,280,48.4558,-122.4358,Natural_Gas
+Cape Canaveral,Cocoa,Brevard,Florida,1290,28.4698,-80.7644,Natural_Gas
+Fort Myers,Ft. Myers,Lee,Florida,2638,26.6967,-81.7831,Natural_Gas
+Lauderdale,Ft. Lauderdale,Broward,Florida,1223.6,26.0686,-80.1984,Natural_Gas
+Port Everglades,Ft. Lauderdale,Broward,Florida,1237,26.0856,-80.1253,Natural_Gas
+Riviera,Riviera Beach,Palm Beach,Florida,1290,26.7653,-80.0525,Natural_Gas
+Sanford,DeBary,Volusia,Florida,2205,28.8419,-81.3256,Natural_Gas
+Avon Park,Avon Park,Highlands,Florida,24,27.579444,-81.492778,Natural_Gas
+Crystal River,Crystal River,Citrus,Florida,1632,28.9656,-82.6977,Natural_Gas
+P L Bartow,St. Petersburg,Pinellas,Florida,1190,27.859535,-82.601759,Natural_Gas
+Suwannee River,Live Oak,Suwannee,Florida,99,30.376389,-83.180556,Natural_Gas
+Lansing Smith,Southport,Bay,Florida,511,30.2686,-85.7003,Natural_Gas
+John R Kelly,Gainesville,Alachua,Florida,108,29.6461,-82.3208,Natural_Gas
+G W Ivey,Homestead,Miami Dade,Florida,32.6,25.4756,-80.47,Natural_Gas
+J D Kennedy,Jacksonville,Duval,Florida,317.2,30.364818,-81.625967,Natural_Gas
+Tom G Smith,Lake Worth,Palm Beach,Florida,57.5,26.612767,-80.0677,Natural_Gas
+Larsen Memorial,Lakeland,Polk,Florida,124,28.0797,-81.9228,Natural_Gas
+C D McIntosh Jr,Lakeland,Polk,Florida,460,28.0801,-81.9229,Natural_Gas
+Indian River Plant,Titusville,Brevard,Florida,290,28.493232,-80.780124,Natural_Gas
+Arvah B Hopkins,Tallahassee,Leon,Florida,466,30.4522,-84.4,Natural_Gas
+S O Purdom,St Marks,Wakulla,Florida,226,30.162304,-84.200673,Natural_Gas
+Jack McDonough,Smyrna,Cobb,Georgia,2534,33.8239,-84.4758,Natural_Gas
+Yates,Newnan,Coweta,Georgia,714,33.4622,-84.8986,Natural_Gas
+Crisp Plant,Warwick,Worth,Georgia,14,31.844708,-83.940734,Natural_Gas
+Ponca,Ponca City,Kay,Oklahoma,34,36.71979,-97.085758,Natural_Gas
+Grand Tower Energy Center LLC,Grand Tower,Jackson,Illinois,511,37.6577,-89.511161,Natural_Gas
+Joliet 9,Joliet,Will,Illinois,314,41.4931,-88.1153,Natural_Gas
+Moline,Moline,Rock Island,Illinois,64,41.509959,-90.534021,Natural_Gas
+Venice,Venice,Madison,Illinois,487,38.6642,-90.1764,Natural_Gas
+Geneseo,Geneseo,Henry,Illinois,19.5,41.451494,-90.148547,Natural_Gas
+Princeton (IL),Princeton,Bureau,Illinois,37.7,41.375528,-89.464872,Natural_Gas
+North Ninth Street,Rochelle,Ogle,Illinois,12.5,41.9093,-89.0498,Natural_Gas
+Winnetka,Winnetka,Cook,Illinois,28.2,42.115589,-87.731025,Natural_Gas
+Harding Street,Indianapolis,Marion,Indiana,906,39.711319,-86.196867,Natural_Gas
+Eagle Valley (IN),Martinsville,Morgan,Indiana,644,39.48517,-86.4183,Natural_Gas
+CC Perry K,Indianapolis,Marion,Indiana,16.4,39.7631,-86.1667,Natural_Gas
+Bailly,Chesterton,Porter,Indiana,31,41.645,-87.1225,Natural_Gas
+Noblesville,Noblesville,Hamilton,Indiana,264,40.0969,-85.9714,Natural_Gas
+Butler-Warner Generation Plant,Fayetteville,Cumberland,North Carolina,225,35.0986,-78.8294,Natural_Gas
+Rensselaer City Light Plant,Rensselaer,Jasper,Indiana,13.1,40.939528,-87.154472,Natural_Gas
+Marshalltown,Marshalltown,Marshall,Iowa,173.8,42.0474,-92.859444,Natural_Gas
+Prairie Creek,Cedar Rapids,Linn,Iowa,110.1,41.944039,-91.639167,Natural_Gas
+Coralville GT,Coralville,Johnson,Iowa,66.3,41.671877,-91.563999,Natural_Gas
+Riverside,Bettendorf,Scott,Iowa,113.7,41.54,-90.4481,Natural_Gas
+River Hills,Des Moines,Polk,Iowa,117.6,41.590218,-93.619499,Natural_Gas
+Merl Parr,Charles City,Floyd,Iowa,33,43.0563,-92.6932,Natural_Gas
+Ames Electric Services Power Plant,Ames,Story,Iowa,95.2,42.0258,-93.6089,Natural_Gas
+Atlantic,Atlantic,Cass,Iowa,9.8,41.409,-95,Natural_Gas
+Bloomfield,Bloomfield,Davis,Iowa,6.5,40.7031,-92.4253,Natural_Gas
+Gas Turbine (IA),Cedar Falls,Black Hawk,Iowa,42.4,42.512,-92.476,Natural_Gas
+Streeter Station,Cedar Falls,Black Hawk,Iowa,55.5,42.5267,-92.4394,Natural_Gas
+Estherville,Estherville,Emmet,Iowa,12.6,43.4028,-94.8433,Natural_Gas
+Maquoketa 1,Maquoketa,Jackson,Iowa,16.9,42.035556,-90.665,Natural_Gas
+New Hampton,New Hampton,Chickasaw,Iowa,13.5,43.0689,-92.3201,Natural_Gas
+Osage (IA),Osage,Mitchell,Iowa,9.1,43.279722,-92.810556,Natural_Gas
+Preston (IA),Preston,Jackson,Iowa,1.8,42.0507,-90.3942,Natural_Gas
+Sibley One,Sibley,Osceola,Iowa,4.8,43.405,-95.7261,Natural_Gas
+Summit Lake,Creston,Union,Iowa,76.6,41.1136,-94.3472,Natural_Gas
+Earl F Wisdom,Spencer,Clay,Iowa,113.5,43.1606,-95.2569,Natural_Gas
+Colby,Colby,Thomas,Kansas,13,39.403001,-101.038202,Natural_Gas
+Cimarron River,Liberal,Seward,Kansas,65.7,37.1611,-100.7619,Natural_Gas
+Fort Dodge,Dodge City,Ford,Kansas,146.7,37.7328,-99.949700000000007,Natural_Gas
+Great Bend - Sunflower,Great Bend,Barton,Kansas,92.7,38.41,-98.8689,Natural_Gas
+Riverton,Riverton,Cherokee,Kansas,294,37.072616,-94.698704,Natural_Gas
+Gordon Evans Energy Center,Colwich,Sedgwick,Kansas,294,37.7903,-97.521667,Natural_Gas
+Hutchinson Energy Center,Hutchinson,Reno,Kansas,157,38.0906,-97.874722,Natural_Gas
+Anthony,Anthony,Harper,Kansas,11.1,37.1517,-98.0311,Natural_Gas
+Augusta Electric Plant No 1,Augusta,Butler,Kansas,8.5,37.678454,-96.97193,Natural_Gas
+Burlingame,Burlingame,Osage,Kansas,3.6,38.7551,-95.8368,Natural_Gas
+Burlington (KS),Burlington,Coffey,Kansas,5.8,38.193441,-95.749953,Natural_Gas
+Chanute 2,Chanute,Neosho,Kansas,46,37.6953,-95.4586,Natural_Gas
+Clay Center,Clay Center,Clay,Kansas,29.7,39.373966,-97.127211,Natural_Gas
+Coffeyville,Coffeyville,Montgomery,Kansas,53,37.037344,-95.612689,Natural_Gas
+Girard,Girard,Crawford,Kansas,9.5,37.507709,-94.839318,Natural_Gas
+Goodland,Goodland,Sherman,Kansas,15.4,39.341622,-101.705188,Natural_Gas
+Hill City,Hill City,Graham,Kansas,6.2,39.3582,-99.8417,Natural_Gas
+Hoisington,Hoisington,Barton,Kansas,13,38.513,-98.7747,Natural_Gas
+Kaw,Kansas City,Wyandotte,Kansas,140.3,39.0867,-94.651389,Natural_Gas
+Kingman Municipal Power and Light Plant,Kingman,Kingman,Kansas,18,37.38311,-98.070364,Natural_Gas
+McPherson 2,McPherson,McPherson,Kansas,102.5,38.363411,-97.68335,Natural_Gas
+Meade,Meade,Meade,Kansas,5.1,37.285176,-100.332438,Natural_Gas
+Minneapolis City of,Minneapolis,Ottawa,Kansas,6.2,39.1194,-97.7086,Natural_Gas
+Osage City,Osage City,Osage,Kansas,10.1,38.633183,-95.827658,Natural_Gas
+Ottawa,Ottawa,Franklin,Kansas,26,38.615579,-95.279742,Natural_Gas
+Pratt,Pratt,Pratt,Kansas,13,37.6359,-98.7433,Natural_Gas
+Russell Downtown,Russell,Russell,Kansas,9.4,38.893333,-98.856944,Natural_Gas
+Sharon Spring,Sharon Springs,Wallace,Kansas,3,38.890552,-101.751525,Natural_Gas
+Stockton,Stockton,Rooks,Kansas,5,39.43619,-99.27793,Natural_Gas
+Wamego,Wamego,Pottawatomie,Kansas,15.2,39.1992,-96.3086,Natural_Gas
+Wellington 1,Wellington,Sumner,Kansas,19.5,37.261372,-97.4057,Natural_Gas
+West 14th Street,Winfield,Cowley,Kansas,11.1,37.2354,-97.011,Natural_Gas
+Garden City,Garden City,Finney,Kansas,203.3,37.9703,-100.8956,Natural_Gas
+Big Sandy,Louisa,Lawrence,Kentucky,260,38.1707,-82.6176,Natural_Gas
+E W Brown,Harrodsburg,Mercer,Kentucky,906,37.78831,-84.71257,Natural_Gas
+Haefling,Lexington,Fayette,Kentucky,24,38.0794,-84.5194,Natural_Gas
+Cane Run,Louisville,Jefferson,Kentucky,663,38.1831,-85.8892,Natural_Gas
+Paddys Run,Louisville,Jefferson,Kentucky,182,38.223592,-85.841703999999993,Natural_Gas
+Zorn,Louisville,Jefferson,Kentucky,14,38.280278,-85.702331,Natural_Gas
+Paradise,Drakesboro,Muhlenberg,Kentucky,1100,37.2608,-86.9783,Natural_Gas
+Robert A Reid,Robards,Webster,Kentucky,58,37.6461,-87.5019,Natural_Gas
+Louisiana 2,Baton Rouge,East Baton Rouge,Louisiana,138,30.4922,-91.1864,Natural_Gas
+Coughlin Power Station,St Landry,Evangeline,Louisiana,729.5,30.8439,-92.261111,Natural_Gas
+Teche,Baldwin,St Mary,Louisiana,365,29.822222,-91.5425,Natural_Gas
+Little Gypsy,La Place,St Charles,Louisiana,940.4,30.005067,-90.461694,Natural_Gas
+Nine Mile Point,Westwego,Jefferson,Louisiana,2034.8,29.9472,-90.1458,Natural_Gas
+Sterlington,Sterlington,Ouachita,Louisiana,95.2,32.7047,-92.0792,Natural_Gas
+Arsenal Hill,Shreveport,Caddo,Louisiana,110,32.5181,-93.7611,Natural_Gas
+Lieberman,Mooringsport,Caddo,Louisiana,243,32.7047,-93.9597,Natural_Gas
+Houma,Houma,Terrebonne,Louisiana,67.5,29.5806,-90.7225,Natural_Gas
+New Roads,New Roads,Pointe Coupee,Louisiana,7,30.726111,-91.368333,Natural_Gas
+Big Cajun 1,Jarreau,Pointe Coupee,Louisiana,430,30.6739,-91.3556,Natural_Gas
+Notch Cliff,Baltimore,Baltimore,Maryland,116.7,39.4217,-76.5087,Natural_Gas
+Perryman,Harford County,Harford,Maryland,248.8,39.442836,-76.221761,Natural_Gas
+Westport,Baltimore,Baltimore City,Maryland,115.8,39.26604,-76.629537,Natural_Gas
+Chalk Point LLC,Aquasco,Prince Georges,Maryland,1585,38.5444,-76.6861,Natural_Gas
+Mystic Generating Station,Charlestown,Middlesex,Massachusetts,1417.3,42.3908,-71.0675,Natural_Gas
+Kendall Square Station,Cambridge,Middlesex,Massachusetts,206,42.3633,-71.0792,Natural_Gas
+Essential Power Massachusetts LLC,West Springfield,Hampden,Massachusetts,171.2,42.095,-72.595,Natural_Gas
+Potter Station 2,Braintree,Norfolk,Massachusetts,183.3,42.235,-70.9672,Natural_Gas
+High Street Station,Ipswich,Essex,Massachusetts,8.6,42.6986,-70.8697,Natural_Gas
+Waters River,Peabody,Essex,Massachusetts,46.6,42.542949,-70.928314,Natural_Gas
+Cleary Flood Hybrid,Taunton,Bristol,Massachusetts,103,41.8653,-71.1061,Natural_Gas
+Dan E Karn,Essexville,Bay,Michigan,1203,43.644996,-83.840074,Natural_Gas
+Delray,Detroit,Wayne,Michigan,127,42.2947,-83.1019,Natural_Gas
+Hancock,Commerce Twp,Oakland,Michigan,128,42.5497,-83.4425,Natural_Gas
+Northeast (MI),Warren,Macomb,Michigan,77,42.45,-83.0381,Natural_Gas
+Grand Haven Diesel Plant,Grand Haven,Ottawa,Michigan,8.4,43.0598,-86.2379,Natural_Gas
+Hillsdale,Hillsdale,Hillsdale,Michigan,11.6,41.9061,-84.6319,Natural_Gas
+Marshall (MI),Marshall,Calhoun,Michigan,9.8,42.2717,-84.9411,Natural_Gas
+Wyandotte,Wyandotte,Wayne,Michigan,72,42.2081,-83.1453,Natural_Gas
+Zeeland,Zeeland,Ottawa,Michigan,23.7,42.8067,-86.0558,Natural_Gas
+George Johnson,Hersey,Osceola,Michigan,48.7,43.8393,-85.426,Natural_Gas
+Claude Vandyke,Dorr,Allegan,Michigan,20.2,42.731,-85.8551,Natural_Gas
+Vestaburg,Vestaburg,Montcalm,Michigan,18.5,43.4016,-84.9141,Natural_Gas
+Syl Laskin,Hoyt Lakes,St Louis,Minnesota,88.9,47.5306,-92.1619,Natural_Gas
+Black Dog,Burnsville,Dakota,Minnesota,494,44.8108,-93.2501,Natural_Gas
+High Bridge,St. Paul,Ramsey,Minnesota,530,44.9314,-93.1117,Natural_Gas
+Inver Hills,Inver Grove Heights,Dakota,Minnesota,282,44.781,-93.042,Natural_Gas
+Riverside (MN),Minneapolis,Hennepin,Minnesota,454,45.0203,-93.2753,Natural_Gas
+Fairmont (MN),Fairmont,Martin,Minnesota,26,43.6579,-94.4647,Natural_Gas
+Hutchinson Plant #1,Hutchinson,McLeod,Minnesota,49.7,44.895741,-94.368433,Natural_Gas
+New Prague,New Prague,Le Sueur,Minnesota,16.8,44.5431,-93.5731,Natural_Gas
+Owatonna,Owatonna,Steele,Minnesota,16.6,44.0833,-93.23,Natural_Gas
+Preston (MN),Preston,Fillmore,Minnesota,3.3,43.6661,-92.0831,Natural_Gas
+Redwood Falls,Redwood Falls,Redwood,Minnesota,6,44.5431,-95.1178,Natural_Gas
+Willmar,Willmar,Kandiyohi,Minnesota,23.3,45.121705,-95.053236,Natural_Gas
+Cambridge CT,Cambridge,Isanti,Minnesota,154.2,45.601,-93.2081,Natural_Gas
+Elk River,Elk River,Sherburne,Minnesota,196.5,45.296797,-93.558447,Natural_Gas
+Chevron Oil,Pascagoula,Jackson,Mississippi,132,30.34,-88.4919,Natural_Gas
+Sweatt,Meridian,Lauderdale,Mississippi,32,32.2925,-88.7461,Natural_Gas
+Jack Watson,Gulfport,Harrison,Mississippi,749,30.4392,-89.0286,Natural_Gas
+Baxter Wilson,Vicksburg,Warren,Mississippi,529.8,32.2831,-90.9306,Natural_Gas
+L L Wilkins,Clarksdale,Coahoma,Mississippi,49.5,34.1845,-90.562662,Natural_Gas
+Yazoo,Yazoo City,Yazoo,Mississippi,33.3,32.8458,-90.4211,Natural_Gas
+Moselle,Moselle,Jones,Mississippi,477,31.528,-89.3004,Natural_Gas
+Ralph Green,Pleasant Hill,Cass,Missouri,70.9,38.78758,-94.277689,Natural_Gas
+Lake Road (MO),St Joseph,Buchanan,Missouri,201.2,39.7246,-94.8773,Natural_Gas
+Carrollton,Carrollton,Carroll,Missouri,17.7,39.3515,-93.5016,Natural_Gas
+Carthage,Carthage,Jasper,Missouri,35.7,37.176646,-94.299431,Natural_Gas
+Chillicothe,Chillicothe,Livingston,Missouri,80,39.783388,-93.564112,Natural_Gas
+Columbia (MO),Columbia,Boone,Missouri,47.5,38.964646,-92.316768,Natural_Gas
+Fulton (MO),Fulton,Callaway,Missouri,15,38.868095,-91.94778,Natural_Gas
+Higginsville,Higginsville,Lafayette,Missouri,37.5,39.073315,-93.714748,Natural_Gas
+Blue Valley,Independence,Jackson,Missouri,93,39.0919,-94.3261,Natural_Gas
+Station H,Independence,Jackson,Missouri,39,39.1067,-94.3804,Natural_Gas
+Kennett,Kennett,Dunklin,Missouri,28.2,36.2338,-90.0521,Natural_Gas
+Marshall (MO),Marshall,Saline,Missouri,26.6,39.1228,-93.2064,Natural_Gas
+James River Power Station,Springfield,Greene,Missouri,308,37.108611,-93.261944,Natural_Gas
+Glendive GT,Glendive,Dawson,Montana,74.9,47.0539,-104.74,Natural_Gas
+Miles City GT,Miles City,Custer,Montana,23.6,46.4112,-105.7953,Natural_Gas
+Ansley,Ansley,Custer,Nebraska,0.8,41.289185,-99.386336,Natural_Gas
+Auburn,Auburn,Nemaha,Nebraska,17.5,40.3883,-95.8464,Natural_Gas
+Beaver City,Beaver City,Furnas,Nebraska,1.1,40.130304,-99.827772,Natural_Gas
+Broken Bow,Broken Bow,Custer,Nebraska,7.2,41.4031,-99.6392,Natural_Gas
+Canaday,Lexington,Gosper,Nebraska,99.3,40.6942,-99.7011,Natural_Gas
+Crete,Crete,Saline,Nebraska,6,40.6253,-96.9601,Natural_Gas
+Curtis,Curtis,Frontier,Nebraska,3,40.631453,-100.515161,Natural_Gas
+Emerson,Emerson,Dixon,Nebraska,1.5,42.276,-96.7292,Natural_Gas
+Falls City,Falls City,Richardson,Nebraska,27.7,40.055,-95.6083,Natural_Gas
+Franklin (NE),Franklin,Franklin,Nebraska,3.9,40.0892,-98.9508,Natural_Gas
+C W Burdick,Grand Island,Hall,Nebraska,81.6,40.9228,-98.3269,Natural_Gas
+Don Henry,Hastings,Adams,Nebraska,18,40.583155,-98.420055,Natural_Gas
+North Denver,Hastings,Adams,Nebraska,41,40.598839,-98.38863,Natural_Gas
+Laurel,Laurel,Cedar,Nebraska,2.9,42.430539,-97.090814,Natural_Gas
+J Street,Lincoln,Lancaster,Nebraska,29,40.80788,-96.710667,Natural_Gas
+Nebraska City # 1,Nebraska,Otoe,Nebraska,21.6,40.6806,-95.8475,Natural_Gas
+Syracuse # 2,Syracuse,Otoe,Nebraska,3.2,40.6756,-96.177778,Natural_Gas
+Hallam,Hallam,Lancaster,Nebraska,42.5,40.558652,-96.786177,Natural_Gas
+Sarpy County,Bellevue,Sarpy,Nebraska,316.5,41.170594,-95.970603,Natural_Gas
+Oxford (NE),Oxford,Furnas,Nebraska,3,40.2581,-99.6108,Natural_Gas
+Pender,Pender,Thurston,Nebraska,4.5,42.114742,-96.705431,Natural_Gas
+Sidney (NE),Sidney,Cheyenne,Nebraska,3.5,41.145634,-102.977836,Natural_Gas
+Wahoo,Wahoo,Saunders,Nebraska,13.2,41.211798,-96.61155,Natural_Gas
+Wakefield,Wakefield,Dixon,Nebraska,3.2,42.2691,-96.8621,Natural_Gas
+West Point Municipal,West Point,Cuming,Nebraska,4.4,41.844936,-96.71345,Natural_Gas
+Clark (NVE),Las Vegas,Clark,Nevada,1141,36.0875,-115.0507,Natural_Gas
+Fort Churchill,Yerington,Lyon,Nevada,226,39.1281,-119.1322,Natural_Gas
+Tracy,Sparks,Storey,Nevada,897.6,39.5625,-119.525,Natural_Gas
+Carlls Corner,Upper Deerfield Twp,Cumberland,New Jersey,78.6,39.4547,-75.2014,Natural_Gas
+Sayreville,Sayreville,Middlesex,New Jersey,200,40.476525,-74.352336,Natural_Gas
+Gilbert,Milford,Hunterdon,New Jersey,294,40.565833,-75.163889,Natural_Gas
+Bergen Generating Station,Ridgefield,Bergen,New Jersey,1229,40.8375,-74.0244,Natural_Gas
+PSEG Burlington Generating Station,Burlington,Burlington,New Jersey,168,40.076611,-74.879172,Natural_Gas
+PSEG Essex Generating Station,Newark,Essex,New Jersey,81,40.7372,-74.1206,Natural_Gas
+PSEG Kearny Generating Station,Kearny,Hudson,New Jersey,459.4,40.737283,-74.096464,Natural_Gas
+PSEG Linden Generating Station,Linden,Union,New Jersey,1566.2,40.6217,-74.2072,Natural_Gas
+PSEG Sewaren Generating Station,Sewaren,Middlesex,New Jersey,524.5,40.5558,-74.2469,Natural_Gas
+Howard Down,Vineland,Cumberland,New Jersey,55,39.4889,-75.0347,Natural_Gas
+Rio Grande,SunLand Park,Dona Ana,New Mexico,323,31.8047,-106.5472,Natural_Gas
+Maddox,Hobbs,Lea,New Mexico,183,32.714224,-103.301469,Natural_Gas
+Reeves,Albuquerque,Bernalillo,New Mexico,154,35.171,-106.6019,Natural_Gas
+Cunningham,Hobbs,Lea,New Mexico,463,32.7131,-103.3533,Natural_Gas
+Animas,Farmington,San Juan,New Mexico,17,36.725138,-108.19202,Natural_Gas
+Algodones,Algodones,Sandoval,New Mexico,45,35.384444,-106.464167,Natural_Gas
+Danskammer Generating Station,Newburgh,Orange,New York,495.8,41.571247,-73.974981,Natural_Gas
+West Coxsackie,Coxsackie,Greene,New York,19.6,42.350889,-73.815798,Natural_Gas
+Arthur Kill Generating Station,Staten Island,Richmond,New York,872.4,40.591564,-74.200035,Natural_Gas
+East River,New York,New York,New York,635.6,40.7281,-73.9742,Natural_Gas
+Gowanus Gas Turbines Generating,Brooklyn,Kings,New York,283.3,40.6635,-74.0051,Natural_Gas
+Narrows Gas Turbines Generating,Brooklyn,Kings,New York,289.4,40.648611,-74.020833,Natural_Gas
+Ravenswood,Long Island,Queens,New York,2298.9,40.759167,-73.946111,Natural_Gas
+59th Street,New York,New York,New York,15.5,40.771285,-73.99115,Natural_Gas
+E F Barrett,Island Park,Nassau,New York,668.2,40.616689,-73.647881,Natural_Gas
+Northport,Northport,Suffolk,New York,1580.7,40.923565,-73.342323,Natural_Gas
+Port Jefferson,Port Jefferson,Suffolk,New York,461.4,40.949696,-73.078507,Natural_Gas
+Greenidge Generation LLC,Dresden,Yates,New York,104.5,42.6789,-76.9483,Natural_Gas
+Bethlehem Energy Center,Glenmont,Albany,New York,814.6,42.594196,-73.763752,Natural_Gas
+Bowline Point,West Haverstraw,Rockland,New York,1137,41.2044,-73.9689,Natural_Gas
+Hillburn,Hillburn,Rockland,New York,33.1,41.1269,-74.1653,Natural_Gas
+Shoemaker,Middletown,Orange,New York,33,41.4278,-74.4186,Natural_Gas
+Plant No 2 Freeport,Freeport,Nassau,New York,49,40.6447,-73.5683,Natural_Gas
+S A Carlson,Jamestown,Chautauqua,New York,87,42.0933,-79.2478,Natural_Gas
+Charles P Keller,Rockville Centre,Nassau,New York,28.8,40.658333,-73.640556,Natural_Gas
+Asheville,Arden,Buncombe,North Carolina,766.2,35.4731,-82.5417,Natural_Gas
+Buck,Salisbury,Rowan,North Carolina,668,35.7133,-80.3767,Natural_Gas
+Dan River,Eden,Rockingham,North Carolina,662,36.4862,-79.7208,Natural_Gas
+Dicks Creek,Monroe,Butler,Ohio,136.2,39.465,-84.3778,Natural_Gas
+Frank M Tait,Moraine,Montgomery,Ohio,261.6,39.727249,-84.211084,Natural_Gas
+O H Hutchings,Miamisburg,Montgomery,Ohio,25.3,39.6088,-84.2921,Natural_Gas
+Yankee Street,Centerville,Montgomery,Ohio,115.9,39.603,-84.2047,Natural_Gas
+FirstEnergy West Lorain,Lorain,Lorain,Ohio,425,41.429444,-82.264444,Natural_Gas
+Richland,Defiance,Defiance,Ohio,358,41.305203,-84.334622,Natural_Gas
+Bryan (OH),Bryan,Williams,Ohio,29,41.471822,-84.543148,Natural_Gas
+Collinwood,Cleveland,Cuyahoga,Ohio,16,41.556867,-81.58796,Natural_Gas
+West 41st Street,Cleveland,Cuyahoga,Ohio,32,41.474,-81.7145,Natural_Gas
+Hamilton (OH),Hamilton,Butler,Ohio,123,39.4098,-84.5543,Natural_Gas
+Oberlin (OH),Oberlin,Lorain,Ohio,17.4,41.2836,-82.2194,Natural_Gas
+Horseshoe Lake,Harrah,Oklahoma,Oklahoma,862,35.50866,-97.17969,Natural_Gas
+Muskogee,Fort Gibson,Muskogee,Oklahoma,990.5,35.76135,-95.28732,Natural_Gas
+Mustang,Oklahoma City,Canadian,Oklahoma,465,35.46988,-97.67498,Natural_Gas
+Seminole,Konowa,Seminole,Oklahoma,1315,34.96645,-96.7258,Natural_Gas
+Northeastern,Oologah,Rogers,Oklahoma,906,36.4317,-95.7008,Natural_Gas
+Southwestern,Anadarko,Caddo,Oklahoma,603,35.1009,-98.3524,Natural_Gas
+Tulsa,Tulsa,Tulsa,Oklahoma,305,36.116492,-95.990974,Natural_Gas
+Weleetka,Weleetka,Okfuskee,Oklahoma,108,35.3233,-96.1352,Natural_Gas
+Kingfisher,Kingfisher,Kingfisher,Oklahoma,8.7,35.8575,-97.9277,Natural_Gas
+Mangum,Mangum,Greer,Oklahoma,5.4,34.8836,-99.5022,Natural_Gas
+Anadarko Plant,Anadarko,Caddo,Oklahoma,485,35.0847,-98.23,Natural_Gas
+Mooreland,Mooreland,Woodward,Oklahoma,322,36.43725,-99.22543,Natural_Gas
+Brunot Island,Pittsburg,Allegheny,Pennsylvania,244,40.464851,-80.043761,Natural_Gas
+Blossburg,Blossburg,Tioga,Pennsylvania,19,41.706475,-77.08184,Natural_Gas
+Shawville,Shawville,Clearfield,Pennsylvania,589.7,41.06755,-78.366228,Natural_Gas
+Warren,Warren,Warren,Pennsylvania,50.1,41.835947,-79.188668,Natural_Gas
+New Castle Plant,West Pittsburg,Lawrence,Pennsylvania,305,40.937939,-80.369007,Natural_Gas
+TalenEnergy Martins Creek,Bangor,Northampton,Pennsylvania,1795.9,40.797762,-75.105416,Natural_Gas
+Eddystone Generating Station,Eddystone,Delaware,Pennsylvania,760,39.858,-75.323,Natural_Gas
+Hunlock Power Station,Hunlok Creek,Luzerne,Pennsylvania,125.4,41.200556,-76.07,Natural_Gas
+Manchester Street,Providence,Providence,Rhode Island,468,41.8167,-71.4042,Natural_Gas
+Darlington County,Hartsville,Darlington,South Carolina,381,34.4185,-80.1657,Natural_Gas
+W S Lee,Williamston,Anderson,South Carolina,1040,34.6022,-82.435,Natural_Gas
+Coit GT,Columbia,Richland,South Carolina,26,33.980254,-81.04067,Natural_Gas
+Hagood,Charleston Heights,Charleston,South Carolina,126,32.8265,-79.9634,Natural_Gas
+McMeekin,Columbia,Lexington,South Carolina,250,34.0556,-81.2172,Natural_Gas
+Parr GT,Jenkinsville,Fairfield,South Carolina,60,34.2642,-81.3308,Natural_Gas
+Urquhart,Beech Island,Aiken,South Carolina,639,33.435,-81.9111,Natural_Gas
+Ben French,Rapid City,Pennington,South Dakota,68,44.087235,-103.260959,Natural_Gas
+Aberdeen CT,Aberdeen,Brown,South Dakota,52,45.429884,-98.49396,Natural_Gas
+Huron,Huron,Beadle,South Dakota,54.7,44.369507,-98.17223,Natural_Gas
+Allen,Memphis,Shelby,Tennessee,1479.3,35.074087,-90.14868,Natural_Gas
+John Sevier,Rogersville,Hawkins,Tennessee,878,36.3767,-82.9639,Natural_Gas
+Johnsonville,New Johnsonville,Humphreys,Tennessee,1044.8,36.0278,-87.9861,Natural_Gas
+Laredo,Laredo,Webb,Texas,177.4,27.5667,-99.5089,Natural_Gas
+Nueces Bay,Corpus Christi,Nueces,Texas,633,27.819412,-97.419203,Natural_Gas
+Victoria,Victoria,Victoria,Texas,300,28.7883,-97.01,Natural_Gas
+Lake Hubbard,Sunnyvale,Dallas,Texas,915,32.8358,-96.5458,Natural_Gas
+Mountain Creek,Dallas,Dallas,Texas,808,32.7231,-96.9358,Natural_Gas
+Newman,El Paso,El Paso,Texas,741,31.983587,-106.431777,Natural_Gas
+Lewis Creek,Willis,Montgomery,Texas,505.1,30.4356,-95.5214,Natural_Gas
+Sabine,Orange,Orange,Texas,1604.1,30.0242,-93.878,Natural_Gas
+Cedar Bayou,Baytown,Chambers,Texas,1495,29.75,-94.9256,Natural_Gas
+Greens Bayou,Houston,Harris,Texas,760,29.822201,-95.219429,Natural_Gas
+Sam Bertron,Laporte,Harris,Texas,765,29.726775,-95.059827,Natural_Gas
+T H Wharton,Houston,Harris,Texas,1025,29.9417,-95.5306,Natural_Gas
+Knox Lee,Longview,Gregg,Texas,398,32.3766,-94.6415,Natural_Gas
+Lone Star,Lone Star,Morris,Texas,50,32.9215,-94.7226,Natural_Gas
+Wilkes,Avinger,Marion,Texas,883,32.848163,-94.547986,Natural_Gas
+Jones,Lubbock,Lubbock,Texas,820,33.5239,-101.7392,Natural_Gas
+Nichols,Amarillo,Potter,Texas,457,35.283357,-101.746423,Natural_Gas
+Plant X,Earth,Lamb,Texas,411,34.1661,-102.4114,Natural_Gas
+Graham,Graham,Young,Texas,624,33.1344,-98.6117,Natural_Gas
+Handley,Fort Worth,Tarrant,Texas,1265,32.7283,-97.2192,Natural_Gas
+Morgan Creek,Colorado City,Mitchell,Texas,402,32.3358,-100.9156,Natural_Gas
+Permian Basin,Monahans,Ward,Texas,321,31.5839,-102.9633,Natural_Gas
+Stryker Creek,Jacksonville,Cherokee,Texas,669,31.93985,-94.989834,Natural_Gas
+Trinidad (TX),Trinidad,Henderson,Texas,235,32.124519,-96.101277,Natural_Gas
+Decker Creek,Austin,Travis,Texas,932,30.3033,-97.6128,Natural_Gas
+Silas Ray,Brownsville,Cameron,Texas,107,25.9131,-97.5214,Natural_Gas
+Bryan (TX),Bryan,Brazos,Texas,21,30.64741,-96.372316,Natural_Gas
+Ray Olinger,Navada,Collin,Texas,395,33.068055,-96.452481,Natural_Gas
+Sim Gideon,Bastrop,Bastrop,Texas,607,30.1456,-97.2708,Natural_Gas
+Ty Cooke,Lubbock,Lubbock,Texas,120,33.5211,-101.7906,Natural_Gas
+J Robert Massengale,Lubock,Lubbock,Texas,74,33.6039,-101.8408,Natural_Gas
+Leon Creek,San Antonio,Bexar,Texas,184,29.3525,-98.5761,Natural_Gas
+O W Sommers,San Antonio,Bexar,Texas,830,29.308056,-98.3242,Natural_Gas
+V H Braunig,Elmendorf,Bexar,Texas,1050,29.2567,-98.3825,Natural_Gas
+R W Miller,Palo Pinto,Palo Pinto,Texas,574,32.6581,-98.3103,Natural_Gas
+Pearsall,Pearsall,Frio,Texas,201.6,28.9275,-99.0919,Natural_Gas
+Sam Rayburn,Nursery,Victoria,Texas,205,28.8947,-97.135,Natural_Gas
+Gadsby,Salt Lake City,Salt Lake,Utah,354.5,40.7686,-111.9289,Natural_Gas
+Bountiful City,Bountiful,Davis,Utah,27.2,40.886867,-111.885332,Natural_Gas
+Clinch River,Cleveland,Russell,Virginia,460,36.9333,-82.199700000000007,Natural_Gas
+Bay Front,Ashland,Ashland,Wisconsin,23,46.587222,-90.9017,Natural_Gas
+Fitchburg,Madison,Dane,Wisconsin,32.4,43.0147,-89.4603,Natural_Gas
+Blount Street,Madison,Dane,Wisconsin,94.3,43.0789,-89.3744,Natural_Gas
+Sycamore (WI),Madison,Dane,Wisconsin,28.3,43.1133,-89.3128,Natural_Gas
+Wheaton,Eau Claire,Chippewa,Wisconsin,186,44.885416,-91.515833,Natural_Gas
+Port Washington Generating Station,Port Washington,Ozaukee,Wisconsin,1204.3,43.3842,-87.8689,Natural_Gas
+Valley (WI),Milwaukee,Milwaukee,Wisconsin,262.6,43.0303,-87.9233,Natural_Gas
+Rock River,Beloit,Rock,Wisconsin,114.6,42.583094,-89.025915,Natural_Gas
+Sheepskin,Edgerton,Rock,Wisconsin,27.2,42.8347,-89.110833,Natural_Gas
+Pulliam,Green Bay,Brown,Wisconsin,80.1,44.54,-88.0086,Natural_Gas
+West Marinette,Peshtigo,Marinette,Wisconsin,154,45.0869,-87.6881,Natural_Gas
+Cumberland (WI),Cumberland,Barron,Wisconsin,11.8,45.5336,-92.0224,Natural_Gas
+Kaukauna Gas Turbine,Kaukauna,Outagamie,Wisconsin,15.8,44.276199,-88.265445,Natural_Gas
+Powerlane Plant,Greenville,Hunt,Texas,106.6,33.1707,-96.1264,Natural_Gas
+Logan City,Logan,Cache,Utah,13.5,41.725833,-111.8433,Natural_Gas
+Walnut,Turlock,Stanislaus,California,47,37.4903,-120.9044,Natural_Gas
+Spencer,Denton,Denton,Texas,122,33.1975,-97.1061,Natural_Gas
+Thomas C Ferguson,Marble Falls,Llano,Texas,516,30.558,-98.3705,Natural_Gas
+Barney M Davis,Corpus Christi,Nueces,Texas,933,27.6064,-97.3117,Natural_Gas
+Riverside (OK),Jenks,Tulsa,Oklahoma,1067,35.9978,-95.9567,Natural_Gas
+Cumberland (NJ),Millville,Cumberland,New Jersey,183.1,39.3757,-74.9654,Natural_Gas
+Olive,Burbank,Los Angeles,California,99,34.1764,-118.3147,Natural_Gas
+Greenwood (MI),Avoca,St Clair,Michigan,1009,43.1056,-82.6964,Natural_Gas
+Martin,Indiantown,Martin,Florida,2209,27.0536,-80.5628,Natural_Gas
+Cascade Creek,Rochester,Olmsted,Minnesota,77.4,44.0322,-92.4908,Natural_Gas
+Coachella,Coachella,Riverside,California,81.6,33.6758,-116.1714,Natural_Gas
+Electrifarm,Waterloo,Black Hawk,Iowa,182.7,42.4407,-92.4205,Natural_Gas
+Victor J Daniel Jr,Escatawpa,Jackson,Mississippi,1081,30.5322,-88.5553,Natural_Gas
+Greenwood (MO),Greenwood,Jackson,Missouri,242.1,38.8615,-94.2982,Natural_Gas
+North Loop,Tucson,Pima,Arizona,95,32.401,-111.1262,Natural_Gas
+Fort St Vrain,Platteville,Weld,Colorado,968,40.2461,-104.8742,Natural_Gas
+Whitehorn,Blaine,Whatcom,Washington,134,48.885636,-122.75164,Natural_Gas
+McIntosh,Rincon,Effingham,Georgia,657.6,32.356287,-81.168347,Natural_Gas
+Kansas City International,Kansas City,Platte,Missouri,33.6,39.297252,-94.693153,Natural_Gas
+New Haven Harbor,New Haven,New Haven,Connecticut,447.9,41.283997,-72.904323,Natural_Gas
+Northeast (WA),Spokane,Spokane,Washington,45,47.73511,-117.370538,Natural_Gas
+Empire Energy Center,Sarcoxie,Jasper,Missouri,262,37.1385,-94.1041,Natural_Gas
+Dansby,Bryan,Brazos,Texas,204.2,30.7217,-96.4608,Natural_Gas
+Bernice Lake,Nikiski,Kenai Peninsula,Alaska,62.4,60.6935,-151.3874,Natural_Gas
+International,Anchorage,Anchorage,Alaska,25.2,61.168972,-149.911038,Natural_Gas
+Hutchinson Plant #2,Hutchinson,McLeod,Minnesota,73,44.888881,-94.349348,Natural_Gas
+Rokeby,Lincoln,Lancaster,Nebraska,255.1,40.7316,-96.7364,Natural_Gas
+Valencia,Nogales,Santa Cruz,Arizona,60.3,31.363472,-110.931343,Natural_Gas
+D G Hunter,Alexandria,Rapides,Louisiana,60.2,31.3207,-92.4613,Natural_Gas
+George M Sullivan Generation Plant 2,Anchorage,Anchorage,Alaska,309.3,61.229713,-149.716744,Natural_Gas
+A L Pierce,Wallingford,New Haven,Connecticut,74.1,41.44823,-72.834884,Natural_Gas
+Rawhide,Wellington,Larimer,Colorado,388,40.860905,-105.021207,Natural_Gas
+Augusta Electric Plant No 2,Augusta,Butler,Kansas,20.1,37.686085,-96.964982,Natural_Gas
+East 12th Street,Winfield,Cowley,Kansas,25.8,37.2367,-96.9625,Natural_Gas
+Chanute 3,Chanute,Neosho,Kansas,20.7,37.6376,-95.4704,Natural_Gas
+Whitehead,Springville,Utah,Utah,26.8,40.1817,-111.6203,Natural_Gas
+Gravel Neck,Surry,Surry,Virginia,340,37.1575,-76.6911,Natural_Gas
+Sibley No Two,Sibley,Osceola,Iowa,1,43.396851,-95.74966,Natural_Gas
+McIntosh (AL),McIntosh,Washington,Alabama,688,31.2546,-88.0299,Natural_Gas
+Harry Allen,Las Vegas,Clark,Nevada,654,36.430554,-114.902405,Natural_Gas
+Heber City,Heber City,Wasatch,Utah,14.1,40.50368,-111.425246,Natural_Gas
+Brandon Station,Lubbock,Lubbock,Texas,20,33.585257,-101.886093,Natural_Gas
+Forked River,Forked River,Ocean,New Jersey,65,39.8154,-74.2098,Natural_Gas
+Pleasant Hill,Pleasant Hill,Polk,Iowa,155.5,41.5572,-93.5242,Natural_Gas
+Hay Road,Wilmington,New Castle,Delaware,1136,39.7436,-75.5072,Natural_Gas
+Woodsdale,Trenton,Butler,Ohio,476,39.4492,-84.4611,Natural_Gas
+Concord,Watertown,Jefferson,Wisconsin,363.9,43.1669,-88.69,Natural_Gas
+Barrow,Barrow,North Slope,Alaska,20.3,71.292,-156.7786,Natural_Gas
+South Fond Du Lac,Fond du Lac,Fond Du Lac,Wisconsin,323.9,43.7353,-88.496667,Natural_Gas
+Darbytown,Richmond,Henrico,Virginia,336,37.498223,-77.368544,Natural_Gas
+Gianera,Santa Clara,Santa Clara,California,49.6,37.401,-121.96867,Natural_Gas
+Santa Clara Cogen,Santa Clara,Santa Clara,California,7,37.364297,-121.944238,Natural_Gas
+Angus Anson,Sioux Falls,Minnehaha,South Dakota,327,43.60347,-96.6356,Natural_Gas
+Cane Island,Intercession City,Osceola,Florida,679,28.2764,-81.533,Natural_Gas
+Polk,Mulberry,Polk,Florida,1061,27.7286,-81.9897,Natural_Gas
+Woodland,Modesto,Stanislaus,California,177.2,37.652602,-121.020397,Natural_Gas
+491 E 48th Street,Holland,Allegan,Michigan,145,42.7553,-86.0853,Natural_Gas
+Paris (WI),Union Grove,Kenosha,Wisconsin,362.3,42.6658,-88.0131,Natural_Gas
+Lincoln Combustion,Stanley,Lincoln,North Carolina,1193,35.4317,-81.0347,Natural_Gas
+Gardner Energy Center,Gardner,Johnson,Kansas,27,38.830833,-94.890278,Natural_Gas
+Paragould Turbine,Paragould,Greene,Arkansas,13.6,36.024272,-90.509229,Natural_Gas
+Sherman Avenue,Vineland,Cumberland,New Jersey,82.4,39.451,-75.0578,Natural_Gas
+Central Energy Plant,Lake Buena Vista,Orange,Florida,56,28.4263,-81.5809,Natural_Gas
+State Line Combined Cycle,Joplin,Jasper,Missouri,589,37.0659,-94.614,Natural_Gas
+Hines Energy Complex,Bartow,Polk,Florida,2045,27.788215,-81.869983,Natural_Gas
+Redding Power,Redding,Shasta,California,171,40.507292,-122.423281,Natural_Gas
+Richard M Flynn,Holtsville,Suffolk,New York,136.9,40.8158,-73.064,Natural_Gas
+Almond Power Plant,Modesto,Stanislaus,California,199.5,37.5744,-120.985,Natural_Gas
+Van Sant Station,Dover,Kent,Delaware,44.4,39.145036,-75.548172,Natural_Gas
+San Jacinto Steam Electric Station,La Porte,Harris,Texas,162,29.694838,-95.040622,Natural_Gas
+Richmond,Centerville,Wayne,Indiana,68,39.839572,-84.965682,Natural_Gas
+Anderson,Anderson,Madison,Indiana,140,40.0529,-85.7389,Natural_Gas
+Wellington 2,Wellington,Sumner,Kansas,21,37.2678,-97.3497,Natural_Gas
+University of Florida,Gainesville,Alachua,Florida,44,29.640278,-82.348611,Natural_Gas
+Robins,Robins AFB,Houston,Georgia,160,32.5792,-83.5822,Natural_Gas
+Coyote Springs,Boardman,Morrow,Oregon,243,45.847998,-119.67392,Natural_Gas
+Midulla Generating Station,Bowling Green,Hardee,Florida,816,27.641667,-81.9625,Natural_Gas
+Poplar Bluff Generating Station,Poplar Bluff,Butler,Missouri,27.2,36.7597,-90.3903,Natural_Gas
+Falling Spring,Chambersburg,Franklin,Pennsylvania,7.1,39.9389,-77.6583,Natural_Gas
+Water Street Station,Bay City,Bay,Michigan,12,43.582846,-83.896696,Natural_Gas
+Henry Station,Bay City,Bay,Michigan,15,43.595101,-83.89986,Natural_Gas
+Payson,Payson,Utah,Utah,9.2,40.06084,-111.73023,Natural_Gas
+Interstate,Springfield,Sangamon,Illinois,112,39.8233,-89.5891,Natural_Gas
+Pratt 2,Pratt,Pratt,Kansas,15.2,37.6356,-98.745,Natural_Gas
+Combustion Turbine Project No 2,Lodi,San Joaquin,California,49.3,38.088138,-121.386944,Natural_Gas
+Alameda,Alameda,Alameda,California,43.6,37.7886,-122.2889,Natural_Gas
+Lodi,Lodi,San Joaquin,California,23.3,38.146571,-121.300541,Natural_Gas
+Roseville,Lincoln,Placer,California,42.4,38.810677,-121.323807,Natural_Gas
+Rathdrum,Rathdrum,Kootenai,Idaho,132,47.80427,-116.867312,Natural_Gas
+Rowesville Rd Plant,Orangeburg,Orangeburg,South Carolina,8.4,33.436637,-80.847389,Natural_Gas
+NSB Nuiqsut Utility,Nuiqsut,North Slope,Alaska,2.2,70.220565,-150.993492,Natural_Gas
+Arthur Von Rosenberg,Elmendorf,Bexar,Texas,518,29.257046,-98.384045,Natural_Gas
+McPherson 3,McPherson,McPherson,Kansas,80.2,38.38932,-97.61108,Natural_Gas
+Carson Ice-Gen Project,Sacramento,Sacramento,California,109,38.445681,-121.462387,Natural_Gas
+Wayne County,Goldsboro,Wayne,North Carolina,857,35.375789,-78.098052,Natural_Gas
+Ponca City,Ponca City,Kay,Oklahoma,106.8,36.71979,-97.085758,Natural_Gas
+SCA Cogen 2,Sacramento,Sacramento,California,176.6,38.530943,-121.400128,Natural_Gas
+SPA Cogen 3,Sacramento,Sacramento,California,178,38.511,-121.4735,Natural_Gas
+Nebraska City # 2,Nebraska,Otoe,Nebraska,7.6,40.6661,-95.868333,Natural_Gas
+St Francis Energy Facility,Campbell,Dunklin,Missouri,425,36.5852,-90.1779,Natural_Gas
+River Road Gen Plant,Vancouver,Clark,Washington,220,45.6497,-122.7256,Natural_Gas
+Washington County Cogeneration Facility,McIntosh,Washington,Alabama,100,31.2504,-88.0156,Natural_Gas
+General Electric Plastic,Burkeville,Lowndes,Alabama,84.5,32.310226,-86.52542,Natural_Gas
+Tiger Bay,Ft. Meade,Polk,Florida,200,27.746369,-81.849446,Natural_Gas
+Dahlberg,Nicholson,Jackson,Georgia,746.9,34.042267,-83.397721,Natural_Gas
+H Allen Franklin Combined Cycle,Smiths,Lee,Alabama,1901.8,32.6078,-85.0975,Natural_Gas
+Pea Ridge,Pace,Santa Rosa,Florida,12,30.59208,-87.135391,Natural_Gas
+Theodore Cogen Facility,Theodore,Mobile,Alabama,231,30.525445,-88.128477,Natural_Gas
+Essex,Essex,Stoddard,Missouri,98,36.868206,-89.840173,Natural_Gas
+Nodaway,Conception Junction,Nodaway,Missouri,175,40.2877,-94.7913,Natural_Gas
+Chouteau,Pryor,Mayes,Oklahoma,896,36.222058,-95.277064,Natural_Gas
+Georgetown,Indianapolis,Marion,Indiana,276,39.902556,-86.24405,Natural_Gas
+Tilton,Tilton,Vermilion,Illinois,183.1,40.106125,-87.653818,Natural_Gas
+Henry County,New Castle,Henry,Indiana,129,39.9528,-85.5039,Natural_Gas
+MPC Generating,Monroe,Walton,Georgia,302.5,33.8119,-83.6953,Natural_Gas
+Sowega Power,Baconton,Mitchell,Georgia,97,31.3869,-84.08,Natural_Gas
+1515 S Caron Road,Rochelle,Ogle,Illinois,3,41.9084,-89.0466,Natural_Gas
+Hamilton Peaking,Hamilton,Butler,Ohio,29,39.3528,-84.5183,Natural_Gas
+Bowling Green Peaking,Bowling Green,Wood,Ohio,29,41.3884,-83.6402,Natural_Gas
+Allegany Cogen,Fillmore,Allegany,New York,60,42.5027,-78.0686,Natural_Gas
+Custer Energy Center,Manitowoc,Manitowoc,Wisconsin,22,44.085437,-87.726102,Natural_Gas
+West Marinette 34,Peshtigo,Marinette,Wisconsin,70.4,45.0869,-87.6892,Natural_Gas
+Sherwood H Smith Jr Energy Complex,Hamlet,Richmond,North Carolina,1845,34.8392,-79.7406,Natural_Gas
+Sewell Creek Energy,Cedartown,Polk,Georgia,451.1,33.9486,-85.2769,Natural_Gas
+Alsey,Alsey,Scott,Illinois,164.3,39.569771,-90.43602,Natural_Gas
+Rockwood,Brawley,Imperial,California,24.1,32.9553,-115.5364,Natural_Gas
+Fulton (AR),Fulton,Hempstead,Arkansas,153,33.6094,-93.7924,Natural_Gas
+Rowan,Salisbury,Rowan,North Carolina,961,35.7314,-80.6019,Natural_Gas
+Smarr Energy Center,Forsyth,Monroe,Georgia,187.4,32.9842,-83.8464,Natural_Gas
+John S Rainey,Starr,Anderson,South Carolina,977,34.347734,-82.774478,Natural_Gas
+Essential Power Rock Springs LLC,Rising Sun,Cecil,Maryland,670.9,39.71901,-76.15976,Natural_Gas
+Marsh Run Generation Facility,Remington,Fauquier,Virginia,481.3,38.5283,-77.7681,Natural_Gas
+Louisa Generation Facility,Gordonsville,Louisa,Virginia,466,38.1181,-78.2139,Natural_Gas
+Remington,Remington,Fauquier,Virginia,608,38.5442,-77.7714,Natural_Gas
+Ladysmith,Woodford,Caroline,Virginia,783,38.0722,-77.5133,Natural_Gas
+Freedom Power Project,St. Elmo,Fayette,Illinois,45,39.103333,-88.85898,Natural_Gas
+Pleasant Valley (MN),Dexter,Mower,Minnesota,435.5,43.799446,-92.682874,Natural_Gas
+Minnesota River,Chaska,Carver,Minnesota,39,44.795231,-93.581013,Natural_Gas
+Lagoon Creek,Brownsville,Haywood,Tennessee,1407,35.6578,-89.3964,Natural_Gas
+Brandy Branch,Baldwin,Duval,Florida,723.2,30.320556,-81.947222,Natural_Gas
+Holden,Holden,Johnson,Missouri,264,38.7538,-93.9983,Natural_Gas
+MEPI GT Facility,Joppa,Massac,Illinois,239,37.2175,-88.8661,Natural_Gas
+Elk Mound,Elk Mound,Chippewa,Wisconsin,64.6,44.902814,-91.568096,Natural_Gas
+Glenwood Landing,Glenwood Landing,Nassau,New York,80,40.8275,-73.6478,Natural_Gas
+Encogen,Bellingham,Whatcom,Washington,159.4,48.746,-122.486,Natural_Gas
+Robert P Mone Plant,Convoy,Van Wert,Ohio,435,40.9297,-84.7392,Natural_Gas
+H L Culbreath Bayside Power Station,Tampa,Hillsborough,Florida,1854,27.9072,-82.4231,Natural_Gas
+Terry Bundy Generating Station,Lincoln,Lancaster,Nebraska,163.7,40.909653,-96.613086,Natural_Gas
+E B Harris Electric Generating Plant,Autaugaville,Autauga,Alabama,1314.8,32.381352,-86.574366,Natural_Gas
+Sand Hill,Austin,Travis,Texas,595.8,30.2098,-97.6129,Natural_Gas
+McCartney,Strafford,Greene,Missouri,100,37.248431,-93.170839,Natural_Gas
+Vernon Boulevard,Long Island City,Queens,New York,79.9,40.7537,-73.9508,Natural_Gas
+Joseph J Seymour Power Project,Brooklyn,Kings,New York,79.9,40.6631,-74,Natural_Gas
+Brentwood,Long Island,Suffolk,New York,43.8,40.787062,-73.293412,Natural_Gas
+Hell Gate,Bronx,Bronx,New York,79.9,40.799,-73.9094,Natural_Gas
+Harlem River Yard,Bronx,Bronx,New York,79.9,40.7991,-73.9156,Natural_Gas
+North 1st,Brooklyn,Kings,New York,45.9,40.7171,-73.9664,Natural_Gas
+Talbot County Energy,Box Springs,Talbot,Georgia,579.1,32.5892,-84.6917,Natural_Gas
+Chattahoochee Energy Facility,Franklin,Heard,Georgia,457.9,33.4072,-85.0386,Natural_Gas
+Lakefield Junction,Trimont,Martin,Minnesota,500.1,43.798439,-94.841451,Natural_Gas
+Osawatomie,Miami,Miami,Kansas,75.7,38.532161,-94.902633,Natural_Gas
+West Gardner,Johnson,Johnson,Kansas,312.9,38.7875,-94.9861,Natural_Gas
+Russell Energy Center,Russell,Russell,Kansas,12,38.899722,-98.839444,Natural_Gas
+Coyote Springs II,Boardman,Morrow,Oregon,290,45.848039,-119.673965,Natural_Gas
+Gaylord - Wolverine,Gaylord,Otsego,Michigan,60.6,45.0046,-84.7218,Natural_Gas
+Wansley Unit 9,Franklin,Heard,Georgia,489.6,33.4083,-85.0403,Natural_Gas
+Solway CT,Solway,Beltrami,Minnesota,44,47.544582,-95.129652,Natural_Gas
+Lawrence County Station,Mitchell,Lawrence,Indiana,262.8,38.8003,-86.4511,Natural_Gas
+Evander Andrews Power Complex,Mountain Home,Elmore,Idaho,251.4,43.179176,-115.734315,Natural_Gas
+Kemper County,De Kalb,Kemper,Mississippi,293.2,32.7976,-88.606,Natural_Gas
+Warren F Sam Beasley Generation Station,Smyrna,Kent,Delaware,98,39.279179,-75.623928,Natural_Gas
+Peno Creek,Bowling Green,Pike,Missouri,188,39.3531,-91.2295,Natural_Gas
+Lordsburg Generating,Lordsburg,Hidalgo,New Mexico,74,32.35051,-108.69799,Natural_Gas
+Sumpter,Belleville,Wayne,Michigan,308.4,42.167,-83.5318,Natural_Gas
+Pyramid,Lordsburg,Hidalgo,New Mexico,158,32.2363,-108.5494,Natural_Gas
+Mill Creek (SC),Blacksburg,Cherokee,South Carolina,563,35.1597,-81.4306,Natural_Gas
+Kalkaska CT #1,Kalkaska,Kalkaska,Michigan,48.8,44.6889,-85.2019,Natural_Gas
+Greater Des Moines,Pleasant Hill,Polk,Iowa,484.4,41.5563,-93.5283,Natural_Gas
+Lake One,Burbank,Los Angeles,California,48,34.1772,-118.3147,Natural_Gas
+Silver Creek,Prentiss,Jefferson Davis,Mississippi,225,31.6004,-89.9468,Natural_Gas
+Sylvarena,Raleigh,Smith,Mississippi,129,31.982076,-89.412714,Natural_Gas
+West Campus Cogeneration Facility,Madison,Dane,Wisconsin,130.1,43.075071,-89.4251,Natural_Gas
+Grays Harbor Energy Facility,Elma,Grays Harbor,Washington,604,46.9692,-123.48,Natural_Gas
+Beatrice,Beatrice,Gage,Nebraska,220,40.330184,-96.808153,Natural_Gas
+Roseton Generating Facility,Newsburgh,Orange,New York,1182.7,41.573783,-73.966269,Natural_Gas
+Mickleton Station,Mickleton,Gloucester,New Jersey,64.9,39.8119,-75.249031,Natural_Gas
+Auburn State Street,Auburn,Cayuga,New York,5.3,42.9278,-76.5921,Natural_Gas
+Murray Turbine,Murray,Salt Lake,Utah,36,40.67,-111.89,Natural_Gas
+Paragould Reciprocating,Paragould,Greene,Arkansas,18,36.0242,-90.5094,Natural_Gas
+Boulder Park,Spokane,Spokane,Washington,24.6,47.697222,-117.147222,Natural_Gas
+Hartzog,Wright,Campbell,Wyoming,15,43.8294,-105.5322,Natural_Gas
+Blue Lake,Shakopee,Scott,Minnesota,300,44.7855,-93.4315,Natural_Gas
+Arvada,Arvada,Sheridan,Wyoming,15,44.69,-106.1092,Natural_Gas
+Sycamore (IA),Johnston,Polk,Iowa,143.8,41.6722,-93.6769,Natural_Gas
+Barber Creek,Gillette,Campbell,Wyoming,15,43.7219,-105.7689,Natural_Gas
+Emery Station,Clear Lake,Cerro Gordo,Iowa,518.8,43.094,-93.292222,Natural_Gas
+Yankton,Yankton,Yankton,South Dakota,8.7,42.893333,-97.353333,Natural_Gas
+Clifton,Clifton,Washington,Kansas,68,39.6125,-97.2778,Natural_Gas
+Anclote,Holiday,Pasco,Florida,1003,28.184444,-82.788611,Natural_Gas
+Intercession City,Intercession City,Osceola,Florida,534,28.262778,-81.548611,Natural_Gas
+Pouch,Staten Island,Richmond,New York,45.6,40.6182,-74.06849,Natural_Gas
+Gerald Andrus,Greenville,Washington,Mississippi,736,33.35,-91.1167,Natural_Gas
+Waterford 1 & 2,Killona,St Charles,Louisiana,838.5,29.998884,-90.47684,Natural_Gas
+Comanche (OK),Lawton,Comanche,Oklahoma,260,34.5431,-98.3244,Natural_Gas
+DeCordova Steam Electric Station,Granbury,Hood,Texas,282,32.403056,-97.700556,Natural_Gas
+Fort Lupton,Ft. Lupton,Weld,Colorado,88,40.0922,-104.796,Natural_Gas
+Santan,Gilbert,Maricopa,Arizona,1227,33.3325,-111.7503,Natural_Gas
+Beaver,Clatskanie,Columbia,Oregon,485,46.172401,-123.17392,Natural_Gas
+Ellwood,Goleta,Santa Barbara,California,54,34.431419,-119.900055,Natural_Gas
+Stanberry,Stanberry,Gentry,Missouri,4,40.212746,-94.542359,Natural_Gas
+Astoria Generating Station,Astoria,Queens,New York,1322,40.787674,-73.912561,Natural_Gas
+Nine Springs,Madison,Dane,Wisconsin,12.5,43.0386,-89.3586,Natural_Gas
+Colorado Energy Nations Company,Golden,Jefferson,Colorado,40,39.7606,-105.215,Natural_Gas
+Baptist Medical Center,Jacksonville,Duval,Florida,8.1,30.314467,-81.662705,Natural_Gas
+Cutrale Citrus Juices USA I,Leesburg,Lake,Florida,4.3,28.811828,-81.865273,Natural_Gas
+General Electric Aircraft Engines,Lynn,Essex,Massachusetts,23.8,42.45,-70.9739,Natural_Gas
+Energy Center Dover,Dover,Kent,Delaware,103,39.149549,-75.547335,Natural_Gas
+Gilroy Power Plant,Gilroy,Santa Clara,California,115,37.0001,-121.5367,Natural_Gas
+Kaweah Delta District Hospital,Visalia,Tulare,California,3.5,36.3275,-119.2947,Natural_Gas
+"Mars Wrigley Confectionery US, LLC",Hackettstown,WARREN,New Jersey,9.5,40.8625,-74.825,Natural_Gas
+Pedricktown Cogeneration Company LP,Pedricktown,Salem,New Jersey,115.3,39.7668,-75.4238,Natural_Gas
+Hampton Facility,Hampton,Rockingham,New Hampshire,3.8,42.9383,-70.8406,Natural_Gas
+Frito-Lay Cogen Plant,Bakersfield,Kern,California,5.5,35.395063,-119.321633,Natural_Gas
+Grossmont Hospital,La Mesa,San Diego,California,4.2,32.77973,-117.006397,Natural_Gas
+CIP II/AR Bridgewater Holdings - NJCOE,Bridgewater,Somerset,New Jersey,4.1,40.624,-74.634,Natural_Gas
+Hoffmann LaRoche,Nutley,Essex,New Jersey,8.2,40.8359,-74.155,Natural_Gas
+Indiana University of Pennsylvania,Indiana,Indiana,Pennsylvania,24,40.6144,-79.1594,Natural_Gas
+White Pine Electric Power,White Pine,Ontonagon,Michigan,18,46.7644,-89.5669,Natural_Gas
+Decorative Panels Intl,Alpena,Alpena,Michigan,7,45.062836,-83.423333,Natural_Gas
+Power Island,Alvin,Brazoria,Texas,80,29.2293,-95.1952,Natural_Gas
+Fresno Cogen Partners,San Joaquin,Fresno,California,72.9,36.617022,-120.099846,Natural_Gas
+Carson Cogeneration,Carson,Los Angeles,California,49.3,33.8759,-118.2491,Natural_Gas
+Central Utility Plant,Austin,Travis,Texas,8.3,30.397351,-97.842586,Natural_Gas
+Cutrale Citrus Juices USA II,Auburndale,Polk,Florida,8.6,28.05485,-81.798166,Natural_Gas
+Castleton Energy Center,Castleton,Rensselaer,New York,67.7,42.5375,-73.7433,Natural_Gas
+CF Industries Yazoo City Complex,Yazoo City,Yazoo,Mississippi,20,32.90411,-90.3781,Natural_Gas
+Loma Linda University Cogen,Loma Linda,San Bernardino,California,9.6,34.050391,-117.248417,Natural_Gas
+El Segundo Cogen,El Segundo,Los Angeles,California,171.6,33.9058,-118.4031,Natural_Gas
+Snowbird Power Plant,Snowbird,Salt Lake,Utah,1.8,40.58337,-111.653903,Natural_Gas
+Merck Rahway Power Plant,Rahway,Union,New Jersey,20.9,40.615616,-74.26529,Natural_Gas
+Ticona Polymers Inc,Bishop,Nueces,Texas,32.5,27.5697,-97.8228,Natural_Gas
+Enterprise Products Operating,Mont Belvieu,Chambers,Texas,18,29.8247,-94.9197,Natural_Gas
+California Institute of Technology,Pasadena,Los Angeles,California,11.1,34.138467,-118.1256,Natural_Gas
+Florida's Natural Growers,Lake Wales,Polk,Florida,8.3,27.9114,-81.6006,Natural_Gas
+King City Power Plant,King City,Monterey,California,111,36.225,-121.1278,Natural_Gas
+Bayou Cogen Plant,Pasadena,Harris,Texas,290,29.6225,-95.0458,Natural_Gas
+Louisiana Sugar Refining,Gramercy,St James,Louisiana,5.3,30.0497,-90.6839,Natural_Gas
+Juniata Locomotive Shop,Altoona,Blair,Pennsylvania,1.5,40.533299,-78.384125,Natural_Gas
+Bellingham Cogeneration Facility,Bellingham,Norfolk,Massachusetts,264,42.0925,-71.4833,Natural_Gas
+Sayreville Cogeneration Facility,Sayreville,Middlesex,New Jersey,292,40.439,-74.3444,Natural_Gas
+Geismar,Geismar,Ascension,Louisiana,80.1,30.2,-91,Natural_Gas
+T B Simon Power Plant,East Lansing,Ingham,Michigan,97.4,42.7178,-84.4836,Natural_Gas
+Southside Water Reclamation Plant,Albuquerque,Bernalillo,New Mexico,4.2,35.016111,-106.669722,Natural_Gas
+Foster Wheeler Martinez,Martinez,Contra Costa,California,103.5,38.0244,-122.0589,Natural_Gas
+Greenleaf 2 Power Plant,Yuba City,Sutter,California,49.5,39.1365,-121.6397,Natural_Gas
+Consumer Operations LLC,Green Bay,Brown,Wisconsin,79,44.4936,-88.0303,Natural_Gas
+Muskogee Mill,Muskogee,Muskogee,Oklahoma,67.5,35.7322,-95.2939,Natural_Gas
+Kingsburg Cogen,Kingsburg,Fresno,California,33.8,36.5397,-119.5794,Natural_Gas
+Clark University,Worcester,Worcester,Massachusetts,2,42.2508,-71.8226,Natural_Gas
+Pensacola Florida Plant,Cantonment,Escambia,Florida,98,30.5958,-87.2525,Natural_Gas
+Indian Orchard Plant 1,Springfield,Hampden,Massachusetts,3,42.156898,-72.524153,Natural_Gas
+New-Indy Ontario Mill,Ontario,San Bernardino,California,29.4,34.045361,-117.540193,Natural_Gas
+Anheuser-Busch St Louis,St. Louis,St Louis City,Missouri,26.1,38.597755,-90.210671,Natural_Gas
+Anheuser-Busch Jacksonville,Jacksonville,Duval,Florida,8.7,30.43424,-81.645351,Natural_Gas
+ExxonMobil Baytown Refinery,Baytown,Harris,Texas,128,29.753517,-94.997277,Natural_Gas
+Mead Rumford Cogen,Rumford,Oxford,Maine,12.5,44.546503,-70.544286,Natural_Gas
+Kern River Cogeneration,Bakersfield,Kern,California,288,35.4515,-118.9849,Natural_Gas
+Mid-Set Cogeneration,Fellows,Kern,California,36,35.19456,-119.57097,Natural_Gas
+Lederle Laboratories,Pearl River,Rockland,New York,21.7,41.0772,-74.0181,Natural_Gas
+San Jose Cogeneration,San Jose,Santa Clara,California,5.6,37.336113,-121.878332,Natural_Gas
+Formosa Utility Venture Ltd,Point Comfort,Calhoun,Texas,597.3,28.6917,-96.5417,Natural_Gas
+Algonquin Windsor Locks,Windsor Locks,Hartford,Connecticut,64,41.9227,-72.6255,Natural_Gas
+Port Arthur Texas Refinery,Port Arthur,Jefferson,Texas,28,29.964938,-93.891283,Natural_Gas
+CH Resources Beaver Falls,Beaver Falls,Lewis,New York,80.4,43.8861,-75.4342,Natural_Gas
+Carthage Energy LLC,Carthage,Jefferson,New York,61.1,43.9842,-75.6225,Natural_Gas
+CH Resources Syracuse,Solvay,Onondaga,New York,85.3,43.0664,-76.2144,Natural_Gas
+Civic Center,Los Angeles,Los Angeles,California,23.6,34.0564,-118.2436,Natural_Gas
+Hopewell Cogeneration,Hopewell,Prince George,Virginia,378.3,37.291667,-77.281111,Natural_Gas
+Bear Mountain Limited,Bakersfield,Kern,California,46,35.419181,-118.926643,Natural_Gas
+Badger Creek Limited,Bakersfield,Kern,California,46,35.483736,-119.029856,Natural_Gas
+CES Placerita Power Plant,Santa Clarita,Los Angeles,California,69,34.3801,-118.4999,Natural_Gas
+Brush Generation Facility,Brush,Morgan,Colorado,292,40.2415,-103.631,Natural_Gas
+Westend Facility,Trona,San Bernardino,California,15,35.7075,-117.3956,Natural_Gas
+ExxonMobil Baton Rouge Turbine Generator,Baton Rouge,East Baton Rouge,Louisiana,78.9,30.489722,-91.187222,Natural_Gas
+ExxonMobil Baytown Turbine,Baytown,Harris,Texas,326,29.759124,-95.009648,Natural_Gas
+Graphic Packaging,Kalamazoo,Kalamazoo,Michigan,1.5,42.306809,-85.578969,Natural_Gas
+Kyocera America Project,San Diego,San Diego,California,3.8,32.819675,-117.140548,Natural_Gas
+Selkirk Cogen,Selkirk,Albany,New York,360.2,42.5744,-73.8592,Natural_Gas
+Masspower,Indian Orchard,Hampden,Massachusetts,245,42.1575,-72.5225,Natural_Gas
+Midland Cogeneration Venture,Midland,Midland,Michigan,1859.4,43.5861,-84.2242,Natural_Gas
+Camden Plant Holdings LLC,Camden,Camden,New Jersey,145,39.9175,-75.1192,Natural_Gas
+Rifle Generating Station,Rifle,Garfield,Colorado,73,39.5173,-107.7299,Natural_Gas
+Las Vegas Generating Station,North Las Vegas,Clark,Nevada,282,36.2319,-115.1222,Natural_Gas
+E F Oxnard Energy Facility,Oxnard,Ventura,California,48.5,34.1958,-119.1664,Natural_Gas
+Sabine River Works,Orange,Orange,Texas,507,30.0552,-93.7579,Natural_Gas
+Victoria Texas Plant,Victoria,Victoria,Texas,75,28.675088,-96.956014,Natural_Gas
+Camden South Carolina,Lugoff,Kershaw,South Carolina,17.5,34.2338,-80.6558,Natural_Gas
+Ogdensburg Power,Ogdensburg,St Lawrence,New York,23,44.7258,-75.4417,Natural_Gas
+Kenilworth Energy Facility,Kenilworth,Union,New Jersey,24.5,40.6781,-74.2744,Natural_Gas
+Ada Cogeneration LP,ADA,Kent,Michigan,30,42.962672,-85.494071,Natural_Gas
+Cargill Corn Milling Division,Eddyville,Monroe,Iowa,36.7,41.1386,-92.6467,Natural_Gas
+Archer Daniels Midland Peoria,Peoria,Peoria,Illinois,30,40.677188,-89.604911,Natural_Gas
+Hazelton,Hazelton,Luzerne,Pennsylvania,145.6,40.928161,-76.040929,Natural_Gas
+Medical Area Total Energy Plant,Boston,Suffolk,Massachusetts,60.5,42.33685,-71.10815,Natural_Gas
+Olive View Medical Center,Sylmar,Los Angeles,California,5.4,34.326242,-118.44477,Natural_Gas
+Pittsfield Generating LP,Pittsfield,Berkshire,Massachusetts,151.4,42.4564,-73.2181,Natural_Gas
+Chalk Cliff Limited,Bakersfield,Kern,California,46,35.0968,-119.4299,Natural_Gas
+Linden Cogen Plant,Linden,Union,New Jersey,952.3,40.6322,-74.2156,Natural_Gas
+Corpus Refinery,Corpus Christi,Nueces,Texas,32,27.8322,-97.5281,Natural_Gas
+Norton Powerhouse,Worcester,Worcester,Massachusetts,5.6,42.309555,-71.805218,Natural_Gas
+Houston Chemical Complex Battleground,Houston,Harris,Texas,263,29.7314,-95.0839,Natural_Gas
+Rice University,Houston,Harris,Texas,6.9,29.721048,-95.39536,Natural_Gas
+San Diego State University,San Diego,San Diego,California,13.3,32.778225,-117.070114,Natural_Gas
+Univ of Calif Santa Cruz Cogeneration,Santa Cruz,Santa Cruz,California,4.4,36.9997,-122.0622,Natural_Gas
+Univ of Massachusetts Medical Center,Worcester,Worcester,Massachusetts,12,42.279015,-71.759772,Natural_Gas
+Univ of San Francisco Cogen,San Francisco,San Francisco,California,1.4,37.77656,-122.451878,Natural_Gas
+"Vicinity Energy Trenton, L.P.",Trenton,Mercer,New Jersey,5.8,40.2167,-74.7667,Natural_Gas
+Paris Energy Center,Paris,Lamar,Texas,236,33.6968,-95.5577,Natural_Gas
+US Borax,Boron,Kern,California,39,35.0329,-117.701,Natural_Gas
+Hal C Weaver Power Plant,Austin,Travis,Texas,146.8,30.2867,-97.7356,Natural_Gas
+Signal Hill Generating LLC,Wichita Falls,Wichita,Texas,76.1,33.8625,-98.5894,Natural_Gas
+Coalinga Cogeneration,Coalinga,Fresno,California,36,36.1807,-120.3885,Natural_Gas
+Sycamore Cogeneration,Bakersfield,Kern,California,300,35.452577,-118.985313,Natural_Gas
+South Oaks Hospital,Amityville,Suffolk,New York,0.5,40.6853,-73.4258,Natural_Gas
+Newgulf Cogen,NewGulf,Wharton,Texas,69,29.2639,-95.8997,Natural_Gas
+Imperial Savannah LP,Port Wentworth,Chatham,Georgia,11.2,32.143989,-81.14655,Natural_Gas
+Linde Wilmington,Wilmington,Los Angeles,California,27,33.78856,-118.229392,Natural_Gas
+Union Carbide Seadrift Cogen,Seadrift,Calhoun,Texas,153,28.5105,-96.7706,Natural_Gas
+Dow St Charles Operations,Taft,St Charles,Louisiana,270,29.9861,-90.4414,Natural_Gas
+Wichita Plant,Wichita,Sedgwick,Kansas,27,37.581339,-97.424133,Natural_Gas
+Berry Cogen,Taft,Kern,California,35,35.093046,-119.443617,Natural_Gas
+B Braun Medical,Irvine,Orange,California,5.7,33.688721,-117.834793,Natural_Gas
+US Gypsum Oakfield,Oakfield,Genesee,New York,4.9,43.0647,-78.2972,Natural_Gas
+Watson Cogeneration,Carson,Los Angeles,California,398,33.816647,-118.244841,Natural_Gas
+Texas Petrochemicals,Houston,Harris,Texas,35,29.6981,-95.2547,Natural_Gas
+San Antonio Regional Hospital,Upland,San Bernardino,California,2.7,34.1019,-117.6381,Natural_Gas
+Purdue University,West Lafayette,Tippecanoe,Indiana,37.8,40.4172,-86.9122,Natural_Gas
+Tenet Hospital,El Paso,El Paso,Texas,2.1,31.7697,-106.5014,Natural_Gas
+ExxonMobil Santa Ynez Facility,Goleta,Santa Barbara,California,49.1,34.464819,-120.044365,Natural_Gas
+Park 500 Philip Morris USA,Chester,Chesterfield,Virginia,10.5,37.3389,-77.2806,Natural_Gas
+Archbald Power Station,Archbald,Lackawanna,Pennsylvania,43.7,41.485,-75.5406,Natural_Gas
+Bethpage Power Plant,Hicksville,Nassau,New York,184,40.7469,-73.4994,Natural_Gas
+AltaGas Ripon Energy Inc.,Ripon,San Joaquin,California,46.1,37.732533,-121.116006,Natural_Gas
+University of Oklahoma,Norman,Cleveland,Oklahoma,16.8,35.2089,-97.4424,Natural_Gas
+Standby Generation Plant,Pensacola,Escambia,Florida,13.7,30.4736,-87.2361,Natural_Gas
+Bunge North America East LLC,Decatur,Adams,Indiana,2.2,40.846525,-84.933264,Natural_Gas
+Par Sterile Products,Rochester,Oakland,Michigan,2.8,42.68367,-83.11434,Natural_Gas
+Nalco,Naperville,DuPage,Illinois,3.7,41.800909,-88.197156,Natural_Gas
+Mooseheart Power House,Mooseheart,Kane,Illinois,1.8,41.8244,-88.3331,Natural_Gas
+Cornell University Central Heat,Ithaca,Tompkins,New York,30.9,42.4428,-76.4764,Natural_Gas
+Paxton Creek Cogeneration,Harrisburg,Dauphin,Pennsylvania,12,40.2653,-76.8771,Natural_Gas
+Newark Bay Cogeneration Partnership LP,Newark,Essex,New Jersey,120.2,40.7197,-74.13,Natural_Gas
+Port Allen (LA),Port Allen,West Baton Rouge,Louisiana,7,30.477,-91.211,Natural_Gas
+Georgia-Pacific Corp - Nekoosa Mill,Nekoosa,Wood,Wisconsin,18.7,44.3142,-89.8964,Natural_Gas
+Rutgers Biomedical and Health Cogen,Newark,Essex,New Jersey,10.2,40.73928,-74.187633,Natural_Gas
+Bronx Zoo,New York,Bronx,New York,3.6,40.844114,-73.876888,Natural_Gas
+University of Michigan,Ann Arbor,Washtenaw,Michigan,41.5,42.281167,-83.734617,Natural_Gas
+Indeck Silver Springs Energy Center,Silver Springs,Wyoming,New York,49.8,42.6544,-78.0772,Natural_Gas
+Indeck Oswego Energy Center,Oswego,Oswego,New York,49.8,43.471745,-76.493474,Natural_Gas
+Indeck Yerkes Energy Center,Tonawanda,Erie,New York,48.7,42.9671,-78.9182,Natural_Gas
+Procter & Gamble Cincinnati Plant,Cincinnati,Hamilton,Ohio,11.7,39.175,-84.5042,Natural_Gas
+Indeck Corinth Energy Center,Corinth,Saratoga,New York,128.8,43.25,-73.8125,Natural_Gas
+Procter & Gamble Mehoopany Mill,Mehoopany,Wyoming,Pennsylvania,104.9,41.574259,-76.043233,Natural_Gas
+Oxnard,Oxnard,Ventura,California,70.9,34.196,-119.1667,Natural_Gas
+Corpus Christi,Corpus Christi,Nueces,Texas,33,27.811083,-97.595813,Natural_Gas
+Packaging of America Tomahawk Mill,Tomahawk,Lincoln,Wisconsin,13.6,45.4431,-89.7342,Natural_Gas
+PPG Powerhouse C,Lake Charles,Calcasieu,Louisiana,303.2,30.22612,-93.295173,Natural_Gas
+PPG Plant C Caustic,Lake Charles,Calcasieu,Louisiana,2.7,30.226444,-93.293765,Natural_Gas
+Axiall Natrium Plant,New Martinsville,Marshall,West Virginia,115.5,39.7475,-80.8547,Natural_Gas
+Double C Generation Limited Partnership,Bakersfield,Kern,California,46,35.5005,-119.046,Natural_Gas
+Kern Front Limited,Bakersfield,Kern,California,46,35.51647,-119.040128,Natural_Gas
+High Sierra Limited,Bakersfield,Kern,California,46,35.509041,-119.030546,Natural_Gas
+Capitol District Energy Center,Hartford,Hartford,Connecticut,51.5,41.7639,-72.6925,Natural_Gas
+SRI International Cogen Project,Menlo Park,San Mateo,California,5.6,37.455314,-122.172797,Natural_Gas
+Harbor Cogen,Wilmington,Los Angeles,California,101.7,33.7771,-118.2303,Natural_Gas
+Frontier,Oklahoma City,Oklahoma,Oklahoma,111.4,35.439722,-97.625,Natural_Gas
+Eagle Point Power Generation,Westville,Gloucester,New Jersey,244,39.8746,-75.1592,Natural_Gas
+Milam Gas Recovery,East St. Lois,St Clair,Illinois,2.4,38.6603,-90.1317,Natural_Gas
+Saint Johns Health Center,Santa Monica,Los Angeles,California,1,34.030318,-118.47844,Natural_Gas
+McKittrick Limited,Bakersfield,Kern,California,46,35.319503,-119.661992,Natural_Gas
+Central Power Plant,Cranston,Providence,Rhode Island,8.1,41.744973,-71.458415,Natural_Gas
+Berry Cogen Tanne Hills 18,Maricopa,Kern,California,14,35.089829,-119.440881,Natural_Gas
+Gaviota Oil Plant,Goleta,Santa Barbara,California,12,34.475067,-120.205107,Natural_Gas
+ExxonMobil Beaumont Refinery,Beaumont,Jefferson,Texas,605.6,30.0636,-94.0753,Natural_Gas
+Paulsboro Refinery,Paulsboro,Gloucester,New Jersey,27,39.84,-75.2583,Natural_Gas
+Municipal Cogen Plant,Palm Springs,Riverside,California,1.2,33.8247,-116.5106,Natural_Gas
+JM Shafer Generating Station,Ft. Lupton,Weld,Colorado,272,40.0986,-104.7736,Natural_Gas
+BP Naperville Cogeneration Facility,Naperville,DuPage,Illinois,7,41.8108,-88.1486,Natural_Gas
+Sterling Power Plant,Sherrill,Oneida,New York,54.8,43.080338,-75.600963,Natural_Gas
+Agnews Power Plant,San Jose,Santa Clara,California,31.7,37.4058,-121.9272,Natural_Gas
+Coalinga Cogeneration Facility,Coalinga,Fresno,California,6.4,36.170317,-120.364084,Natural_Gas
+Southeast Kern River Cogen,Bakersfield,Kern,California,26.8,35.4206,-118.9644,Natural_Gas
+South Belridge Cogeneration Facility,McKittrick,Kern,California,57,35.438611,-119.7075,Natural_Gas
+Parlin Power Plant,Parlin,Middlesex,New Jersey,114.6,40.460717,-74.327161,Natural_Gas
+Seminole Mill,Jacksonville,Duval,Florida,20,30.4178,-81.5978,Natural_Gas
+Optim Energy Altura Cogen LLC,Channelview,Harris,Texas,537.2,29.8161,-95.10773,Natural_Gas
+Gramercy Holdings LLC,Gramercy,St James,Louisiana,76,30.054,-90.6693,Natural_Gas
+PE Berkeley,Berkeley,Alameda,California,24,37.870331,-122.26337,Natural_Gas
+OLS Energy Chino,Chino,San Bernardino,California,29,33.989626,-117.680911,Natural_Gas
+CSUCI Site Authority,Camarillo,Ventura,California,28.3,34.161951,-119.047916,Natural_Gas
+Elmwood Park Power LLC,Elmwood Park,Bergen,New Jersey,70,40.905337,-74.130448,Natural_Gas
+Sargent Canyon Cogeneration,Bakersfield,Monterey,California,30,35.9359,-120.8408,Natural_Gas
+Salinas River Cogeneration,San Ardo,Monterey,California,33,35.9515,-120.8679,Natural_Gas
+Sagamore Plant Cogeneration,Lafayette,Tippecanoe,Indiana,7.4,40.4439,-86.86,Natural_Gas
+Ford Utilities Center,Albuquerque,Bernalillo,New Mexico,12.2,35.084078,-106.625191,Natural_Gas
+Rhinelander Mill,Rhinelander,Oneida,Wisconsin,4,45.6394,-89.4205,Natural_Gas
+Lagoon Cogeneration Facility,Farmington,Davis,Utah,1.5,40.9872,-111.8983,Natural_Gas
+Hardee Power Station,Bowling Green,Hardee,Florida,373,27.6364,-81.9636,Natural_Gas
+Saint Francis Hospital,Evanston,Cook,Illinois,1.6,42.0242,-87.6847,Natural_Gas
+Rousselot Inc,Peabody,Essex,Massachusetts,6.3,42.521747,-70.938657,Natural_Gas
+Naval Hospital Medical Center,San Diego,San Diego,California,4.4,32.7261,-117.1464,Natural_Gas
+MU Combined Heat and Power Plant,Columbia,Boone,Missouri,73.8,38.9461,-92.3328,Natural_Gas
+Tropicana Products Bradent,Bradenton,Manatee,Florida,31,27.483358,-82.548341,Natural_Gas
+Motiva Enterprises Port Arthur Refinery,Port Arthur,Jefferson,Texas,239.4,29.888462,-93.950984,Natural_Gas
+Carr Street Generating Station,East Syracuse,Onondaga,New York,87,43.06132,-76.08239,Natural_Gas
+Solano County Cogen Plant,Fairfield,Solano,California,2.8,38.2494,-122.0394,Natural_Gas
+Ocean State Power,Harrisville,Providence,Rhode Island,218.6,42.009722,-71.668909,Natural_Gas
+LaO Energy Systems,Plaquemine,Iberville,Louisiana,384,30.3186,-91.2325,Natural_Gas
+Doswell Energy Center,Ashland,Hanover,Virginia,1164.8,37.820805,-77.446246,Natural_Gas
+ITT Cogen Facility,Chicago,Cook,Illinois,7,41.83442,-87.628465,Natural_Gas
+Rhode Island Hospital,Providence,Providence,Rhode Island,10.4,41.8103,-71.41,Natural_Gas
+Dartmouth Power Associates LP,Dartmouth,Bristol,Massachusetts,81.7,41.6731,-70.9994,Natural_Gas
+Vanderbilt University Power Plant,Nashville,Davidson,Tennessee,17.6,36.145896,-86.803833,Natural_Gas
+Nassau Energy Corp,Garden City,Nassau,New York,55,40.7264,-73.5892,Natural_Gas
+Hartford Hospital Cogeneration,Hartford,Hartford,Connecticut,10,41.7631,-72.6733,Natural_Gas
+Point Comfort Operations,Point Comfort,Calhoun,Texas,58.7,28.652709,-96.559997,Natural_Gas
+Radford Army Ammunition Plant,Radford,Montgomery,Virginia,22.4,37.180441,-80.542767,Natural_Gas
+UCLA So Campus Cogen Project,Los Angeles,Los Angeles,California,36,34.0692,-118.4439,Natural_Gas
+McKittrick Cogen,McKittrick,Kern,California,9.6,35.3161,-119.6597,Natural_Gas
+Lost Hills Cogeneration Plant,Lost Hills,Kern,California,8.1,35.666111,-119.766944,Natural_Gas
+North Midway Cogen,McKittrick,Kern,California,9,35.2761,-119.5986,Natural_Gas
+Cymric 31X Cogen,McKittrick,Kern,California,5.4,35.3639,-119.6592,Natural_Gas
+Cymric 6Z Cogen,McKittrick,Kern,California,5.4,35.346102,-119.643431,Natural_Gas
+Coalinga 6C Cogen,Coalinga,Fresno,California,5.4,36.2097,-120.3828,Natural_Gas
+Taft 26C Cogen,Taft,Kern,California,10.8,35.1133,-119.4706,Natural_Gas
+Coalinga 25D Cogen,Coalinga,Fresno,California,10.8,36.1556,-120.3972,Natural_Gas
+Elizabeth River Power Station,Chesapeake,Chesapeake City,Virginia,348,36.775,-76.3083,Natural_Gas
+Texas City Power Plant,Texas City,Galveston,Texas,451,29.378697,-94.943829,Natural_Gas
+Celanese Acetate LLC,Narrows,Giles,Virginia,27.2,37.3439,-80.765,Natural_Gas
+Berry Placerita Cogen,Santa Clarita,Los Angeles,California,39.2,34.38407,-118.494882,Natural_Gas
+Cymric 36W Cogen,McKittrick,Kern,California,10.8,35.3633,-119.6756,Natural_Gas
+Kern River Eastridge Cogen,Bakersfield,Kern,California,41.6,35.4406,-118.9617,Natural_Gas
+Richmond Cogen,Richmond,Contra Costa,California,130.4,37.9418,-122.3909,Natural_Gas
+Freeport Energy,Freeport,Brazoria,Texas,517.2,28.991289,-95.407481,Natural_Gas
+Wasson CO2 Removal Plant,Denver City,Yoakum,Texas,17.3,33.009944,-102.756945,Natural_Gas
+Power Station 4,Texas City,Galveston,Texas,172,29.378164,-94.92195,Natural_Gas
+C P Kelco San Diego Plant,San Diego,San Diego,California,27.8,32.6947,-117.1436,Natural_Gas
+Elkton,Elkton,Rockingham,Virginia,7.7,38.3836,-78.6528,Natural_Gas
+West Point (PA),West Point,Montgomery,Pennsylvania,70.8,40.220453,-75.301645,Natural_Gas
+International Paper Franklin Mill,Franklin,Isle of Wight,Virginia,38,36.6803,-76.9128,Natural_Gas
+Riverbay,New York,Bronx,New York,38.4,40.869972,-73.824437,Natural_Gas
+Midway Sunset Cogen,Fellows,Kern,California,219,35.2269,-119.6294,Natural_Gas
+CITGO Refinery Powerhouse,Sulphur,Calcasieu,Louisiana,30.8,30.1826,-93.3234,Natural_Gas
+C R Wing Cogen Plant,Big Spring,Howard,Texas,212,32.273178,-101.422386,Natural_Gas
+Tesoro Kenai Cogeneration Plant,Kenai,Kenai Peninsula,Alaska,8.4,60.677,-151.3815,Natural_Gas
+Yuba City Cogen Partners,Yuba City,Sutter,California,48.7,39.13667,-121.639846,Natural_Gas
+Delaware City Plant,Delaware City,New Castle,Delaware,130,39.5871,-75.6343,Natural_Gas
+Rensselaer Cogen,Rensselaer,Rensselaer,New York,80.4,42.625325,-73.749955,Natural_Gas
+Lockport Energy Associates LP,Lockport,Niagara,New York,208.8,43.161947,-78.744971,Natural_Gas
+University of Illinois Cogen Facility,Chicago,Cook,Illinois,55.7,41.8675,-87.6524,Natural_Gas
+Pawtucket Power Associates,Pawtucket,Providence,Rhode Island,60,41.861531,-71.406856,Natural_Gas
+Indeck Olean Energy Center,Olean,Cattaraugus,New York,78.7,42.085944,-78.45425,Natural_Gas
+Spruance Operating Services LLC,Richmond,Richmond City,Virginia,55,37.4556,-77.4308,Natural_Gas
+International Paper Riverdale Mill,Selma,Dallas,Alabama,55.2,32.426016,-86.870912,Natural_Gas
+Kennedy International Airport Cogen,Jamaica,Queens,New York,124.3,40.6417,-73.7778,Natural_Gas
+Fortistar North Tonawanda,North Tonawanda,Niagara,New York,59.1,43.0483,-78.8539,Natural_Gas
+Stony Brook Cogen Plant,Stony Brook,Suffolk,New York,44.5,40.916833,-73.129056,Natural_Gas
+Mississippi Baptist Medical Center,Jackson,Hinds,Mississippi,4,32.3133,-90.1797,Natural_Gas
+Franklin Heating Station,Rochester,Olmsted,Minnesota,14.7,44.020576,-92.465599,Natural_Gas
+Gillette SBMC,Boston,Suffolk,Massachusetts,12.2,42.3436,-71.0559,Natural_Gas
+Erving Paper Mills,Erving,Franklin,Massachusetts,5.9,42.5983,-72.3875,Natural_Gas
+Pfizer Groton Plant,Groton,New London,Connecticut,32,41.3315,-72.0786,Natural_Gas
+Louisiana Tech University Power Plant,Ruston,Lincoln,Louisiana,6.4,32.5256,-92.6497,Natural_Gas
+Newman (PA),Philadelphia,Philadelphia,Pennsylvania,1.8,40.013993,-75.05283,Natural_Gas
+Saint Marys Hospital Power Plant,Rochester,Olmsted,Minnesota,9.9,44.09785,-92.479815,Natural_Gas
+Akron Recycle Energy Plant,Akron,Summit,Ohio,4,41.073336,-81.530642,Natural_Gas
+March Point Cogeneration,Anacortes,Skagit,Washington,120.2,48.4708,-122.56,Natural_Gas
+Saguaro Power,Henderson,Clark,Nevada,101,36.0417,-115.0117,Natural_Gas
+Biola University Hybrid,La Mirada,Los Angeles,California,2.2,33.906953,-118.013105,Natural_Gas
+Archer Daniels Midland Southport,Southport,Brunswick,North Carolina,45,33.9397,-77.9905,Natural_Gas
+Goodyear Beaumont Chemical Plant,Beaumont,Jefferson,Texas,29,29.9728,-94.2142,Natural_Gas
+Ocean State Power II,Harrisville,Providence,Rhode Island,218.6,42.0099,-71.6701,Natural_Gas
+Westhollow Technology Center,Houston,Harris,Texas,3.7,29.726017,-95.638249,Natural_Gas
+Bucknell University,Lewisburg,Union,Pennsylvania,5.3,40.955015,-76.878843,Natural_Gas
+Morton Salt Rittman,Rittman,Wayne,Ohio,2.5,40.9692,-81.7756,Natural_Gas
+NRG Energy San Diego,San Diego,San Diego,California,1.6,32.7149,-117.1689,Natural_Gas
+Nevada Cogen Associates 2 Black Mountain,Las Vegas,Clark,Nevada,93.1,36.2253,-114.8783,Natural_Gas
+Nevada Cogen Assoc#1 GarnetVly,Las Vegas,Clark,Nevada,85.5,36.343229,-114.920686,Natural_Gas
+Orange Cogeneration Facility,Bartow,Polk,Florida,110.6,27.87082,-81.825061,Natural_Gas
+University of Colorado,Boulder,Boulder,Colorado,31,40.00759,-105.269204,Natural_Gas
+Sinclair Oil Refinery,Sinclair,Carbon,Wyoming,3.9,41.77952,-107.10972,Natural_Gas
+UW Madison Charter Street Plant,Madison,Dane,Wisconsin,9.7,43.07,-89.4006,Natural_Gas
+Western Power & Steam Inc,Bakersfield,Kern,California,19.6,35.440539,-119.012861,Natural_Gas
+Mulberry Cogeneration Facility,Bartow,Polk,Florida,115,27.8489,-81.8775,Natural_Gas
+Welport Lease Project,McKittrick,Kern,California,4,35.354444,-119.6617,Natural_Gas
+Dome Project,Fellows,Kern,California,5,35.220833,-119.583056,Natural_Gas
+Agrium Kenai Nitrogen Operations,Kenai,Kenai Peninsula,Alaska,12.5,60.6732,-151.3784,Natural_Gas
+Orlando Cogen LP,Orlando,Orange,Florida,120,28.442623,-81.412343,Natural_Gas
+Sumas Power Plant,Sumas,Whatcom,Washington,125.5,48.9905,-122.2733,Natural_Gas
+Oroville Cogeneration LP,Oroville,Butte,California,7.7,39.492,-121.5628,Natural_Gas
+Domino Sugar Arabi Plant,Arabi,St Bernard,Louisiana,7.7,29.9468,-90.0018,Natural_Gas
+WestRock (IL),Aurora,Kane,Illinois,2.9,41.7697,-88.28,Natural_Gas
+Formosa Plastics,Baton Rouge,East Baton Rouge,Louisiana,82,30.4992,-91.1872,Natural_Gas
+Village Creek Water Reclamation Facility,Arlington,Tarrant,Texas,6,32.775093,-97.14209,Natural_Gas
+Hoffer Plastics,South Elgin,Kane,Illinois,7.2,41.998889,-88.302222,Natural_Gas
+Ferndale Generating Station,Ferndale,Whatcom,Washington,270,48.828996,-122.685114,Natural_Gas
+Hartwell Energy Facility,Hartwell,Hart,Georgia,298.1,34.339588,-82.819871,Natural_Gas
+Charter Dura-Bar,Woodstock,McHenry,Illinois,5.4,42.2891,-88.413,Natural_Gas
+Sithe Independence Station,Oswego,Oswego,New York,971,43.495,-76.4511,Natural_Gas
+ExxonMobil Mobile Bay Onshore,Theodore,Mobile,Alabama,11.1,30.43203,-88.18241,Natural_Gas
+General Mills Inc,Buffalo,Erie,New York,3.4,42.870968,-78.875549,Natural_Gas
+Saranac Facility,Plattsburgh,Clinton,New York,250.4,44.7132,-73.4557,Natural_Gas
+Tanner Street Generation,Lowell,Middlesex,Massachusetts,75,42.632124,-71.313235,Natural_Gas
+Massena Energy Facility,Massena,St Lawrence,New York,81,44.9503,-74.8928,Natural_Gas
+Batavia Power Plant,Batavia,Genesee,New York,48.8,42.9828,-78.1592,Natural_Gas
+University of Arizona - Biosphere 2,Oracle,Pinal,Arizona,1.6,32.578011,-110.852608,Natural_Gas
+Pratt & Whitney,East Hartford,Hartford,Connecticut,28,41.748327,-72.636693,Natural_Gas
+Phelps Dodge Refining,El Paso,El Paso,Texas,14.8,31.764458,-106.391314,Natural_Gas
+American Gypsum Cogeneration,Gypsum,Eagle,Colorado,5.2,39.648565,-106.949394,Natural_Gas
+JCO Oxides Olefins Plant,Port Neeches,Jefferson,Texas,61,29.963502,-93.929737,Natural_Gas
+NAEA Lakewood LLC,Lakewood,Ocean,New Jersey,247.9,40.0613,-74.1686,Natural_Gas
+Chino Mines,Hurley,Grant,New Mexico,50.4,32.6956,-108.1225,Natural_Gas
+Oyster Creek Unit VIII,Freeport,Brazoria,Texas,379,28.9802,-95.342,Natural_Gas
+Amalgamated Sugar LLC Nampa,Nampa,Canyon,Idaho,8.2,43.6058,-116.5753,Natural_Gas
+York Generation Company LLC,York,York,Pennsylvania,46.2,39.985641,-76.676158,Natural_Gas
+Yuma Cogeneration Associates,Yuma,Yuma,Arizona,52.2,32.728822,-114.654053,Natural_Gas
+Yellowhammer Gas Plant,Coden,MOBILE,Alabama,3,30.403538,-88.12833,Natural_Gas
+Port Neches Plant,Port Neches,Jefferson,Texas,32,29.97876,-93.952294,Natural_Gas
+Goal Line LP,Escondido,San Diego,California,49.4,33.1185,-117.0995,Natural_Gas
+Hermiston Generating Plant,Hermiston,Umatilla,Oregon,464,45.8042,-119.37,Natural_Gas
+Live Oak Limited,Bakersfield,Kern,California,46,35.4837,-119.0298,Natural_Gas
+University of Illinois Abbott Power Plt,Champaign,Champaign,Illinois,79.3,40.105169,-88.241528,Natural_Gas
+Grays Ferry Cogeneration,Philadelphia,Philadelphia,Pennsylvania,170.6,39.942219,-75.188069,Natural_Gas
+Evanston Township High School,Evanston,Cook,Illinois,2.4,42.044038,-87.699556,Natural_Gas
+CSL Behring LLC,Bradley,Kankakee,Illinois,3.8,41.1603,-87.8542,Natural_Gas
+Domino Sugar Baltimore,Baltimore,Baltimore City,Maryland,17.5,39.2744,-76.5956,Natural_Gas
+Saint Agnes Medical Center,Fresno,Fresno,California,5.4,36.8347,-119.7667,Natural_Gas
+Milford Power LP,Milford,Worcester,Massachusetts,204.8,42.129361,-71.511496,Natural_Gas
+New York University Central Plant,New York,New York,New York,12.8,40.7899,-73.9233,Natural_Gas
+Johnson County,Cleburne,Johnson,Texas,267,32.3994,-97.4078,Natural_Gas
+Bristol Myers Squibb New Brunswick,New Brunswick,Middlesex,New Jersey,9.4,40.475724,-74.446199,Natural_Gas
+Brandywine Power Facility,Brandywine,Prince Georges,Maryland,230,38.6681,-76.8678,Natural_Gas
+Gordonsville Energy LP,Gordonsville,Louisa,Virginia,218,38.124688,-78.203543,Natural_Gas
+MMSD Jones Island Wastewater,Milwaukee,Milwaukee,Wisconsin,13,43.0214,-87.9014,Natural_Gas
+Sun Peak Generating Station,Las Vegas,Clark,Nevada,222,36.1375,-115.0339,Natural_Gas
+Mars Snackfood US,Chicago,Cook,Illinois,3,41.91708,-87.79218,Natural_Gas
+Kamin LLC Wrens Plant,Wrens,Jefferson,Georgia,5.1,33.273835,-82.407813,Natural_Gas
+Mass Inst Tech Cntrl Utilities/Cogen Plt,Cambridge,Middlesex,Massachusetts,19,42.360986,-71.093876,Natural_Gas
+Martinez Refining,Martinez,Contra Costa,California,80,38.0169,-122.1117,Natural_Gas
+Brooklyn Navy Yard Cogeneration,Brooklyn,Kings,New York,250,40.699357,-73.976392,Natural_Gas
+Michigan Power LP,Ludington,Mason,Michigan,128,43.9375,-86.425,Natural_Gas
+Ergon Refining Vicksburg,Vicksburg,Warren,Mississippi,4.4,32.388271,-90.908344,Natural_Gas
+Grand Isle Gas Plant / Treating Station,Grand Isle,Jefferson,Louisiana,8.7,29.252062,-89.9721,Natural_Gas
+Mondelez Global LLC,Rockford,Winnebago,Illinois,5,42.3156,-89.0356,Natural_Gas
+Richard J Donovan Correctional Facility,San Diego,San Diego,California,2.2,32.583571,-116.930907,Natural_Gas
+Wellesley College Central Utility Plant,Wellesley,Norfolk,Massachusetts,6.7,42.293927,-71.308111,Natural_Gas
+Univ of Oregon Central Power Station,Eugene,Lane,Oregon,9,44.048333,-123.073889,Natural_Gas
+Deercroft I & II LFGTE,Michigan City,LaPorte,Indiana,3.2,41.6514,-86.9036,Natural_Gas
+Cargill Salt,St. Clair,St Clair,Michigan,4.2,42.8183,-82.4856,Natural_Gas
+New Mexico State University,Las Cruces,Dona Ana,New Mexico,4.5,32.164818,-106.451281,Natural_Gas
+Woodridge Greene Valley Treatment Plant,Woodridge,DuPage,Illinois,1.5,41.74,-88.06,Natural_Gas
+Thornwood High School,South Holland,Cook,Illinois,1.4,41.5839,-87.6047,Natural_Gas
+Thornridge High School,Dolton,Cook,Illinois,1,41.6225,-87.5978,Natural_Gas
+LSP-Cottage Grove LP,Cottage Grove,Washington,Minnesota,251,44.7956,-92.9119,Natural_Gas
+LSP-Whitewater LP,Whitewater,Jefferson,Wisconsin,261,42.855463,-88.72992,Natural_Gas
+Sweeny Cogen Facility,Old Ocean,Brazoria,Texas,436,29.0728,-95.745,Natural_Gas
+Yates Gas Plant,Iraan,Pecos,Texas,5.6,30.8847,-101.9208,Natural_Gas
+Dighton Power Plant,Dighton,Bristol,Massachusetts,164,41.8312,-71.1239,Natural_Gas
+De Pere Energy Center,De Pere,Brown,Wisconsin,166.9,44.44861,-88.07204,Natural_Gas
+Androscoggin Energy Center,Jay,Franklin,Maine,140.5,44.506315,-70.242312,Natural_Gas
+University of Tennessee Steam Plant,Knoxville,Knox,Tennessee,4.5,35.949209,-83.926065,Natural_Gas
+Opryland USA,Nashville,Davidson,Tennessee,3.8,36.211389,-86.694444,Natural_Gas
+Rio Bravo,Albuquerque,Bernalillo,New Mexico,138,35.026,-106.644,Natural_Gas
+Mid-Georgia Cogeneration Facility,Kathleen,Houston,Georgia,303,32.4856,-83.6039,Natural_Gas
+Berkshire Power,Agawam,Hampden,Massachusetts,229.3,42.0476,-72.6478,Natural_Gas
+Bridgeport Energy Project,Bridgeport,Fairfield,Connecticut,492,41.1692,-73.1844,Natural_Gas
+Cherokee County Cogen,Gaffney,Cherokee,South Carolina,86,35.0727,-81.613,Natural_Gas
+Packaging Corporation of America Jackson Mill,Jackson,Clarke,Alabama,17.8,31.4894,-87.8989,Natural_Gas
+Pasadena Cogeneration,Pasadena,Harris,Texas,720,29.72475,-95.176479,Natural_Gas
+Tiverton Power Plant,Tiverton,Newport,Rhode Island,268,41.6422,-71.1706,Natural_Gas
+Axiall Plaquemine,Plaquemine,Iberville,Louisiana,225,30.2586,-91.185,Natural_Gas
+Jameson Gas Processing Plant,Silver,Coke,Texas,1.8,32.05,-100.6917,Natural_Gas
+Bridgeport Gas Processing Plant,Bridgeport,Wise,Texas,10.4,33.195763,-97.802547,Natural_Gas
+Tenaska Georgia Generation Facility,Franklin,Heard,Georgia,945,33.3516,-84.9996,Natural_Gas
+Tenaska Frontier Generation Station,Shiro,Grimes,Texas,860,30.5924,-95.9178,Natural_Gas
+Batesville Generation Facility,Batesville,Panola,Mississippi,858,34.3356,-89.9275,Natural_Gas
+Black Hawk Station,Borger,Hutchinson,Texas,224.5,35.6957,-101.36,Natural_Gas
+Mustang Station,Denver City,Yoakum,Texas,463.5,32.9728,-102.7417,Natural_Gas
+Maine Independence Station,Veazie,Penobscot,Maine,494,44.8242,-68.7094,Natural_Gas
+Pine Bluff Energy Center,Pine Bluff,Jefferson,Arkansas,192,34.2181,-91.9025,Natural_Gas
+Desert Star Energy Center,Boulder City,Clark,Nevada,450,35.788889,-114.994167,Natural_Gas
+Millennium Power,Charlton,Worcester,Massachusetts,334.9,42.112291,-72.015113,Natural_Gas
+Brownsville Peaking Power,Brownsville,Haywood,Tennessee,456,35.5438,-89.198,Natural_Gas
+Crockett Cogen Project,Crockett,Contra Costa,California,247.4,38.0569,-122.2161,Natural_Gas
+Gregory Power Facility,Gregory,San Patricio,Texas,366,27.88929,-97.258417,Natural_Gas
+Zeeland Generating Station,Zeeland,Ottawa,Michigan,840.3,42.8206,-85.9975,Natural_Gas
+Dearborn Industrial Generation,Dearborn,Wayne,Michigan,489,42.3026,-83.154,Natural_Gas
+Taft Cogeneration Facility,Hahnville,St Charles,Louisiana,738.9,29.9888,-90.4599,Natural_Gas
+Midlothian Energy Facility,Midlothian,Ellis,Texas,1602,32.4302,-97.0537,Natural_Gas
+Portside Energy,Portage,Porter,Indiana,53,41.6317,-87.1728,Natural_Gas
+Lamar Power Project,Paris,Lamar,Texas,1036,33.6308,-95.59,Natural_Gas
+NRG Sterlington Power,Sterlington,Ouachita,Louisiana,176,32.6889,-92.0811,Natural_Gas
+Rumford Power LLC,Rumford,Oxford,Maine,254,44.5303,-70.5219,Natural_Gas
+Kalamazoo River Generating Station,Comstock,Kalamazoo,Michigan,72,42.281345,-85.494956,Natural_Gas
+Livingston Generating Station,Gaylord,Otsego,Michigan,132,45.030397,-84.730795,Natural_Gas
+Klamath Cogeneration Plant,Klamath Falls,Klamath,Oregon,490,42.173889,-121.810556,Natural_Gas
+Sabine Cogen,Orange,Orange,Texas,86.7,30.0444,-93.771389,Natural_Gas
+Rhode Island State Energy Center,Johnston,Providence,Rhode Island,554,41.8017,-71.5186,Natural_Gas
+Rocky Road Power LLC,East Dundee,Kane,Illinois,350.9,42.0931,-88.2397,Natural_Gas
+Madison,Trenton,Butler,Ohio,566,39.4522,-84.4647,Natural_Gas
+Vermillion Energy Facility,Cayuga,Vermillion,Indiana,576,39.922328,-87.446358,Natural_Gas
+Sutter Energy Center,Yuba City,Sutter,California,530,39.053139,-121.695873,Natural_Gas
+Rockingham County CT Station,Reidsville,Rockingham,North Carolina,825,36.3297,-79.8297,Natural_Gas
+RS Cogen,Lake Charles,Calcasieu,Louisiana,415.4,30.221,-93.2992,Natural_Gas
+NAFTA Region Olefins Complex Cogen Fac,Port Arthur,Jefferson,Texas,70,29.954321,-93.883592,Natural_Gas
+Magic Valley Generating Station,Edinburg,Hidalgo,Texas,682,26.3403,-98.19,Natural_Gas
+Griffith Energy LLC,Golden Valley,Mohave,Arizona,570,35.054029,-114.133272,Natural_Gas
+Milford Power Project,Milford,New Haven,Connecticut,537.6,41.224355,-73.099728,Natural_Gas
+Manchief Electric Generating Station,Brush,Morgan,Colorado,264,40.217143,-103.68504,Natural_Gas
+Walton County Power LLC,Monroe,Walton,Georgia,454.5,33.8148,-83.6954,Natural_Gas
+Desert Basin,Casa Grande,Pinal,Arizona,577,32.9042,-111.7889,Natural_Gas
+Kendall County Generation Facility,Minooka,Kendall,Illinois,1140,41.4797,-88.2581,Natural_Gas
+Tenaska Gateway Generating Station,Mt. Enterprise,Rusk,Texas,845,32.017826,-94.619743,Natural_Gas
+Alliant Energy Neenah,Neenah,Winnebago,Wisconsin,298.8,44.193600000000004,-88.5064,Natural_Gas
+Rio Nogales Power Project,Seguin,Guadalupe,Texas,796,29.593056,-97.973215,Natural_Gas
+Walton Discover Power Facility,Smiths,LEE,Alabama,100,32.54098,-85.038879,Natural_Gas
+Wolf Hollow I LP,Granbury,Hood,Texas,705,32.33422,-97.731686,Natural_Gas
+Hawk Road Facility,Franklin,Heard,Georgia,456.3,33.358472,-84.991391,Natural_Gas
+Hays Energy Project,San Marcos,Hays,Texas,844,29.7806,-97.9894,Natural_Gas
+Green Country Energy LLC,Jenks,Tulsa,Oklahoma,783,35.9833,-95.9346,Natural_Gas
+Worthington Generation LLC,Worthington,Greene,Indiana,166,39.0708,-87.0128,Natural_Gas
+Lake Road Generating Plant,Dayville,Windham,Connecticut,803.2,41.872043,-71.895799,Natural_Gas
+La Paloma Generating Plant,McKittrick,Kern,California,965.4,35.2956,-119.5919,Natural_Gas
+Guadalupe Generating Station,Marion,Guadalupe,Texas,986,29.6244,-98.1419,Natural_Gas
+Lost Pines 1 Power Project,Bastrop,Bastrop,Texas,510,30.1478,-97.2714,Natural_Gas
+Bluegrass Generating Station,LaGrange,Oldham,Kentucky,501,38.3902,-85.4133,Natural_Gas
+Calcasieu,Sulphur,Calcasieu,Louisiana,303,30.1608,-93.345,Natural_Gas
+Broad River Energy Center,Gaffney,Cherokee,South Carolina,854.8,35.0786,-81.575,Natural_Gas
+Bastrop Energy Center,Cedar Creek,Bastrop,Texas,525,30.1458,-97.55,Natural_Gas
+Granite Ridge,Londonderry,Rockingham,New Hampshire,678,42.9042,-71.4261,Natural_Gas
+Bosque County Peaking,Laquna Park,Bosque,Texas,758,31.8594,-97.3586,Natural_Gas
+Acadia Energy Center,Eunice,Acadia,Louisiana,1087.9,30.428611,-92.413056,Natural_Gas
+Eastman Cogeneration Facility,Longview,Harrison,Texas,409.7,32.4481,-94.6903,Natural_Gas
+South Point Energy Center,Mohave Valley,Mohave,Arizona,550,34.8678,-114.5317,Natural_Gas
+Dogwood Energy Facility,Pleasant Hill,Cass,Missouri,612.4,38.7931,-94.3006,Natural_Gas
+Rathdrum Power LLC,Rathdrum,Kootenai,Idaho,248,47.7858,-116.9203,Natural_Gas
+Sunrise Power LLC,Fellows,Kern,California,545,35.2097,-119.585,Natural_Gas
+Nelson Energy Center,Rock Falls,Lee,Illinois,586,41.774444,-89.607222,Natural_Gas
+Aera San Ardo Cogen Facility,San Ardo,Monterey,California,5.6,35.953293,-120.859952,Natural_Gas
+Channelview Cogeneration Plant,Channelview,Harris,Texas,784,29.836952,-95.121744,Natural_Gas
+Cordova Energy,Cordova,Rock Island,Illinois,521.2,41.712216,-90.279679,Natural_Gas
+Osceola (FL),St. Cloud,Osceola,Florida,471,28.1289,-81.0978,Natural_Gas
+Ontelaunee Energy Center,Reading,Berks,Pennsylvania,543.7,40.4219,-75.9356,Natural_Gas
+Springdale 1 & 2,Springdale,Allegheny,Pennsylvania,88,40.546667,-79.768333,Natural_Gas
+Caledonia,Steens,Lowndes,Mississippi,765,33.6464,-88.2717,Natural_Gas
+Riverside Generating LLC,Catlettsburg,Lawrence,Kentucky,825,38.191661,-82.604586,Natural_Gas
+Elwood Energy LLC,Elwood,Will,Illinois,1350,41.4388,-88.1236,Natural_Gas
+Arapahoe Combustion Turbine Project,Denver,Denver,Colorado,122.5,39.6692,-105.0018,Natural_Gas
+Gibson City Energy Center LLC,Gibson City,Ford,Illinois,228,40.4705,-88.3987,Natural_Gas
+Pinckneyville,Pinckneyville,Perry,Illinois,316,38.1114,-89.3467,Natural_Gas
+Kinmundy,Patoka,Marion,Illinois,206,38.7619,-89.0128,Natural_Gas
+Corpus Christi Energy Center,Corpus Christi,Nueces,Texas,469,27.8139,-97.4283,Natural_Gas
+Valmont Combustion Turbine Project,Boulder,Boulder,Colorado,79.8,40.0205,-105.2009,Natural_Gas
+Afton Generating Station,La Mesa,Dona Ana,New Mexico,235.6,32.114185,-106.846483,Natural_Gas
+ANP Bellingham Energy Project,Bellingham,Norfolk,Massachusetts,534.5,42.110577,-71.453468,Natural_Gas
+ANP Blackstone Energy Project,Blackstone,Worcester,Massachusetts,490.2,42.059876,-71.515811,Natural_Gas
+Odessa-Ector Power Plant,Odessa,Ector,Texas,1015.4,31.8403,-102.3264,Natural_Gas
+Morris Cogeneration LLC,Morris,Grundy,Illinois,194,41.411944,-88.332778,Natural_Gas
+Los Medanos Energy Center,Pittsburg,Contra Costa,California,567,38.030071,-121.873004,Natural_Gas
+Hinds Energy Facility,Jackson,Hinds,Mississippi,491,32.378969,-90.219906,Natural_Gas
+Attala,Sallis,Attala,Mississippi,455.3,33.0147,-89.6753,Natural_Gas
+Harry L. Oswald,Little Rock,Pulaski,Arkansas,548,34.5923,-92.2166,Natural_Gas
+Lincoln Generating Facility,Manhattan,Will,Illinois,622.9,41.393315,-87.943612,Natural_Gas
+Ennis Power Company LLC,Ennis,Ellis,Texas,359.5,32.32,-96.675,Natural_Gas
+Wheatland Generating Facility,Wheatland,Knox,Indiana,450,38.6716,-87.2931,Natural_Gas
+Oneta Energy Center,Broken Arrow,Wagoner,Oklahoma,1086.4,36.0119,-95.6967,Natural_Gas
+Freestone Energy Center,Fairfield,Freestone,Texas,953,31.8907,-96.1131,Natural_Gas
+Greenville Electric Generating Station,Greenville,Darke,Ohio,196,40.075783,-84.615136,Natural_Gas
+Montpelier Electric Generating Station,Poneto,Wells,Indiana,237.7,40.6206,-85.3057,Natural_Gas
+Jack County,Bridgeport,Wise,Texas,1241,33.101,-97.9574,Natural_Gas
+Liberty Electric Power Plant,Eddystone,Delaware,Pennsylvania,562,39.8614,-75.3358,Natural_Gas
+Marshall Energy Facility,Calvert City,Marshall,Kentucky,581.6,37.0286,-88.3958,Natural_Gas
+Handsome Lake Energy LLC,Kennerdell,Venango,Pennsylvania,267.5,41.2908,-79.8061,Natural_Gas
+Audrain Generating Station,Vandalia,Audrain,Missouri,600,39.3092,-91.5369,Natural_Gas
+Lee Energy Facility,Dixon,Lee,Illinois,676.8,41.8287,-89.4054,Natural_Gas
+Energy Shelby County,Neoga,Shelby,Illinois,336,39.2794,-88.4772,Natural_Gas
+NRG Rockford I,Rockford,Winnebago,Illinois,302.9,42.238558,-89.101202,Natural_Gas
+Red Oak Power LLC,Sayreville,Middlesex,New Jersey,775.9,40.448674,-74.348879,Natural_Gas
+Hog Bayou Energy Center,Mobile,Mobile,Alabama,230,30.7478,-88.0575,Natural_Gas
+Santa Rosa Energy Center,Pace,Santa Rosa,Florida,235.9,30.5664,-87.115,Natural_Gas
+Astoria Gas Turbines,Astoria,Queens,New York,415.4,40.787,-73.9048,Natural_Gas
+Doyle Energy Facility,Monroe,Walton,Georgia,320,33.837699,-83.699577,Natural_Gas
+Tuscola Station,Tuscola,Douglas,Illinois,4.8,39.798175,-88.349771,Natural_Gas
+"Darby Power, LLC",Mt Sterling,Pickaway,Ohio,480,39.7139,-83.1778,Natural_Gas
+Tait Electric Generating Station,Dayton,Montgomery,Ohio,333.5,39.727679,-84.209489,Natural_Gas
+University Park South,University Park,Will,Illinois,300,41.440893,-87.753189,Natural_Gas
+Gleason Generating Facility,Gleason,Weakley,Tennessee,360,36.2454,-88.612,Natural_Gas
+Crete Energy Venture LLC,Crete,Will,Illinois,300,41.429444,-87.6187,Natural_Gas
+Whiting Clean Energy,Whiting,Lake,Indiana,513,41.6739,-87.4775,Natural_Gas
+Bowling Green Generating Station,Bowling Green,Wood,Ohio,38,41.397369,-83.641236,Natural_Gas
+Galion Generating Station,Galion,Crawford,Ohio,38,40.7167,-82.789,Natural_Gas
+Napoleon Peaking Station,Napoleon,Henry,Ohio,38,41.4079,-84.1095,Natural_Gas
+Edward L. Addison Generating Plant,Thomaston,Upson,Georgia,591.7,32.9111,-84.3064,Natural_Gas
+TVA Southaven Combined Cycle,Southaven,Desoto,Mississippi,780,34.9939,-90.0378,Natural_Gas
+Jackson Generating Station,Jackson,Jackson,Michigan,543,42.2488,-84.3767,Natural_Gas
+Tenaska Lindsay Hill Generating Station,Billingsley,Autauga,Alabama,848,32.6514,-86.7386,Natural_Gas
+Ceredo Generating Station,Huntington,Wayne,West Virginia,450,38.3681,-82.5339,Natural_Gas
+Beaver Creek Gas Plant,Riverton,Fremont,Wyoming,3.6,42.8475,-108.3136,Natural_Gas
+Aurora,Aurora,DuPage,Illinois,949.1,41.8151,-88.2265,Natural_Gas
+Southeast Chicago Energy Project,Chicago,Cook,Illinois,296,41.7181,-87.5449,Natural_Gas
+Arlington Valley Energy Facility,Arlington,Maricopa,Arizona,580,33.3417,-112.8897,Natural_Gas
+Front Range Power Plant,Fountain,El Paso,Colorado,460,38.6281,-104.7069,Natural_Gas
+Big Sandy Peaker Plant,Kenona,Wayne,West Virginia,300,38.3441,-82.5938,Natural_Gas
+Wolf Hills Energy,Bristol,Washington,Virginia,250,36.6644,-82.1044,Natural_Gas
+Oleander Power Project LP,Cocoa,Brevard,Florida,815.8,28.3661,-80.7947,Natural_Gas
+Decatur Energy Center,Decatur,Morgan,Alabama,750,34.6292,-87.0214,Natural_Gas
+Morgan Energy Center,Decatur,Morgan,Alabama,749,34.6397,-87.0639,Natural_Gas
+Westbrook Energy Center Power Plant,Westbrook,Cumberland,Maine,537.6,43.6575,-70.375,Natural_Gas
+Blythe Energy Inc,Blythe,Riverside,California,514,33.6157,-114.6865,Natural_Gas
+Calumet Energy Team LLC,Chicago,Cook,Illinois,327,41.6835,-87.5563,Natural_Gas
+New Covert Generating Facility,Covert,Van Buren,Michigan,1055.5,42.32238,-86.29368,Natural_Gas
+Fairless Energy Center,Fairless Hills,Bucks,Pennsylvania,1286,40.1475,-74.7411,Natural_Gas
+Channel Energy Center LLC,Pasadena,Harris,Texas,768,29.7189,-95.2319,Natural_Gas
+Baconton Power Plant,Baconton,Mitchell,Georgia,196,31.3869,-84.08,Natural_Gas
+Gila River Power Block 4,Gila Bend,Maricopa,Arizona,515,32.975,-112.6944,Natural_Gas
+Calvert City,Calvert City,Marshall,Kentucky,23,37.048333,-88.353889,Natural_Gas
+Air Products Port Arthur,Port Arthur,Jefferson,Texas,138.4,29.866497,-93.96515,Natural_Gas
+BASF Freeport Works,Feeeport,Brazoria,Texas,75,29.002,-95.394,Natural_Gas
+Ingleside Cogeneration,Houston,San Patricio,Texas,310,27.882778,-97.242778,Natural_Gas
+Fore River Generating Station,North Weymouth,Norfolk,Massachusetts,726,42.2422,-70.9661,Natural_Gas
+Indian River,Titusville,Brevard,Florida,576.4,28.493176,-80.780246,Natural_Gas
+Wise County Power LLC,Poolville,Wise,Texas,680,33.0583,-97.9103,Natural_Gas
+Chuck Lenzie Generating Station,Apex,Clark,Nevada,1170,36.383719,-114.921779,Natural_Gas
+Baytown Energy Center,Baytown,Chambers,Texas,800,29.7731,-94.9019,Natural_Gas
+Hermiston Power Partnership,Hermiston,Umatilla,Oregon,615,45.794046,-119.313323,Natural_Gas
+Washington County Power LLC,Sandersville,Washington,Georgia,615.5,33.092239,-82.979992,Natural_Gas
+Delta Energy Center,Pittsburg,Contra Costa,California,769.1,38.0169,-121.8439,Natural_Gas
+Holland Energy Facility,Beecher City,Shelby,Illinois,624.3,39.223144,-88.758406,Natural_Gas
+Ironwood LLC,Lebanon,Lebanon,Pennsylvania,690.2,40.3509,-76.3658,Natural_Gas
+Dell Power Station,Dell,Mississippi,Arkansas,446,35.8619,-90.0253,Natural_Gas
+Luna Energy Facility,Deming,Luna,New Mexico,559,32.299349,-107.7834,Natural_Gas
+Otay Mesa Generating Project,San Diego,San Diego,California,571,32.581481,-116.914969,Natural_Gas
+Armstrong,Shelocta,Armstrong,Pennsylvania,670.7,40.638021,-79.351725,Natural_Gas
+Troy Energy LLC,Luckey,Wood,Ohio,703,41.47724,-83.45983,Natural_Gas
+Pleasants Energy LLC,St Mary's,Pleasants,West Virginia,343.4,39.3325,-81.3642,Natural_Gas
+Dresden Energy Facility,Dresden,Muskingum,Ohio,540,40.0928,-82.0276,Natural_Gas
+Jack Fusco Energy Center,Thompsons,Fort Bend,Texas,525,29.4731,-95.6244,Natural_Gas
+Cottonwood Energy Project,Deweyville,Newton,Texas,1180,30.2588,-93.7353,Natural_Gas
+Sugar Creek Power,West Terre Haute,Vigo,Indiana,549,39.3931,-87.5108,Natural_Gas
+Exelon LaPorte Generating Station,LaPorte,Harris,Texas,152,29.7028,-95.0718,Natural_Gas
+Harquahala Generating Project,Tonopah,Maricopa,Arizona,1042.9,33.47596,-113.113434,Natural_Gas
+Astoria Energy,New York,Queens,New York,540,40.7825,-73.8964,Natural_Gas
+Gans,Gans,FAYETTE,Pennsylvania,88,39.7475,-79.838888,Natural_Gas
+Union Power Station,El Dorado,Union,Arkansas,2008.6,33.296146,-92.589364,Natural_Gas
+Thomas A Smith Energy Facility,Dalton,Murray,Georgia,1260,34.7094,-84.9175,Natural_Gas
+Columbia Energy Center (SC),Gaston,Calhoun,South Carolina,543,33.8697,-81.0178,Natural_Gas
+RockGen Energy Center,Cambridge,Dane,Wisconsin,489,42.9767,-89.0492,Natural_Gas
+Zion Energy Center,Zion,Lake,Illinois,456,42.4776,-87.895,Natural_Gas
+Metcalf Energy Center,San Jose,Santa Clara,California,546.1,37.2207,-121.7457,Natural_Gas
+Crossroads Energy Center,Clarksdale,Coahoma,Mississippi,308,34.183,-90.5621,Natural_Gas
+Washington Energy Facility,Beverly,Washington,Ohio,661,39.58,-81.6564,Natural_Gas
+Elk Hills Power LLC,Tupman,Kern,California,525,35.280318,-119.470707,Natural_Gas
+Rolling Hills Generating,Wilkesville,Vinton,Ohio,838,39.0839,-82.3328,Natural_Gas
+Renaissance Power Plant,Carson City,Montcalm,Michigan,652,43.1864,-84.8429,Natural_Gas
+Carville Energy LLC,St Gabriel,Iberville,Louisiana,521,30.2294,-91.065,Natural_Gas
+Athens Generating Plant,Athens,Greene,New York,977.4,42.2728,-73.8492,Natural_Gas
+Effingham County Power Project,Rincon,Effingham,Georgia,509,32.277252,-81.284411,Natural_Gas
+Calhoun Energy Center,Eastaboga,Calhoun,Alabama,632,33.5883,-85.9731,Natural_Gas
+Hillabee Energy Center,Alexander City,Tallapoosa,Alabama,765,33.000669,-85.903278,Natural_Gas
+Osprey Energy Center Power Plant,Auburndale,Polk,Florida,582,28.0525,-81.8083,Natural_Gas
+Shady Hills Generating Station,Shady Hills,Pasco,Florida,463.2,28.3665,-82.558611,Natural_Gas
+Vandolah Power Station,Wauchula,Hardee,Florida,658,27.523607,-81.923951,Natural_Gas
+Raccoon Creek Energy Center,Flora,Clay,Illinois,300,38.6996,-88.5392,Natural_Gas
+Hot Spring Generating Facility,Malvern,Hot Spring,Arkansas,605.3,34.29759,-92.868344,Natural_Gas
+Plaquemine Cogeneration Plant,Plaquemine,Iberville,Louisiana,793,30.3217,-91.2347,Natural_Gas
+Bayou Cove Peaking Power,Jennings,Acadia,Louisiana,288,30.2825,-92.5997,Natural_Gas
+Elgin Energy Center LLC,Elgin,Kane,Illinois,489.4,42.000061,-88.244572,Natural_Gas
+Tenaska Virginia Generating Station,Scottsville,Fluvanna,Virginia,935.6,37.8667,-78.3813,Natural_Gas
+Tenaska Central Alabama Generating Stn,Billingsley,Autauga,Alabama,917,32.6497,-86.74,Natural_Gas
+Columbia Energy Center,Columbia,Boone,Missouri,140,39.0192,-92.2629,Natural_Gas
+Magnolia Power Plant,Ashland,Benton,Mississippi,918,34.835,-89.2026,Natural_Gas
+Fountain Valley Power Facility,Fountain,El Paso,Colorado,234,38.5569,-104.6875,Natural_Gas
+Red Hawk,Arlington,Maricopa,Arizona,934,33.334562,-112.840641,Natural_Gas
+McClain Energy Facility,Newcastle,McClain,Oklahoma,487,35.29774,-97.58985,Natural_Gas
+Redbud Power Plant,Luther,Oklahoma,Oklahoma,1205,35.6856,-97.2264,Natural_Gas
+Deer Park Energy Center,Deer Park,Harris,Texas,1116,29.713414,-95.134508,Natural_Gas
+Ouachita,Sterlington,Ouachita,Louisiana,736.4,32.7061,-92.0683,Natural_Gas
+Green Power 2,Texas City,Galveston,Texas,624,29.378097,-94.932773,Natural_Gas
+Neil Simpson Gas Turbine #2,Gillette,Campbell,Wyoming,34,44.285,-105.3786,Natural_Gas
+Lange Gas Turbines,Rapid City,Pennington,South Dakota,34,44.1203,-103.26,Natural_Gas
+Forney Energy Center,Forney,Kaufman,Texas,1786,32.7563,-96.4916,Natural_Gas
+Mesquite Generating Station Block 2,Arlington,Maricopa,Arizona,624,33.345047,-112.864227,Natural_Gas
+Goldendale Generating Station,Goldendale,Klickitat,Washington,263.7,45.8114,-120.833,Natural_Gas
+Goose Creek Energy Center,Monticello,Piatt,Illinois,432,40.106931,-88.599867,Natural_Gas
+CalPeak Power Vaca Dixon Peaker Plant,Vacaville,Solano,California,48,38.398867,-121.923973,Natural_Gas
+Kiamichi Energy Facility,Kiowa,Pittsburg,Oklahoma,1222,34.6831,-95.9349,Natural_Gas
+"Lawrenceburg Power, LLC",Lawrenceburg,Dearborn,Indiana,1190,39.0911,-84.8669,Natural_Gas
+"Waterford Power, LLC",Waterford,Washington,Ohio,866,39.5333,-81.7178,Natural_Gas
+Limon Generating Station,Limon,Lincoln,Colorado,134,39.2038,-103.7005,Natural_Gas
+Frank Knutson,Commerce City,Adams,Colorado,134,39.941129,-104.682015,Natural_Gas
+CalPeak Power Panoche Peaker Plant,Firebaugh,Fresno,California,48,36.652905,-120.580609,Natural_Gas
+CalPeak Power Border Peaker Plant,San Diego,San Diego,California,48,32.562448,-116.943869,Natural_Gas
+Cuyamaca Peak Energy Plant,El Cajon,San Diego,California,48.7,32.796491,-116.972071,Natural_Gas
+CalPeak Power Enterprise Peaker Plant,Escondido,San Diego,California,48,33.121943,-117.117441,Natural_Gas
+Apex Generating Station,Las Vegas,Clark,Nevada,524.4,36.415999,-114.960916,Natural_Gas
+Fayette Energy Facility,Masontown,Fayette,Pennsylvania,662,39.8592,-79.9182,Natural_Gas
+Wallingford Energy,Wallingford,New Haven,Connecticut,316.7,41.448694,-72.835364,Natural_Gas
+High Desert Power Plant,Victorville,San Bernardino,California,776.5,34.5953,-117.3647,Natural_Gas
+Sundance,Casa Grande,Pinal,Arizona,410,32.9285,-111.5899,Natural_Gas
+York Energy Center,Delta,York,Pennsylvania,1372.7,39.7375,-76.306666,Natural_Gas
+Escondido Energy Center,Escondido,San Diego,California,45,33.1261,-117.1172,Natural_Gas
+Chula Vista Energy Center,Chula Vista,San Diego,California,33.6,32.591667,-117.058611,Natural_Gas
+Indigo Energy Facility,North Palm Springs,Riverside,California,142.5,33.910873,-116.552994,Natural_Gas
+Larkspur Energy Facility,San Diego,San Diego,California,91.6,32.567041,-116.944197,Natural_Gas
+Klamath Expansion Project,Klamath Falls,Klamath,Oregon,100,42.172718,-121.814393,Natural_Gas
+Hidalgo Energy Center,Edinburg,Hidalgo,Texas,470,26.34172,-98.175759,Natural_Gas
+Combined Locks Energy Center,Combined Locks,Outagamie,Wisconsin,51.9,44.2717,-88.3011,Natural_Gas
+Binghamton Cogen,Binghamton,Broome,New York,42,42.107192,-75.927782,Natural_Gas
+Watchtower Educational Center,Patterson,Putnam,New York,1.4,41.498392,-73.57456,Natural_Gas
+Perryville Power Station,Sterlington,Ouachita,Louisiana,679.6,32.6908,-92.0183,Natural_Gas
+West Valley Generation Project,West Valley City,Salt Lake,Utah,185,40.6667,-112.0317,Natural_Gas
+Creed Energy Center,Suisun,Solano,California,45,38.242158,-121.854722,Natural_Gas
+Lambie Energy Center,Suisun,Solano,California,45,38.221577,-121.868333,Natural_Gas
+Goose Haven Energy Center,Suisun,Solano,California,45,38.226752,-121.843271,Natural_Gas
+University Park North,University Park,Will,Illinois,540,41.4425,-87.7514,Natural_Gas
+Riverside Energy Center,Beloit,Rock,Wisconsin,567.4,42.583056,-89.035833,Natural_Gas
+Blue Spruce Energy Center,Aurora,Adams,Colorado,264,39.747875,-104.681404,Natural_Gas
+Plains End,Arvada,Jefferson,Colorado,114,39.857499,-105.225967,Natural_Gas
+Spring Creek Energy Center,Edmond,Logan,Oklahoma,273,35.7422,-97.655,Natural_Gas
+Chambersburg,Chambersburg,Franklin,Pennsylvania,88,39.866944,-77.685833,Natural_Gas
+WFEC GenCo LLC,Anadarko,Caddo,Oklahoma,90,35.0833,-98.2264,Natural_Gas
+"Pastoria Energy Facility, LLC",Lebec,Kern,California,780,34.9556,-118.844,Natural_Gas
+Essential Power Newington LLC,Newington,Rockingham,New Hampshire,580,43.1047,-70.8061,Natural_Gas
+Chehalis Generating Facility,Chehalis,Lewis,Washington,477,46.6225,-122.9131,Natural_Gas
+Harrison County Power Project,Marshall,Harrison,Texas,514.4,32.3958,-94.4367,Natural_Gas
+Lower Mount Bethel Energy,Bangor,Northampton,Pennsylvania,594,40.801924,-75.107563,Natural_Gas
+AL Sandersville LLC,Warthen,Washington,Georgia,576.4,33.1189,-82.8608,Natural_Gas
+Higgins Generating Station,Primm,Clark,Nevada,550,35.6139,-115.3561,Natural_Gas
+Bethlehem Power Plant,Bethlehem,Northampton,Pennsylvania,1134,40.6175,-75.3147,Natural_Gas
+Quantum Choctaw Power LLC,Ackerman,Choctaw,Mississippi,710,33.3792,-89.2089,Natural_Gas
+Hanford Energy Park Peaker,Hanford,Kings,California,91.8,36.270072,-119.648055,Natural_Gas
+Bayswater Peaking Facility LLC,Far Rockaway,Queens,New York,52.8,40.610654,-73.762218,Natural_Gas
+Mint Farm Generating Station,Longview,Cowlitz,Washington,270,46.138824,-122.985506,Natural_Gas
+Fremont Energy Center,Fremont,Sandusky,Ohio,670.3,41.377116,-83.161388,Natural_Gas
+Choctaw County,French Camp,Choctaw,Mississippi,781,33.2881,-89.4201,Natural_Gas
+Allegheny Energy Units 3 4 & 5,Springdale,Allegheny,Pennsylvania,509,40.545278,-79.768611,Natural_Gas
+Magnet Cove,Malvern,Hot Spring,Arkansas,641.5,34.4297,-92.8317,Natural_Gas
+Dean,East China,St Clair,Michigan,312,42.7725,-82.4953,Natural_Gas
+Bennett Mountain,Mountain Home,Elmore,Idaho,164,43.147153,-115.666637,Natural_Gas
+Hanging Rock Energy Facility,Ironton,Lawrence,Ohio,1365,38.5731,-82.7833,Natural_Gas
+Buchanan Generation LLC,Keen Mountain,Buchanan,Virginia,80,37.175278,-81.961388,Natural_Gas
+Los Esteros Critical Energy Center,San Jose,Santa Clara,California,306.1,37.425,-121.9319,Natural_Gas
+Edgewood Energy LLC,Brentwood,Suffolk,New York,85,40.7861,-73.2931,Natural_Gas
+Otsego Mill Power Plant,Otsego,Allegan,Michigan,17.6,42.4628,-85.6961,Natural_Gas
+Marcus Hook Energy LP,Marcus Hook,Delaware,Pennsylvania,828.7,39.807038,-75.421606,Natural_Gas
+Valencia Energy Facility,Belen,Valencia,New Mexico,144.3,34.611549,-106.732234,Natural_Gas
+Henrietta Peaker,Lemoore,Kings,California,92.4,36.2397,-119.9044,Natural_Gas
+Gilroy Peaking Energy Center,Gilroy,Santa Clara,California,135,36.999,-121.5363,Natural_Gas
+King City Peaking,King City,Monterey,California,44,36.224758,-121.124633,Natural_Gas
+Yuba City Energy Center,Yuba City,Sutter,California,45,39.1392,-121.6387,Natural_Gas
+Frederickson Power LP,Tacoma,Pierce,Washington,246,47.086111,-122.365674,Natural_Gas
+Curtis H Stanton Energy Center,Orlando,Orange,Florida,657,28.488246,-81.166944,Natural_Gas
+Rocky Mountain Energy Center,Keenesburg,Weld,Colorado,580,40.0908,-104.5953,Natural_Gas
+Island Street Peaking Plant,Kaukauna,Outagamie,Wisconsin,52.8,44.2761,-88.2658,Natural_Gas
+Silverhawk,North Las Vegas,Clark,Nevada,560,36.4078,-114.9606,Natural_Gas
+Feather River Energy Center,Yuba City,Sutter,California,45,39.109344,-121.60931,Natural_Gas
+Valero Refinery Cogeneration Unit 1,Benicia,Solano,California,45.4,38.0736,-122.1411,Natural_Gas
+Wolfskill Energy Center,Fairfield,Solano,California,45,38.228522,-122.07525,Natural_Gas
+Oak Point Cogen,Belle Chasse,Plaquemines,Louisiana,20,29.811956,-90.00843,Natural_Gas
+Stevens Point Mill,Stevens Point,Portage,Wisconsin,7,44.3528,-89.5836,Natural_Gas
+Basin Creek Plant,Butte,Silver Bow,Montana,54,45.9293,-112.5194,Natural_Gas
+Panoche Peaker,Firebaugh,Fresno,California,40,36.6535,-120.5783,Natural_Gas
+Jasper,Hardeeville,Jasper,South Carolina,852,32.3594,-81.1242,Natural_Gas
+Tracy Combined Cycle Power Plant,Tracy,San Joaquin,California,320.1,37.7107,-121.4906,Natural_Gas
+Century Generating Facility,Colton,San Bernardino,California,38,34.0606,-117.3533,Natural_Gas
+Drews Generating Facility,Colton,San Bernardino,California,38,34.0609,-117.3532,Natural_Gas
+NRG Rockford II Energy Center,Rockford,Winnebago,Illinois,163.4,42.2383,-89.1011,Natural_Gas
+NAEA Ocean Peaking Power LLC,Lakewood,Ocean,New Jersey,325.6,40.0633,-74.1672,Natural_Gas
+Warren County,Front Royal,Warren,Virginia,1472.2,38.971667,-78.177222,Natural_Gas
+Elk Hills Cogen,Tupman,Kern,California,46.6,35.479146,-119.737464,Natural_Gas
+Agua Mansa Power Plant,Colton,San Bernardino,California,40,34.0414,-117.3603,Natural_Gas
+Riverview Energy Center,Antioch,Contra Costa,California,46.1,38.014423,-121.790679,Natural_Gas
+Wansley Combined Cycle,Franklin,Heard,Georgia,1184.8,33.406385,-85.036988,Natural_Gas
+Nikiski Combined Cycle,Nikiski,Kenai Peninsula,Alaska,77.9,60.676539,-151.377713,Natural_Gas
+Cosumnes,Herald,Sacramento,California,545,38.338475,-121.123978,Natural_Gas
+Cass County,Plattsmouth,Cass,Nebraska,322.8,40.947913,-95.964026,Natural_Gas
+Hunterstown Power Plant,Gettysburg,Adams,Pennsylvania,810,39.8725,-77.1672,Natural_Gas
+Bluffview,Farmington,San Juan,New Mexico,58,36.716628,-108.215282,Natural_Gas
+Palomar Energy,Escondido,San Diego,California,562,33.1197,-117.117778,Natural_Gas
+Ashtabula,Ashtabula,Ashtabula,Ohio,23.4,41.890026,-80.7612,Natural_Gas
+Orchard Park,Chambersburg,Franklin,Pennsylvania,23.2,39.9109,-77.6667,Natural_Gas
+NECCO Co-Generation,Revere,Suffolk,Massachusetts,5.6,42.413712,-71.002155,Natural_Gas
+Exira,Brayton,Audubon,Iowa,140,41.514365,-94.919729,Natural_Gas
+Grimes Way,Pullman,Whitman,Washington,2,46.7289,-117.1514,Natural_Gas
+AMEA Peaking,Sylacauga,Talladega,Alabama,95,33.1661,-86.2825,Natural_Gas
+Donald Von Raesfeld Power Plant,Santa Clara,Santa Clara,California,147.8,37.3767,-121.9508,Natural_Gas
+Fox Energy Center,Wrightstown,Outagamie,Wisconsin,568,44.3204,-88.208889,Natural_Gas
+Equus Freeport Power,Village of Freeport,Nassau,New York,94.3,40.6439,-73.5683,Natural_Gas
+UMCP CHP Plant,College Park,Prince Georges,Maryland,20.8,38.985844,-76.935478,Natural_Gas
+H. Gonzales,Vernon,Los Angeles,California,10.8,33.9986,-118.2219,Natural_Gas
+Malburg,Vernon,Los Angeles,California,134,33.9986,-118.2219,Natural_Gas
+Magnolia Power Project,Burbank,Los Angeles,California,301,34.1786,-118.3153,Natural_Gas
+CPV Towantic Energy Center,Oxford,New Haven,Connecticut,778.3,41.481243,-73.123108,Natural_Gas
+Inner Harbor East Heating,Baltimore,Baltimore City,Maryland,2.1,39.283677,-76.59941,Natural_Gas
+THUMS,Long Beach,Los Angeles,California,45,33.7684,-118.2141,Natural_Gas
+Alliant SBG 9802 Toyota,Cedar Rapids,Linn,Iowa,1,42.02771,-91.7111,Natural_Gas
+Walnut Energy Center,Turlock,Stanislaus,California,269,37.4878,-120.8956,Natural_Gas
+SJ/SC WPCP,San Jose,Santa Clara,California,8.4,37.4344,-121.9464,Natural_Gas
+Currant Creek,Mona,Juab,Utah,524,39.82144,-111.89345,Natural_Gas
+Mankato Energy Center,Mankato,Blue Earth,Minnesota,504,44.1988,-94.003,Natural_Gas
+T J Labbe Electric Generating,Lafayette,Lafayette,Louisiana,95.5,30.2554,-92.0433,Natural_Gas
+Macon Energy Center,Macon,Macon,Missouri,8.5,39.748975,-92.384476,Natural_Gas
+Ripon Generation Station,Ripon,San Joaquin,California,100,37.7315,-121.116,Natural_Gas
+Riverside Energy Resource Center,Riverside,Riverside,California,196,33.9636,-117.4528,Natural_Gas
+Springs Generating Station,Riverside,Riverside,California,40,33.9308,-117.2933,Natural_Gas
+McIntosh Combined Cycle Facility,Rincon,Effingham,Georgia,1318.6,32.3478,-81.1817,Natural_Gas
+South Harper,Kansas City,Cass,Missouri,303.3,38.6803,-94.4824,Natural_Gas
+Freeport Energy Center,Freeport,Brazoria,Texas,219.4,28.988761,-95.395417,Natural_Gas
+Faribault Energy Park,Faribault,Rice,Minnesota,261,44.3356,-93.290556,Natural_Gas
+Sheboygan Falls,Sheboygan,Sheboygan,Wisconsin,304.1,43.751826,-87.878056,Natural_Gas
+Nebo Power Station,Payson,Utah,Utah,130,40.0614,-111.7294,Natural_Gas
+Red Bluff,Red Bluff,Tehama,California,44.8,40.1501,-122.2124,Natural_Gas
+Chowchilla II,Chowchilla,Madera,California,49.6,37.1073,-120.2485,Natural_Gas
+Pinelawn Power LLC,West Babylon,Suffolk,New York,74.5,40.736611,-73.388424,Natural_Gas
+Central Michigan University,Mt. Pleasant,Isabella,Michigan,4.2,43.590456,-84.779,Natural_Gas
+500MW CC,Astoria,Queens,New York,475.3,40.7889,-73.9069,Natural_Gas
+Alden Bailey Power Plant,Clatskanie,Clatsop,Oregon,9.8,46.158402,-123.40596,Natural_Gas
+Port Westward,Clatskanie,Columbia,Oregon,392.2,46.17894,-123.172039,Natural_Gas
+Cogeneration 1,Tucson,Pima,Arizona,8.3,32.229922,-110.952797,Natural_Gas
+Miramar Energy Facility,San Diego,San Diego,California,94,32.8769,-117.166389,Natural_Gas
+EG178 Facility,Snyder,Scurry,Texas,100,32.747058,-100.954661,Natural_Gas
+Caithness Long Island Energy Center,Yaphank,Suffolk,New York,316.9,40.8142,-72.9403,Natural_Gas
+Lake Side Power Plant,Vineyard,Utah,Utah,1176,40.331667,-111.754167,Natural_Gas
+Groton Generating Station,Groton,Brown,South Dakota,158.9,45.3735,-98.098689,Natural_Gas
+Malaga Power LLC,Fresno,Fresno,California,96,36.6697,-119.7404,Natural_Gas
+Cannon Falls Energy Center,Cannon Falls,Goodhue,Minnesota,316,44.536688,-92.915528,Natural_Gas
+Shell Chemical,Geismar,Ascension,Louisiana,69,30.187508,-90.983963,Natural_Gas
+Anson County Generation Facility,Lilesville,Anson,North Carolina,339,34.968651,-79.921738,Natural_Gas
+Millcreek Power Generation,St. George,Washington,Utah,73.6,37.112092,-113.516581,Natural_Gas
+Empire Generating Co LLC,Rensselaer,Rensselaer,New York,580,42.625239,-73.750021,Natural_Gas
+Hargis-Hebert Electric Generating,Lafayette,Lafayette,Louisiana,95.2,30.1694,-91.9923,Natural_Gas
+Hamlet Generating Facility,Hamlet,Richmond,North Carolina,339,34.842311,-79.736087,Natural_Gas
+Roseville Energy Park,Roseville,Placer,California,151,38.7928,-121.3811,Natural_Gas
+Trigen St. Louis,St Louis,St Louis,Missouri,31,38.6359,-90.1809,Natural_Gas
+Mustang Station Unit 4,Denver City,Yoakum,Texas,455.3,32.974554,-102.743607,Natural_Gas
+Harry D Mattison Gas Plant,Tontitown,Washington,Arkansas,294,36.1855,-94.2841,Natural_Gas
+Bear Valley Power Plant,Big Bear Lake,San Bernardino,California,8.4,34.2506,-116.9025,Natural_Gas
+Quail Run Energy Center,Odessa,Ector,Texas,472.2,31.8414,-102.315,Natural_Gas
+Colorado Bend Energy Center,Wharton,Wharton,Texas,484,29.2878,-96.0683,Natural_Gas
+Clearwater Power Plant,Corona,Riverside,California,28,33.8912,-117.6085,Natural_Gas
+Robert Mueller Energy Center,Austin,Travis,Texas,3.7,30.304994,-97.707675,Natural_Gas
+Hunlock Unit 4,Hunlock Green,Luzerne,Pennsylvania,44.6,41.2025,-76.068333,Natural_Gas
+Treasure Coast Energy Center,Ft. Pierce,St Lucie,Florida,318,27.383889,-80.3775,Natural_Gas
+West County Energy Center,Loxahatchee,Palm Beach,Florida,3756,26.6986,-80.3747,Natural_Gas
+Spindle Hill Energy Center,Fort Lupton,Weld,Colorado,270,40.092192,-104.887844,Natural_Gas
+Hobbs Generating Station,Hobbs,Lea,New Mexico,567.2,32.728333,-103.309444,Natural_Gas
+Geneva Generation Facility,Geneva,Kane,Illinois,27,41.8911,-88.2711,Natural_Gas
+Russell City Energy Center,Hayward,Alameda,California,615,37.63466,-122.13381,Natural_Gas
+McGrath Peaker,Oxnard,Ventura,California,49,34.205556,-119.246944,Natural_Gas
+Grapeland Hybrid,Rancho Cucamonga,San Bernardino,California,46,34.0903,-117.5343,Natural_Gas
+Mira Loma Peaker,Ontario,San Bernardino,California,49,34.0053,-117.5604,Natural_Gas
+Barre Peaker,Stanton,Orange,California,49,33.8073,-117.9832,Natural_Gas
+Center Hybrid,Norwalk,LOS ANGELES,California,47,33.9296,-118.1046,Natural_Gas
+Gateway Generating Station,Antioch,Contra Costa,California,563.4,38.0175,-121.7587,Natural_Gas
+MJMEUC Generating Station #1,Laddonia,Audrain,Missouri,11.3,39.251076,-91.640071,Natural_Gas
+Marshfield Utilities Gas Plant,Marshfield,Wood,Wisconsin,53.3,44.634722,-90.134444,Natural_Gas
+Black Mountain Generating Station,Golden Valley,Mohave,Arizona,90,35.0361,-114.1594,Natural_Gas
+Elkins Generating Center,Elkins,Washington,Arkansas,60,35.9714,-94.0014,Natural_Gas
+Goodman Energy Center,Hays,Ellis,Kansas,101.4,38.9303,-99.3617,Natural_Gas
+Western 102 Power Plant,McCarran,Storey,Nevada,110.6,39.5603,-119.5108,Natural_Gas
+Emporia Energy Center,Emporia,Lyon,Kansas,646,38.445883,-96.065247,Natural_Gas
+Riley Generating Station,Zeeland,Ottawa,Michigan,10,42.8333,-86.0053,Natural_Gas
+Municipal Power Plant,Zeeland,Ottawa,Michigan,2,42.8129,-86.0335,Natural_Gas
+Jonesboro City Water & Light Plant,Jonesboro,Craighead,Arkansas,177,35.848561,-90.725377,Natural_Gas
+Tesoro SLC Cogeneration Plant,Salt Lake City,Salt Lake,Utah,22,40.7931,-111.9038,Natural_Gas
+Whitemarsh Central Utility Plant,Lafayette Hill,Montgomery,Pennsylvania,1.6,40.0975,-75.2428,Natural_Gas
+Plains End II LLC,Arvada,Jefferson,Colorado,116.2,39.8586,-105.2256,Natural_Gas
+South Energy Center,Gainesville,Alachua,Florida,11.7,29.6383,-82.34,Natural_Gas
+Colusa Generating Station,Maxwell,Colusa,California,640,39.3661,-122.27,Natural_Gas
+PPS Power Plant No 1,Paducah,McCracken,Kentucky,110,37.03385,-88.615862,Natural_Gas
+J Lamar Stall Unit,Shreveport,Caddo,Louisiana,320,32.51947,-93.760125,Natural_Gas
+Niland Gas Turbine Plant,Niland,Imperial,California,95,33.238842,-115.504456,Natural_Gas
+San Jacinto County Peaking Facility,Shepherd,San Jacinto,Texas,146,30.4193,-95.0118,Natural_Gas
+Hardin County Peaking Facility,Kountze,Hardin,Texas,146,30.3038,-94.2526,Natural_Gas
+Culbertson Generation Station,Culbertson,Roosevelt,Montana,90.8,48.21,-104.391667,Natural_Gas
+Deer Creek Station,White,Brookings,South Dakota,290,44.290833,-96.526667,Natural_Gas
+Waterbury Generation,Waterbury,New Haven,Connecticut,96,41.5444,-73.0417,Natural_Gas
+Midway Peaking LLC,Firebaugh,Fresno,California,111.2,36.654114,-120.579727,Natural_Gas
+NIH Cogeneration Facility,Bethesda,Montgomery,Maryland,27.6,39,-77.0939,Natural_Gas
+Winchester Power Park,Winchester,Fayette,Texas,176,30.0381,-96.9875,Natural_Gas
+Haworth Water Treatment Plant,Haworth,Bergen,New Jersey,8,40.959257,-74.015107,Natural_Gas
+CFB Power Plant,Point Comfort,Calhoun,Texas,286.2,28.650278,-96.539722,Natural_Gas
+Virginia Tech Power Plant,Blacksburg,Montgomery,Virginia,2.5,37.2319,-80.4211,Natural_Gas
+Geismar Cogen,Geismar,Ascension,Louisiana,72.5,30.209,-90.9921,Natural_Gas
+Kleen Energy Systems Project,Middletown,Middlesex,Connecticut,622,41.553227,-72.596867,Natural_Gas
+Greenland Energy Center,Jacksonville,Duval,Florida,296,30.159131,-81.518415,Natural_Gas
+Panoche Energy Center,Firebaugh,Fresno,California,388,36.6514,-120.5833,Natural_Gas
+Cedar Bayou 4,Eldon,Chambers,Texas,502,29.751645,-94.92312,Natural_Gas
+Bear Garden,New Canton,Buckingham,Virginia,622,37.695556,-78.285278,Natural_Gas
+CPV St Charles Energy Center,Waldorf,Charles,Maryland,722.6,38.568600000000004,-76.8919,Natural_Gas
+Dave Gates Generating Station,Anaconda,Deer Lodge,Montana,132.3,46.104713,-112.876605,Natural_Gas
+Orange Grove Peaking Facility,Pala,San Diego,California,98.2,33.3594,-117.1114,Natural_Gas
+Fairfield University CHP Plant,Fairfield,Fairfield,Connecticut,4.5,41.1589,-73.2572,Natural_Gas
+CPV Valley Energy Center,Wawayanda,Orange,New York,671,41.4122,-74.4378,Natural_Gas
+Coolidge Generation Station,Coolidge,Pinal,Arizona,520.8,32.917399,-111.503327,Natural_Gas
+West Deptford Energy Station,West Deptford,Gloucester,New Jersey,739.9,39.8414,-75.2214,Natural_Gas
+Bayonne Energy Center,Bayonne,Hudson,New Jersey,585.7,40.652834,-74.09155,Natural_Gas
+Pueblo Airport Generating Station,Pueblo,Pueblo,Colorado,408,38.320833,-104.52639,Natural_Gas
+El Cajon Energy Center,El Cajon,San Diego,California,43.5,32.796106,-116.972073,Natural_Gas
+Canyon Power Plant,Anaheim,Orange,California,194.8,33.858056,-117.861667,Natural_Gas
+Langley Gulch Power Plant,New Plymouth,Payette,Idaho,299.7,43.904444,-116.819722,Natural_Gas
+Cleveland Cnty Generating Facility,Kings Mountain,Cleveland,North Carolina,738.2,35.170547,-81.416648,Natural_Gas
+Southcentral Power Project,Anchorage,Anchorage,Alaska,169.7,61.167417,-149.905304,Natural_Gas
+Ratcliffe,De Kalb,Kemper,Mississippi,675.4,32.654722,-88.762222,Natural_Gas
+CSU East Bay,Hayward,Alameda,California,1.4,37.658889,-122.059444,Natural_Gas
+SF State University,San Francisco,San Francisco,California,1.6,37.723889,-122.4775,Natural_Gas
+Newark America Mill,Fitchburg,Worcester,Massachusetts,3,42.561007,-71.848805,Natural_Gas
+UCI Facilities Management Central Plant,Irvine,Orange,California,19,33.6481,-117.8467,Natural_Gas
+HSCo CHP,Hartford,Hartford,Connecticut,3.5,41.7614,-72.6686,Natural_Gas
+Soldotna,Soldotna,Kenai Peninsula,Alaska,44,60.499444,-150.997222,Natural_Gas
+Marsh Landing Generating Station,Antioch,Contra Costa,California,765.2,38.016944,-121.765,Natural_Gas
+Mont Belvieu Cogeneration Unit,Mont Belvieu,Chambers,Texas,12.3,29.838138,-94.900661,Natural_Gas
+CityCenter Central Plant Cogen Units,Las Vegas,Clark,Nevada,8,36.1039,-115.1794,Natural_Gas
+Garrison Energy Center LLC,Dover,Kent,Delaware,316,39.187195,-75.499396,Natural_Gas
+UTS SJ1 LLC,San Jose,Santa Clara,California,1.4,37.433056,-121.941944,Natural_Gas
+"Sentinel Energy Center, LLC",Desert Hot Springs,Riverside,California,800,33.934167,-116.571388,Natural_Gas
+Mariposa Energy Project,Byron,Alameda,California,199.6,37.789167,-121.601944,Natural_Gas
+TECO CHP-1,Houston,Harris,Texas,48,29.703454,-95.398317,Natural_Gas
+Monroe Generating Station,Monroe,Union,North Carolina,24,34.985814,-80.506037,Natural_Gas
+Walnut Creek Energy Park,Industry,Los Angeles,California,485,34.008709,-117.944864,Natural_Gas
+Cal State Univ San Bernardino FC01,San Bernardino,San Bernardino,California,1.4,34.185833,-117.324167,Natural_Gas
+Pio Pico Energy Center,San Diego,San Diego,California,318,32.573889,-116.917777,Natural_Gas
+Algonquin Power Sanger LLC,Sanger,Fresno,California,61.5,36.6842,-119.5522,Natural_Gas
+CCCSD Wastewater Treatment Plnt,Martinez,Contra Costa,California,3,37.9978,-122.0697,Natural_Gas
+Broadridge Cogen,El Dorado Hills,El Dorado,California,4.2,38.6183,-121.0564,Natural_Gas
+University of California San Diego Hybrid,La Jolla,San Diego,California,30,32.8747,-117.2392,Natural_Gas
+Oxnard Paper Mill,Oxnard,Ventura,California,29,34.1414,-119.1831,Natural_Gas
+"Bos Dairy, LLC",Fair Oaks,Jasper,Indiana,0.9,41.1153,-87.2328,Natural_Gas
+Oregon State University Energy Center,Corvallis,Benton,Oregon,5.7,44.564333,-123.289089,Natural_Gas
+Astoria Energy II,Astoria,Queens,New York,540,40.781321,-73.896618,Natural_Gas
+Foxwoods CoGen,Mashantucket,New London,Connecticut,14.5,41.4731,-71.9606,Natural_Gas
+Oakdale Renewable Energy Plant,Coralville,Johnson,Iowa,2.8,41.7053,-91.6033,Natural_Gas
+Cheyenne Prairie Generating Station,Cheyenne,Laramie,Wyoming,131,41.123611,-104.72,Natural_Gas
+City of Palo Alto,Palo Alta,Santa Clara,California,4.4,37.4383,-122.1094,Natural_Gas
+Watkins Manufacturing Co.,San Diego,San Diego,California,2,33.143847,-117.236908,Natural_Gas
+UCSD Fuel Cell Plant,San Diego,San Diego,California,2.8,32.877222,-117.234722,Natural_Gas
+US GSA Heating and Transmission,Washington,District of Columbia,District of Columbia,9,38.885709,-77.028373,Natural_Gas
+Peak Power 1 Cogen,New York,New York,New York,6,40.751111,-73.991667,Natural_Gas
+Sonoma County Fuel Cell,Santa Rosa,Sonoma,California,1.4,38.466666,-122.723436,Natural_Gas
+St Joseph Energy Center,New Carlisle,St Joseph,Indiana,706,41.698992,-86.479699,Natural_Gas
+OBP Cogen,New York,New York,New York,4.6,40.754865,-73.983248,Natural_Gas
+Coca Cola American Canyon,American Canyon,Napa,California,1,38.190705,-122.275067,Natural_Gas
+Lockheed Martin Sunnyvale,Sunnyvale,Santa Clara,California,1,37.413056,-122.028056,Natural_Gas
+Franklin Templeton San Mateo,San Mateo,San Mateo,California,1,37.5425,-122.292778,Natural_Gas
+Adobe San Jose,San Jose,Santa Clara,California,1.2,37.330556,-121.893056,Natural_Gas
+Woodbridge Energy Center,Keasbey,Middlesex,New Jersey,726.7,40.515,-74.318889,Natural_Gas
+Wabash Valley Power IGCC,Terre Haute,Vigo,Indiana,138,39.53,-87.4247,Natural_Gas
+Antelope Station,Abernathy,Hale,Texas,158.9,33.865,-101.843333,Natural_Gas
+LCEC Generation LLVC,Lovington,Lea,New Mexico,43.5,32.978056,-103.323889,Natural_Gas
+Pioneer Generating Station,Williston,Williams,North Dakota,231.6,48.2325,-103.95278,Natural_Gas
+Lake Charles Polymers,Westlake,Calcasieu,Louisiana,28.5,30.196571,-93.32197,Natural_Gas
+Hurricane City Power,Hurricane,Washington,Utah,9.5,37.185556,-113.2975,Natural_Gas
+El Segundo Energy Center LLC,El Segundo,Los Angeles,California,510,33.910556,-118.425,Natural_Gas
+Central Utility Plant Cincinnati,Cincinnati,Hamilton,Ohio,46.5,39.134533,-84.509419,Natural_Gas
+Spreckels Sugar Company,Brawley,Imperial,California,8.9,32.911111,-115.568056,Natural_Gas
+Lonesome Creek Station,Alexander,McKenzie,North Dakota,200,47.796667,-103.57861,Natural_Gas
+Fredericktown Energy Center,Fredericktown,Madison,Missouri,24,37.571672,-90.317251,Natural_Gas
+MSC Croswell,Croswell,Sanilac,Michigan,0,43.266389,-82.619167,Natural_Gas
+Woodall Gas Plant,Briscoe,Hemphill,Texas,3,35.690833,-100.240278,Natural_Gas
+Roquette America,Keokuk,Lee,Iowa,48,40.389167,-91.394167,Natural_Gas
+Southeast Steam Plant,Minneapolis,Hennepin,Minnesota,2,44.980833,-93.249722,Natural_Gas
+High Sierra Cogeneration Plant,Susanville,Lassen,California,5,40.4128,-120.4774,Natural_Gas
+Lodi Energy Center,Lodi,San Joaquin,California,257,38.088056,-121.3875,Natural_Gas
+Panda Temple Power Station,Temple,Bell,Texas,1468,31.055833,-97.317222,Natural_Gas
+Panda Sherman Power Station,Sherman,Grayson,Texas,707,33.582573,-96.617893,Natural_Gas
+Battle Creek Mill,Battle Creek,Calhoun,Michigan,1.6,42.3221,-85.2043,Natural_Gas
+MillerCoors Irwindale Brewery,Irwindale,Los Angeles,California,8.2,34.121667,-117.938333,Natural_Gas
+Paramount Refinery,Paramount,Los Angeles,California,6.5,33.9,-118.151389,Natural_Gas
+SABIC Innovative Plastics Mt. Vernon,Mount Vernon,Posey,Indiana,78.6,37.910278,-87.926111,Natural_Gas
+"PCA, Filer City Mill",Filer City,Manistee,Michigan,19.5,44.213333,-86.286667,Natural_Gas
+El Dorado Refinery,El Dorado,Butler,Kansas,32,37.792778,-96.877222,Natural_Gas
+Newark Energy Center,Newark,Essex,New Jersey,708.2,40.707222,-74.125833,Natural_Gas
+Fullerton Mill CHP,Fullerton,Orange,California,13,33.861667,-117.893056,Natural_Gas
+"Kimberly Clark-Unit 1,2,3",New Milford,Litchfield,Connecticut,33.1,41.558333,-73.413611,Natural_Gas
+Kern Oil & Refining Co,Bakersfield,Kern,California,4.9,35.295556,-118.918333,Natural_Gas
+Brookside Newark,Newark,New Castle,Delaware,3,39.668889,-75.716111,Natural_Gas
+Cellu Tissue,East Hartford,Hartford,Connecticut,2.5,41.776111,-72.606667,Natural_Gas
+TNSG South Plant,Deadhorse,North Slope,Alaska,4.8,70.2,-148.466667,Natural_Gas
+Delano Energy Center,Delano,Tulare,California,35,35.790864,-119.294469,Natural_Gas
+Prairies Edge Generating Facility,Fair Oaks,Jasper,Indiana,0.8,41.06058,-87.307136,Natural_Gas
+Adkins Energy LLC,Lena,Stephenson,Illinois,5.8,42.362222,-89.803611,Natural_Gas
+Otter Creek Ethanol Poet - Ashton,Ashton,Osceola,Iowa,5.5,43.275,-95.809722,Natural_Gas
+Central Energy Plant USU,Logan,Cache,Utah,4.4,41.748611,-111.811667,Natural_Gas
+Summit Street Power Plant,Kent,Portage,Ohio,11.8,41.143056,-81.340833,Natural_Gas
+Central Utility Plant - Texas A&M,College Station,Brazos,Texas,48.4,30.617778,-96.343333,Natural_Gas
+Danbury Hospital Cogen Plant,Danbury,Fairfield,Connecticut,3.9,41.405278,-73.4475,Natural_Gas
+Eastern Maine Medical Center,Bangor,Penobscot,Maine,3.8,44.808333,-68.750833,Natural_Gas
+SUNY Old Westbury College,Old Westbury,Nassau,New York,1.8,40.797858,-73.565661,Natural_Gas
+University of Rochester,Rochester,Monroe,New York,24.2,43.123889,-77.628889,Natural_Gas
+Wesleyan University Cogen 1,Middletown,Middlesex,Connecticut,2.3,41.556389,-72.653889,Natural_Gas
+UCONN Cogen Facility,Storrs,Tolland,Connecticut,24.1,41.809167,-72.254167,Natural_Gas
+Western Michigan University Power Plant,Kalamazoo,Kalamazoo,Michigan,10.1,42.28,-85.606389,Natural_Gas
+College of New Jersey,Ewing,Mercer,New Jersey,4.2,40.269444,-74.773333,Natural_Gas
+Smith College Central Heating Plant,Northampton,Hampshire,Massachusetts,2.7,42.3125,-72.639444,Natural_Gas
+William Floyd School District,Mastic Beach,Suffolk,New York,2.6,40.776944,-72.850833,Natural_Gas
+Energy Center,Redlands,San Bernardino,California,0.9,34.063056,-117.163889,Natural_Gas
+CSUF Trigeneration,Fullerton,Orange,California,4.3,33.880638,-117.88656,Natural_Gas
+MTSU Power Co-Gen Plant,Murfreesboro,Rutherford,Tennessee,5,35.851389,-86.365,Natural_Gas
+Loyola University Health Plant,Maywood,Cook,Illinois,7.8,41.855833,-87.835556,Natural_Gas
+Prairie Horizon Agri Energy,Phillipsburg,Phillips,Kansas,0.7,39.761111,-99.305833,Natural_Gas
+Rand Whitney CHP Plant,Montville,New London,Connecticut,14.6,41.452778,-72.136111,Natural_Gas
+Amherst College Co Gen,Amherst,Hampshire,Massachusetts,1.7,42.371667,-72.512222,Natural_Gas
+HVCC Cogen Plant,Troy,Rensselaer,New York,5.4,42.696944,-73.68,Natural_Gas
+Thomas M Knott Cogen Facility,San Luis Obispo,San Luis Obispo,California,1.2,35.184444,-120.618333,Natural_Gas
+US Magnesium,Rowley,Tooele,Utah,33,40.913333,-112.733889,Natural_Gas
+Arkalon Ethanol LLC,Liberal,Seward,Kansas,3,37.110556,-100.803611,Natural_Gas
+Bonanza BioEnergy LLC,Garden City,Finney,Kansas,2,37.9586,-100.8361,Natural_Gas
+West Campus Steam Plant,University Park,Centre,Pennsylvania,3,40.792778,-77.864722,Natural_Gas
+East Campus Steam Plant,University Park,Centre,Pennsylvania,7.4,40.809167,-77.8475,Natural_Gas
+Cargill Salt Hersey,Hersey,Osceola,Michigan,2.1,43.834167,-85.355833,Natural_Gas
+Parnassus Central Utility Plant,San Francisco,San Francisco,California,12.5,37.762524,-122.456747,Natural_Gas
+Arizona State University CHP,Tempe,Maricopa,Arizona,17.1,33.417222,-111.928333,Natural_Gas
+Burnside Alumina Plant,Burnside,Ascension,Louisiana,12,30.134167,-90.9175,Natural_Gas
+Monroe Community College Plant,Rochester,Monroe,New York,5.6,43.103889,-77.610278,Natural_Gas
+Grand Ave Plant,Kansas City,Jackson,Missouri,4.8,39.111944,-94.581111,Natural_Gas
+Central Utility Plant at White Oak,Silver Spring,Montgomery,Maryland,47.3,39.039444,-76.9825,Natural_Gas
+Lee Combined Cycle Plant,Goldsboro,Wayne,North Carolina,888,35.373611,-78.089444,Natural_Gas
+E.B. Eddy Paper Inc,Port Huron,St Clair,Michigan,5,42.9896,-82.4379,Natural_Gas
+Hoag Hospital Cogen Plant,Newport Beach,Orange,California,3.6,33.622778,-117.936389,Natural_Gas
+CCSU Co-Gen-STBY Gen,New Britain,Hartford,Connecticut,2.6,41.691389,-72.768611,Natural_Gas
+Clayville,Vineland,Cumberland,New Jersey,55,39.424444,-75.02,Natural_Gas
+Marshalltown Generating Station,Marshalltown,Marshall,Iowa,648.8,42.043333,-92.872778,Natural_Gas
+CCSU Fuel Cell Project,New Britain,Hartford,Connecticut,1.4,41.691944,-72.761111,Natural_Gas
+Northeastern Illinois University Cogen,Chicago,Cook,Illinois,3.2,41.981111,-87.719167,Natural_Gas
+Chatham,Lowell,Kent,Michigan,6.6,42.934444,-85.3475,Natural_Gas
+Rubart,Ulysses,Grant,Kansas,99.6,37.558611,-101.099444,Natural_Gas
+Central Utilities Plant LAX 2,Los Angeles,Los Angeles,California,8.4,33.943889,-118.404167,Natural_Gas
+Brunswick County Power Station,Freeman,Brunswick,Virginia,1371.1,36.765,-77.713889,Natural_Gas
+Port Westward Unit 2,Clatskanie,Columbia,Oregon,224.4,46.178889,-123.171944,Natural_Gas
+Bay View Backup Power Facility,Toledo,Lucas,Ohio,10,41.688333,-83.484722,Natural_Gas
+TNSG North Plant,Deadhorse,North Slope,Alaska,22.8,70.235278,-148.383611,Natural_Gas
+La Luz Energy Center,Belen,Valencia,New Mexico,41,34.616111,-106.815,Natural_Gas
+Roll Delano 2,Delano,Kern,California,1,35.739722,-119.238056,Natural_Gas
+Roll Delano,Delano,Kern,California,1,35.734167,-119.236667,Natural_Gas
+Roll Lost Hills,Lost Hills,Kern,California,1,35.653056,-119.889722,Natural_Gas
+Xilinx San Jose,San Jose,Santa Clara,California,1,37.252778,-121.934167,Natural_Gas
+Honda Torrance,Torrance,Los Angeles,California,1,33.838056,-118.315,Natural_Gas
+Juniper Networks Sunnyvale,Sunnyvale,Santa Clara,California,1,37.406944,-122.026944,Natural_Gas
+Life Technologies Carlsbad,Carlsbad,San Diego,California,1,33.137222,-117.286944,Natural_Gas
+Taylor Farms Salinas,Salinas,Monterey,California,1,36.6575,-121.623333,Natural_Gas
+Charles D. Lamb Energy Center,Ponca City,Kay,Oklahoma,122,36.813889,-97.125278,Natural_Gas
+Bradley Energy Center,Windsor Locks,Hartford,Connecticut,5.8,41.927102,-72.683143,Natural_Gas
+North Chicago Energy Center,North Chicago,Lake,Illinois,12.3,42.306389,-87.851944,Natural_Gas
+The Andersons Albion Ethanol LLC,Albion,Calhoun,Michigan,6.2,42.256111,-84.788333,Natural_Gas
+CJTS Energy Center,Middletown,Middlesex,Connecticut,0.4,41.552778000000004,-72.625,Natural_Gas
+Triton East and West Cogen,River Grove,Cook,Illinois,3.6,41.916944,-87.845556,Natural_Gas
+W.A. Parish Carbon Capture Plant,Thompsons,Fort Bend,Texas,74,29.475278,-95.634167,Natural_Gas
+Central Energy Facility,Clemson,Pickens,South Carolina,4.7,34.679444,-82.840278,Natural_Gas
+Panda Liberty Generation Plant,Towanda,Bradford,Pennsylvania,756,41.7675,-76.39,Natural_Gas
+Panda Patriot Generation Plant,Montgomery,Lycoming,Pennsylvania,765,41.180833,-76.839167,Natural_Gas
+Lansing BWL REO Town Plant,Lansing,Ingham,Michigan,74.9,42.719722,-84.551667,Natural_Gas
+LSU Cogen,Baton Rouge,East Baton Rouge,Louisiana,19.6,30.410556,-91.181389,Natural_Gas
+Houweling Nurseries,Camarillo,Ventura,California,13.2,34.179722,-119.083056,Natural_Gas
+Red Lion Energy Center,New Castle,New Castle,Delaware,27,39.610083,-75.62974,Natural_Gas
+CBS Studio Center,Los Angeles,Los Angeles,California,2.4,34.145,-118.390833,Natural_Gas
+Ector County Energy Center,Goldsmith,Ector,Texas,300,32.069167,-102.585556,Natural_Gas
+LEPA Unit No. 1,Morgan City,St Mary,Louisiana,64,29.691111,-91.192778,Natural_Gas
+Carty Generating Station,Boardman,Morrow,Oregon,413,45.698611,-119.813056,Natural_Gas
+Montefieor Medical Center Moses Division,Bronx,Bronx,New York,8.4,40.881389,-73.880278,Natural_Gas
+"Bridgeport Fuel Cell, LLC",Bridgeport,Fairfield,Connecticut,13.7,41.168056,-73.211111,Natural_Gas
+Mesquite Generating Station Block 1,Arlington,Maricopa,Arizona,595,33.345,-112.864167,Natural_Gas
+Montana Power Station,El Paso,El Paso,Texas,352,31.823889,-106.211944,Natural_Gas
+Princeton University Cogeneration,Princeton,Mercer,New Jersey,15.5,40.341389,-74.657222,Natural_Gas
+Sierra Nevada Brewing Co Hybrid,Chico,Butte,California,1.7,39.724167,-121.815278,Natural_Gas
+DGS Central Utility Plant,Sacramento,Sacramento,California,2.9,38.573889,-121.501389,Natural_Gas
+HTW Plant 303 COGEN,Salt Lake City,Salt Lake,Utah,5.6,40.763056,-111.841667,Natural_Gas
+One Market Plaza,San Francisco,San Francisco,California,1.5,37.793333,-122.394167,Natural_Gas
+Transamerica Pyramid,San Francisco,San Francisco,California,1,37.795556,-122.402778,Natural_Gas
+Museum of Science and Industry,Chicago,Cook,Illinois,1.7,41.790556,-87.582778,Natural_Gas
+Frito Lay Incorporated,Dayville,Windham,Connecticut,3.6,41.862778,-71.891667,Natural_Gas
+L V Sutton Combined Cycle,Wilmington,New Hanover,North Carolina,685,34.283056,-77.985278,Natural_Gas
+Oxbow Creek,Factoryville,Wyoming,Pennsylvania,21,41.608611,-75.870556,Natural_Gas
+Roundtop,Meshoppen,Susquehanna,Pennsylvania,21,41.657778,-76.049167,Natural_Gas
+Beaver Dam,Canton Township,Bradford,Pennsylvania,21,41.611389,-76.843056,Natural_Gas
+Alpaca,Canton Township,Bradford,Pennsylvania,20.4,41.663056,-76.805556,Natural_Gas
+Hilton NY Co Gen Plant,New York City,New York,New York,1.8,40.7625,-73.979167,Natural_Gas
+Milan,Milan,Bradford,Pennsylvania,20.4,41.894444,-76.582778,Natural_Gas
+MTHS Co-Gen Buildings,Park Ridge,Cook,Illinois,1.2,42.001944,-87.852222,Natural_Gas
+Elk Station,Abernathy,Hale,Texas,580.7,33.865,-101.843333,Natural_Gas
+Temple SEGF,Philadelphia,Philadelphia,Pennsylvania,16,39.98,-75.150556,Natural_Gas
+MCAGCC Cogen Plant,Twentynine Palms,San Bernardino,California,16.2,34.237222,-116.054167,Natural_Gas
+Simonds,Fitchburg,Middlesex,Massachusetts,1.8,42.567778,-71.773889,Natural_Gas
+Bristol Myers Squibb Lawrenceville,Lawrenceville,Mercer,New Jersey,4,40.324722,-74.707778,Natural_Gas
+Eklutna Generation Station,Chugiak,Anchorage,Alaska,165,61.457778,-149.351389,Natural_Gas
+Carlsbad Energy Center,Carlsbad,San Diego,California,527.5,33.140507,-117.333916,Natural_Gas
+Stonewall,Leesburg,Loudoun,Virginia,766,39.058056,-77.545,Natural_Gas
+Jameson Energy Center,Garden City,Finney,Kansas,27,37.954722,-100.830556,Natural_Gas
+Rariton OMP,Raritan,Somerset,New Jersey,3,40.574444,-74.648056,Natural_Gas
+Spring House,Spring House,Montgomery,Pennsylvania,3.8,40.183889,-75.234167,Natural_Gas
+Cove Point LNG Terminal,Lusby,Calvert,Maryland,161.8,38.385456,-76.409796,Natural_Gas
+Holland Energy Park,Holland,Ottawa,Michigan,127.1,42.7925,-86.092222,Natural_Gas
+Freeport LP Pretreatment Facility,Freeport,Brazoria,Texas,70,28.979167,-95.306944,Natural_Gas
+Univ Minnesota CHP Plant,Minneapolis,Hennepin,Minnesota,17,44.978611,-93.240833,Natural_Gas
+Wildcat Point Generation Facility,Conowingo,Cecil,Maryland,1113.6,39.719364,-76.161625,Natural_Gas
+Cogeneration 2,Tucson,Pima,Arizona,5,32.240833,-110.948333,Natural_Gas
+Verizon-Torrance,Torrance,Los Angeles,California,1,33.850556,-118.304167,Natural_Gas
+Life Technologies - Pleasanton,Pleasanton,Alameda,California,1,37.643889,-121.884167,Natural_Gas
+Kellogg's - San Jose,San Jose,Santa Clara,California,1,37.356389,-121.871944,Natural_Gas
+eBay - South Jordan,South Jordan,Salt Lake,Utah,9.8,40.560556,-112.047778,Natural_Gas
+Kings Mountain Energy Center,Kings Mountain,Cleveland,North Carolina,486,35.2025,-81.363056,Natural_Gas
+Middletown Energy Center,Middletown,Butler,Ohio,468,39.465,-84.347778,Natural_Gas
+Gila River Power Block 1,Gila Bend,Maricopa,Arizona,515,32.975,-112.694444,Natural_Gas
+Broshco Fabricated Products,Mansfield,Richland,Ohio,4.7,40.776111,-82.568611,Natural_Gas
+"The Methodist Hospital, Gas Turbine",Houston,Harris,Texas,3,29.709444,-95.400278,Natural_Gas
+Red Gate Power Plant,Edinburg,Hidalgo,Texas,219.6,26.451111,-98.1775,Natural_Gas
+Waxdale,Sturtevant,Racine,Wisconsin,3.5,42.709444,-87.885278,Natural_Gas
+East. Michigan Univ. Heating Plant,Ypsilanti,Washtenaw,Michigan,6.8,42.248889,-83.628889,Natural_Gas
+Albany Medical Ctr Cogen Plant,Albany,Albany,New York,3.5,42.655,-73.7777,Natural_Gas
+P Plant,San Diego,San Diego,California,8,32.894722,-117.198056,Natural_Gas
+Q Plant,San Diego,San Diego,California,4,32.904167,-117.201111,Natural_Gas
+W Plant,San Diego,San Diego,California,4,32.903333,-117.195556,Natural_Gas
+Coldwater Peaking Plant,Coldwater,Branch,Michigan,12.9,41.919444,-85.024167,Natural_Gas
+BYUI Central Energy Facility,Rexburg,Madison,Idaho,4.6,43.816944,-111.785833,Natural_Gas
+Stillwater Energy Center,Stillwater,Payne,Oklahoma,55.8,36.161944,-97.036944,Natural_Gas
+Washington City Electric Generation,Washington,Washington,Utah,6,37.155,-113.439167,Natural_Gas
+City of West Plains Power Station,West Plains,Howell,Missouri,42,36.748611,-91.868611,Natural_Gas
+CML&P Generating Facility No. 2,Coffeyville,Montgomery,Kansas,56.1,37.092977,-95.585154,Natural_Gas
+Bull Street Plant,Orangeburg,Orangeburg,South Carolina,2,33.489767,-80.870272,Natural_Gas
+Substation 20 Plant,Orangeburg,Orangeburg,South Carolina,2,33.440183,-80.8417,Natural_Gas
+Oregon Clean Energy Center,Oregon,Lucas,Ohio,847.6,41.667928,-83.443664,Natural_Gas
+Carroll County Energy,Carrollton,Carroll,Ohio,694.6,40.60441,-81.05918,Natural_Gas
+Waynoka Gas Processing Plant,Alva,Woods,Oklahoma,3.9,36.651,-98.7656,Natural_Gas
+Gila River Power Block 3,Gila Bend,Maricopa,Arizona,515,32.975,-112.6944,Natural_Gas
+Chicago West Side Energy Center,Chicago,Cook,Illinois,3.5,41.870751,-87.678378,Natural_Gas
+Amazon San Bernardino,San Bernardino,San Bernardino,California,1,34.088408,-117.245839,Natural_Gas
+IBM Southbury,Southbury,New Haven,Connecticut,1,41.472492,-73.207043,Natural_Gas
+Maxim,San Jose,Santa Clara,California,1,37.405689,-121.949416,Natural_Gas
+Pixar - Emeryville,Emeryville,Alameda,California,1,37.83286,-122.284003,Natural_Gas
+Starbucks - Evolution Fresh,Rancho Cucamonga,San Bernardino,California,1,34.093684,-117.551044,Natural_Gas
+Yahoo! - HQ,Sunnyvale,Santa Clara,California,1,37.415419,-122.025747,Natural_Gas
+Wolf Hollow II,Granbury,Hood,Texas,1064,32.337679,-97.734612,Natural_Gas
+Northwest Community Hospital,Arlington Heights,Cook,Illinois,3.6,42.067753,-87.993492,Natural_Gas
+HP Hood CT,Winchester,Frederick,Virginia,15,39.132519,-78.187474,Natural_Gas
+Exelon West Medway II LLC,Medway,Norfolk,Massachusetts,194.8,42.137218,-71.4447,Natural_Gas
+Moxie Freedom Generation Plant,Salem Township,Luzerne,Pennsylvania,980,41.113056,-76.158056,Natural_Gas
+Greensville County Power Station,Emporia,Greensville,Virginia,1585,36.718236,-77.649559,Natural_Gas
+Alpine Power Plant,Elmira,Otsego,Michigan,405.2,45.063748,-84.825348,Natural_Gas
+Sky Global Power One,Rock Island,Colorado,Texas,49.8,29.550278,-96.537778,Natural_Gas
+Pepperidge Farm Bloomfield,Bloomfield,Hartford,Connecticut,2.1,41.869302,-72.718315,Natural_Gas
+Eight Flags Energy,Fernandina Beach,Nassau,Florida,21.3,30.6608,-81.4706,Natural_Gas
+UI RCP New Haven Fuel Cell,New Haven,New Haven,Connecticut,2.5,41.288803,-72.898622,Natural_Gas
+UI RCP Bridgeport Seaside,Bridgeport,Fairfield,Connecticut,2.5,41.157591,-73.208084,Natural_Gas
+Lorin Industries,Muskegon,Muskegon,Michigan,3.2,43.216639,-86.214444,Natural_Gas
+UDR Glastonbury Fuel Cell,Glastonbury,Hartford,Connecticut,2.5,41.716998,-72.536077,Natural_Gas
+UCI Fuel Cell,Orange,Orange,California,1.4,33.788,-117.8901,Natural_Gas
+Colorado Bend II,Wharton,Wharton,Texas,1087.8,29.289415,-96.065399,Natural_Gas
+Big Sand Draw Plant,Riverton,Fremont,Wyoming,7,42.7527,-108.1697,Natural_Gas
+Equinix San Jose,San Jose,Santa Clara,California,1,37.241713,-121.781363,Natural_Gas
+Intel Santa Clara,Santa Clara,Santa Clara,California,1,37.384745,-121.963808,Natural_Gas
+Owatonna Energy Station,Owatonna,Steele,Minnesota,38.8,44.085225,-93.262714,Natural_Gas
+Bacliff,Bacliff,Galveston,Texas,324,29.49233,-94.98483,Natural_Gas
+West Groton CHP,Groton,Middlesex,Massachusetts,3.8,42.61343,-71.633767,Natural_Gas
+Keys Energy Center,Brandywine,Prince Georges,Maryland,755,38.695519,-76.827785,Natural_Gas
+Okeechobee Clean Energy Center,Okeechobee,Okeechobee,Florida,1723.1,27.634167,-80.791111,Natural_Gas
+Lackawanna Energy Center,Jessup,Lackawanna,Pennsylvania,1395,41.471389,-75.544167,Natural_Gas
+Panda Hummel Station LLC,Shamokin Dam,Snyder,Pennsylvania,1096.5,40.839014,-76.825517,Natural_Gas
+"Clean Energy Future-Lordstown, LLC",Lordstown,Trumbull,Ohio,856,41.14889,-80.85162,Natural_Gas
+Santa Rita Jail Fuel Cell,Dublin,Alameda,California,1.4,37.719166,-121.886944,Natural_Gas
+Pfizer Groton Fuel Cell,Groton,New London,Connecticut,5.6,41.333889,-72.071111,Natural_Gas
+Port Comfort Power LLC,Point Comfort,Calhoun,Texas,90,28.64807,-96.54621,Natural_Gas
+Chamon Power LLC,Houston,Harris,Texas,90,29.883214,-95.111345,Natural_Gas
+Tenaska Westmoreland Generating Station,Smithton,Westmoreland,Pennsylvania,944,40.175249,-79.696665,Natural_Gas
+Friendswood Energy,Houston,Harris,Texas,117,29.647267,-95.451516,Natural_Gas
+UA Central Utility Plant,Fayetteville,Washington,Arkansas,5.2,36.066336,-94.172254,Natural_Gas
+Marquette Energy Center,Marquette,Marquette,Michigan,50.1,46.56597,-87.437245,Natural_Gas
+Westside Energy Station,Rochester,Olmsted,Minnesota,46.5,44.039023,-92.551866,Natural_Gas
+CPV Fairview Energy Center,Johnstown,Cambria,Pennsylvania,1100,40.412,-78.855,Natural_Gas
+UI RCP Woodbridge FC,Woodbridge,New Haven,Connecticut,2.2,41.358035,-73.007805,Natural_Gas
+Shakopee Energy Park,Shakopee,Scott,Minnesota,46.5,44.783611,-93.481111,Natural_Gas
+TRS Fuel Cell,Danbury,Fairfield,Connecticut,3.7,41.3907,-73.4354,Natural_Gas
+Argonne National Laboratory CHP,Lemont,DuPage,Illinois,4.7,41.716534,-87.970608,Natural_Gas
+Gila River Power Block 2,Gila Bend,Maricopa,Arizona,515,32.975,-112.694444,Natural_Gas
+Lake Forest Hospital,Lake Forest,Lake,Illinois,3.2,42.25416,-87.864282,Natural_Gas
+Salem Harbor Station NGCC,Salem,Essex,Massachusetts,677.1,42.525486,-70.878239,Natural_Gas
+St. Charles Power Station (LA),La Place,St Charles,Louisiana,1000,30.01,-90.460833,Natural_Gas
+Hopewell Cogeneration NJ,Pennington,Mercer,New Jersey,4,40.348275,-74.771501,Natural_Gas
+Pacific Ethanol Stockton Cogen Plant,Stockton,San Joaquin,California,3.6,37.9418,-121.3383,Natural_Gas
+EcoElectrica,Penuelas,Penuelas,Puerto Rico,580,17.981025,-66.755416,Natural_Gas
+Birdsboro Power,Birdsboro,Berks,Pennsylvania,476,40.268522,-75.799669,Natural_Gas
+Sub 12,Tallahassee,Leon,Florida,18.6,30.459813,-84.260028,Natural_Gas
+Costa Sur Plant,Guayanilla,,Puerto Rico,765.6,18.003,-66.7597,Natural_Gas
+AT&T Holger,San Jose,Santa Clara,California,1.3,37.417638,-121.94453,Natural_Gas
+AT&T Anaheim,Anaheim,Orange,California,1.3,33.836439,-117.916893,Natural_Gas
+Boston Medical Center CHP Plant,Boston,Suffolk,Massachusetts,2,42.334651,-71.074171,Natural_Gas
+Victoria Port Power LLC,Victoria,Victoria,Texas,100,28.695805,-96.945409,Natural_Gas
+Wolf Run Energy,Wilmot Township,Bradford,Pennsylvania,22,41.610981,-76.299361,Natural_Gas
+APG Combined Heat and Power Plant,Edgewood,Harford,Maryland,6.2,39.3975,-76.2991,Natural_Gas
+A.J. Mihm Generating Station,Pelkie,Baraga,Michigan,56.2,46.792669,-88.614009,Natural_Gas
+F.D. Kuester Generating Station,Negaunee,Marquette,Michigan,131.3,46.512697,-87.510741,Natural_Gas
+Provo Power Plant,Provo,Utah,Utah,12,40.2427,-111.66298,Natural_Gas
+Denton Energy Center,Denton,Denton,Texas,225.6,33.214869,-97.209692,Natural_Gas
+NCSU CCUP Cogeneration Plant,Raleigh,Wake,North Carolina,6.6,35.775583,-78.673723,Natural_Gas
+NCSU Cates Cogeneration Plant,Raleigh,Wake,North Carolina,9.4,35.784027,-78.674704,Natural_Gas
+Sikorsky Aircraft CHP,Stratford,Fairfield,Connecticut,10.3,41.250009,-73.09865,Natural_Gas
+Navy Yard Peaker Station,Philadelphia	,Philadelphia,Pennsylvania,8,39.890223,-75.185539,Natural_Gas
+SunSelect1,Tehachapi,Kern,California,6.6,35.096709,-118.602184,Natural_Gas
+Trinity College Fuel Cell,Hartford,Hartford,Connecticut,1.4,41.746288,-72.689356,Natural_Gas
+Cleveland Thermal,Cleveland,Cuyahoga,Ohio,1,41.5094,-81.682272,Natural_Gas
+Tulare BioMAT Fuel Cell,Tulare,Tulare,California,2.8,36.187138,-119.375097,Natural_Gas
+Toray Plastic America's CHP Plant,North Kingstown,Washington,Rhode Island,19.3,41.593802,-71.427609,Natural_Gas
+Georgia-Pacific Taylorsville Plywood,Taylorsville,Smith,Mississippi,6.2,31.837173,-89.4635,Natural_Gas
+TAC-Distributed Energy Resource Hybrid,Champaign,Champaign,Illinois,1,40.089797,-88.243573,Natural_Gas
+Beloit Memorial Hospital Power Plant,Beloit,Rock,Wisconsin,3,42.5486,-89.0083,Natural_Gas
+Berry NMW Cogens,McKittrick,Kern,California,11.4,35.307555,-119.611551,Natural_Gas
+Iola Powerhouse & Cogeneration Facility,Rochester,Monroe,New York,4.2,43.112107,-77.613815,Natural_Gas
+Kimberly Clark Mobile - CHP Plant,Mobile,Mobile,Alabama,43.6,30.737741,-88.04977,Natural_Gas
+Digital Fairfield,Trumbull,Fairfield,Connecticut,2,41.24019,-73.14603,Natural_Gas
+Regeneron Tarrytown,Tarrytown,Westchester,New York,1.5,41.077952,-73.820649,Natural_Gas
+Ratkovich Alhambra,Alhambra,Los Angeles,California,1,34.08145,-118.15191,Natural_Gas
+Micro Santa Clara,San Jose,Santa Clara,California,2,37.378422,-121.899969,Natural_Gas
+ACB Energy Parntners LLC - MTF Cogen,Atlantic City,Atlantic,New Jersey,7.1,39.3733,-74.4369,Natural_Gas
+Disney Prospect,Los Angeles,Los Angeles,California,1,34.083387,-118.43378,Natural_Gas
+ATT Jericho,Huntington,Suffolk,New York,1,40.830219,-73.352241,Natural_Gas
+ATT  Kelvin,Irvine,Orange,California,1,33.684675,-117.836821,Natural_Gas
+ATT Van Nyus,Van Nuys,Los Angeles,California,1,34.196324,-118.448225,Natural_Gas
+FLEX Gibraltar,Milpitas,Santa Clara,California,1,37.417288,-121.894109,Natural_Gas
+MER Queens,Elmhurst,Queens,New York,1.2,40.7345,-73.870942,Natural_Gas
+APP Prune A-D,Cupertino,Santa Clara,California,4,37.331666,-122.006686,Natural_Gas
+Rockland Bakery Inc.,Nanuet,Rockland,New York,2.4,41.190589,-74.065114,Natural_Gas
+Overlook Medical Center,Summit,Union,New Jersey,2,40.711684,-74.354231,Natural_Gas
+Equinix Caspian Dr. Fuel Cell,Sunnyvale,Santa Clara,California,4.8,37.415092,-122.05211,Natural_Gas
+Mission College Blvd. Fuel Cell,Santa Clara,Santa Clara,California,5,37.38633,-121.96238,Natural_Gas
+Kaiser East La Palma Ave. Fuel Cell,Anaheim,Orange,California,1.5,33.85098,-117.84531,Natural_Gas
+Kaiser Deer Valley Rd. Fuel Cell,Antioch,Contra Costa,California,1.4,37.95169,-121.77182,Natural_Gas
+Kaiser Owens Dr. Fuel Cell,Pleasanton,Alameda,California,1,37.69923,-121.89419,Natural_Gas
+Kaiser Napa Valley Corporate Dr Fuel Cell,Napa,Napa,California,4.8,38.25477,-122.27305,Natural_Gas
+Equinix Great Oaks Blvd. Fuel Cell,San Jose,Santa Clara,California,4.5,37.24097,-121.78259,Natural_Gas
+Equinix Lundy Ave. Fuel Cell,San Jose,Santa Clara,California,3.8,37.38846,-121.88896,Natural_Gas
+Equinix Douglas St. Fuel Cell,El Segundo,Los Angeles,California,1.5,33.9212,-118.38453,Natural_Gas
+Equinix Maple Ave. Fuel Cell,El Segundo,Los Angeles,California,2,33.92542,-118.39463,Natural_Gas
+Mount Joy Wire,Mount Joy,Lancaster,Pennsylvania,1.1,40.10846,-76.476728,Natural_Gas
+Bridgewater Complex Co-Generation Plant,Bridgewater,Bristol,Massachusetts,1.5,41.931838,-70.958393,Natural_Gas
+NASA Johnson Space Center CHP,Houston,Harris,Texas,10.6,29.562372,-95.089302,Natural_Gas
+Phoenix Contact - CCHP Plant,Middletown,Dauphin,Pennsylvania,1,40.229379,-76.75007,Natural_Gas
+Burrstone Energy Center,New Hartford,Oneida,New York,3.6,43.09534,-75.278357,Natural_Gas
+Jefferson Torresdale Hospital,Philadelphia,Philadelphia,Pennsylvania,1.1,40.071128,-74.983057,Natural_Gas
+Duke Energy CHP at Clemson University,Clemson,Pickens,South Carolina,12.8,34.6779,-82.8231,Natural_Gas
+Kings Plaza Total Energy Plant (TEP),Brooklyn,Kings,New York,12.8,40.610181,-73.920008,Natural_Gas
+Valero Wilmington Cogeneration Plant,Wilmington,Los Angeles,California,32.3,33.778655,-118.23853,Natural_Gas
+"AOC, Capitol Power Plant",,,District of Columbia,7.5,38.882704,-77.007443,Natural_Gas
+BYU Central Heating Plant,,,Utah,14,40.24724,-111.6462,Natural_Gas
+UB Fuel Cell,,,Connecticut,1.4,41.165036,-73.19606,Natural_Gas
+Central CA Fuel Cell 1,,,California,2.8,36.18347,-119.374348,Natural_Gas
+Ross Hall Central Utility Plant,,,District of Columbia,4.1,38.900216,-77.050788,Natural_Gas
+ACM - Midtown Thermal,,,New Jersey,5.2,39.359831,-74.434228,Natural_Gas
+DCO Burlington,,,New Jersey,2.7,40.108316,-74.826404,Natural_Gas
+Montclair State University Cogen,,,New Jersey,5.4,40.864163,-70.197536,Natural_Gas
