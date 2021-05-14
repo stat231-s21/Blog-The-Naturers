@@ -13,6 +13,10 @@ library(ggplot2)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+combined <- read_csv("combined_energy_locations")
+```
+
 
 ```{r}
 Energy_type<- combined %>%
@@ -28,6 +32,16 @@ Energy_type<- combined %>%
 The bargraph below is intended to show the average energy production of every energy type. In a way see which powerplant types could be considered efficient. We do this by dividing the total energy produced for a specific type and dividing it with the total number of powerplant type available. This enabled us to see which type of powerplants produce the most energy on average. We found nuclear and coal as the leading, and solar with the lowest. We were surprised by the petroluem. We expected a higher average energy production per powerplant. 
 
 (This cann be used to argue why transitioning to renewable energy sources is highly opposed because of the low energy production per powerplant they produce)
+
+```{r}
+no_energy_type_state <- combined %>%
+  group_by(State, energy_type) %>%
+  summarise(
+    no_powerplant_type=n()
+  )
+```
+
+
 
 ```{r}
 #bargraphs for showing average energy production per type
@@ -55,6 +69,14 @@ state_energy_consumption<- combined%>%
 This is me just writing my thoughts. I was thinking that maybe we could create something that allows us to compare the types of powerplants being used and the amount of CO2 emission that was recorded ans see if there is any relationship. So maybe a scatter plot that shows the CO2 and number of renewable powerplants in the area, but then we also have to account for size. 
 
 
+```{r}
+combined <- read_csv("combined_energy_locations")
+state_energy_consumption<- combined%>%
+  group_by(State, energy_type)%>%
+  summarise(
+    total_energy=sum(Energy_Produced)
+  )
+```
 
 
 
