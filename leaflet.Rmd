@@ -1,0 +1,88 @@
+---
+title: "Leaflet"
+author: "Graham Chickering"
+date: "5/3/2021"
+output: pdf_document
+---
+
+```{r, message=FALSE, warning =FALSE}
+library(leaflet)
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(magick)
+library(htmltools)
+```
+
+```{r, message = FALSE}
+energy<- read_csv("data/combined_energy_locations") 
+```
+
+### First need to make all the items backgrounds transparent
+```{r}
+#sun
+sun <- image_transparent(image_read("images/sun.png"),"white")
+image_write(sun, path = "images/new_sun.png", format = "png")
+#coal
+coal <- image_transparent(image_read("images/coal.png"),"white")
+image_write(coal, path = "images/new_coal.png", format = "png")
+#geothermal 
+geo <- image_transparent(image_read("images/geothermal.png"),"white")
+geo.color <- image_colorize(geo, 100, "#FF0000")
+image_write(geo.color, path = "images/new_geothermal.png", format = "png")
+#natural gas
+gas <- image_transparent(image_read("images/natural_gas.png"),"white")
+image_write(gas, path = "images/new_gas.png", format = "png")
+#nuclear
+nuclear <- image_transparent(image_read("images/nuclear.png"),"white")
+image_write(nuclear, path = "images/new_nuclear.png", format = "png")
+#petroleum
+petro <- image_transparent(image_read("images/petroleum.png"),"white")
+image_write(petro, path = "images/new_petroleum.png", format = "png")
+#water
+water <- image_transparent(image_read("images/water.png"),"white")
+image_write(water, path = "images/new_water.png", format = "png")
+#wind
+wind <- image_transparent(image_read("images/wind.jpeg"),"white")
+wind.color <- image_colorize(wind, 100, "#7a8bfa")
+image_write(wind.color, path = "images/new_wind.png", format = "png")
+```
+
+
+
+```{r}
+temp <- energy %>%
+  filter(energy_type %in% c("Coal", "Wind"))
+
+energyIcons <- icons(
+  iconUrl = case_when(
+    temp$energy_type == "Nuclear" ~ "images/new_nuclear.png",
+    temp$energy_type == "Wind" ~ "images/new_wind.png",
+    temp$energy_type == "Hydroelectric" ~"images/new_water.png",
+    temp$energy_type == "Solar" ~ "images/new_sun.png",
+    temp$energy_type == "Geothermal" ~ "images/new_geothermal.png",
+    temp$energy_type == "Coal" ~ "images/new_coal.png",
+    temp$energy_type == "Natural_Gas" ~ "images/new_gas.png",
+    temp$energy_type == "Petroleum" ~ "images/new_petroleum.png"
+  ),
+  iconWidth = 10, iconHeight = 10,
+)
+
+
+Energy_map <- leaflet() %>%
+  addTiles()%>%
+  addMarkers(lng = temp$Longitude,
+                   lat = temp$Latitude, icon = energyIcons, popup = paste("Name: ",temp$Power_Plant_Name,"<br>",
+        "Location: ", temp$City, ",", temp$State, "<br>",
+        "Energy Produced: ", temp$Energy_Produced, "<br>",
+        "Energy Type: ", temp$energy_type )
+             )
+Energy_map
+```
+
+
+
+
+
+
+

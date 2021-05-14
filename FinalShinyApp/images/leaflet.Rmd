@@ -1,0 +1,36 @@
+---
+title: "Leaflet"
+author: "Graham Chickering"
+date: "5/3/2021"
+output: pdf_document
+---
+
+```{r, message=FALSE}
+library(leaflet)
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+```
+
+```{r, message= FALSE}
+energy<- read_csv("data/combined_energy_locations")
+```
+
+```{r}
+data_path<-file.path("..","images", "sun.png")
+sun_icon<-makeIcon(
+  iconUrl= "wind.png",
+  iconWidth = 40,
+  iconHeight =40,
+)
+```
+
+
+```{r}
+Energy_map <- leaflet(energy[1:20,]) %>%
+  addTiles()%>%
+  addMarkers(lng = ~Longitude,
+                   lat = ~Latitude, icon= sun_icon)
+Energy_map
+```
+
