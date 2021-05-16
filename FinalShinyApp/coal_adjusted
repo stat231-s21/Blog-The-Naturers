@@ -1,0 +1,290 @@
+Power_Plant_Name,City,County,State,Energy_Produced,Latitude,Longitude,energy_type
+Dolet Hills,Mansfield,DeSoto,Louisiana,642.5,32.030556,-93.569167,Coal
+Charles R Lowman,Leroy,Washington,Alabama,554,31.488019,-87.910747,Coal
+Platte,Grand Island,Hall,Nebraska,100,40.854765,-98.348222,Coal
+Whelan Energy Center,Hastings,Adams,Nebraska,309,40.580872,-98.312437,Coal
+Aurora Energy LLC Chena,Fairbanks,Fairbanks North Star,Alaska,25.7,64.847743,-147.735063,Coal
+Escalante,Prewitt,McKinley,New Mexico,253,35.4159,-108.082,Coal
+Holcomb,Holcomb,Finney,Kansas,358.8,37.9308,-100.9725,Coal
+Cholla,Joseph City,Navajo,Arizona,767,34.9394,-110.3033,Coal
+Oklaunion,Oklaunion,Wilbarger,Texas,650,34.0825,-99.1753,Coal
+Cross,Cross,Berkeley,South Carolina,2350,33.371506,-80.113235,Coal
+Seminole (FL),Palatka,Putnam,Florida,1309,29.733056,-81.632778,Coal
+Limestone,Jewett,Limestone,Texas,1689,31.4219,-96.2525,Coal
+Comanche (CO),Pueblo,Pueblo,Colorado,1410,38.2081,-104.57470000000001,Coal
+Martin Drake,Colorado Springs,El Paso,Colorado,208,38.824444,-104.833333,Coal
+Hayden,Hayden,Routt,Colorado,441,40.4856,-107.185,Coal
+Nucla,Nucla,Montrose,Colorado,100,38.2383,-108.5069,Coal
+Stanton Energy Center,Orlando,Orange,Florida,896,28.4822,-81.1678,Coal
+Indian River Generating Station,Dagsboro,Sussex,Delaware,410,38.5857,-75.2341,Coal
+Brandon Shores,Baltimore,Anne Arundel,Maryland,1273,39.18,-76.5389,Coal
+Crist,Pensacola,Escambia,Florida,924,30.5661,-87.2244,Coal
+Big Bend,Apollo Beach,Hillsborough,Florida,1602,27.7944,-82.4036,Coal
+Deerhaven Generating Station,Gainesville,Alachua,Florida,232,29.7592,-82.3878,Coal
+Northside Generating Station,Jacksonville,Duval,Florida,586,30.4172,-81.5525,Coal
+Bowen,Cartersville,Bartow,Georgia,3232,34.1256,-84.9222,Coal
+E D Edwards,Bartonville,Peoria,Illinois,560,40.5958,-89.6631,Coal
+Kincaid Generation LLC,Kincaid,Christian,Illinois,1108,39.590556,-89.496389,Coal
+Powerton,Pekin,Tazewell,Illinois,1538,40.5408,-89.6786,Coal
+Waukegan,Waukegan,Lake,Illinois,689,42.3833,-87.8133,Coal
+Will County,Romeoville,Will,Illinois,510,41.6334,-88.0629,Coal
+Joppa Steam,Joppa,Massac,Illinois,948,37.2094,-88.858889,Coal
+Baldwin Energy Complex,Baldwin,Randolph,Illinois,1778,38.205,-89.8544,Coal
+Dallman,Springfield,Sangamon,Illinois,534,39.754803,-89.602389,Coal
+Marion,Marion,Williamson,Illinois,290,37.619747,-88.953114,Coal
+Clifty Creek,Madison,Jefferson,Indiana,1173,38.7378,-85.4206,Coal
+AES Petersburg,Petersburg,Pike,Indiana,1701.5,38.5281,-87.2525,Coal
+Michigan City,Michigan City,LaPorte,Indiana,455,41.7208,-86.9086,Coal
+Cayuga,Cayuga,Vermillion,Indiana,995,39.9242,-87.4244,Coal
+Edwardsport,Edwardsport,Knox,Indiana,595,38.8067,-87.2472,Coal
+R Gallagher,New Albany,Floyd,Indiana,280,38.2636,-85.8381,Coal
+F B Culley,Newburgh,Warrick,Indiana,360,37.9111,-87.3275,Coal
+Crawfordsville Power Plant,Crawfordsville,Montgomery,Indiana,23.2,40.048889,-86.8992,Coal
+Whitewater Valley,RICHMOND,Wayne,Indiana,99.7,39.8028,-84.8953,Coal
+Lansing,Lansing,Allamakee,Iowa,247.8,43.3359,-91.1675,Coal
+Walter Scott Jr Energy Center,Council Bluffs,Pottawattamie,Iowa,1514.4,41.18,-95.8408,Coal
+George Neal North,Sergeant Bluff,Woodbury,Iowa,510.1,42.299794,-96.361707,Coal
+Burlington (IA),Burlington,Des Moines,Iowa,197.7,40.7412,-91.116667,Coal
+Muscatine Plant #1,Muscatine,Muscatine,Iowa,227.2,41.3917,-91.0569,Coal
+La Cygne,La Cygne,Linn,Kansas,1408,38.3481,-94.6456,Coal
+Lawrence Energy Center,Lawrence,Douglas,Kansas,484,39.0072,-95.269167,Coal
+Ghent,Ghent,Carroll,Kentucky,1919,38.7497,-85.035,Coal
+Mill Creek (KY),Louisville,Jefferson,Kentucky,1465,38.0525,-85.9103,Coal
+Elmer Smith,Owensboro,Daviess,Kentucky,399.8,37.7942,-87.0608,Coal
+Shawnee,West Paducah,McCracken,Kentucky,1206,37.1517,-88.775,Coal
+Kenneth C Coleman,Hawesville,Hancock,Kentucky,443,37.9631,-86.7911,Coal
+Cooper,Somerset,Pulaski,Kentucky,341,36.9981,-84.5919,Coal
+R S Nelson,Westlake,Calcasieu,Louisiana,550,30.2844,-93.2911,Coal
+Herbert A Wagner,Baltimore,Anne Arundel,Maryland,423,39.1781,-76.5268,Coal
+Dickerson,Dickerson,Montgomery,Maryland,519,39.2097,-77.4644,Coal
+Morgantown Generating Plant,Newburg,Charles,Maryland,1205,38.3592,-76.9767,Coal
+J H Campbell,West Olive,Ottawa,Michigan,1446,42.910296,-86.20074,Coal
+Monroe (MI),Monroe,Monroe,Michigan,3066,41.8906,-83.3464,Coal
+River Rouge,River Rouge,Wayne,Michigan,272,42.2739,-83.1119,Coal
+St Clair,East China Twp,St Clair,Michigan,1065,42.7642,-82.4719,Coal
+Trenton Channel,Trenton,Wayne,Michigan,495,42.1217,-83.1808,Coal
+J B Sims,Grand Haven,Ottawa,Michigan,69.1,43.0706,-86.235,Coal
+Eckert Station,Lansing,Ingham,Michigan,189.9,42.71839,-84.55808,Coal
+Erickson Station,Lansing,Eaton,Michigan,154.5,42.692222,-84.657222,Coal
+Clay Boswell,Cohasset,Itasca,Minnesota,947.8,47.2611,-93.6528,Coal
+Allen S King,Oak Park Heights,Washington,Minnesota,511,45.03,-92.7786,Coal
+Hoot Lake,Fergus Falls,Otter Tail,Minnesota,138,46.290641,-96.043252,Coal
+Hibbing,Hibbing,St Louis,Minnesota,30.5,47.4294,-92.935,Coal
+Asbury,Asbury,Jasper,Missouri,198,37.361315,-94.58926,Coal
+Hawthorn,Kansas City,Jackson,Missouri,564,39.1306,-94.4778,Coal
+Labadie,Labadie,Franklin,Missouri,2372,38.562244,-90.837686,Coal
+Meramec,St. Louis,St Louis,Missouri,594,38.4017,-90.3358,Coal
+Sioux,West Alton,St Charles,Missouri,974,38.915479,-90.290247,Coal
+New Madrid,New Madrid,New Madrid,Missouri,1154,36.5147,-89.5617,Coal
+Thomas Hill,Clifton Hill,Randolph,Missouri,1134,39.5522,-92.6381,Coal
+Lon Wright,Fremont,Dodge,Nebraska,118.5,41.4281,-96.4623,Coal
+Sheldon,Hallam,Lancaster,Nebraska,219,40.5589,-96.7847,Coal
+North Omaha,Omaha,Douglas,Nebraska,336.3,41.32909,-95.94466,Coal
+Merrimack,Bow,Merrimack,New Hampshire,438.5,43.1411,-71.4692,Coal
+Schiller,Portsmouth,Rockingham,New Hampshire,95.4,43.0978,-70.7842,Coal
+Four Corners,Fruitland,San Juan,New Mexico,1540,36.69,-108.4814,Coal
+San Juan,Waterflow,San Juan,New Mexico,847,36.8006,-108.4386,Coal
+Cayuga Operating Company,Lansing,Tompkins,New York,293.5,42.6028,-76.6336,Coal
+Dunkirk Generating Plant,Dunkirk,Chautauqua,New York,520,42.491467,-79.346631,Coal
+Roxboro,Semora,Person,North Carolina,2439,36.4833,-79.0731,Coal
+G G Allen,Belmont,Gaston,North Carolina,1098,35.1897,-81.012200000000007,Coal
+James E. Rogers Energy Complex,Cliffside,Cleveland,North Carolina,1388,35.22,-81.7594,Coal
+Marshall (NC),Terrell,Catawba,North Carolina,2058,35.5975,-80.9658,Coal
+R M Heskett,Mandan,Morton,North Dakota,104.3,46.8669,-100.8836,Coal
+Leland Olds,Stanton,Mercer,North Dakota,667,47.280769,-101.321213,Coal
+Milton R Young,Center,Oliver,North Dakota,684,47.065854,-101.213093,Coal
+Cardinal,Brillant,Jefferson,Ohio,1790,40.2522,-80.6486,Coal
+Miami Fort,North Bend,Hamilton,Ohio,1020,39.1128,-84.8036,Coal
+Avon Lake,Avon Lake,Lorain,Ohio,615,41.504453,-82.054619,Coal
+Conesville,Conesville,Coshocton,Ohio,780,40.1842,-81.8811,Coal
+FirstEnergy W H Sammis,Stratton,Jefferson,Ohio,2210,40.5317,-80.6319,Coal
+Kyger Creek,Cheshire,Gallia,Ohio,962.8,38.9144,-82.1289,Coal
+Dover,Dover,Tuscarawas,Ohio,23.2,40.520066,-81.46815,Coal
+Orrville,Orrville,Wayne,Ohio,55.5,40.850964,-81.765764,Coal
+Painesville,Painesville,Lake,Ohio,47,41.7265,-81.254,Coal
+Conemaugh,New Florence,Indiana,Pennsylvania,1700,40.3842,-79.0611,Coal
+Homer City Generating Station,Homer City,Indiana,Pennsylvania,1895,40.512825,-79.196107,Coal
+Seward (PA),New Florence,Indiana,Pennsylvania,521,40.40625,-79.03366,Coal
+Keystone,Shelocta,Armstrong,Pennsylvania,1700,40.6604,-79.3411,Coal
+Brunner Island,York Haven,York,Pennsylvania,742,40.096111,-76.6962,Coal
+TalenEnergy Montour,Washingtonville,Montour,Pennsylvania,1504,41.0714,-76.6672,Coal
+Wateree,Eastover,Richland,South Carolina,684,33.8264,-80.6228,Coal
+Williams,Goose Creek,Berkeley,South Carolina,605,33.0158,-79.9297,Coal
+Bull Run,Clinton,Anderson,Tennessee,870,36.0211,-84.1567,Coal
+Cumberland (TN),Cumberland City,Stewart,Tennessee,2470,36.3903,-87.6539,Coal
+Gallatin (TN),Gallatin,Sumner,Tennessee,976,36.3156,-86.4006,Coal
+Kingston,Kingston,Roane,Tennessee,1398,35.8992,-84.5194,Coal
+W A Parish,Thompsons,Fort Bend,Texas,2499,29.4828,-95.6311,Coal
+Chesterfield,Chester,Chesterfield,Virginia,1006,37.3822,-77.3833,Coal
+Transalta Centralia Generation,Centralia,Lewis,Washington,1340,46.755938,-122.859764,Coal
+John E Amos,St Albans,Putnam,West Virginia,2900,38.4731,-81.8233,Coal
+FirstEnergy Fort Martin Power Station,Maidsville,Monongalia,West Virginia,1098,39.710833,-79.9275,Coal
+FirstEnergy Harrison Power Station,Haywood,Harrison,West Virginia,1954,39.384167,-80.3325,Coal
+Mitchell (WV),Captina,Marshall,West Virginia,1560,39.8297,-80.8153,Coal
+Mt Storm,Mount Storm,Grant,West Virginia,1629,39.2008,-79.2636,Coal
+South Oak Creek,Oak Creek,Milwaukee,Wisconsin,1096.7,42.8457,-87.8294,Coal
+Edgewater,Sheboygan,Sheboygan,Wisconsin,413.6,43.715142,-87.705863,Coal
+Weston,Rothschild,Marathon,Wisconsin,878.9,44.8606,-89.6553,Coal
+Genoa,Genoa,Vernon,Wisconsin,307.5,43.5589,-91.2325,Coal
+Dave Johnston,Glen Rock,Converse,Wyoming,760,42.8378,-105.7769,Coal
+Naughton,Kemmerer,Lincoln,Wyoming,687,41.7581,-110.5983,Coal
+John P Madgett,Alma,Buffalo,Wisconsin,389.8,44.303583,-91.912647,Coal
+James H Miller Jr,Quinton,Jefferson,Alabama,2779.8,33.6319,-87.0597,Coal
+FirstEnergy Pleasants Power Station,Willow Island,Pleasants,West Virginia,1288,39.366667,-81.294444,Coal
+White Bluff,Redfield,Jefferson,Arkansas,1636.7,34.4228,-92.1406,Coal
+Newton,Newton,Jasper,Illinois,595,38.9361,-88.2781,Coal
+East Bend,Union,Boone,Kentucky,600,38.9036,-84.8514,Coal
+W H Zimmer,Moscow,Clermont,Ohio,1305,38.8675,-84.2289,Coal
+Craig (CO),Craig,Moffat,Colorado,1285,40.4627,-107.5912,Coal
+Coal Creek,Underwood,McLean,North Dakota,1146.5,47.377743,-101.157058,Coal
+Belle River,China Twp,St Clair,Michigan,1270,42.7756,-82.495,Coal
+H L Spurlock,Maysville,Mason,Kentucky,1346,38.7,-83.8181,Coal
+Wansley,Roopville,Heard,Georgia,1744,33.41342,-85.032329,Coal
+Big Cajun 2,New Roads,Pointe Coupee,Louisiana,1148,30.7261,-91.3692,Coal
+Nearman Creek,Kansas,Wyandotte,Kansas,240,39.1681,-94.6975,Coal
+Iatan,Weston,Platte,Missouri,1597.5,39.4472,-94.98,Coal
+Jeffrey Energy Center,St. Mary's,Pottawatomie,Kansas,2189,39.286453,-96.117231,Coal
+Trimble County,Bedford,Trimble,Kentucky,1243,38.5847,-85.4117,Coal
+Colstrip,Colstrip,Rosebud,Montana,1480,45.8831,-106.614,Coal
+Gerald Gentleman,Sutherland,Lincoln,Nebraska,1365,41.0808,-101.1408,Coal
+Somerset Operating Co LLC,Barker,Niagara,New York,685.9,43.358889,-78.604722,Coal
+R M Schahfer,Wheatfield,Jasper,Indiana,1625,41.2164,-87.0261,Coal
+Lewis & Clark,Richland,Richland,Montana,53.1,47.6785,-104.15665,Coal
+Sherburne County,Becker,Sherburne,Minnesota,2238,45.3808,-93.8931,Coal
+Sooner,Red Rock,Noble,Oklahoma,1040,36.45307,-97.05279,Coal
+Nebraska City,Nebraska City,Otoe,Nebraska,1345.3,40.6214,-95.7764,Coal
+Big Stone,Big Stone City,Grant,South Dakota,474,45.303652,-96.510067,Coal
+Wyodak,Gillette,Campbell,Wyoming,332,44.290128,-105.381482,Coal
+Boardman,Boardman,Morrow,Oregon,585,45.693182,-119.808819,Coal
+Gibson,Owensville,Gibson,Indiana,3132,38.372222,-87.765833,Coal
+A B Brown,Mount Vernon,Posey,Indiana,490,37.9053,-87.715,Coal
+Flint Creek,Gentry,Benton,Arkansas,528,36.256100000000004,-94.5241,Coal
+Welsh,Pittsburg,Titus,Texas,1056,33.05522,-94.839993,Coal
+Martin Lake,Tatum,Rusk,Texas,2410,32.2606,-94.5706,Coal
+Rush Island,Festus,Jefferson,Missouri,1178,38.131248,-90.263157,Coal
+Hunter,Castle Dale,Emery,Utah,1361,39.1747,-111.0289,Coal
+Rockport,Rockport,Spencer,Indiana,2600,37.9256,-87.0372,Coal
+Coronado,St Johns,Apache,Arizona,762,34.5789,-109.2708,Coal
+Coleto Creek,Fannin,Goliad,Texas,655,28.7128,-97.214167,Coal
+Fayette Power Project,La Grange,Fayette,Texas,1615,29.9172,-96.7506,Coal
+Oak Grove (TX),Franklin,Robertson,Texas,1710,31.1803,-96.4866,Coal
+J T Deely,San Antonio,Bexar,Texas,840,29.308056,-98.3228,Coal
+San Miguel,Christine,Atascosa,Texas,391,28.7044,-98.4775,Coal
+Harrington,Amarillo,Potter,Texas,1018,35.29816,-101.747187,Coal
+Tolk,Muleshoe,Lamb,Texas,1067,34.186494,-102.56999,Coal
+John Twitty Energy Center,Springfield,Greene,Missouri,459,37.151706,-93.38804,Coal
+Laramie River Station,Wheatland,Platte,Wyoming,1710,42.108889,-104.8825,Coal
+Merom,Sullivan,Sullivan,Indiana,991,39.0694,-87.5108,Coal
+Pawnee,Brush,Morgan,Colorado,505,40.2217,-103.6803,Coal
+Winyah,Georgetown,Georgetown,South Carolina,1130,33.33184,-79.357236,Coal
+Mayo,Roxboro,Person,North Carolina,727,36.5278,-78.8917,Coal
+Ottumwa,Ottumwa,Wapello,Iowa,725.4,41.0961,-92.555833,Coal
+Scherer,Juliette,Monroe,Georgia,3440,33.0606,-83.8075,Coal
+Mountaineer,New Haven,Mason,West Virginia,1299,38.9794,-81.9344,Coal
+Healy,Healy,Denali,Alaska,75,63.8542,-148.95,Coal
+Antelope Valley,Beulah,Mercer,North Dakota,900,47.370542,-101.83566,Coal
+Intermountain Power Project,Delta,Millard,Utah,1800,39.509731,-112.58018,Coal
+R D Green,Robards,Webster,Kentucky,454,37.6461,-87.5,Coal
+Independence Steam Electric Station,Newark,Independence,Arkansas,1651.4,35.678442,-91.408761,Coal
+Louisa,Muscatine,Louisa,Iowa,748.8,41.3181,-91.0931,Coal
+Warrick,Newburgh,Warrick,Indiana,708.9,37.915,-87.3328,Coal
+Sikeston Power Station,Sikeston,Scott,Missouri,240,36.8791,-89.6209,Coal
+Hugo,Fort Towson,Choctaw,Oklahoma,440,34.0158,-95.3206,Coal
+D B Wilson,Centertown,Ohio,Kentucky,417,37.4497,-87.0806,Coal
+Major Oak Power,Bremond,Robertson,Texas,305,31.091925,-96.69503,Coal
+J K Spruce,San Antonio,Bexar,Texas,1345,29.309722,-98.3203,Coal
+Cope,Cope,Orangeburg,South Carolina,415,33.3644,-81.03,Coal
+Clover,Clover,Halifax,Virginia,877,36.869,-78.704,Coal
+George Neal South,Salix,Woodbury,Iowa,643.6,42.3006,-96.3617,Coal
+Neil Simpson II,Gillette,Campbell,Wyoming,80,44.2856,-105.3833,Coal
+Bonanza,Vernal,Uintah,Utah,458,40.0864,-109.2844,Coal
+Pirkey,Hallsville,Harrison,Texas,675,32.4607,-94.4852,Coal
+Columbia (WI),Pardeville,Columbia,Wisconsin,1137.4,43.4864,-89.4203,Coal
+Belews Creek,Belews Creek,Stokes,North Carolina,2220,36.2811,-80.0603,Coal
+Jim Bridger,Point of Rocks,Sweetwater,Wyoming,2111,41.7378,-108.7875,Coal
+Huntington,Huntington,Emery,Utah,909,39.3792,-111.0781,Coal
+"Gavin Power, LLC",Cheshire,Gallia,Ohio,2680,38.9347,-82.1158,Coal
+Ray D Nixon,Fountain,El Paso,Colorado,208,38.633451,-104.70577,Coal
+Coyote,Beulah,Mercer,North Dakota,429,47.221447,-101.815722,Coal
+Springerville,Springerville,Apache,Arizona,1625,34.318600000000004,-109.1639,Coal
+North Valmy,Valmy,Humboldt,Nevada,522,40.881317,-117.151605,Coal
+Cheswick Power Plant,Cheswick,Allegheny,Pennsylvania,565,40.5383,-79.7906,Coal
+"RED-Rochester, LLC",Rochester,Monroe,New York,132.1,43.1989,-77.6319,Coal
+Logan Generating Plant,Swedesboro,Gloucester,New Jersey,219,39.7928,-75.406667,Coal
+Taconite Harbor Energy Center,Schroeder,Cook,Minnesota,154.9,47.5314,-90.9114,Coal
+John B Rich Memorial Power Station,Frackville,Schuylkill,Pennsylvania,80,40.7903,-76.1983,Coal
+Colver Power Project,Colver,Cambria,Pennsylvania,110,40.55,-78.8,Coal
+Grant Town Power Plant,Grant Town,Marion,West Virginia,80,39.561831,-80.163138,Coal
+Biron Mill,Wisconsin Rapids,Wood,Wisconsin,35.3,44.43,-89.78,Coal
+Foster Wheeler Mt Carmel Cogen,Marion Heights,Northumberland,Pennsylvania,43,40.811189,-76.452951,Coal
+Amalgamated Sugar Twin Falls,Twin Falls,Twin Falls,Idaho,8.5,42.5328,-114.4328,Coal
+Chambers Cogeneration LP,Carneys Point,Salem,New Jersey,244,39.693494,-75.485811,Coal
+Ebensburg Power,Ebensburg,Cambria,Pennsylvania,50,40.455,-78.7472,Coal
+River Valley,Panama,Le Flore,Oklahoma,320,35.1931,-94.6458,Coal
+AES Hawaii,Kapolei,Honolulu,Hawaii,180,21.303419,-158.106528,Coal
+AES Warrior Run Cogeneration Facility,Cumberland,Allegany,Maryland,180,39.595171,-78.745333,Coal
+Argus Cogen Plant,Trona,San Bernardino,California,57,35.765,-117.3833,Coal
+Morgantown Energy Facility,Morgantown,Monongalia,West Virginia,50,39.6397,-79.960556,Coal
+Colstrip Energy LP,Colstrip,Rosebud,Montana,38,45.9752,-106.6547,Coal
+Silver Bay Power,Silver Bay,Lake,Minnesota,105,47.286573,-91.260531,Coal
+Archer Daniels Midland Clinton,Clinton,Clinton,Iowa,180,41.8206,-90.2097,Coal
+Archer Daniels Midland Des Moines,Des Moines,Polk,Iowa,7.9,41.624438,-93.584515,Coal
+Archer Daniels Midland Lincoln,Lincoln,Lancaster,Nebraska,7.9,40.866463,-96.614486,Coal
+Archer Daniels Midland Mankato,Mankato,Blue Earth,Minnesota,6.2,44.187066,-93.99242,Coal
+Archer Daniels Midland Cedar Rapids,Cedar Rapids,Linn,Iowa,260,41.9221,-91.6875,Coal
+Archer Daniels Midland Decatur,Decatur,Macon,Illinois,335,39.870074,-88.890756,Coal
+Tate & Lyle Decatur Plant Cogen,Decatur,Macon,Illinois,62,39.84919,-88.931944,Coal
+Canton North Carolina,Canton,Haywood,North Carolina,52.5,35.535,-82.8411,Coal
+Utility Plants Section,Fort Wainwright,Fairbanks North Star,Alaska,23,64.825601,-147.648627,Coal
+University of Notre Dame,Notre Dame,St Joseph,Indiana,16.4,41.7094,-86.2367,Coal
+Eielson AFB Central Heat & Power Plant,Eielson AFB,Fairbanks North Star,Alaska,20,64.67141,-147.075988,Coal
+Pixelle Specialty Solutions LLC - Spring Grove Facility,Spring Grove,York,Pennsylvania,36.1,39.870935,-76.868117,Coal
+Tennessee Eastman Operations,Kingsport,Sullivan,Tennessee,131.3,36.5219,-82.5431,Coal
+Westwood Generation LLC,Tremont,Schuylkill,Pennsylvania,30,40.6191,-76.45,Coal
+University of Alaska Fairbanks,Fairbanks,Fairbanks North Star,Alaska,9.1,64.854171,-147.822075,Coal
+Panther Creek Energy Facility,Nesquehoning,Carbon,Pennsylvania,83,40.8556,-75.8781,Coal
+TES Filer City Station,Filer City,Manistee,Michigan,60,44.217299,-86.28905,Coal
+Wheelabrator Frackville Energy,Frackville,Schuylkill,Pennsylvania,42.5,40.782377,-76.176184,Coal
+Northampton Generating Company LP,Northampton,Northampton,Pennsylvania,112,40.6917,-75.4792,Coal
+Sunnyside Cogen Associates,Sunnyside,Carbon,Utah,51,39.5472,-110.3917,Coal
+Scrubgrass Generating Plant,Kennerdell,Venango,Pennsylvania,84.6,41.2691,-79.8134,Coal
+Indiantown Cogeneration LP,Indiantown,Martin,Florida,330,27.0389,-80.5125,Coal
+Iowa State University,Ames,Story,Iowa,46.2,42.0275,-93.6394,Coal
+American Crystal Sugar Hillsboro,Hillsboro,Traill,North Dakota,13.3,47.437562,-97.06311,Coal
+American Crystal Sugar Moorhead,Moorhead,Clay,Minnesota,5,46.9026,-96.76112,Coal
+American Crystal Sugar Crookston,Crookston,Polk,Minnesota,6.5,47.76468,-96.633375,Coal
+American Crystal Sugar Drayton,Drayton,Pembina,North Dakota,6,48.593158,-97.17608,Coal
+American Crystal Sugar East Grand Forks,East Grand Forks,Polk,Minnesota,7.5,47.927202,-97.007153,Coal
+Univ of NC Chapel Hill Cogen Facility,Chapel Hill,Orange,North Carolina,28.7,35.9069,-79.0617,Coal
+Birchwood Power,King George,King George,Virginia,237.9,38.2667,-77.3147,Coal
+General Chemical,Green River,Sweetwater,Wyoming,30,41.5933,-109.7542,Coal
+Southern Minnesota Beet Sugar,Renville,Renville,Minnesota,7.5,44.796405,-95.179787,Coal
+Ingredion Incorporated,Bedford Park,Cook,Illinois,42.2,41.7775,-87.8233,Coal
+St Nicholas Cogen Project,Shenandoah,Schuylkill,Pennsylvania,86,40.8222,-76.1736,Coal
+University of Iowa Main Power Plant,Iowa City,Johnson,Iowa,21,41.6572,-91.54,Coal
+Neenah Paper Munising Mill,Munising,Alger,Michigan,5.8,46.4094,-86.6443,Coal
+Red Hills Generating Facility,Ackerman,Choctaw,Mississippi,440,33.3761,-89.2183,Coal
+Wygen 1,Gillette,Campbell,Wyoming,85,44.2858,-105.3833,Coal
+Hardin Generator Project,Hardin,Big Horn,Montana,107,45.7578,-107.6,Coal
+Prairie State Generating Station,Marissa,St Clair,Illinois,1630,38.279167,-89.666944,Coal
+Elm Road Generating Station,Oak Creek,Milwaukee,Wisconsin,1263.3,42.8492,-87.8336,Coal
+TS Power Plant,Battle Mountain,Eureka,Nevada,218.4,40.7461,-116.5297,Coal
+Wygen 2,Gillette,Campbell,Wyoming,90,44.2919,-105.3811,Coal
+Plum Point Energy Station,Osceola,Mississippi,Arkansas,680,35.6644,-89.9489,Coal
+John W Turk Jr Power Plant,Fulton,Hempstead,Arkansas,650,33.649722,-93.811944,Coal
+Wygen III,Gillette,Campbell,Wyoming,100,44.2919,-105.3806,Coal
+Dry Fork Station,Gillette,Campbell,Wyoming,380,44.388889,-105.460833,Coal
+Sandy Creek Energy Station,Riesel,McLennan,Texas,932.6,31.474378,-96.957149,Coal
+Longview Power Plant,Maidsville,Monongalia,West Virginia,710,39.707893,-79.958974,Coal
+Spiritwood Station,Spiritwood,Stutsman,North Dakota,92.3,46.926423,-98.499713,Coal
+Virginia City Hybrid Energy Center,St. Paul,Wise,Virginia,610,36.916389,-82.338055,Coal
+Archer Daniels Midland Columbus,Columbus,Platte,Nebraska,61,41.416442,-97.286328,Coal
+Sidney MT Plant,Sidney,Richland,Montana,4,47.717222,-104.135556,Coal
+Genesis Alkali,Green River,Sweetwater,Wyoming,41,41.621667,-109.811944,Coal
+SIUC,Carbondale,Jackson,Illinois,2.8,37.711944,-89.215,Coal
+Western Sugar Coop - Scottsbluff,Scottsbluff,Scotts Bluff,Nebraska,5,41.85887,-103.63438,Coal
+Wausau Paper Middletown,Middletown,Butler,Ohio,7.5,39.519989,-84.406153,Coal
+MSC Sebewaing,Sebewaing,Huron,Michigan,0,43.741111,-83.447222,Coal
+Western Sugar Coop- Ft Morgan,Fort Morgan,Morgan,Colorado,3,40.263,-103.8069,Coal
+AES Puerto Rico,Guayama,Guayama,Puerto Rico,454.4,17.947115,-66.149897,Coal
+Western Sugar Cooperative - Billings,Billings,Yellowstone,Montana,1.5,45.765346,-108.499232,Coal
