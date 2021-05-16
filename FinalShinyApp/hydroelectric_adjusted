@@ -1,0 +1,1418 @@
+Power_Plant_Name,City,County,State,Energy_Produced,Latitude,Longitude,energy_type
+Bankhead Dam,Northport,Tuscaloosa,Alabama,53,33.458665,-87.356823,Hydroelectric
+Walter Bouldin Dam,Wetumpka,Elmore,Alabama,224.1,32.583889,-86.283056,Hydroelectric
+H Neely Henry Dam,Ohatchee,Calhoun,Alabama,71.1,33.7845,-86.0524,Hydroelectric
+Holt Dam,Tuscaloosa,Tuscaloosa,Alabama,48,33.2553,-87.4495,Hydroelectric
+Jordan Dam,Wetumpka,Elmore,Alabama,129.2,32.6189,-86.2548,Hydroelectric
+Logan Martin Dam,Vincent,Talladega,Alabama,129,33.425878,-86.337547,Hydroelectric
+Lay Dam,Clanton,Chilton,Alabama,180,32.9633,-86.5187,Hydroelectric
+Martin Dam,Dadeville,Elmore,Alabama,182.1,32.680394,-85.911442,Hydroelectric
+Mitchell Dam,Verbena,Coosa,Alabama,163.1,32.806025,-86.444892,Hydroelectric
+Lewis Smith Dam,Jasper,Walker,Alabama,178,33.9406,-87.1077,Hydroelectric
+Thurlow Dam,Tallassee,Elmore,Alabama,79.9,32.535436,-85.887614,Hydroelectric
+Weiss Dam,Leesburg,Cherokee,Alabama,81,34.172142,-85.753806,Hydroelectric
+Yates Dam,Tallassee,Elmore,Alabama,44,32.5743,-85.8901,Hydroelectric
+Rollins,Colfax,Placer,California,12.1,39.134259,-120.953341,Hydroelectric
+Millers Ferry,Camden,Wilcox,Alabama,90,32.100881,-87.399767,Hydroelectric
+Guntersville,Guntersville,Marshall,Alabama,122.7,34.421272,-86.393931,Hydroelectric
+Wheeler Dam,Town Creek,Lawrence,Alabama,398.2,34.8069,-87.3819,Hydroelectric
+Gantt,Andalusia,Covington,Alabama,2.8,31.4033,-86.479469,Hydroelectric
+Point A,Andalusia,Covington,Alabama,5.4,31.361146,-86.518307,Hydroelectric
+Annex Creek,Juneau,Juneau,Alaska,3.6,58.3176,-134.101,Hydroelectric
+Salmon Creek 1,Juneau,Juneau,Alaska,5.2,58.3269,-134.4631,Hydroelectric
+Swan Lake,Ketchikan,Ketchikan Gateway,Alaska,22.6,55.615208,-131.356111,Hydroelectric
+Terror Lake Microgrid,Kodiak,Kodiak Island,Alaska,33.6,57.6861,-152.895,Hydroelectric
+Venice Hydro,Culver City,Los Angeles,California,10.1,34.01135,-118.4168,Hydroelectric
+Eklutna Hydro Project,Palmer,Matanuska Susitna,Alaska,44.4,61.475211,-149.15009,Hydroelectric
+Snettisham,Juneau,Juneau,Alaska,78,58.1415,-133.737,Hydroelectric
+Ketchikan,Ketchikan,Ketchikan Gateway,Alaska,4.2,55.344641,-131.633425,Hydroelectric
+Ashokan,Kingston,Ulster,New York,4.6,41.949,-74.2063,Hydroelectric
+Blue Lake Hydro,Sitka,Sitka,Alaska,15.9,57.0516,-135.2297,Hydroelectric
+South Consolidated,Phoenix,Maricopa,Arizona,1.4,33.466477,-111.781064,Hydroelectric
+Crosscut,Tempe,Maricopa,Arizona,3,33.439375,-111.946052,Hydroelectric
+Roosevelt,Roosevelt,Maricopa,Arizona,36,33.671104,-111.161786,Hydroelectric
+Stewart Mountain,Phoenix,Maricopa,Arizona,13,33.5661,-111.536,Hydroelectric
+Davis Dam,Kingman,Mohave,Arizona,254.8,35.197044,-114.570669,Hydroelectric
+Glen Canyon Dam,Page,Coconino,Arizona,1312,36.936614,-111.483872,Hydroelectric
+Hoover Dam (NV),Boulder City,Clark,Nevada,1039.4,36.01551,-114.738006,Hydroelectric
+Lake Creek Dam,Heber City,Wasatch,Utah,1,40.493631,-111.312506,Hydroelectric
+Turlock Lake,Hickman,Stanislaus,California,3.3,37.611461,-120.594678,Hydroelectric
+Hickman,Hickman,Stanislaus,California,1,37.621536,-120.746247,Hydroelectric
+Carpenter,Hot Springs,Garland,Arkansas,61.7,34.4425,-93.0262,Hydroelectric
+Remmel,Malvern,Hot Spring,Arkansas,11.4,34.4272,-92.8941,Hydroelectric
+Volta 2,Manton,Shasta,California,0.9,40.45193,-121.86215,Hydroelectric
+Beaver Dam,Eureka Springs,Carroll,Arkansas,128.8,36.421507,-93.847373,Hydroelectric
+Degray,Arkadelphia,Clark,Arkansas,40,34.211913,-93.110963,Hydroelectric
+Greers Ferry Lake,Heber Springs,Cleburne,Arkansas,90,35.5207,-91.9953,Hydroelectric
+Narrows (AR),Murfreesboro,Pike,Arkansas,29.1,34.148427,-93.715168,Hydroelectric
+Norfork,Salesville,Baxter,Arkansas,80,36.2491,-92.2401,Hydroelectric
+Blakely Mountain,Royal,Garland,Arkansas,75,34.570984,-93.194425,Hydroelectric
+Bull Shoals,Mountain Home,Marion,Arkansas,370,36.3635,-92.5763,Hydroelectric
+Dardanelle,Dardanelle,Pope,Arkansas,140,35.2503,-93.1686,Hydroelectric
+Alta Powerhouse,Alta,Placer,California,1,39.215979,-120.80355,Hydroelectric
+Angels,Angels Camp,Calaveras,California,0.7,38.071944,-120.539444,Hydroelectric
+Balch 1,Balch Camp,Fresno,California,34,36.909137,-119.087712,Hydroelectric
+Balch 2,Balch Camp,Fresno,California,105,36.908907,-119.087556,Hydroelectric
+Belden,Belden,Plumas,California,125,40.007445,-121.249438,Hydroelectric
+Bucks Creek,Storrie,Plumas,California,65,39.91062,-121.327692,Hydroelectric
+Butt Valley,Belden,Plumas,California,41,40.175656,-121.190663,Hydroelectric
+Caribou 1,Belden,Plumas,California,75,40.085476,-121.148241,Hydroelectric
+Caribou 2,Belden,Plumas,California,120,40.085997,-121.149373,Hydroelectric
+Centerville PH,Chico,Butte,California,6.4,39.788877,-121.657383,Hydroelectric
+Chili Bar,Placerville,El Dorado,California,7,38.771764,-120.813239,Hydroelectric
+Coleman PH,Anderson,Shasta,California,13,40.404645,-122.121904,Hydroelectric
+Cow Creek,Millville,Shasta,California,1.8,40.570817,-122.02093,Hydroelectric
+Cresta,Storrie,Butte,California,70,39.825907,-121.409687,Hydroelectric
+De Sabla,Magalia,Butte,California,18.5,39.869265,-121.631819,Hydroelectric
+Deer Creek PH,Nevada City,Nevada,California,5.7,39.29807,-120.8443,Hydroelectric
+Drum 1,Alta,Placer,California,54,39.256873,-120.767437,Hydroelectric
+Drum 2,Alta,Placer,California,49.5,39.257388,-120.767046,Hydroelectric
+Dutch Flat,Alta,Placer,California,22,39.216985,-120.835587,Hydroelectric
+El Dorado,Pollock Pines,El Dorado,California,20.8,38.793574,-120.619152,Hydroelectric
+Electra,Jackson,Amador,California,98,38.330985,-120.669901,Hydroelectric
+Haas,Balch Camp,Fresno,California,144,36.927424,-119.02025,Hydroelectric
+Halsey,Auburn,Placer,California,11,38.956985,-121.041932,Hydroelectric
+Hamilton Branch,Peninsula Village,Plumas,California,4.8,40.268712,-121.089479,Hydroelectric
+Hat Creek 1,Burney,Shasta,California,8.5,40.929297,-121.544462,Hydroelectric
+Hat Creek 2,Burney,Shasta,California,8.5,40.960675,-121.548657,Hydroelectric
+Inskip,Manton,Tehama,California,8,40.400988,-121.965502,Hydroelectric
+James B Black,Big Bend,Shasta,California,172,40.992295,-121.975182,Hydroelectric
+Kerckhoff,Auberry,Fresno,California,25.2,37.092486,-119.552826,Hydroelectric
+Kilarc,Whitmore,Shasta,California,3.2,40.677827,-121.873253,Hydroelectric
+Kings River PH,Balch Camp,Fresno,California,52,36.888166,-119.158777,Hydroelectric
+Lime Saddle,Oroville,Butte,California,2,39.698755,-121.57096,Hydroelectric
+Merced Falls,Snelling,Merced,California,3.5,37.52301,-120.329905,Hydroelectric
+Murphys,Murphys,Calaveras,California,1.7,38.147093,-120.446396,Hydroelectric
+Narrows PH,Grass Valley,Nevada,California,12,39.2364,-121.271741,Hydroelectric
+Phoenix,Sonora,Tuolumne,California,2,38.032103,-120.326537,Hydroelectric
+Pit 1,Burney,Shasta,California,61,40.99084,-121.498243,Hydroelectric
+Pit 3,Burney,Shasta,California,69.9,40.997448,-121.748139,Hydroelectric
+Pit 4,Big Bend,Shasta,California,95,40.986361,-121.84944,Hydroelectric
+Pit 5,Big Bend,Shasta,California,160,40.986197,-121.977594,Hydroelectric
+Pit 6,Montgomery Creek,Shasta,California,80,40.922568,-121.992906,Hydroelectric
+Pit 7,Montgomery Creek,Shasta,California,113,40.847462,-121.990798,Hydroelectric
+Poe,Storrie,Butte,California,120,39.722892,-121.469814,Hydroelectric
+Potter Valley,Potter Valley,Mendocino,California,9.2,39.361786,-123.127934,Hydroelectric
+Rock Creek,Storrie,Plumas,California,126,39.90521,-121.345226,Hydroelectric
+San Joaquin 2,North Fork,Madera,California,3.2,37.203233,-119.497508,Hydroelectric
+San Joaquin 3,North Fork,Madera,California,4.2,37.253718,-119.519352,Hydroelectric
+Salt Springs,Pioneer,Amador,California,44,38.497914,-120.21811,Hydroelectric
+South,Manton,Tehama,California,7,40.395396,-121.879186,Hydroelectric
+Spaulding 1,Emigrant Gap,Nevada,California,7,39.324613,-120.644807,Hydroelectric
+Spaulding 2,Emigrant Gap,Nevada,California,4.4,39.324592,-120.645375,Hydroelectric
+Spaulding 3,Emigrant Gap,Nevada,California,5.8,39.337679,-120.635467,Hydroelectric
+Spring Gap,Long Barn,Tuolumne,California,7,38.18653,-120.11168,Hydroelectric
+Stanislaus,Vallecito,Tuolumne,California,91,38.139048,-120.370325,Hydroelectric
+Tiger Creek,Pioneer,Amador,California,58,38.449291,-120.492645,Hydroelectric
+Tule River,Springville,Tulare,California,6.4,36.163076,-118.707104,Hydroelectric
+Volta 1,Manton,Shasta,California,9,40.459111,-121.86708,Hydroelectric
+West Point PH,Pioneer,Amador,California,14.5,38.420898,-120.549572,Hydroelectric
+Wise,Auburn,Placer,California,17.2,38.889862,-121.098525,Hydroelectric
+A G Wishon,North Fork,Madera,California,20,37.15105,-119.504724,Hydroelectric
+Copco 1,Hornbrook,Siskiyou,California,28,41.978914,-122.335317,Hydroelectric
+Copco 2,Hornbrook,Siskiyou,California,34,41.975716,-122.358127,Hydroelectric
+Fall Creek,Hornbrook,Siskiyou,California,1.9,41.985605,-122.360455,Hydroelectric
+Iron Gate,Hornbrook,Siskiyou,California,18.8,41.932981,-122.43678,Hydroelectric
+Green Lake,Sitka,Sitka,Alaska,18.6,56.986284,-135.12275,Hydroelectric
+Drop 5,Calexico,Imperial,California,3.8,32.673097,-115.392026,Hydroelectric
+Sepulveda Canyon,Los Angeles,Los Angeles,California,8.5,34.0969,-118.4795,Hydroelectric
+Big Creek 1,Big Creek,Fresno,California,88.4,37.2042,-119.2396,Hydroelectric
+Big Creek 2,Auberry,Fresno,California,66.6,37.2,-119.3069,Hydroelectric
+Big Creek 3,Auberry,Fresno,California,173.5,37.148517,-119.386623,Hydroelectric
+Big Creek 4,North Fork,Madera,California,100,37.139,-119.4898,Hydroelectric
+Big Creek 8,Auberry,Fresno,California,70.8,37.2096,-119.3289,Hydroelectric
+Big Creek 2A,Auberry,Fresno,California,100,37.200062,-119.30681,Hydroelectric
+Bishop Creek 2,Bishop,Inyo,California,7.3,37.273581,-118.573339,Hydroelectric
+Bishop Creek 3,Bishop,Inyo,California,8.4,37.301962,-118.531957,Hydroelectric
+Bishop Creek 4,Bishop,Inyo,California,8.2,37.323035,-118.501714,Hydroelectric
+Bishop Creek 5,Bishop,Inyo,California,3.8,37.3344,-118.4797,Hydroelectric
+Bishop Creek 6,Bishop,Inyo,California,1.6,37.3499,-118.4628,Hydroelectric
+Borel,Lake Isabella,Kern,California,10.6,35.588069,-118.524804,Hydroelectric
+Fontana,Rialto,San Bernardino,California,3,34.155162,-117.397119,Hydroelectric
+Kaweah 2,Three Rivers,Tulare,California,1.8,36.461326,-118.87988,Hydroelectric
+Kaweah 1,Three Rivers,Tulare,California,2.3,36.465066,-118.862023,Hydroelectric
+Kaweah 3,Three Rivers,Tulare,California,4.5,36.486059,-118.835645,Hydroelectric
+Kern River 3,Kernville,Kern,California,40.2,35.776185,-118.436233,Hydroelectric
+Kern River 1,Bakersfield,Kern,California,26.4,35.460303,-118.77959,Hydroelectric
+Lundy,Lee Vining,Mono,California,3,38.042729,-119.172015,Hydroelectric
+Mammoth Pool,North Fork,Madera,California,160,37.220302,-119.337983,Hydroelectric
+Poole,Lee Vining,Mono,California,11.3,37.944237,-119.2161,Hydroelectric
+Portal,Lakeshore,Fresno,California,10.8,37.257045,-119.158936,Hydroelectric
+Rush Creek,June lake,Mono,California,11.4,37.766954,-119.123284,Hydroelectric
+Santa Ana 1,Highlands,San Bernardino,California,3.2,34.14522,-117.058481,Hydroelectric
+Santa Ana 3,Highlands,San Bernardino,California,3.1,34.107245,-117.099091,Hydroelectric
+Lower Tule River,Springdale,Tulare,California,2.6,36.13568,-118.788868,Hydroelectric
+Pardee,Valley Springs,Calaveras,California,27.7,38.2569,-120.8507,Hydroelectric
+Prairie River,Grand Rapids,Itasca,Minnesota,0.7,47.287206,-93.498266,Hydroelectric
+Dion R Holm,Groveland,Tuolumne,California,156.8,37.896649,-119.9675,Hydroelectric
+Moccasin,Moccasin,Tuolumne,California,100,37.809388,-120.299254,Hydroelectric
+R C Kirkwood,Groveland,Tuolumne,California,115.5,37.877667,-119.953233,Hydroelectric
+Drop 2 (CA),Holtville,Imperial,California,9.8,32.705435,-115.030975,Hydroelectric
+Drop 3 (CA),Holtville,Imperial,California,7.3,32.705428,-115.126103,Hydroelectric
+Drop 4,Holtville,Imperial,California,19.1,32.705341,-115.219067,Hydroelectric
+Pilot Knob,Winterhaven,Imperial,California,0,32.736642,-114.713858,Hydroelectric
+Solomon Gulch,Valdez,Valdez Cordova,Alaska,12,61.0828,-146.3033,Hydroelectric
+Big Pine Creek,Big Pine,Inyo,California,3,37.142795,-118.324075,Hydroelectric
+Control Gorge,Bishop,Inyo,California,37.5,37.437921,-118.556988,Hydroelectric
+Cottonwood,Lone Pine,Inyo,California,2.4,36.443421,-118.04389,Hydroelectric
+Foothill,Sylmar,Los Angeles,California,8.6,34.318248,-118.494449,Hydroelectric
+Franklin (CA),Beverley Hills,Los Angeles,California,2,34.103931,-118.413377,Hydroelectric
+Haiwee,Olancha,Inyo,California,5,36.109722,-117.956667,Hydroelectric
+Middle Gorge,Bishop,Mono,California,37.5,37.51,-118.569167,Hydroelectric
+Pleasant Valley Hydro,Bishop,Inyo,California,2.7,37.41416,-118.523889,Hydroelectric
+San Fernando,Sylmar,Los Angeles,California,6.1,34.312778,-118.492778,Hydroelectric
+Upper Gorge,Bishop,Mono,California,36.5,37.546036,-118.590001,Hydroelectric
+Exchequer,Snelling,Mariposa,California,94.5,37.584345,-120.26859,Hydroelectric
+McSwain,Snelling,Mariposa,California,9,37.522065,-120.31009,Hydroelectric
+Chicago Park,Colfax,Nevada,California,44,39.177903,-120.890856,Hydroelectric
+Dutch Flat 2,Dutch Flat,Nevada,California,27.3,39.2184,-120.8352,Hydroelectric
+Beardsley,None,Tuolumne,California,11,38.202569,-120.076983,Hydroelectric
+Donnells,None,Tuolumne,California,72,38.246656,-120.034072,Hydroelectric
+Tulloch,Jamestown,Tuolumne,California,25.5,37.876111,-120.605,Hydroelectric
+Forbestown,Forbestown,Butte,California,37.5,39.551012,-121.278784,Hydroelectric
+Kelly Ridge,Oroville,Butte,California,10,39.531784,-121.491247,Hydroelectric
+Woodleaf,Forbestown,Butte,California,60,39.553811,-121.204077,Hydroelectric
+French Meadows,Foresthill,Placer,California,16,39.077971,-120.406069,Hydroelectric
+Middle Fork,Foresthill,Placer,California,132,39.024801,-120.596383,Hydroelectric
+Oxbow (CA),Foresthill,Placer,California,6,39.003372,-120.746651,Hydroelectric
+Ralston,Foresthill,Placer,California,86,39.000999,-120.725053,Hydroelectric
+Parker,Snelling,Merced,California,2.7,37.477838,-120.444492,Hydroelectric
+Camino,Camino,El Dorado,California,155.9,38.82881,-120.537089,Hydroelectric
+Jaybird,Camino,El Dorado,California,156.2,38.83405,-120.53176,Hydroelectric
+Loon Lake,Fresh Pond,El Dorado,California,74.1,38.982697,-120.32450300000001,Hydroelectric
+Robbs Peak,Fresh Pond,El Dorado,California,25.5,38.896511,-120.378292,Hydroelectric
+White Rock/Slab Creek,Placerville,El Dorado,California,241.5,38.765336,-120.787366,Hydroelectric
+Devil Canyon,San Bernardino,San Bernardino,California,262,34.2056,-117.3344,Hydroelectric
+Edward C Hyatt,Oroville,Butte,California,405.9,39.542985,-121.492188,Hydroelectric
+Don Pedro,La Grange,Tuolumne,California,203.2,37.695994,-120.420152,Hydroelectric
+La Grange,La Grange,Stanislaus,California,4.3,37.6697,-120.4436,Hydroelectric
+Folsom,Folsom,Sacramento,California,215.1,38.70675,-121.158443,Hydroelectric
+Judge F Carr,French Gulch,Shasta,California,177.4,40.646934,-122.626973,Hydroelectric
+Keswick,Redding,Shasta,California,117,40.611858,-122.446441,Hydroelectric
+Nimbus,Folsom,Sacramento,California,16.6,38.63735,-121.220198,Hydroelectric
+Shasta,Redding,Shasta,California,714,40.717455,-122.422274,Hydroelectric
+Parker Dam,Parker,San Bernardino,California,120,34.295334,-114.140222,Hydroelectric
+Spring Creek,Redding,Shasta,California,180,40.628115,-122.467509,Hydroelectric
+Trinity,Weaverville,Trinity,California,140,40.797296,-122.762553,Hydroelectric
+Colgate,Dobbins,Yuba,California,315,39.330833,-121.191666,Hydroelectric
+Narrows 2,Browns Valley,Yuba,California,46.7,39.238996,-121.270409,Hydroelectric
+Bear Valley,Escondido,San Diego,California,1.4,33.166246,-117.016566,Hydroelectric
+Boulder Canyon Hydro,Boulder,Boulder,Colorado,5,40.004725,-105.332495,Hydroelectric
+Georgetown Hydro,Georgetown,Clear Creek,Colorado,1.6,39.6919,-105.6978,Hydroelectric
+Grand Valley Project Power Plant,Palisade,Mesa,Colorado,3.1,39.101667,-108.345556,Hydroelectric
+Salida,Salida,Chaffee,Colorado,0.6,38.53419,-106.182003,Hydroelectric
+Shoshone (CO),Glenwood Springs,Garfield,Colorado,15,39.57013,-107.226876,Hydroelectric
+Temescal,Corona,Riverside,California,2.8,33.8343,-117.4971,Hydroelectric
+Corona,Corona,Riverside,California,2.8,33.85895,-117.6106,Hydroelectric
+Perris,Perris,Riverside,California,7.9,33.8361,-117.1831,Hydroelectric
+Rio Hondo,South Gate,Los Angeles,California,1.9,34.004722,-118.09917,Hydroelectric
+Coyote Creek,La Habra,Orange,California,3.1,33.92493,-117.95517,Hydroelectric
+Red Mountain,Fallbrook,San Diego,California,5.9,33.3944,-117.1889,Hydroelectric
+Valley View,Yorba Linda,Orange,California,4.1,33.9001,-117.82905,Hydroelectric
+Upper Dawson,La Grange,Tuolumne,California,5.5,37.6508,-120.4706,Hydroelectric
+Manitou Springs,Manitou Spring,El Paso,Colorado,5.5,38.855556,-104.933056,Hydroelectric
+Ruxton Park,Manitou Spring,El Paso,Colorado,1,38.841354,-104.973802,Hydroelectric
+Boysen,Thermopolis,Fremont,Wyoming,17.2,43.417872,-108.177545,Hydroelectric
+Blue Mesa,Gunnison,Gunnison,Colorado,86.4,38.453191,-107.337483,Hydroelectric
+Estes,Estes Park,Larimer,Colorado,51.6,40.376771,-105.509665,Hydroelectric
+Morrow Point,Montrose,Montrose,Colorado,173.2,38.451753,-107.539299,Hydroelectric
+Big Thompson,Loveland,Larimer,Colorado,5.2,40.421031,-105.223804,Hydroelectric
+Green Mountain,Kremmling,Summit,Colorado,26,39.878805,-106.332725,Hydroelectric
+Marys Lake,Estes Park,Larimer,Colorado,9.3,40.34408,-105.534308,Hydroelectric
+Flatiron,Loveland,Larimer,Colorado,86,40.364996,-105.236032,Hydroelectric
+Pole Hill,Loveland,Larimer,Colorado,38.2,40.365056,-105.325074,Hydroelectric
+Lower Molina,Molina,Mesa,Colorado,5.6,39.19366,-108.044088,Hydroelectric
+Upper Molina,Molina,Mesa,Colorado,9.9,39.143808,-108.004777,Hydroelectric
+Camp Far West,Lincoln,Placer,California,7.2,39.048802,-121.316966,Hydroelectric
+Jones Fork,Fresh Pond,El Dorado,California,10,38.850283,-120.381883,Hydroelectric
+Camanche,Clements & Wallace,San Joaquin,California,10.5,38.2268,-121.0245,Hydroelectric
+Bulls Bridge,New Milford,Litchfield,Connecticut,8.4,41.659046,-73.491984,Hydroelectric
+Scotland Dam,Windham,Windham,Connecticut,1.7,41.6651,-72.1221,Hydroelectric
+Shepaug,Southbury,New Haven,Connecticut,41.5,41.44842,-73.295321,Hydroelectric
+Stevenson,Monroe,Fairfield,Connecticut,28.9,41.3833,-73.1714,Hydroelectric
+Taftville,Taftville,New London,Connecticut,2,41.5725,-72.0458,Hydroelectric
+Rainbow (CT),Windsor,Hartford,Connecticut,8,41.915312,-72.693616,Hydroelectric
+Falls Village,Falls Village,Litchfield,Connecticut,9.9,41.957272,-73.369297,Hydroelectric
+Central Hudson High Falls,High Falls,Ulster,New York,3.2,41.828814,-74.131877,Hydroelectric
+Tenth Street,Norwich,New London,Connecticut,1,41.538955,-72.050936,Hydroelectric
+Navajo Dam,Farmington,San Juan,New Mexico,30,36.8061,-107.6131,Hydroelectric
+Drop 1,Holtville,Imperial,California,3.8,32.711611,-114.942666,Hydroelectric
+East Highline,Holtville,Imperial,California,1,32.699451,-115.28245,Hydroelectric
+South Fork Tolt,North Bend,King,Washington,16.8,47.699167,-121.783333,Hydroelectric
+Upper Mechanicville,Town of Stillwater,Saratoga,New York,18.4,42.9126,-73.6805,Hydroelectric
+Oak Flat,Belden,Plumas,California,1.3,40.07531,-121.16143,Hydroelectric
+Newcastle,Auburn,Placer,California,11.5,38.835182,-121.092982,Hydroelectric
+Pilot Butte,Morton,Fremont,Wyoming,1.6,43.219017,-108.787681,Hydroelectric
+W K Sanders,Hyde Park,Lamoille,Vermont,1.4,44.625282,-72.530859,Hydroelectric
+Kerckhoff 2,Auberry,Fresno,California,155,37.071846,-119.558008,Hydroelectric
+J Woodruff,Chattahoochee,Gadsden,Florida,43.5,30.708571,-84.863869,Hydroelectric
+Bartletts Ferry,Salem,Lee,Alabama,189.1,32.661976,-85.091552,Hydroelectric
+Burton Dam,Clayton,Rabun,Georgia,9.6,34.7939,-83.5406,Hydroelectric
+Flint River,Albany,Dougherty,Georgia,6.3,31.6028,-84.1376,Hydroelectric
+Goat Rock,Smiths,Lee,Alabama,38.6,32.60965,-85.0805,Hydroelectric
+Lloyd Shoals,Jackson,Jasper,Georgia,22.8,33.320773,-83.841922,Hydroelectric
+Toadtown,Magalia,Butte,California,1.5,39.893491,-121.59338,Hydroelectric
+Morgan Falls,Dunwoody,Fulton,Georgia,10.5,33.9684,-84.3827,Hydroelectric
+Nacoochee,Lakemont,Rabun,Georgia,6,34.755269,-83.501073,Hydroelectric
+North Highlands,Columbus,Muscogee,Georgia,34.4,32.498791,-84.995585,Hydroelectric
+Oliver Dam,Columbus,Muscogee,Georgia,59,32.5163,-84.9969,Hydroelectric
+Sinclair Dam,Milledgeville,Baldwin,Georgia,43.8,33.1403,-83.2028,Hydroelectric
+Tallulah Falls,Tallulah Falls,Habersham,Georgia,72.9,34.731332,-83.375475,Hydroelectric
+Terrora,Tallulah Falls,Rabun,Georgia,16.6,34.7504,-83.4063,Hydroelectric
+Tugalo,Tallulah Falls,Habersham,Georgia,52,34.7133,-83.3519,Hydroelectric
+Yonah,Toccoa,Stephens,Georgia,28.5,34.681477,-83.342642,Hydroelectric
+Stevens Creek,Martinez,Columbia,Georgia,12,33.562644,-82.051242,Hydroelectric
+Etiwanda,Rancho Cucamonga,San Bernardino,California,23.9,34.10345,-117.5257,Hydroelectric
+Moccasin Low Head Hydro Project,Moccasin,Tuolumne,California,2.9,37.816447,-120.312033,Hydroelectric
+Lake Blackshear Project,Warwick,Worth,Georgia,15.2,31.847697,-83.941996,Hydroelectric
+Hartwell Lake,Hartwell,Hart,Georgia,405,34.3564,-82.8219,Hydroelectric
+Blue Ridge,Blue Ridge,Fannin,Georgia,17.3,34.883889,-84.282222,Hydroelectric
+Nottely,Blairsville,Union,Georgia,20.1,34.959153,-84.08765,Hydroelectric
+Buford,Buford,Forsyth,Georgia,126.8,34.162279,-84.077367,Hydroelectric
+Allatoona,Cartersville,Bartow,Georgia,72,34.1637,-84.7282,Hydroelectric
+Walter F George,Ft. Gaines,Clay,Georgia,168,31.624501,-85.065237,Hydroelectric
+Puueo,Hilo,Hawaii,Hawaii,3.1,19.7264,-155.0908,Hydroelectric
+Waiau Hydro,Hilo,Hawaii,Hawaii,1,19.7203,-155.1189,Hydroelectric
+Sly Creek,Forbestown,Butte,California,12.1,39.580413,-121.119479,Hydroelectric
+Kingsley,Ogallala,Keith,Nebraska,41,41.2114,-101.6681,Hydroelectric
+East Barnet,Barnet,Caledonia,Vermont,1.9,44.326335,-72.035894,Hydroelectric
+Gem State,Idaho Falls,Bonneville,Idaho,23.4,43.420221,-112.101852,Hydroelectric
+Canyon,Canyon Lake,Comal,Texas,6,29.87056,-98.194733,Hydroelectric
+Lewisville,Lewisville,Denton,Texas,2,33.068473,-96.963806,Hydroelectric
+Charles E Monty,Lewiston,Androscoggin,Maine,28,44.099461,-70.220851,Hydroelectric
+Jarvis (Hinckley),Hinckley,Oneida,New York,9,43.3121,-75.109,Hydroelectric
+American Falls,American Falls,Power,Idaho,110.4,42.7778,-112.8764,Hydroelectric
+Bliss,Bliss,Gooding,Idaho,81.4,42.913786,-115.070986,Hydroelectric
+Brownlee,Cambridge,Washington,Idaho,744,44.8367,-116.8975,Hydroelectric
+C J Strike,Bruneau,Owyhee,Idaho,94.2,42.944869,-115.977858,Hydroelectric
+Cascade Dam,Cascade,Valley,Idaho,14.4,44.5256,-116.0483,Hydroelectric
+Clear Lake,Buhl,Gooding,Idaho,2.1,42.66701,-114.78012,Hydroelectric
+Lower Malad,Hagerman,Gooding,Idaho,15.3,42.865783,-114.906172,Hydroelectric
+Lower Salmon,Hagerman,Gooding,Idaho,71.9,42.841608,-114.903611,Hydroelectric
+Shoshone Falls,Twin Falls,Jerome,Idaho,12.8,42.5975,-114.4033,Hydroelectric
+Swan Falls,Kuna,Ada,Idaho,29.4,43.2435,-116.3791,Hydroelectric
+Thousand Springs,Wendell,Gooding,Idaho,6.4,42.740542,-114.836722,Hydroelectric
+Twin Falls (ID),Kimberly,Twin Falls,Idaho,53.2,42.5892,-114.3553,Hydroelectric
+Upper Salmon A,Hagerman,Twin Falls,Idaho,18.2,42.767422,-114.924692,Hydroelectric
+Upper Malad,Hagerman,Gooding,Idaho,8.1,42.864267,-114.885542,Hydroelectric
+Ashton,Ashton,Fremont,Idaho,7.1,44.07863,-111.497326,Hydroelectric
+Grace,Grace,Caribou,Idaho,33,42.53675,-111.793967,Hydroelectric
+Oneida,Riverdale,Franklin,Idaho,27.9,42.267774,-111.748531,Hydroelectric
+Soda,Soda Springs,Caribou,Idaho,15.2,42.64455,-111.696689,Hydroelectric
+Cabinet Gorge,Clark Fork,Bonner,Idaho,254.6,48.084444,-116.053056,Hydroelectric
+Post Falls,Post Falls,Kootenai,Idaho,17.5,47.703333,-116.953889,Hydroelectric
+Scott Flat,Nevada City,Nevada,California,0.9,39.272108,-120.932508,Hydroelectric
+Dworshak,Ahsahka,Clearwater,Idaho,465,46.5143,-116.2977,Hydroelectric
+City Power Plant,Idaho Falls,Bonneville,Idaho,8,43.491398,-112.04541,Hydroelectric
+Lower No 2,Idaho Falls,Bonneville,Idaho,3,43.468398,-112.062602,Hydroelectric
+Upper Power Plant,Idaho Falls,Bonneville,Idaho,8,43.552695,-112.050953,Hydroelectric
+Combie South,Auburn,Nevada,California,1.5,39.0096,-121.0591,Hydroelectric
+Palisades Dam,Palisades,Bonneville,Idaho,176.4,43.334849,-111.205752,Hydroelectric
+Albeni Falls,Oldtown,Bonner,Idaho,42,48.180245,-116.99859,Hydroelectric
+Rockton,Rockton,Winnebago,Illinois,1.1,42.4511,-89.0756,Hydroelectric
+Alamo,Pearblossom,Los Angeles,California,17,34.8158,-118.6867,Hydroelectric
+Quincy Chute,Quincy,Grant,Washington,9.4,46.982514,-119.257764,Hydroelectric
+Hydro Plant No 3,east of Ephraim,Sanpete,Utah,2.6,39.205623,-111.334381,Hydroelectric
+C H Corn Hydroelectric Facility,Tallahassee,Leon,Florida,11,30.388517,-84.646624,Hydroelectric
+Elkhart,Elkhart,Elkhart,Indiana,1.4,41.6928,-85.965,Hydroelectric
+Last Chance,Grace,Caribou,Idaho,1.4,42.603349,-111.705304,Hydroelectric
+Twin Branch,Mishawaka,St Joseph,Indiana,4,41.665,-86.1322,Hydroelectric
+Norway (IN),Monticello,White,Indiana,4,40.7803,-86.76,Hydroelectric
+Oakdale,Monticello,Carroll,Indiana,6,40.6564,-86.7528,Hydroelectric
+Markland,Florence,Switzerland,Indiana,45,38.7795,-84.964,Hydroelectric
+Manti Lower,Manti,Sanpete,Utah,1,39.255911,-111.621491,Hydroelectric
+Iowa Hydro LLC,Maquoketa,Jackson,Iowa,1.2,42.069987,-90.697657,Hydroelectric
+Keokuk,Keokuk,Lee,Iowa,142,40.3965,-91.3719,Hydroelectric
+Ottumwa City of,Ottumwa,Wapello,Iowa,3.2,41.016346,-92.414873,Hydroelectric
+Dix Dam,Harrodsburg,Mercer,Kentucky,31.5,37.7864,-84.7028,Hydroelectric
+Mother Ann Lee,Harrodsburg,Mercer,Kentucky,2.3,37.8297,-84.7247,Hydroelectric
+Ohio Falls,Shippingport Island,Jefferson,Kentucky,100.8,38.2832,-85.7792,Hydroelectric
+Barkley,Kuttawa,Lyon,Kentucky,148,37.0217,-88.2211,Hydroelectric
+Kentucky Dam,Grand Rivers,Marshall,Kentucky,222.5,37.0131,-88.2692,Hydroelectric
+Wolf Creek,Jamestown,Russell,Kentucky,312,36.8691,-85.147,Hydroelectric
+Ellsworth Hydro Station,Ellsworth,Hancock,Maine,9.3,44.5442,-68.4306,Hydroelectric
+Milford Hydro Station,Milford,Penobscot,Maine,7.8,44.942064,-68.64504,Hydroelectric
+Stillwater Hydro Station,Stillwater,Penobscot,Maine,2.1,44.9094,-68.6833,Hydroelectric
+Androscoggin 3,Lewiston,Androscoggin,Maine,3.4,44.135332,-70.201499,Hydroelectric
+Bar Mills,Bar Mills,York,Maine,4,43.6136,-70.5525,Hydroelectric
+Bonny Eagle,Hollis,York,Maine,9,43.687688,-70.611553,Hydroelectric
+Brunswick Hydro,Brunswick,Cumberland,Maine,20,43.920486,-69.967819,Hydroelectric
+Cataract Hydro,Saco,York,Maine,8,43.4956,-70.4472,Hydroelectric
+Deer Rips,Auburn,Androscoggin,Maine,6.2,44.134572,-70.203715,Hydroelectric
+Gulf Island,Lewiston,Androscoggin,Maine,23.2,44.152854,-70.209378,Hydroelectric
+Harris Hydro,West Forks,Somerset,Maine,87.4,45.4592,-69.8658,Hydroelectric
+Hiram,Hiram,Cumberland,Maine,11.6,43.8525,-70.7969,Hydroelectric
+Messalonskee 2 (Oakland),Oakland,Kennebec,Maine,2.8,44.548544,-69.710404,Hydroelectric
+Messalonskee 3,Oakland,Kennebec,Maine,1.6,44.569872,-69.681841,Hydroelectric
+Messalonskee 5,Waterville,Kennebec,Maine,1.8,44.534397,-69.652232,Hydroelectric
+North Gorham,Gorham,Cumberland,Maine,2,43.802517,-70.44992,Hydroelectric
+Shawmut,Shawmut,Somerset,Maine,9.2,44.629517,-69.583527,Hydroelectric
+Skelton,Dayton,York,Maine,21.6,43.5708,-70.5583,Hydroelectric
+West Buxton,Buxton,York,Maine,7.7,43.66687,-70.602125,Hydroelectric
+Weston Hydro,Skowhegan,Somerset,Maine,13.2,44.763875,-69.71828,Hydroelectric
+Williams Hydro,Solon,Somerset,Maine,14.9,44.9589,-69.8703,Hydroelectric
+Wyman Hydro,Bingham,Somerset,Maine,88.5,45.0703,-69.9064,Hydroelectric
+Squa Pan Hydro Station,Masardis,Aroostook,Maine,1.4,46.556477,-68.325538,Hydroelectric
+Deep Creek,Oakland,Garrett,Maryland,18,39.523,-79.413,Hydroelectric
+Conowingo,Darlington,Harford,Maryland,572,39.6572,-76.1752,Hydroelectric
+Boatlock,Holyoke,Hampden,Massachusetts,3.4,42.2086,-72.6014,Hydroelectric
+Chemical,Holyoke,Hampden,Massachusetts,1.6,42.1919,-72.6097,Hydroelectric
+Hadley Falls,Holyoke,Hampden,Massachusetts,33.1,42.2119,-72.6036,Hydroelectric
+Riverside Holyoke,Holyoke,Hampden,Massachusetts,6.9,42.200592,-72.594432,Hydroelectric
+Deerfield 5,Florida,Berkshire,Massachusetts,13.9,42.69118,-72.9561,Hydroelectric
+Cabot,Montague,Franklin,Massachusetts,61.8,42.5875,-72.5793,Hydroelectric
+Cobble Mountain,Granville,Hampden,Massachusetts,32.6,42.117112,-72.864663,Hydroelectric
+Gardners Falls,Buckland,Franklin,Massachusetts,3.5,42.5914,-72.7308,Hydroelectric
+Putts Bridge,Ludlow,Hampden,Massachusetts,3.2,42.157896,-72.48643,Hydroelectric
+Redbridge,Wilbraham,Hampden,Massachusetts,3.6,42.176047,-72.409521,Hydroelectric
+Alcona,Glennie,Alcona,Michigan,2.8,44.561961,-83.804505,Hydroelectric
+Allegan Dam,Allegan,Allegan,Michigan,1.3,42.563803,-85.953976,Hydroelectric
+C W Tippy,Wellston,Manistee,Michigan,6.3,44.259135,-85.939565,Hydroelectric
+Cooke,Oscoda,Iosco,Michigan,7.2,44.472624,-83.571947,Hydroelectric
+Croton,Newaygo,Newaygo,Michigan,3.6,43.437322,-85.664462,Hydroelectric
+Five Channels,Oscoda,Iosco,Michigan,6.2,44.455518,-83.676274,Hydroelectric
+Foote,Oscoda,Iosco,Michigan,3,44.435381,-83.440722,Hydroelectric
+Hardy,Newaygo,Newaygo,Michigan,32.1,43.486618,-85.629866,Hydroelectric
+Hodenpyl,Mesick,Wexford,Michigan,4,44.36286,-85.819968,Hydroelectric
+Loud,Oscoda,Iosco,Michigan,5.2,44.4631,-83.7208,Hydroelectric
+Mio,Mio,Oscoda,Michigan,1.6,44.661114,-84.131691,Hydroelectric
+Rogers,Big Rapids,Mecosta,Michigan,2.6,43.613001,-85.479469,Hydroelectric
+Webber,Lyons,Ionia,Michigan,1.1,42.9528,-84.9025,Hydroelectric
+Edison Sault,Sault Ste. Marie,Chippewa,Michigan,29.2,46.4974,-84.332,Hydroelectric
+Berrien Springs,Berrien Springs,Berrien,Michigan,4.8,41.9439,-86.3289,Hydroelectric
+Buchanan (MI),Buchanan,Berrien,Michigan,2,41.839566,-86.35105,Hydroelectric
+Saxon Falls,Saxon,Iron,Wisconsin,1,46.5392,-90.3742,Hydroelectric
+Superior Falls,Ironwood,Gogebic,Michigan,1,46.564601,-90.416147,Hydroelectric
+Constantine,Constantine,St Joseph,Michigan,0.4,41.8436,-85.6694,Hydroelectric
+Mottville,White Pigeon,St Joseph,Michigan,0.4,41.8056,-85.7505,Hydroelectric
+Prickett,Pelkie,Baraga,Michigan,0.8,46.7261,-88.6625,Hydroelectric
+Victoria Dam,Rockland,Ontonagon,Michigan,11.8,46.6964,-89.2089,Hydroelectric
+Brule,Florence,Florence,Wisconsin,5.3,45.9472,-88.2189,Hydroelectric
+Chalk Hill,Stephenson,Menominee,Michigan,7.8,45.5136,-87.8011,Hydroelectric
+Hemlock Falls,Crystal Falls,Iron,Michigan,2.8,46.131100000000004,-88.225,Hydroelectric
+Kingsford,Kingsford,Dickinson,Michigan,7.2,45.807956,-88.125121,Hydroelectric
+Michigamme Falls,Crystal Falls,Iron,Michigan,9.6,45.9553,-88.1958,Hydroelectric
+Peavy Falls,Crystal Falls,Iron,Michigan,12,45.990781,-88.210514,Hydroelectric
+Way Dam,Crystal Falls,Iron,Michigan,1.8,46.1592,-88.2353,Hydroelectric
+White Rapids,Stephenson,Menominee,Michigan,7.2,45.482084,-87.802178,Hydroelectric
+Grand Rapids,Ingalls,Menominee,Michigan,7.5,45.3547,-87.6494,Hydroelectric
+Crystal Falls,Crystal Falls,Iron,Michigan,1,46.106278,-88.334531,Hydroelectric
+James R Smith,Marquette,Marquette,Michigan,3.2,46.571639,-87.410455,Hydroelectric
+Norway (MI),Norway,Dickinson,Michigan,5.9,45.74123,-87.86278,Hydroelectric
+Hydro Plant,Three Rivers,St Joseph,Michigan,2.2,41.9711,-85.5381,Hydroelectric
+Saint Marys Falls,Sault Ste. Marie,Chippewa,Michigan,20.3,46.50625,-84.349267,Hydroelectric
+Kleber,Onaway,Cheboygan,Michigan,1.8,45.391984,-84.333257,Hydroelectric
+Blanchard,Royalton,Morrison,Minnesota,16.2,45.8614,-94.3592,Hydroelectric
+Fond Du Lac,Duluth,St Louis,Minnesota,13.1,46.666768,-92.293897,Hydroelectric
+Knife Falls,Cloquet,Carlton,Minnesota,2.3,46.726627,-92.448619,Hydroelectric
+Little Falls (MN),Little Falls,Morrison,Minnesota,5.1,45.975013,-94.369094,Hydroelectric
+Pillager,Pillager,Cass,Minnesota,1.7,46.316033,-94.484944,Hydroelectric
+Scanlon,Scanlon,Carlton,Minnesota,1.6,46.709126,-92.421733,Hydroelectric
+Sylvan,Pillager,Cass,Minnesota,1.8,46.305,-94.3775,Hydroelectric
+Thomson,Carlton,Carlton,Minnesota,76.2,46.655,-92.3333,Hydroelectric
+Winton,Winton,Lake,Minnesota,4.1,47.9344,-91.7639,Hydroelectric
+Hennepin Island,Minneapolis,Hennepin,Minnesota,6.1,44.982359,-93.254163,Hydroelectric
+Granite Falls,Granite Falls,Chippewa,Minnesota,1.1,44.811685,-95.53455,Hydroelectric
+Rochester Hydro,Mazeppa,Wabasha,Minnesota,2.6,44.212981,-92.480177,Hydroelectric
+Niangua,Camdenton,Camden,Missouri,3,37.9385,-92.847701,Hydroelectric
+Osage Dam,Eldon,Miller,Missouri,234,38.2044,-92.6239,Hydroelectric
+Stockton Hydro,Stockton,Cedar,Missouri,52,37.693600000000004,-93.7691,Hydroelectric
+Table Rock,Branson,Taney,Missouri,216.5,36.597,-93.3086,Hydroelectric
+Black Eagle,Great Falls,Cascade,Montana,21,47.521331000000004,-111.261442,Hydroelectric
+Cochrane,Great Falls,Cascade,Montana,62,47.5375,-111.194969,Hydroelectric
+Hauser,Helena,Lewis and Clark,Montana,18.2,46.765941,-111.887341,Hydroelectric
+Holter,Wolf Creek,Cascade,Montana,53.2,46.9915,-112.0047,Hydroelectric
+Selis Ksanka Qlispe,Polson,Lake,Montana,206,47.6777,-114.2339,Hydroelectric
+Morony,Great Falls,Cascade,Montana,49,47.581737,-111.060898,Hydroelectric
+Mystic,Fishtail,Stillwater,Montana,12,45.225741,-109.762489,Hydroelectric
+Rainbow (MT),Great Falls,Cascade,Montana,64,47.5344,-111.2045,Hydroelectric
+Ryan,Great Falls,Cascade,Montana,69.5,47.569939,-111.122546,Hydroelectric
+Thompson Falls,Thompson Falls,Sanders,Montana,93.5,47.593155,-115.358237,Hydroelectric
+Noxon Rapids,Noxon,Sanders,Montana,580.5,47.96048,-115.73361,Hydroelectric
+Hungry Horse,Columbia Falls,Flathead,Montana,428,48.341521,-114.01443,Hydroelectric
+Yellowtail,Hardin,Big Horn,Montana,278.1,45.307406,-107.957515,Hydroelectric
+Jeffrey,Brady,Lincoln,Nebraska,21,40.959405,-100.397905,Hydroelectric
+Johnson 1,Elwood,Gosper,Nebraska,20,40.693600000000004,-99.8178,Hydroelectric
+Johnson 2,Lexington,Gosper,Nebraska,22.5,40.6839,-99.7447,Hydroelectric
+Columbus,Columbus,Platte,Nebraska,45,41.4639,-97.3283,Hydroelectric
+Kearney,Kearney,Buffalo,Nebraska,1,40.703511,-99.100753,Hydroelectric
+Monroe (NE),Monroe,Platte,Nebraska,3,41.4872,-97.6078,Hydroelectric
+North Platte,North Platte,Lincoln,Nebraska,24,41.0864,-100.7594,Hydroelectric
+Spencer Hydro,Spencer,Boyd,Nebraska,1.2,42.809337,-98.656283,Hydroelectric
+Comerford,Monroe,Grafton,New Hampshire,165.9,44.325053,-72.000975,Hydroelectric
+S C Moore,Littleton,Grafton,New Hampshire,188.8,44.3356,-71.8742,Hydroelectric
+Vernon Dam,Vernon,Windham,Vermont,33.8,42.77165,-72.5146,Hydroelectric
+Wilder,Hartford,Windsor,Vermont,39,43.667927,-72.303642,Hydroelectric
+Amoskeag,Manchester,Hillsborough,New Hampshire,16.8,43.00223,-71.47208,Hydroelectric
+Ayers Island,Bristol,Grafton,New Hampshire,8.4,43.597849,-71.717683,Hydroelectric
+Eastman Falls,Franklin,Merrimack,New Hampshire,5.6,43.447219,-71.6579,Hydroelectric
+Garvins Falls,Bow,Merrimack,New Hampshire,12.3,43.165524,-71.509441,Hydroelectric
+Gorham,Gorham,Coos,New Hampshire,2,44.408278,-71.195354,Hydroelectric
+Hooksett,Hooksett,Merrimack,New Hampshire,1.6,43.101699000000004,-71.465662,Hydroelectric
+Jackman,Hillsborough,Hillsborough,New Hampshire,3.6,43.11055,-71.94889,Hydroelectric
+Smith (NH),Berlin,Coos,New Hampshire,11.7,44.469463,-71.178062,Hydroelectric
+Dashville,Dashville,Ulster,New York,4.8,41.8217,-74.0497,Hydroelectric
+Neversink,Grahmsville,Sullivan,New York,25,41.8194,-74.6358,Hydroelectric
+Sturgeon,Tillson,Ulster,New York,14.4,41.848191,-74.046678,Hydroelectric
+Cadyville,Town ofSchuyler Falls,Clinton,New York,5.5,44.695,-73.6219,Hydroelectric
+High Falls - Saranac NY,Town of Saranac,Clinton,New York,15,44.6389,-73.7492,Hydroelectric
+Kent Falls,Town of SchuylerFalls,Clinton,New York,13.6,44.7053,-73.5967,Hydroelectric
+Allens Falls,Parishville,St Lawrence,New York,3.5,44.660338,-74.860265,Hydroelectric
+Beardslee,Little Falls,Herkimer,New York,16.6,43.019113,-74.741349,Hydroelectric
+Belfort,Croghan,Lewis,New York,1.8,43.9275,-75.3331,Hydroelectric
+Bennetts Bridge,Altmar,Oswego,New York,30.3,43.5317,-75.9531,Hydroelectric
+Black River,Black River,Jefferson,New York,4.5,44.000122,-75.813151,Hydroelectric
+Blake,Parishville,St Lawrence,New York,14.2,44.506474,-74.753442,Hydroelectric
+Browns Falls,Oswegatchie,St Lawrence,New York,15.8,44.211407,-75.059441,Hydroelectric
+Chasm,Malone,Franklin,New York,1.6,44.7533,-74.2169,Hydroelectric
+Colton,Pierrepont,St Lawrence,New York,29.7,44.5839,-74.9583,Hydroelectric
+Deferiet,Deferiet,Jefferson,New York,10.8,44.0381,-75.6806,Hydroelectric
+Eagle,Croghan,Lewis,New York,5.8,43.909714,-75.200831,Hydroelectric
+Eel Weir,Oswegatchie,St Lawrence,New York,2,44.638365,-75.49052,Hydroelectric
+Effley,Croghan,Lewis,New York,2.9,43.922831,-75.277923,Hydroelectric
+Elmer,Croghan,Lewis,New York,2,43.927536,-75.288322,Hydroelectric
+Ephratah,Saint Johnsville,Fulton,New York,3.7,43.0092,-74.5372,Hydroelectric
+East Norfolk,Norfolk,St Lawrence,New York,4.1,44.7989,-74.9856,Hydroelectric
+Five Falls,Colton,St Lawrence,New York,22.4,44.527491,-74.849177,Hydroelectric
+Flat Rock,Fine,St Lawrence,New York,5.2,44.2217,-75.0742,Hydroelectric
+Franklin (NY),Franklin,Franklin,New York,2,44.4372,-73.9725,Hydroelectric
+Fulton Hydro,Fulton,Oswego,New York,0.2,43.32411,-76.418984,Hydroelectric
+Glenwood Hydro,Medina,Orleans,New York,1.5,43.2358,-78.3906,Hydroelectric
+Granby,Fulton,Oswego,New York,10.2,43.323441,-76.420841,Hydroelectric
+Hannawa,Pierrepont,St Lawrence,New York,7.2,44.6192,-74.9733,Hydroelectric
+Herrings,Carthage,Jefferson,New York,4.5,44.0217,-75.6511,Hydroelectric
+Heuvelton,Village of Heuvelton,St Lawrence,New York,0.8,44.6172,-75.4042,Hydroelectric
+High Dam,Oswego,Oswego,New York,8.8,43.443600000000004,-76.4961,Hydroelectric
+High Falls - Croghan NY,Croghan,Lewis,New York,5.4,43.9247,-75.3731,Hydroelectric
+Higley,Colton,St Lawrence,New York,6.3,44.5306,-74.9331,Hydroelectric
+Hydraulic Race,Lockport,Niagara,New York,2.8,43.170948,-78.691551,Hydroelectric
+Inghams,Little Falls,Fulton,New York,6.2,43.061017,-74.764347,Hydroelectric
+Johnsonville Dam,Johnsonville,Rensselaer,New York,2.5,42.920374,-73.508886,Hydroelectric
+Kamargo,Black River,Jefferson,New York,3.9,44.0117,-75.7967,Hydroelectric
+Lighthouse Hill,Altmar,Oswego,New York,7.6,43.524103,-75.970318,Hydroelectric
+Macomb,Malone,Franklin,New York,0.8,44.877326,-74.306288,Hydroelectric
+Minetto,Minetto,Oswego,New York,7,43.4003,-76.4739,Hydroelectric
+Moshier,Lowville,Herkimer,New York,8,43.8719,-75.1364,Hydroelectric
+Norfolk,Norfolk,St Lawrence,New York,5.1,44.8053,-74.9975,Hydroelectric
+Norwood,Norwood,St Lawrence,New York,2.2,44.7439,-75.0042,Hydroelectric
+Oswego Falls East,Fulton,Oswego,New York,4.2,43.3161,-76.4153,Hydroelectric
+Oswego Falls West,Fulton,Oswego,New York,2.6,43.3156,-76.4172,Hydroelectric
+Parishville,Parishville,St Lawrence,New York,2.3,44.63,-74.8258,Hydroelectric
+Piercefield,Piercefield,St Lawrence,New York,2.8,44.233419,-74.566217,Hydroelectric
+Prospect,Prospect,Oneida,New York,18.3,43.291861,-75.147734,Hydroelectric
+Rainbow Falls Hydro,Parishville,St Lawrence,New York,24,44.5178,-74.8228,Hydroelectric
+Raymondville,Norfolk,St Lawrence,New York,2.3,44.835,-74.9803,Hydroelectric
+South Edwards,Fine,St Lawrence,New York,3.4,44.2678,-75.1961,Hydroelectric
+School Street,Cohoes,Albany,New York,36.9,42.78498,-73.707983,Hydroelectric
+Schaghticoke,Schaghticoke,Rensselaer,New York,15.9,42.8992,-73.5989,Hydroelectric
+Schuylerville,Schuylerville,Saratoga,New York,1.5,43.096823,-73.582107,Hydroelectric
+Sewalls,Watertown,Jefferson,New York,2.2,43.9775,-75.8942,Hydroelectric
+Sherman Island,Queensbury,Saratoga,New York,36.9,43.2797,-73.7094,Hydroelectric
+Soft Maple,Croghan,Lewis,New York,14.4,43.9206,-75.2433,Hydroelectric
+South Colton,Colton,St Lawrence,New York,19.8,44.5133,-74.8831,Hydroelectric
+Spier Falls,Gansevoort,Saratoga,New York,54.5,43.2339,-73.7556,Hydroelectric
+Stark,Colton,St Lawrence,New York,23.3,44.4553,-74.7614,Hydroelectric
+Stewarts Bridge,Corinth,Saratoga,New York,40,43.2978,-73.8853,Hydroelectric
+Sugar Island,Potsdam,St Lawrence,New York,4.1,44.642181,-74.976473,Hydroelectric
+Taylorville,Croghan,Lewis,New York,4.4,43.927002,-75.321877,Hydroelectric
+Trenton Falls,Barneveld,Oneida,New York,25.9,43.2758,-75.1567,Hydroelectric
+Varick,Oswego,Oswego,New York,5.6,43.4486,-76.5056,Hydroelectric
+Waterport,Waterport,Orleans,New York,3.8,43.3272,-78.2394,Hydroelectric
+Yaleville,Norfolk,St Lawrence,New York,0.6,44.7661,-74.9997,Hydroelectric
+Grahamsville,Grahamsville,Sullivan,New York,18,41.8592,-74.5106,Hydroelectric
+Mongaup,Forestburgh,Sullivan,New York,7.6,41.537722,-74.771383,Hydroelectric
+Rio,Glen Spey,Sullivan,New York,10.9,41.4625,-74.7578,Hydroelectric
+Swinging Bridge 2,Forestburgh,Sullivan,New York,7.4,41.5717,-74.7828,Hydroelectric
+Rochester 26,Rochester,Monroe,New York,3,43.1522,-77.6098,Hydroelectric
+Rochester 2,Rochester,Monroe,New York,8.5,43.1611,-77.615,Hydroelectric
+Rochester 5,Rochester,Monroe,New York,43.8,43.1803,-77.6278,Hydroelectric
+Wiscoy 170,Filmore,Allegany,New York,1,42.5042,-78.0828,Hydroelectric
+Crescent,Crescent,Albany,New York,11.6,42.8056,-73.72264,Hydroelectric
+Vischer Ferry,Rexford,Saratoga,New York,11.6,42.80746,-73.84269,Hydroelectric
+Robert Moses Niagara,Lewiston,Niagara,New York,2434.9,43.1427,-79.0394,Hydroelectric
+Robert Moses Power Dam,Massena,St Lawrence,New York,856,45.0038,-74.7994,Hydroelectric
+Watertown,Watertown,Jefferson,New York,6.3,43.975801,-75.874669,Hydroelectric
+Marshall Dam,Marshall,Madison,North Carolina,4,35.702527,-82.710571,Hydroelectric
+Tillery,Mount Gilead,Montgomery,North Carolina,84,35.206741,-80.06483,Hydroelectric
+Walters,Waterville,Haywood,North Carolina,112,35.6946,-83.0503,Hydroelectric
+Bridgewater,Morganton,Burke,North Carolina,31.5,35.7428,-81.8372,Hydroelectric
+Cowans Ford,Stanley,Lincoln,North Carolina,324,35.4346,-80.9588,Hydroelectric
+Lookout Shoals,Statesville,Iredell,North Carolina,27,35.7575,-81.0894,Hydroelectric
+Mountain Island,Mount Holly,Gaston,North Carolina,62,35.3339,-80.9867,Hydroelectric
+Oxford Dam,Conover,Catawba,North Carolina,40,35.8214,-81.1922,Hydroelectric
+Rhodhiss,Rhodhiss,Caldwell,North Carolina,33.4,35.774234,-81.437773000000007,Hydroelectric
+Turner Shoals,Mill Springs,Polk,North Carolina,5.4,35.334767,-82.186369,Hydroelectric
+Tuxedo,Flat Rock,Henderson,North Carolina,6.4,35.245006,-82.389371,Hydroelectric
+Bear Creek Dam,Tuckasegee,Jackson,North Carolina,9.5,35.242677,-83.072007,Hydroelectric
+Cedar Cliff,Tuckasegee,Jackson,North Carolina,6.4,35.2531,-83.0983,Hydroelectric
+Franklin (NC),Franklin,Macon,North Carolina,1,35.2194,-83.3708,Hydroelectric
+Mission,Murphy,Clay,North Carolina,1.8,35.0647,-83.9258,Hydroelectric
+Nantahala,Topton,Macon,North Carolina,50,35.2715,-83.6762,Hydroelectric
+Tennessee Creek,Tuckasegee,Jackson,North Carolina,9.8,35.2139,-83.0028,Hydroelectric
+Thorpe,Tuckasegee,Jackson,North Carolina,19.7,35.233988,-83.125398,Hydroelectric
+Tuckasegee,Tuckasegee,Jackson,North Carolina,2.5,35.247011,-83.128111,Hydroelectric
+Gaston,Roanoke Rapids,Halifax,North Carolina,220,36.499147,-77.811543,Hydroelectric
+Roanoke Rapids,Roanoke Rapids,Halifax,North Carolina,95,36.4789,-77.6722,Hydroelectric
+Lake Lure,Lake Lure,Rutherford,North Carolina,3.6,35.42591,-82.184005,Hydroelectric
+Chatuge,Hayesville,Clay,North Carolina,13.9,35.019131,-83.791438,Hydroelectric
+Fontana Dam,Fontana Dam,Swain,North Carolina,304.2,35.4507,-83.805,Hydroelectric
+Garrison,Riverside,Mercer,North Dakota,510,47.4945,-101.4115,Hydroelectric
+Markham,Locust Grove,Mayes,Oklahoma,128,36.2317,-95.1822,Hydroelectric
+Pensacola,Langley,Mayes,Oklahoma,126.5,36.4675,-95.041389,Hydroelectric
+Keystone Dam,Sand Springs,Tulsa,Oklahoma,80,36.1508,-96.2517,Hydroelectric
+Robert S Kerr,Keota,Sequoyah,Oklahoma,114.8,35.34447,-94.7755,Hydroelectric
+Webbers Falls,Webbers Falls,Muskogee,Oklahoma,73,35.5531,-95.1708,Hydroelectric
+Fort Gibson,Fort Gibson,Cherokee,Oklahoma,51.2,35.8693,-95.2269,Hydroelectric
+Tenkiller Ferry,Gore,Sequoyah,Oklahoma,42,35.595,-95.0511,Hydroelectric
+Hells Canyon,Oxbow,Wallowa,Oregon,445,45.2439,-116.7008,Hydroelectric
+Oxbow (OR),Oxbow,Baker,Oregon,219.8,44.971643,-116.835042,Hydroelectric
+Clearwater 1,Idleyld Park,Douglas,Oregon,17.9,43.251244,-122.337924,Hydroelectric
+Clearwater 2,Idleyld Park,Douglas,Oregon,31,43.266894,-122.409807,Hydroelectric
+Eagle Point,Eagle Point,Jackson,Oregon,2.8,42.514575,-122.757062,Hydroelectric
+East Side,Klamath Falls,Klamath,Oregon,3,42.224847,-121.795496,Hydroelectric
+Fish Creek,Idleyld Park,Douglas,Oregon,10.4,43.274221,-122.448978,Hydroelectric
+John C Boyle,Keno,Klamath,Oregon,98,42.093611,-122.0703,Hydroelectric
+Lemolo 1,Idleyld Park,Douglas,Oregon,32,43.3558,-122.2494,Hydroelectric
+Prospect 1,Prospect,Jackson,Oregon,4.6,42.730717,-122.515122,Hydroelectric
+Prospect 2,Prospect,Jackson,Oregon,36,42.731237,-122.513974,Hydroelectric
+Prospect 3,Prospect,Jackson,Oregon,7.7,42.730606,-122.41846,Hydroelectric
+Prospect 4,Prospect,Jackson,Oregon,0.9,42.733073,-122.515079,Hydroelectric
+Slide Creek,Idleyld Park,Douglas,Oregon,18,43.2939,-122.4728,Hydroelectric
+Soda Springs,Idleyld Park,Douglas,Oregon,11.6,43.3061,-122.5014,Hydroelectric
+Toketee Falls,Idleyld Park,Douglas,Oregon,45,43.272729,-122.447498,Hydroelectric
+Wallowa Falls,Joseph,Wallowa,Oregon,1.1,45.266702,-117.212732,Hydroelectric
+Faraday,Estacada,Clackamas,Oregon,23.9,45.268045,-122.32009,Hydroelectric
+North Fork,Estacada,Clackamas,Oregon,58,45.243287,-122.27995,Hydroelectric
+Pelton,Madras,Jefferson,Oregon,110,44.694374,-121.231379,Hydroelectric
+River Mill,Estacada,Clackamas,Oregon,24.7,45.299991,-122.350023,Hydroelectric
+Round Butte,Madras,Jefferson,Oregon,353,44.605837,-121.277334,Hydroelectric
+Sullivan,West Linn,Clackamas,Oregon,18.3,45.354004,-122.618954,Hydroelectric
+Carmen Smith,McKenzie Bridge,Linn,Oregon,103.8,44.285977,-122.041352,Hydroelectric
+Leaburg,Springfield,Lane,Oregon,8,44.1011,-122.6892,Hydroelectric
+Walterville,Springfield,Lane,Oregon,7.5,44.069636,-122.835046,Hydroelectric
+Big Cliff,Gates,Marion,Oregon,21,44.7514,-122.2832,Hydroelectric
+Bonneville,Cascade Locks,Multnomah,Oregon,1153.9,45.6441,-121.941009,Hydroelectric
+Cougar,Lowell,Lane,Oregon,26,44.1307,-122.2439,Hydroelectric
+Detroit,Mill City,Marion,Oregon,100,44.7224,-122.2511,Hydroelectric
+Dexter,Lowell,Lane,Oregon,15,43.9242,-122.8055,Hydroelectric
+Green Peter,Foster,Linn,Oregon,80,44.4494,-122.5494,Hydroelectric
+Hills Creek,Oakridge,Lane,Oregon,30,43.7107,-122.4238,Hydroelectric
+John Day,Rufus,Sherman,Oregon,2058,45.71644,-120.69408,Hydroelectric
+Lookout Point,Lowell,Lane,Oregon,120,43.9153,-122.7531,Hydroelectric
+McNary,Umatilla,Umatilla,Oregon,968.5,45.9402,-119.2988,Hydroelectric
+York Haven,York Haven,York,Pennsylvania,19,40.113625,-76.71195,Hydroelectric
+Piney,Clarion,Clarion,Pennsylvania,33.2,41.192088,-79.433501,Hydroelectric
+Holtwood,Holtwood,Lancaster,Pennsylvania,249,39.827198,-76.331772,Hydroelectric
+Wallenpaupack,Drumore,Wayne,Pennsylvania,44,41.467858,-75.130895,Hydroelectric
+Safe Harbor,Conestoga,Lancaster,Pennsylvania,417.5,39.9244,-76.39,Hydroelectric
+Boyds Mill Hydro,Ware Shoals,Greenville,South Carolina,1.4,34.455514,-82.199339,Hydroelectric
+Buzzard Roost,Chappells,Greenwood,South Carolina,6.9,34.169733,-81.902452,Hydroelectric
+Cedar Creek,Great Falls,Lancaster,South Carolina,45,34.5414,-80.8756,Hydroelectric
+Dearborn,Great Falls,Chester,South Carolina,42,34.5583,-80.8914,Hydroelectric
+Fishing Creek,Great Falls,Chester,South Carolina,50,34.6,-80.8928,Hydroelectric
+Gaston Shoals,Blacksburg,Cherokee,South Carolina,7.5,35.1381,-81.5975,Hydroelectric
+Great Falls (SC),Great Falls,Chester,South Carolina,12,34.5592,-80.8917,Hydroelectric
+Hollidays Bridge Hydro,Honea Path,Anderson,South Carolina,4.8,34.527475,-82.374964,Hydroelectric
+Saluda Dam,Greenville,Greenville,South Carolina,2.4,34.852224,-82.483959,Hydroelectric
+Wateree Hydro,Ridgeway,Kershaw,South Carolina,85,34.3355,-80.7021,Hydroelectric
+Wylie,Fort Mill,York,South Carolina,72,35.0218,-81.0078,Hydroelectric
+99 Islands,Blacksburg,Cherokee,South Carolina,15.2,35.0314,-81.4936,Hydroelectric
+Lockhart,Lockhart,Union,South Carolina,18,34.7792,-81.4561,Hydroelectric
+Columbia Canal Hydro,Columbia,Richland,South Carolina,9.9,33.9972,-81.0494,Hydroelectric
+Neal Shoals,Union,Union,South Carolina,4.4,34.6642,-81.4486,Hydroelectric
+Parr Hydro,Jenkinsville,Fairfield,South Carolina,15,34.26132,-81.330852,Hydroelectric
+Saluda Lexington,Columbia,Lexington,South Carolina,198.5,34.0533,-81.2172,Hydroelectric
+Rocky River (SC),Iva,Anderson,South Carolina,2.6,34.2572,-82.6097,Hydroelectric
+Jefferies,Moncks Corner,Berkeley,South Carolina,141,33.244404,-79.990909,Hydroelectric
+Spillway,Pineville,Berkeley,South Carolina,2,33.453759,-80.163986,Hydroelectric
+J Strom Thurmond,Clarks Hill,McCormick,South Carolina,336,33.6602,-82.1961,Hydroelectric
+Oahe,Pierre,Hughes,South Dakota,714,44.4504,-100.3866,Hydroelectric
+Fort Randall,Pickstown,Charles Mix,South Dakota,360,43.0653,-98.5539,Hydroelectric
+Big Bend Dam,Chamberlain,Buffalo,South Dakota,520,44.0384,-99.4463,Hydroelectric
+Apalachia,Reliance,Polk,Tennessee,82.4,35.167712,-84.295601,Hydroelectric
+Boone Dam,Kingsport,Sullivan,Tennessee,113.4,36.4403,-82.4381,Hydroelectric
+Cherokee Dam,Rudledge,Jefferson,Tennessee,141.6,36.168176,-83.49768,Hydroelectric
+Chickamauga,Chattanooga,Hamilton,Tennessee,141.6,35.101791,-85.229467,Hydroelectric
+Douglas Dam,Dandridge,Sevier,Tennessee,177.9,35.9623,-83.5393,Hydroelectric
+Fort Patrick Henry,Kingsport,Sullivan,Tennessee,40.7,36.4982,-82.5086,Hydroelectric
+Fort Loudoun,Lenoir City,Loudon,Tennessee,168.2,35.7917,-84.2431,Hydroelectric
+Great Falls (TN),Rock Island,Warren,Tennessee,35.4,35.806732,-85.634063,Hydroelectric
+Melton Hill,Lenoir City,Loudon,Tennessee,79.2,35.8853,-84.3003,Hydroelectric
+Nickajack,New Hope,Marion,Tennessee,105.6,35.0017,-85.6218,Hydroelectric
+Norris Dam,Norris,Anderson,Tennessee,127,36.2242,-84.0914,Hydroelectric
+Ocoee 1,Benton,Polk,Tennessee,24,35.0947,-84.6478,Hydroelectric
+Ocoee 2,Benton,Polk,Tennessee,23.4,35.082271,-84.49115,Hydroelectric
+Ocoee 3,Benton,Polk,Tennessee,28.6,35.075,-84.4833,Hydroelectric
+Pickwick Landing Dam,Pickwick Dam,Hardin,Tennessee,244.3,35.0683,-88.2494,Hydroelectric
+South Holston,Bristol,Sullivan,Tennessee,44.4,36.523174,-82.090213,Hydroelectric
+Tims Ford,Winchester,Franklin,Tennessee,40.2,35.1967,-86.2783,Hydroelectric
+Watauga,Elizabethton,Carter,Tennessee,67,36.3413,-82.1264,Hydroelectric
+Watts Bar Hydro,Spring City,Rhea,Tennessee,196.4,35.619673,-84.785527,Hydroelectric
+Wilbur,Elizabethon,Carter,Tennessee,11.1,36.341667,-82.126389,Hydroelectric
+Cordell Hull,Carthage,Smith,Tennessee,114,36.289539,-85.94416,Hydroelectric
+Dale Hollow,Celina,Clay,Tennessee,62.1,36.5378,-85.4517,Hydroelectric
+Old Hickory,Hendersonville,Sumner,Tennessee,115.7,36.2972,-86.6556,Hydroelectric
+J P Priest,Nashville,Davidson,Tennessee,30,36.1564,-86.6186,Hydroelectric
+Eagle Pass,Eagle Pass,Maverick,Texas,6,28.829535,-100.552234,Hydroelectric
+Abbott TP 3,McQueeney,Guadalupe,Texas,2.8,29.593951,-98.040734,Hydroelectric
+Dunlap TP 1,New Brannfels,Guadalupe,Texas,3.6,29.640187,-98.045934,Hydroelectric
+H 4,Cost,Gonzales,Texas,2.4,29.495193,-97.624948,Hydroelectric
+H 5,Gonzales,Gonzales,Texas,2.4,29.4681,-97.4919,Hydroelectric
+Nolte,Seguin,Guadalupe,Texas,2.4,29.537565,-97.932106,Hydroelectric
+TP 4,Seguin,Guadalupe,Texas,2.4,29.548136,-97.999587,Hydroelectric
+Austin,Austin,Travis,Texas,17,30.293424,-97.784408,Hydroelectric
+Buchanan Dam (TX),Buchanan Dam,Llano,Texas,54.9,30.7507,-98.4176,Hydroelectric
+Granite Shoals,Marble Falls,Burnet,Texas,54,30.556,-98.3384,Hydroelectric
+Inks,Buchanan Dam,Burnet,Texas,13.8,30.731599,-98.385422,Hydroelectric
+Marble Falls,Marble Falls,Burnet,Texas,39.6,30.555288,-98.257593,Hydroelectric
+Marshall Ford,Austin,Travis,Texas,108,30.3899,-97.9073,Hydroelectric
+Upper Beaver,Beaver,Beaver,Utah,2.5,38.2683,-112.4806,Hydroelectric
+Cutler Hydro,Collinston,Box Elder,Utah,30,41.834702,-112.052114,Hydroelectric
+Granite,Salt lake City,Salt Lake,Utah,1.2,40.619173,-111.78208,Hydroelectric
+Olmstead,Orem,Utah,Utah,10,40.315796,-111.654691,Hydroelectric
+Pioneer,Ogden,Weber,Utah,4,41.243643,-111.946478,Hydroelectric
+Snake Creek,Midway,Wasatch,Utah,1,40.544942,-111.502911,Hydroelectric
+Stairs,Salt Lake City,Salt Lake,Utah,1.2,40.6236,-111.7533,Hydroelectric
+Weber,South Weber,Weber,Utah,2,41.137621,-111.884948,Hydroelectric
+Brigham City,Brigham,Box Elder,Utah,1.5,41.501619,-111.99345,Hydroelectric
+Hydro III,Logan,Cache,Utah,1.4,41.746364,-111.746023,Hydroelectric
+Manti Upper,Manti,Sanpete,Utah,1.2,39.255911,-111.621491,Hydroelectric
+Bartholomew,Springville,Utah,Utah,1,40.167136,-111.499461,Hydroelectric
+Spanish Fork,Spanish Fork,Utah,Utah,3.6,40.080042,-111.604846,Hydroelectric
+Gateway,Mountain Green,Morgan,Utah,4,41.136547,-111.831441,Hydroelectric
+Wanship,Wanship,Summit,Utah,1.9,40.7904,-111.4043,Hydroelectric
+Boulder,Boulder,Garfield,Utah,4.2,37.9858,-111.4383,Hydroelectric
+Uintah,Neola,Duchesne,Utah,1.2,40.538056,-110.066111,Hydroelectric
+Smith (VT),Bradford,Orange,Vermont,0.9,43.9921,-72.1282,Hydroelectric
+Cavendish,Cavendish,Windsor,Vermont,1.1,43.381225,-72.598242,Hydroelectric
+Clark Falls,Milton,Chittenden,Vermont,3,44.6356,-73.12,Hydroelectric
+Fairfax Falls,Fairfax,Franklin,Vermont,3.4,44.6534,-72.9961,Hydroelectric
+Glen,Rutland Town,Rutland,Vermont,2,43.6368,-72.9758,Hydroelectric
+Lower Middlebury,Middlebury Lower,Addison,Vermont,2,44.0249,-73.1768,Hydroelectric
+Milton,Milton,Chittenden,Vermont,7,44.641433,-73.113364,Hydroelectric
+Peterson,Milton,Chittenden,Vermont,5.8,44.6381,-73.1625,Hydroelectric
+Pittsford,Pittsford,Rutland,Vermont,3.2,43.694,-72.955,Hydroelectric
+Salisbury,Salisbury,Addison,Vermont,1.2,43.8954,-73.1007,Hydroelectric
+Silver Lake (VT),Salisbury,Addison,Vermont,2.2,43.898584,-73.053125,Hydroelectric
+Weybridge,Weybridge,Addison,Vermont,3.4,44.0661,-73.2158,Hydroelectric
+Newport,Newport,Orleans,Vermont,4,44.937579,-72.179968,Hydroelectric
+Essex Junction 19,Essex Junction,Chittenden,Vermont,8,44.4821,-73.1164,Hydroelectric
+Marshfield 6,Marshfield,Washington,Vermont,5,44.3606,-72.3356,Hydroelectric
+Middlesex 2,Moretown,Washington,Vermont,3.2,44.292391,-72.6824,Hydroelectric
+West Danville 15,Danville,Caledonia,Vermont,1,44.4056,-72.1881,Hydroelectric
+Bellows Falls,Bellow Falls,Windham,Vermont,47.1,43.1375,-72.4464,Hydroelectric
+Harriman,Whitingham,Windham,Vermont,40.8,42.7936,-72.9144,Hydroelectric
+Canaan,Canaan,Essex,Vermont,1.1,44.999274,-71.530164,Hydroelectric
+West Charleston,West Charleston,Orleans,Vermont,1.3,44.887379,-72.055357,Hydroelectric
+Great Falls (VT),Lyndon,Caledonia,Vermont,1.9,44.500222,-71.998921,Hydroelectric
+Morrisville,Morrisville,Lamoille,Vermont,1.5,44.561831,-72.602369,Hydroelectric
+Cadys Falls,Morrisville,Lamoille,Vermont,1.1,44.577553,-72.611861,Hydroelectric
+Buck Hydro,Ivanhoe,Carroll,Virginia,9,36.808229,-80.938714,Hydroelectric
+Byllesby 2,Ivanhoe,Carroll,Virginia,31.6,36.7858,-80.9333,Hydroelectric
+Claytor,Radford,Pulaski,Virginia,58.8,37.075,-80.5847,Hydroelectric
+Leesville,Hurt,Pittsylvania,Virginia,50,37.0933,-79.4025,Hydroelectric
+Niagara,Vinton,Roanoke,Virginia,1.8,37.2544,-79.8756,Hydroelectric
+Reusens,Lynchburg,Campbell,Virginia,12.5,37.4639,-79.1856,Hydroelectric
+Smith Mountain,Penhook,Pittsylvania,Virginia,348,37.0413,-79.5356,Hydroelectric
+Luray Hydro Station,Luray,Page,Virginia,1.1,38.676667,-78.498888,Hydroelectric
+Newport Hydro Station,Newport,Page,Virginia,1.3,38.571389,-78.593611,Hydroelectric
+Cushaw,Warm Springs,Amherst,Virginia,2,37.592887,-79.380823,Hydroelectric
+Snowden,Big Island,Bedford,Virginia,5,37.5736,-79.3715,Hydroelectric
+Pinnacles,Ararat,Patrick,Virginia,10.5,36.666866,-80.447897,Hydroelectric
+Martinsville,Martinsville,Henry,Virginia,1.2,36.664145,-79.883588,Hydroelectric
+Radford,Radford,Pulaski,Virginia,1,37.078366,-80.572726,Hydroelectric
+John H Kerr,Boydton,Mecklenburg,Virginia,296.6,36.59943,-78.3005,Hydroelectric
+Philpott Lake,Bassett,Henry,Virginia,15.6,36.7803,-80.0281,Hydroelectric
+Merwin,Ariel,Cowlitz,Washington,151,45.9567,-122.554444,Hydroelectric
+Swift 1,Cougar,Skamania,Washington,263.7,46.060833,-122.201667,Hydroelectric
+Yale,Amboy,Cowlitz,Washington,163.6,45.96277,-122.335467,Hydroelectric
+Electron,Orting,Pierce,Washington,25.8,46.990967,-122.174921,Hydroelectric
+Lower Baker,Concrete,Skagit,Washington,105.2,48.5478,-121.7407,Hydroelectric
+Snoqualmie,Snoqualmie,King,Washington,12.1,47.54011,-121.83702,Hydroelectric
+Upper Baker,Concrete,Whatcom,Washington,105,48.649,-121.6907,Hydroelectric
+Little Falls (WA),Ford,Lincoln,Washington,38,47.821667,-117.916667,Hydroelectric
+Long Lake,Ford,Lincoln,Washington,89.5,47.834444,-117.836111,Hydroelectric
+Meyers Falls,Kettle Falls,Stevens,Washington,1.6,48.5953,-118.0603,Hydroelectric
+Nine Mile,Nine Mile,Spokane,Washington,33.6,47.769722,-117.537222,Hydroelectric
+Yelm,Yelm,Thurston,Washington,11.4,46.974912,-122.635795,Hydroelectric
+Rocky Reach,Wenatchee,Chelan,Washington,1253.9,47.533611,-120.295278,Hydroelectric
+Wells,Pateros,Douglas,Washington,840,47.9469,-119.8653,Hydroelectric
+Priest Rapids,Mattawa,Grant,Washington,950,46.6451,-119.908,Hydroelectric
+Wanapum,Beverly,Grant,Washington,1201.8,46.8731,-119.9703,Hydroelectric
+Box Canyon,Ione,Pend Oreille,Washington,90,48.780856,-117.418337,Hydroelectric
+The Dalles,The Dalles,Wasco,Oregon,1766.7,45.614,-121.1346,Hydroelectric
+Alder,La Grande,Pierce,Washington,50.4,46.8016,-122.3102,Hydroelectric
+Cushman 1,Shelton,Mason,Washington,53.4,47.4181,-123.2252,Hydroelectric
+Cushman 2,Shelton,Mason,Washington,93.6,47.3698,-123.1603,Hydroelectric
+LaGrande,La Grande,Pierce,Washington,64,46.8328,-122.3196,Hydroelectric
+Mayfield,Silver Creek,Lewis,Washington,164,46.5035,-122.5885,Hydroelectric
+Mossyrock,Silver Creek,Lewis,Washington,343,46.5347,-122.4247,Hydroelectric
+Chief Joseph,Bridgeport,Douglas,Washington,2409.8,47.9951,-119.6404,Hydroelectric
+Ice Harbor,Burbank,Walla Walla,Washington,523,46.249801,-118.879838,Hydroelectric
+Little Goose,Dayton,Columbia,Washington,810,46.5838,-118.0273,Hydroelectric
+Lower Monumental,Kahlotus,Walla Walla,Washington,752,46.5635,-118.5397,Hydroelectric
+Packwood,Packwood,Lewis,Washington,26,46.595833,-121.569444,Hydroelectric
+Biron,Biron,Wood,Wisconsin,5.4,44.4306,-89.7808,Hydroelectric
+Du Bay,Eau Pleine,Portage,Wisconsin,7.2,44.6647,-89.6511,Hydroelectric
+Stevens Point,Stevens Point,Portage,Wisconsin,4.8,44.5153,-89.585,Hydroelectric
+Wisconsin Rapids,Wisconsin Rapids,Wood,Wisconsin,8.8,44.3939,-89.825,Hydroelectric
+Whiting,Whiting,Portage,Wisconsin,5.1,44.4889,-89.5756,Hydroelectric
+Big Falls,Glen Fora,Rusk,Wisconsin,3.3,45.491667,-91.0469,Hydroelectric
+Ladysmith Dam,Ladysmith,Rusk,Wisconsin,1,45.464444,-91.083611,Hydroelectric
+Thornapple,Bruce,Rusk,Wisconsin,0.8,45.411139,-91.218283,Hydroelectric
+White River (WI),Ashland,Ashland,Wisconsin,0.4,46.498333,-90.903889,Hydroelectric
+Arpin Dam,Radisson,Sawyer,Wisconsin,1.4,45.7517,-91.2028,Hydroelectric
+Cedar Falls (WI),Menomonie,Dunn,Wisconsin,3.6,44.9367,-91.8883,Hydroelectric
+Chippewa Falls,Chippewa Falls,Chippewa,Wisconsin,12.1,44.9308,-91.3889,Hydroelectric
+Dells,Eau Claire,Eau Claire,Wisconsin,7.3,44.828056,-91.511111,Hydroelectric
+Holcombe,Holcombe,Chippewa,Wisconsin,21.9,45.223611,-91.127222,Hydroelectric
+Jim Falls,Jim Falls,Chippewa,Wisconsin,25,45.051,-91.274,Hydroelectric
+Menomonie,Menomonie,Dunn,Wisconsin,2.2,44.884167,-91.929444,Hydroelectric
+St Croix Falls,St Croix Falls,Polk,Wisconsin,15.2,45.41167,-92.6469,Hydroelectric
+Trego,Hayward,Washburn,Wisconsin,0.7,45.94794,-91.888374,Hydroelectric
+Wissota,Chippewa Falls,Chippewa,Wisconsin,18,44.9378,-91.3406,Hydroelectric
+Clam River Dam,Danbury,Burnett,Wisconsin,1.2,45.9467,-92.5383,Hydroelectric
+Danbury Dam,Danbury,Burnett,Wisconsin,1,46,-92.3725,Hydroelectric
+Appleton,Appleton,Outagamie,Wisconsin,2.2,44.25393,-88.40956,Hydroelectric
+Oconto Falls Upper,Oconto Falls,Oconto,Wisconsin,1.1,44.8764,-88.1475,Hydroelectric
+Pine,Florence,Florence,Wisconsin,3.6,45.8275,-88.2483,Hydroelectric
+Kilbourn,Wisconsin Dells,Columbia,Wisconsin,9.5,43.625845,-89.780764,Hydroelectric
+Prairie Du Sac,Prairie du Sac,Sauk,Wisconsin,29,43.309932,-89.727778,Hydroelectric
+Alexander,Merrill,Lincoln,Wisconsin,4.2,45.1875,-89.7553,Hydroelectric
+Caldron Falls,Town of Stephenson,Marinette,Wisconsin,6.8,45.3569,-88.2306,Hydroelectric
+Grandfather Falls,Irma,Lincoln,Wisconsin,17.2,45.3019,-89.7917,Hydroelectric
+Hat Rapids,Rhinelander,Oneida,Wisconsin,1.7,45.5711,-89.4806,Hydroelectric
+High Falls (WI),Town of Stephenson,Marinette,Wisconsin,7,45.2794,-88.199700000000007,Hydroelectric
+Johnson Falls,Town of Stephenson,Marinette,Wisconsin,3.4,45.2875,-88.1603,Hydroelectric
+Merrill,Merrill,Lincoln,Wisconsin,2.3,45.1786,-89.685,Hydroelectric
+Potato Rapids,Town of Porterfield,Marinette,Wisconsin,1.3,45.1136,-87.7586,Hydroelectric
+Sandstone Rapids,Town of Stephenson,Marinette,Wisconsin,3.8,45.2333,-88.0678,Hydroelectric
+Tomahawk,Tomahawk,Lincoln,Wisconsin,2.6,45.4411,-89.7306,Hydroelectric
+Wausau,Wausau,Marathon,Wisconsin,5.4,44.9575,-89.6367,Hydroelectric
+Castle Rock,Adams,Adams,Wisconsin,13.6,43.8656,-89.9514,Hydroelectric
+Petenwell,Necedah,Juneau,Wisconsin,20.5,44.0572,-90.0217,Hydroelectric
+Little Chute,Combined Locks,Outagamie,Wisconsin,3.3,44.279897,-88.25558,Hydroelectric
+New Badger,Kaukauna,Outagamie,Wisconsin,8,44.2772,-88.2678,Hydroelectric
+Rapide Croche,Kaukana,Outagamie,Wisconsin,2.4,44.3164,-88.3147,Hydroelectric
+Flambeau Hydroelectric Station,Ladysmith,Rusk,Wisconsin,22.6,45.491826,-91.047211,Hydroelectric
+Stiles,Oconto Falls,Oconto,Wisconsin,0.6,44.8747,-88.1586,Hydroelectric
+Fremont Canyon,Alcova,Natrona,Wyoming,66.8,42.4766,-106.795901,Hydroelectric
+Glendo,Glendo,Platte,Wyoming,38,42.467254,-104.955526,Hydroelectric
+Guernsey,Guernsey,Platte,Wyoming,6.4,42.289868,-104.760634,Hydroelectric
+Kortes,Sinclair,Carbon,Wyoming,36.6,42.174301,-106.880543,Hydroelectric
+Seminoe,Sinclair,Carbon,Wyoming,51.6,42.156127,-106.908483,Hydroelectric
+Shoshone (WY),Cody,Park,Wyoming,3,44.502897,-109.181228,Hydroelectric
+Fontenelle,Le Barge,Lincoln,Wyoming,11.2,42.027013,-110.063973,Hydroelectric
+Combined Locks,Combined Locks,Outagamie,Wisconsin,6.2,44.273511,-88.300548,Hydroelectric
+Island Park,Island Park,Fremont,Idaho,4.8,44.418293,-111.395971,Hydroelectric
+PHP 1,Sandy,Multnomah,Oregon,24,45.481708,-122.083188,Hydroelectric
+PHP 2,Sandy,Clackamas,Oregon,13.5,45.448977,-122.151257,Hydroelectric
+Greenup Hydro,Franklin Furnace,Scioto,Ohio,70.2,38.6472,-82.8594,Hydroelectric
+Echo Dam,Echo,Summit,Utah,4.4,40.964828,-111.433937,Hydroelectric
+Racine,Racine,Meigs,Ohio,20,38.9153,-81.9081,Hydroelectric
+Sherman,Rowe,Franklin,Massachusetts,6.1,42.7297,-72.9303,Hydroelectric
+Deerfield 2,Conway,Franklin,Massachusetts,6.6,42.573084,-72.707274,Hydroelectric
+Deerfield 3,Buckland,Franklin,Massachusetts,6,42.5995,-72.7335,Hydroelectric
+Cornell,Chippewa Falls,Chippewa,Wisconsin,19.9,45.164024,-91.157427,Hydroelectric
+Deerfield 4,Buckland,Franklin,Massachusetts,6,42.6198,-72.7376,Hydroelectric
+Amistad Dam & Power,Del Rio,Val Verde,Texas,58,29.449827,-101.06011,Hydroelectric
+Jones Bluff,Selma,Autauga,Alabama,82,32.324242,-86.784319,Hydroelectric
+West Point (GA),West Point,Troup,Georgia,87,32.918674,-85.1887,Hydroelectric
+Ozark,Ozark,Franklin,Arkansas,115,35.4693,-93.8175,Hydroelectric
+New Melones,Jamestown,Tuolumne,California,382,37.946927,-120.528211,Hydroelectric
+Crystal,Montrose,Montrose,Colorado,35,38.510573,-107.625335,Hydroelectric
+Grand Coulee,Grand Coulee,Grant,Washington,6765,47.957511,-118.977323,Hydroelectric
+Laurel Dam,London,Laurel,Kentucky,61,36.9614,-84.27,Hydroelectric
+Libby,Libby,Lincoln,Montana,525,48.4098,-115.3143,Hydroelectric
+Lost Creek,Trail,Jackson,Oregon,49,42.6717,-122.6772,Hydroelectric
+Lower Granite,Pomeroy,Whitman,Washington,802,46.659503,-117.429385,Hydroelectric
+Harris Dam,Lineville,Randolph,Alabama,133,33.258281,-85.616047,Hydroelectric
+W E Warne,Gorman,Los Angeles,California,76,34.6853,-118.7881,Hydroelectric
+Rock Island,Wenatchee,Chelan,Washington,503.2,47.346111,-120.0917,Hydroelectric
+Ross,Rockport,Whatcom,Washington,450,48.732577,-121.06788,Hydroelectric
+Tacoma,Durango,La Plata,Colorado,4.6,37.52372,-107.782786,Hydroelectric
+Ames Hydro,Ophir,San Miguel,Colorado,3.6,37.866,-107.8831,Hydroelectric
+Apple River,Somerset,St Croix,Wisconsin,1.4,45.157552,-92.716214,Hydroelectric
+Swift 2,Cougar,Cowlitz,Washington,65,46.0594,-122.2594,Hydroelectric
+Ozark Beach,Forsyth,Taney,Missouri,16,36.658995,-93.1235,Hydroelectric
+Cooper Lake,Cooper Landing,Kenai Peninsula,Alaska,19.4,60.392331,-149.665603,Hydroelectric
+Purple Lake,Metlakatla,Prince of Wales Ketchikan,Alaska,3.9,55.091263,-131.544978,Hydroelectric
+Felt,Felt,Teton,Idaho,5.9,43.913476,-111.283319,Hydroelectric
+Dwight,Chicopee,Hampden,Massachusetts,1.2,42.149497,-72.610949,Hydroelectric
+Indian Orchard,Indian Orchard,Hampden,Massachusetts,3.7,42.160954,-72.507631,Hydroelectric
+Turners Falls,Montague,Franklin,Massachusetts,6.4,42.608042,-72.561458,Hydroelectric
+Strawberry Creek,Bedford,Lincoln,Wyoming,1.5,42.905142,-110.893422,Hydroelectric
+Swift Creek,Afton,Lincoln,Wyoming,1.7,42.728439,-110.916592,Hydroelectric
+Anderson Ranch,Mountain Home,Elmore,Idaho,40,43.357066,-115.451517,Hydroelectric
+Black Canyon,Emmet,Gem,Idaho,10.2,43.930462,-116.437172,Hydroelectric
+Boise R Diversion,Boise,Ada,Idaho,3.3,43.537685,-116.093756,Hydroelectric
+Minidoka,Rupert,Minidoka,Idaho,27.7,42.669899,-113.483175,Hydroelectric
+Canyon Ferry,Helena,Lewis and Clark,Montana,57.6,46.649026,-111.727874,Hydroelectric
+Elephant Butte,Truth or Consequences,Sierra,New Mexico,27.9,33.153358,-107.191973,Hydroelectric
+Green Springs,Columbia Falls,Jackson,Oregon,17.2,42.121168,-122.547896,Hydroelectric
+Deer Creek (UT),Heber,Wasatch,Utah,5.4,40.404354,-111.528446,Hydroelectric
+Flaming Gorge,Dutch John,Daggett,Utah,151.8,40.914646,-109.421662,Hydroelectric
+Chandler,Benton City,Benton,Washington,12,46.26678,-119.589821,Hydroelectric
+Roza,Yakima,Yakima,Washington,12.9,46.618413,-120.477759,Hydroelectric
+Heart Mountain,Cody,Park,Wyoming,5,44.513767,-109.129588,Hydroelectric
+Alcova,Alcova,Natrona,Wyoming,41.4,42.548412,-106.717536,Hydroelectric
+Falcon Dam & Power,Falcon Heights,Starr,Texas,30.5,26.5575,-99.1642,Hydroelectric
+Sam Rayburn Dam,Jasper,Jasper,Texas,52,31.060893,-94.1062,Hydroelectric
+Whitney,Clifton,Bosque,Texas,42,31.8694,-97.3667,Hydroelectric
+Broken Bow Dam,Broken Bow,McCurtain,Oklahoma,115,34.138779,-94.684498,Hydroelectric
+Denison,Denison,Grayson,Texas,80,33.8181,-96.5692,Hydroelectric
+Center Hill,Lancaster,DeKalb,Tennessee,154,36.0972,-85.8274,Hydroelectric
+Cheatham,Ashland City,Dickson,Tennessee,41.4,36.3208,-87.2219,Hydroelectric
+Eufaula Dam,Porum,Haskell,Oklahoma,103.5,35.3069,-95.3572,Hydroelectric
+Lemolo 2,Toketee Falls,Douglas,Oregon,38.5,43.280611,-122.40248,Hydroelectric
+Madison Dam,Ennis,Madison,Montana,8,45.487869,-111.633807,Hydroelectric
+Chelan,Wenatchee,Chelan,Washington,62.1,47.8347,-120.0133,Hydroelectric
+Cedar Falls (WA),North Bend,King,Washington,30,47.4193,-121.781858,Hydroelectric
+Gorge,Rockport,Whatcom,Washington,193,48.698056,-121.208611,Hydroelectric
+Diablo,Rockport,Whatcom,Washington,182.4,48.713853,-121.131736,Hydroelectric
+Boundary,Metaline,Pend Oreille,Washington,1103.8,48.987111,-117.347847,Hydroelectric
+Queens Creek,Topton,Macon,North Carolina,1.4,35.27127,-83.676016,Hydroelectric
+Wilson Dam,Muscle Shoals,Lauderdale,Alabama,667.5,34.79782,-87.62537,Hydroelectric
+Azusa,Azusa,Los Angeles,California,2,34.1548,-117.9093,Hydroelectric
+Proctor,Proctor,Rutland,Vermont,6.5,43.662775,-73.034023,Hydroelectric
+Beldens,New Haven,Addison,Vermont,4.4,44.0525,-73.1762,Hydroelectric
+Carver Falls,Hampton,Washington,New York,1.9,43.6262,-73.3073,Hydroelectric
+Big Fork,Big Fork,Flathead,Montana,4.6,48.0592,-114.0708,Hydroelectric
+Gorge 18,South Burlington,Chittenden,Vermont,3,44.489997,-73.169312,Hydroelectric
+San Francisquito 1,Saugus,Los Angeles,California,63.3,34.590183,-118.454676,Hydroelectric
+San Francisquito 2,Saugus,Los Angeles,California,39.3,34.534337,-118.525113,Hydroelectric
+Mcindoes,Barnet,Caledonia,Vermont,10.2,44.2603,-72.0592,Hydroelectric
+Bend,Bend,Deschutes,Oregon,1,44.062326,-121.313331,Hydroelectric
+Mill C,Town of Plattsburgh,Clinton,New York,6,44.6967,-73.6122,Hydroelectric
+Oak Grove,Estacada,Clackamas,Oregon,44,45.122009,-122.06987,Hydroelectric
+Moyie Springs,Moyie Springs,Boundary,Idaho,4.3,48.7339,-116.1752,Hydroelectric
+Drop 2 (WA),Wapato,Yakima,Washington,2.1,46.4492,-120.5342,Hydroelectric
+Drop 3 (WA),Wapato,Yakima,Washington,1,46.423133,-120.559997,Hydroelectric
+Fleish,Fleish,Washoe,Nevada,2.5,39.2851,-119.5933,Hydroelectric
+Keowee,Seneca,Pickens,South Carolina,152,34.7981,-82.887200000000007,Hydroelectric
+Waterbury 22,Waterbury,Washington,Vermont,5,44.38126,-72.76769,Hydroelectric
+Lahontan,Fallon,Churchill,Nevada,1.8,39.4625,-119.0667,Hydroelectric
+Rainbow Falls Auscble,Town of Auscble,Clinton,New York,2.6,44.5236,-73.4617,Hydroelectric
+E J West,Lake Luzerne,Saratoga,New York,20.6,43.318906,-73.920785,Hydroelectric
+Searsburg,Searsburg,Bennington,Vermont,4.5,42.87084,-72.92732,Hydroelectric
+Verdi,Verdi,Washoe,Nevada,2.1,39.3125,-119.585,Hydroelectric
+Washoe,Verdi,Washoe,Nevada,1.8,39.3022,-119.5604,Hydroelectric
+Little Cottonwood,Sandy,Salt Lake,Utah,4.8,40.584985,-111.800605,Hydroelectric
+Dam No. 4 Hydro Station,Shepherdstown,Jefferson,West Virginia,1.9,39.493056,-77.826944,Hydroelectric
+Dam No. 5 Hydro Station,Hedgesville,Berkeley,West Virginia,1,39.605,-77.923055,Hydroelectric
+Millville Hydro Station,Millville,Jefferson,West Virginia,2.4,39.273056,-77.784444,Hydroelectric
+Foster,Foster,Linn,Oregon,20,44.4146,-122.6712,Hydroelectric
+London,Handley,Kanawha,West Virginia,14.4,38.1944,-81.3706,Hydroelectric
+Marmet,Marmet,Kanawha,West Virginia,14.4,38.2526,-81.5695,Hydroelectric
+Winfield,Winfield,Putnam,West Virginia,18.7,38.5274,-81.91392,Hydroelectric
+Beaver Falls,Ketchikan,Ketchikan Gateway,Alaska,5.4,55.37975,-131.470269,Hydroelectric
+Silvis,Ketchikan,Ketchikan Gateway,Alaska,2.1,55.381402,-131.517758,Hydroelectric
+Toledo Bend,Burkville,Newton,Texas,80,31.173484,-93.565877,Hydroelectric
+Union Valley,Fresh Pond,El Dorado,California,38.6,38.86429,-120.444335,Hydroelectric
+Highgate Falls,Highgate,Franklin,Vermont,9.7,44.933611,-73.051111,Hydroelectric
+Fort Peck,Fort Peck,McCone,Montana,218,48.0122,-106.4123,Hydroelectric
+Gavins Point,Yankton,Cedar,Nebraska,102,42.848829,-97.481479,Hydroelectric
+Lake Lynn Hydro Station,Lake Lynn,FAYETTE,Pennsylvania,52,39.720278,-79.856111,Hydroelectric
+Greg Avenue,Sun Valley,Los Angeles,California,1,34.20795,-118.3516,Hydroelectric
+Lake Mathews,Riverside,Riverside,California,4.9,33.8553,-117.4537,Hydroelectric
+Foothill Feeder,Castaic,Los Angeles,California,7.1,34.5148,-118.6092,Hydroelectric
+San Dimas,San Dimas,Los Angeles,California,9.9,34.1275,-117.7958,Hydroelectric
+Yorba Linda,Yorba Linda,Orange,California,5.1,33.9117,-117.8192,Hydroelectric
+Pelican,Pelican,Skagway Hoonah Angoon,Alaska,0.6,57.957197,-136.220095,Hydroelectric
+St Stephen,St. Stephen,Berkeley,South Carolina,84,33.4261,-79.93,Hydroelectric
+Lower No 1,Idaho Falls,Bonneville,Idaho,8,43.468679,-112.062499,Hydroelectric
+Unit 4,Mt Pleasent,Sanpete,Utah,1.3,39.544108,-111.418727,Hydroelectric
+Hydro II,Logan,Cache,Utah,6.2,41.743728,-111.783169,Hydroelectric
+Ellis Hydro,Van Buren,Crawford,Arkansas,17,35.351361,-94.294349,Hydroelectric
+Humpback Creek,Cordova,Valdez Cordova,Alaska,1,60.612822,-145.679411,Hydroelectric
+Wrightsville Hydro Plant,Montpelier,Washington,Vermont,0.7,44.309693,-72.575305,Hydroelectric
+Bolton Falls,Duxbury,Washington,Vermont,7.8,44.359381,-72.81673,Hydroelectric
+Stampede,Truckee,Sierra,California,3.6,39.470447,-120.10455,Hydroelectric
+Mojave Siphon,Hesperia,San Bernardino,California,32.4,34.307444,-117.323548,Hydroelectric
+Upper Salmon B,Hagerman,Twin Falls,Idaho,17.2,42.766397,-114.908236,Hydroelectric
+PEC Headworks,Moses Lake,Grant,Washington,6.6,47.159553,-119.896306,Hydroelectric
+Hoist,Negaunee,Marquette,Michigan,2,46.5628,-87.5686,Hydroelectric
+McClure Dam,Marquette,Marquette,Michigan,5.8,46.5717,-87.4764,Hydroelectric
+Cataract (MI),Gwinn,Marquette,Michigan,0.6,46.3156,-87.5128,Hydroelectric
+Wynoochee,Montesano,Grays Harbor,Washington,15.5,47.385072,-123.605225,Hydroelectric
+William F Matson Generating Station,Huntingdon,Huntingdon,Pennsylvania,8.4,40.432915,-78.002887,Hydroelectric
+Thermalito Diverson Dam,Oroville,Butte,California,3,39.528749,-121.546359,Hydroelectric
+Pine View Dam,Ogden,Weber,Utah,1.8,41.254331,-111.848525,Hydroelectric
+Whillock,Morrilton,Conway,Arkansas,17,35.127591,-92.790273,Hydroelectric
+Mill Creek 3,Mill Creek,San Bernardino,California,3,34.088019,-117.039539,Hydroelectric
+Stony Gorge,Elk Creek,Glenn,California,5,39.586864,-122.533248,Hydroelectric
+Murray,North Little Rock,Pulaski,Arkansas,42.4,34.7956,-92.3569,Hydroelectric
+Chester Lake,Metlakatla,Prince of Wales Ketchikan,Alaska,1.2,55.116879,-131.545879,Hydroelectric
+Headgate Rock,Parker,La Paz,Arizona,19.5,34.168264,-114.277356,Hydroelectric
+Whiskeytown,Whiskeytown,Shasta,California,3.5,40.597617,-122.538683,Hydroelectric
+Milner Hydro,Murtaugh,Cassia,Idaho,61.1,42.526786,-114.036889,Hydroelectric
+Tallassee Hydro Project,Clarke,Clarke,Georgia,2.1,33.989153,-83.498448,Hydroelectric
+Robert D Willis,Jasper,Jasper,Texas,8,30.7975,-94.1756,Hydroelectric
+Black Butte,Orland,Tehama,California,6.1,39.814905,-122.332335,Hydroelectric
+Tesla,Colorado Springs,El Paso,Colorado,28,38.973655,-104.901141,Hydroelectric
+Dam 2,Dumas,Desha,Arkansas,35,33.986501,-91.315788,Hydroelectric
+Skookumchuck,Tenino,Thurston,Washington,1,46.7844,-122.7197,Hydroelectric
+O'Shaughnessy Hydro,Dublin,Delaware,Ohio,5.2,40.153328,-83.126719,Hydroelectric
+Buffalo Bill,Cody,Park,Wyoming,18,44.508169,-109.170661,Hydroelectric
+Grizzly,N/A,Plumas,California,17.7,39.889287,-121.279173,Hydroelectric
+Bradley Lake,Homer,Kenai Peninsula,Alaska,126,59.77862,-150.94015,Hydroelectric
+McPhee,Cortez,Montezuma,Colorado,1.2,37.57522,-108.574002,Hydroelectric
+Towaoc,Cortez,Montezuma,Colorado,11.4,37.429538,-108.574871,Hydroelectric
+Gonzales Hydro Plant,Gonzales,Gonzales,Texas,0.9,29.497166,-97.45516,Hydroelectric
+Cowlitz Falls,Randle,Lewis,Washington,70,46.4661,-122.1097,Hydroelectric
+Dalles Dam North Fishway Project,The Dalles,Wasco,Oregon,5,45.614375,-121.136885,Hydroelectric
+Basalt,Aspen,Eagle,Colorado,4.5,39.363056,-106.821944,Hydroelectric
+Upper Sterling,Rock Falls,Whiteside,Illinois,2,41.787115,-89.677526,Hydroelectric
+Lake Mendocino,Ukiah,Mendocino,California,3.5,39.197222,-123.185556,Hydroelectric
+Deadwood Creek,Dobbins,Yuba,California,1.9,39.53,-121.095833,Hydroelectric
+Stone Creek,Estacada,Clackamas,Oregon,7,45.081111,-121.886611,Hydroelectric
+McNary Dam Fish Attraction Project,Plymouth,Benton,Washington,9,45.940034,-119.299078,Hydroelectric
+Spirit Mountain,Cody,Park,Wyoming,4.5,44.512699,-109.129878,Hydroelectric
+Kaw Hydro,Ponca City,Kay,Oklahoma,29.6,36.6994,-96.9278,Hydroelectric
+Causey,South Fork,Weber,Utah,2.1,41.297229,-111.588849,Hydroelectric
+Talcville,Edwards,St Lawrence,New York,0.8,44.3083,-75.3083,Hydroelectric
+H M Jackson,Sultan,Snohomish,Washington,96,47.9084,-121.8144,Hydroelectric
+El Vado Dam,Tierra Amarilla,Rio Arriba,New Mexico,8,36.592775,-106.73213,Hydroelectric
+Belleville Dam,Belleville,Wood,West Virginia,42,39.1192,-81.7375,Hydroelectric
+Monticello Dam,Winters,Solano,California,11.5,38.513056,-122.104444,Hydroelectric
+Auglaize Hydro,Bryan,Defiance,Ohio,4.5,41.237206,-84.399756,Hydroelectric
+Goat Lake Hydro,Skagway,Skagway Hoonah Angoon,Alaska,4,59.5357,-135.2123,Hydroelectric
+Black Bear Lake,Craig,Prince of Wales Ketchikan,Alaska,4.5,55.476472,-133.14772,Hydroelectric
+Abiquiu Dam,Abiquiu,Rio Arriba,New Mexico,16.8,36.239886,-106.423043,Hydroelectric
+Hamilton Hydro,HAMILTON,Butler,Ohio,2,39.4128,-84.5558,Hydroelectric
+Big Quinnesec 92,Iron Mountain,Dickinson,Michigan,16,45.7881,-88.0408,Hydroelectric
+Big Quinnesec 61,Iron Mountain,Dickinson,Michigan,4.4,45.7883,-88.0415,Hydroelectric
+Kaukauna City Hydro,Kaukauna,Outagamie,Wisconsin,4.8,44.274582,-88.319074,Hydroelectric
+Power Creek,Cordova,Valdez Cordova,Alaska,5.6,60.588686,-145.604539,Hydroelectric
+Snoqualmie 2,Snoqualmie,King,Washington,33.6,47.5445,-121.8414,Hydroelectric
+Pine Flat,Piedra,Fresno,California,165,36.8326,-119.327,Hydroelectric
+Kern Canyon,Bakersfield,Kern,California,11.5,35.44072,-118.796498,Hydroelectric
+Diamond Valley Lake,Winchester,Riverside,California,29.7,33.6808,-117.0698,Hydroelectric
+Fife Brook,Florida,Berkshire,Massachusetts,11.2,42.685681,-72.977634,Hydroelectric
+Hoover Dam (AZ),Boulder City,Mohave,Arizona,1039.7,36.01551,-114.738006,Hydroelectric
+Monroe Street,Spokane,Spokane,Washington,15,47.653611,-117.420556,Hydroelectric
+Upper Falls,Spokane,Spokane,Washington,10.2,47.654444,-117.418889,Hydroelectric
+Newhalem,Rockport,Whatcom,Washington,2.3,48.675944,-121.240826,Hydroelectric
+Cabot Holyoke,Holyoke,Hampden,Massachusetts,2.1,42.2,-72.61,Hydroelectric
+Lucky Peak Power Plant Project,Boise,Ada,Idaho,83,43.528,-116.0583,Hydroelectric
+Hillsborough Hosiery,Hillsboro,Hillsborough,New Hampshire,1.2,43.11391,-71.894001,Hydroelectric
+Little Mac Project,Buhl,Twin Falls,Idaho,1.5,42.629637,-114.66162,Hydroelectric
+Lockville Hydropower,Moncure,Chatham,North Carolina,1.2,35.6184,-79.0912,Hydroelectric
+General Electric Great Falls Upper Hydro,Somersworth,Strafford,New Hampshire,2.1,43.2597,-70.8597,Hydroelectric
+Derby Hydro,Shelton,Fairfield,Connecticut,8.6,41.324308,-73.102111,Hydroelectric
+Lockwood Hydroelectric Facility,Waterville,Kennebec,Maine,6.4,44.5467,-69.6292,Hydroelectric
+Foothills Hydro Plant,Littleton,Douglas,Colorado,3.1,39.4588,-105.0657,Hydroelectric
+Strontia Springs Hydro Plant,Littleton,Douglas,Colorado,1,39.4326,-105.1263,Hydroelectric
+Stevens Mills Dam,Franklin,Merrimack,New Hampshire,2,43.446107,-71.644646,Hydroelectric
+Hampshire Paper,Gouverneur,St Lawrence,New York,1.8,44.296544,-75.36645,Hydroelectric
+High Shoals Hydro (GA),High Shoals,Morgan,Georgia,1.4,33.816547,-83.504932,Hydroelectric
+Hollow Dam Power Partnership,Gouveneur,St Lawrence,New York,0.6,44.296453,-75.336142,Hydroelectric
+Gosselin Hydro Plant,Ruth,Trinity,California,0.2,40.37,-123.4347,Hydroelectric
+Deweys Mill,White River Jct.,Windsor,Vermont,2.9,43.6411,-72.4061,Hydroelectric
+South Dry Creek Hydro,Red Lodge,Carbon,Montana,2,45.206341,-109.1652,Hydroelectric
+Isabella Hydro Project,Lake Isabella,Kern,California,11.8,35.6439,-118.4822,Hydroelectric
+Birch Creek Power,Terreton,Clark,Idaho,2.6,44.027444,-112.719439,Hydroelectric
+Warrior Ridge Hydro,Petersburg,Huntingdon,Pennsylvania,2.8,40.540042,-78.034628,Hydroelectric
+Brasfield,Petersburg,Chesterfield,Virginia,2.9,37.220833,-77.524504,Hydroelectric
+Whitewater Hydro Plant,California,Riverside,California,1.3,33.934725,-116.640548,Hydroelectric
+Cherokee Falls,Blacksburg,Cherokee,South Carolina,1,35.0642,-81.5458,Hydroelectric
+Metropolitan Sewerage District,Asheville,Buncombe,North Carolina,2.4,35.6497,-82.5992,Hydroelectric
+Mine Falls Generating Station,Nashua,Hillsborough,New Hampshire,3.2,42.750278,-71.505278,Hydroelectric
+Anson Abenaki Hydros,Madison,Somerset,Maine,25.1,44.7975,-69.8867,Hydroelectric
+Moose River,Lyons Falls,Lewis,New York,12.3,43.610664,-75.341325,Hydroelectric
+Philadlephia,Village of Philadelph,Jefferson,New York,3.3,44.158611,-75.708778,Hydroelectric
+Lower Saranac Hydroelectric Facility,Plattsburgh,Clinton,New York,6.3,44.6694,-73.5075,Hydroelectric
+Warrensburg Hydroelectric,Warrensburg,Warren,New York,2.9,43.4833,-73.7986,Hydroelectric
+Middle Falls Hydro,Middle Falls,Washington,New York,2.2,43.098711,-73.525271,Hydroelectric
+Sissonville Hydro,Potsdam,St Lawrence,New York,3,44.685589,-75.002868,Hydroelectric
+New York State Dam Hydro,Waterford,Saratoga,New York,11.4,42.781779,-73.696096,Hydroelectric
+Tulare Success Power Project,Porterville,Tulare,California,1.4,36.058635,-118.924097,Hydroelectric
+Diana Hydroelectric,Harrisville,Lewis,New York,1.6,44.151944,-75.321725,Hydroelectric
+Dolgeville Hydro,Dolgeville,Herkimer,New York,2.6,43.090635,-74.766961,Hydroelectric
+Haypress,Sierra City,Sierra,California,10,39.565677,-120.581684,Hydroelectric
+West Enfield Hydro,West Enfield,Penobscot,Maine,9.5,45.2497,-68.6483,Hydroelectric
+Haw River Hydro,Saxapahaw,Alamance,North Carolina,1.5,35.9483,-79.3244,Hydroelectric
+Clement Dam Hydro LLC,Tilton,Belknap,New Hampshire,2.3,43.440538,-71.595975,Hydroelectric
+Kansas River Project,Lawrence,Douglas,Kansas,7,38.974022,-95.235078,Hydroelectric
+Big Creek Water Works,Hyampom,Trinity,California,4.8,40.646733,-123.498008,Hydroelectric
+Townsend Hydro,New Brighton,Beaver,Pennsylvania,4.2,40.733545,-80.314795,Hydroelectric
+Cornell Hydro,Ithaca,Tompkins,New York,1.6,42.451922,-76.485092,Hydroelectric
+South Forks Hydro,Hansen,Twin Falls,Idaho,8,42.4937,-114.3102,Hydroelectric
+Copper Dam Plant,Hood River,Hood River,Oregon,1,45.66523,-121.523761,Hydroelectric
+Peters Drive Plant,Hood River,Hood River,Oregon,0.3,45.66764,-121.548455,Hydroelectric
+Mink Creek Hydro,Preston,Franklin,Idaho,2,42.260844,-111.665589,Hydroelectric
+Kalaheo Hydro,Kalaheo,Kauai,Hawaii,2,21.936075,-159.528581,Hydroelectric
+Wainiha Hydro,Hanalei,Kauai,Hawaii,3.4,22.196292,-159.556142,Hydroelectric
+Dillon Hydro Plant,Summit,Summit,Colorado,1.8,39.6208,-106.0662,Hydroelectric
+Williams Fork Hydro Plant,Parshall,Grand,Colorado,3.5,40.035,-106.2053,Hydroelectric
+North Fork Hydro Plant,Grant,Park,Colorado,5.5,39.4616,-105.677,Hydroelectric
+Gross Hydro Plant,Boulder,Jefferson,Colorado,7.8,39.9456,-105.3565,Hydroelectric
+LAC Courte Oreilles Hydroelect,Winter,Sawyer,Wisconsin,3.2,45.888333,-91.076944,Hydroelectric
+Muck Valley Hydroelectric,NA,LASSEN,California,29.9,40.976389,-121.255833,Hydroelectric
+Fourth Branch Hydroelectric Facility,Waterford,Saratoga,New York,3.3,42.787575,-73.691676,Hydroelectric
+International Falls Power,International Falls,Koochiching,Minnesota,14.2,48.608054,-93.404313,Hydroelectric
+Upper Beaver Falls Project,Beaver Falls,Lewis,New York,1.5,43.883611,-75.428056,Hydroelectric
+Rumford Falls Hydro Facility,Rumford,Oxford,Maine,44.5,44.5486,-70.6283,Hydroelectric
+Sheldon Springs Hydroelectric,Sheldon Springs,Franklin,Vermont,24,44.9108,-72.9736,Hydroelectric
+Milton Hydro,Milton,Strafford,New Hampshire,0.7,43.403087,-70.98647,Hydroelectric
+Dayton Hydro,Ottawa,LaSalle,Illinois,3.6,41.387792,-88.789656,Hydroelectric
+Benton Falls Associates,Benton,Kennebec,Maine,4,44.580175,-69.55452,Hydroelectric
+Dodge Falls Associates,Bath,Grafton,New Hampshire,5,44.2081,-72.0581,Hydroelectric
+Feeder Dam Hydro Plant,S. Glen Falls,Saratoga,New York,4.7,43.289874,-73.665834,Hydroelectric
+Beebee Island Hydro Plant,Watertown,Jefferson,New York,8.6,43.9767,-75.9072,Hydroelectric
+Dexter Plant,Dexter,Jefferson,New York,4,44.003984,-76.041277,Hydroelectric
+Theresa Plant,Theresa,Jefferson,New York,1.3,44.21742,-75.795173,Hydroelectric
+Diamond Island Plant,Watertown,Jefferson,New York,1.2,43.978626,-75.886102,Hydroelectric
+Hailesboro 4 Plant,Hailesboro,St Lawrence,New York,1.4,44.311681,-75.444992,Hydroelectric
+Copenhagen Plant,Copenhagen,Lewis,New York,3.1,43.899745,-75.660268,Hydroelectric
+Beaver Valley Patterson Dam,Beaver Falls,Beaver,Pennsylvania,1.2,40.744105,-80.317839,Hydroelectric
+Pyrites Plant,Pyrites,St Lawrence,New York,7.7,44.522043,-75.188108,Hydroelectric
+High Shoals Hydro (NC),High Shoals,Lincoln,North Carolina,1.8,35.394254,-81.201002,Hydroelectric
+Brassua Hydroelectric Project,Rockwood,Somerset,Maine,3.6,45.6603,-69.812168,Hydroelectric
+Boott Hydropower,Lowell,Middlesex,Massachusetts,21.7,42.652454,-71.322383,Hydroelectric
+Errol Hydroelectric Project,Errol,Coos,New Hampshire,3,44.786648,-71.12433,Hydroelectric
+Gilman Mill,Gilman,Essex,Vermont,4.3,44.4122,-71.7228,Hydroelectric
+French Paper Hydro,Niles,Berrien,Michigan,1.2,41.8203,-86.2592,Hydroelectric
+Black River Hydro Associates,Port Layden,Lewis,New York,5.4,43.591246,-75.344207,Hydroelectric
+Pepperell Hydro Power Plant,Pepperell,Middlesex,Massachusetts,2.2,42.668889,-71.575556,Hydroelectric
+Burney Creek,Burney,Shasta,California,3,40.8579,-121.7225,Hydroelectric
+Cove Hydroelectric,Burney,Shasta,California,5,40.8713,-121.9487,Hydroelectric
+Lost Creek I,Burney,Shasta,California,1.1,40.7576,-121.4145,Hydroelectric
+Ponderosa Bailey Creek,Manton,Tehama,California,1.1,40.4579,-121.8427,Hydroelectric
+Barker Lower,Auburn,Androscoggin,Maine,1.5,44.0867,-70.2297,Hydroelectric
+Barber Dam,Boise,Ada,Idaho,4,43.561001,-116.121269,Hydroelectric
+Sprague Hydro,Bly,Klamath,Oregon,1,42.50136,-120.98944,Hydroelectric
+Magic Dam Hydroelectric Project,Shoshone,Blaine,Idaho,8.7,43.2547,-114.3569,Hydroelectric
+Lachute Hydro Lower,Ticonderoga,Essex,New York,3.6,43.849029,-73.420701,Hydroelectric
+Lachute Hydro Upper,Ticonderoga,Essex,New York,4.9,43.843869,-73.431207,Hydroelectric
+Koyle Ranch Hydroelectric Project,Gooding,Gooding,Idaho,1.3,42.945664,-114.795698,Hydroelectric
+Piedmont Hydro Power Project,Piedmont,Greenville,South Carolina,1,34.702021,-82.462102,Hydroelectric
+Fries Hydroelectric Project,Fries,Grayson,Virginia,5,36.715103,-80.985621,Hydroelectric
+Pelzer Upper,Petzer,Anderson,South Carolina,1.9,34.642371,-82.45444,Hydroelectric
+Pelzer Lower,Williamston,Anderson,South Carolina,3.1,34.616522,-82.447913,Hydroelectric
+Ware Shoals Hydro Project,Ware Shoals,Laurens,South Carolina,6,34.404006,-82.233581,Hydroelectric
+Crystal Springs,Filer,Twin Falls,Idaho,2,42.622513,-114.50093,Hydroelectric
+Dietrich Drop,Shoshone,Lincoln,Idaho,4.8,42.836046,-114.267952,Hydroelectric
+Low Line Rapids,Kimberly,Twin Falls,Idaho,2.7,42.47711,-114.380118,Hydroelectric
+Rock Creek II,Twin Falls,Twin Falls,Idaho,1.8,42.620724,-114.531489,Hydroelectric
+Port Leyden Hydroelectric Project,Port Leyden,Lewis,New York,1,43.583611,-75.339167,Hydroelectric
+Oakdale Power Station,West Boylston,Worcester,Massachusetts,3,42.38697,-71.802462,Hydroelectric
+Cosgrove Intake and Power Station,Clinton,Worcester,Massachusetts,2,42.40439,-71.687218,Hydroelectric
+Walden,Walden,Orange,New York,2.3,41.55998,-74.195154,Hydroelectric
+Center Falls,Greenwich,Washington,New York,0.8,43.096677,-73.460172,Hydroelectric
+Kings Falls Hydroelectric,Copenhagen,Lewis,New York,0.2,43.917267,-75.633822,Hydroelectric
+Bidwell Ditch Project,Hat Creek,Shasta,California,1.8,40.8014,-121.4481,Hydroelectric
+Roaring Creek Water Power,Montgomery Creek,Shasta,California,2,40.882061,-121.948353,Hydroelectric
+Hatchet Creek Project,Montgomery Creek,Shasta,California,6.8,40.874144,-121.920428,Hydroelectric
+Victory Mills,Victory Mills,Cayuga,New York,1.6,42.9197,-76.5477,Hydroelectric
+Lockport Powerhouse,Lockport,Will,Illinois,12,41.5697,-88.0789,Hydroelectric
+Glen Ferris Hydro,Gauley Bridge,Fayette,West Virginia,6.2,38.1483,-81.2147,Hydroelectric
+Hawks Nest Hydro,Gauley Bridge,Fayette,West Virginia,96.8,38.1478,-81.1753,Hydroelectric
+Mt Ida Hydroelectric,Troy,Rensselaer,New York,3,42.721326,-73.680608,Hydroelectric
+Valley Falls Hydroelectric Facility,Valley Falls,Rensselaer,New York,2.5,42.9044,-73.5625,Hydroelectric
+New Martinsville Hannibal Hydro,New Martinsville,Wetzel,West Virginia,19,39.6672,-80.8642,Hydroelectric
+Rio Bravo Hydro Project,Bakersfield,Kern,California,13.4,35.43,-118.8222,Hydroelectric
+International Paper Jay Hydro,Jay,Franklin,Maine,3.1,44.503704,-70.220971,Hydroelectric
+Santa Felicia Dam,Piru,Ventura,California,1.3,34.461667,-118.7511,Hydroelectric
+Goodyear Lake Plant,Oneonta,Otsego,New York,1.4,42.502473,-74.98356,Hydroelectric
+Otis Hydro,Livermore Falls,Franklin,Maine,10.2,44.477807,-70.200759,Hydroelectric
+International Paper Riley Hydro,Jay,Franklin,Maine,6.6,44.503431,-70.249137,Hydroelectric
+International Paper Livermore Hydro,Livermore Falls,Androscoggin,Maine,9.2,44.470511,-70.187333,Hydroelectric
+Sheep Creek Hydro,Northport,Stevens,Washington,1.6,48.947741,-117.795376,Hydroelectric
+Chateaugay High Falls Hydro,Chateaugay,Franklin,New York,1.6,44.909915,-74.085798,Hydroelectric
+China Mill Hydro,Allenstown,Merrimack,New Hampshire,1.7,43.128712,-71.459866,Hydroelectric
+Normanskill Hydro Project,Guilderland,Albany,New York,1.2,42.712356,-73.957324,Hydroelectric
+Ottauquechee Hydro,N. Hartland,Windsor,Vermont,1.7,43.5933,-72.3506,Hydroelectric
+Clear Lake Hydro Project,Clearlake,Lake,California,2.4,38.923556,-122.56668,Hydroelectric
+Indian Valley Dam Hydro Project,Clearlake Oaks,Lake,California,2.7,39.0788,-122.535556,Hydroelectric
+R E Badger Filtration Plant,Rancho Santa Fe,San Diego,California,1,33.051,-117.175,Hydroelectric
+Bear Creek,Shingletown,Shasta,California,3,40.534454,-121.959109,Hydroelectric
+Sanford Dam,Sanford,Midland,Michigan,3.6,43.6773,-84.3802,Hydroelectric
+Edenville,Edenville,Gladwin,Michigan,4.8,43.814,-84.3767,Hydroelectric
+Secord,Gladwin,Gladwin,Michigan,1.2,44.0411,-84.3418,Hydroelectric
+Smallwood,Gladwin,Gladwin,Michigan,1.2,43.9599,-84.336,Hydroelectric
+International Paper Woronoco Mill,Woronoco,Hampden,Massachusetts,2.5,42.163378,-72.827509,Hydroelectric
+Emporia,Emporia,Greensville,Virginia,2.5,36.696,-77.56,Hydroelectric
+Union Falls,Au Sable Forks,Clinton,New York,2.6,44.510739,-73.913079,Hydroelectric
+Blackstone/Tupperware,North Smithfield,Providence,Rhode Island,1.6,42.014467,-71.5444,Hydroelectric
+Halifax,Halifax,Halifax,Virginia,1.6,36.7817,-78.9236,Hydroelectric
+Box Canyon Dam,Mount Shasta,Siskiyou,California,5,41.2792,-122.3292,Hydroelectric
+Olsen,Whitmore,Shasta,California,4.8,40.670536,-121.890645,Hydroelectric
+Domtar Paper Company Rothschild,Rothschild,Marathon,Wisconsin,4.4,44.8867,-89.6272,Hydroelectric
+Vallecito Hydroelectric,Bayfield,La Plata,Colorado,5.8,37.377715,-107.578745,Hydroelectric
+Woodward Power Plant,Oakdale,Stanislaus,California,2.7,37.860653,-120.879153,Hydroelectric
+Frankenheimer Power Plant,Oakdale,Stanislaus,California,4,37.830378,-120.806972,Hydroelectric
+Nelson Creek,Big Bend,Shasta,California,0.5,41.028893,-121.892351,Hydroelectric
+Rocky Brook Hydroelectric,Brinnon,Jefferson,Washington,0.1,47.7197,-122.9431,Hydroelectric
+San Dimas Wash Generating Station,San Dimas,Los Angeles,California,1,34.124171,-117.805091,Hydroelectric
+Sartell Dam,Sartell,Benton,Minnesota,9.3,45.617996,-94.200786,Hydroelectric
+New Lahontan,Fallon,Churchill,Nevada,3.8,39.463569,-119.065227,Hydroelectric
+Redlands Water & Power,Grand Junction,Mesa,Colorado,1.4,39.067347,-108.592791,Hydroelectric
+Hewittville Hydroelectric,Norwood,St Lawrence,New York,2.2,44.705167,-75.007933,Hydroelectric
+Unionville Hydro Project 2499 NY,Norwood,St Lawrence,New York,2.2,44.714518,-74.996581,Hydroelectric
+Worumbo Hydro Station,Lisbon Falls,Androscoggin,Maine,9.2,43.994729,-70.061921,Hydroelectric
+Dahowa Hydro,Greenwich,Washington,New York,1.5,43.1033,-73.5369,Hydroelectric
+Lower Village Water Power Project,Claremont,Sullivan,New Hampshire,1.2,43.374292,-72.347603,Hydroelectric
+Passaic Valley Water Commission,Totowa,Passaic,New Jersey,2.4,40.883345,-74.22999,Hydroelectric
+Pembroke Hydro,Suncook,Merrimack,New Hampshire,0.6,43.130362,-71.453632,Hydroelectric
+Chasm Hydro Partnership,Chateaugay,Franklin,New York,1,44.9318,-74.1125,Hydroelectric
+Site 980 65,Madera,Madera,California,2.1,37.056803,-119.899706,Hydroelectric
+Marco Ranch,Jerome,Jerome,Idaho,1.2,42.636558,-114.557764,Hydroelectric
+Newfound Hydroelectric,Bristol,Grafton,New Hampshire,1.4,43.59,-71.73295,Hydroelectric
+Byllesby,Cannon Falls,Dakota,Minnesota,2.5,44.5119,-92.9394,Hydroelectric
+Gay Robinson,Kaumakani,Kauai,Hawaii,7.3,21.9178,-159.6294,Hydroelectric
+Forks of Butte Hydro Project,Magalia,Butte,California,14.5,39.869284,-121.631865,Hydroelectric
+Rolfe Canal Hydro,Penacook,Merrimack,New Hampshire,4.3,43.27456,-71.604027,Hydroelectric
+Nacimiento Hydro Project,Bradley,San Luis Obispo,California,4,35.798576,-120.883331,Hydroelectric
+Penacook Lower Falls,Boscawen,Merrimack,New Hampshire,4.6,43.285761,-71.594962,Hydroelectric
+Newport Hydro,Newport,Herkimer,New York,1.7,43.1853,-75.0169,Hydroelectric
+Michell Butte Power Project,Nyssa,Malheur,Oregon,1.8,43.771896,-117.155023,Hydroelectric
+Owyhee Dam Power Project,Nyssa,Malheur,Oregon,2.9,43.641603,-117.24374,Hydroelectric
+Tunnel 1 Power Project,Nyssa,Malheur,Oregon,6.7,43.642023,-117.232674,Hydroelectric
+East Portal Generator,Chatsworth,Los Angeles,California,1.2,34.2619,-118.6242,Hydroelectric
+Upriver Dam Hydro Plant,Spokane,Spokane,Washington,4.5,47.6822,-117.3319,Hydroelectric
+Twin Reservoirs,Walla Walla,Walla Walla,Washington,1.8,46.088333,-118.254722,Hydroelectric
+Gregg Falls,Goffstown,Hillsborough,New Hampshire,3.4,43.0168,-71.5679,Hydroelectric
+Friant Hydro Facility,Friant,Fresno,California,39.4,36.997694,-119.703451,Hydroelectric
+Sand Bar Power Plant,Stanislaus Ntl. Fores,Tuolumne,California,15.6,38.1861,-120.15,Hydroelectric
+Park Mill,Marinette,Marinette,Wisconsin,2.1,45.1058,-87.6514,Hydroelectric
+Menominee Mill Marinette,Menominee,Menominee,Michigan,1.8,45.1069,-87.6378,Hydroelectric
+Penacook Upper Falls Hydro,Penacook,Merrimack,New Hampshire,3.4,43.283208,-71.600827,Hydroelectric
+Tannery Island Power,Carthage,Jefferson,New York,1,43.98,-75.6131,Hydroelectric
+Orchard Avenue 1,Yakima,Yakima,Washington,1.6,46.596413,-120.677489,Hydroelectric
+Cowiche,Tieton,Yakima,Washington,1.6,46.692628,-120.737194,Hydroelectric
+Ada Dam,Ada,Kent,Michigan,1.4,42.950642,-85.485944,Hydroelectric
+Sugarloaf Hydro Plant,Leadville,Lake,Colorado,2.5,39.252672,-106.374808,Hydroelectric
+Cascade Dam,Grand Rapids,Kent,Michigan,1.6,42.909408,-85.49888,Hydroelectric
+French Landing Dam,Belleville,Wayne,Michigan,1.6,42.214264,-83.440692,Hydroelectric
+Oconto Falls Lower,Oconto Falls,Oconto,Wisconsin,2,44.8719,-88.1439,Hydroelectric
+Cheboygan,Cheboygan,Cheboygan,Michigan,0.7,45.637537,-84.481387,Hydroelectric
+Rocky Mount Mill,Rocky Mount,Nash,North Carolina,1.1,35.960058,-77.802435,Hydroelectric
+Glen Park Hydroelectric Project,Watertown,Jefferson,New York,32.6,44.000608,-75.961156,Hydroelectric
+Stillwater Reservoir Hydro,Webb,Herkimer,New York,2.5,43.897386,-75.04,Hydroelectric
+Fort Miller Hydroelectric Facility,Northumberland,Saratoga,New York,5,43.160868,-73.584076,Hydroelectric
+Boltonville Hydro Associates,Boltonville,Orange,Vermont,1.1,44.1706,-72.0994,Hydroelectric
+Lawrence Hydroelectric Associates,Lawrence,Essex,Massachusetts,14,42.6994,-71.1653,Hydroelectric
+Bowman,Nevada City,Nevada,California,3.6,39.448352,-120.653417,Hydroelectric
+Brainerd Public Utilities,Brainerd,Crow Wing,Minnesota,2.9,46.3758,-94.1817,Hydroelectric
+Lyonsdale Associates,Lyons Falls,Lewis,New York,3,43.618874,-75.30546,Hydroelectric
+Gardiner,Gardiner,Kennebec,Maine,1,44.221796,-69.785675,Hydroelectric
+Pumpkin Hill,Lowell,Penobscot,Maine,1,45.1868,-68.4649,Hydroelectric
+Lilliwaup Falls Generating,Lilliwaup,Mason,Washington,1.4,47.4706,-123.1153,Hydroelectric
+Salmon Falls,South Berwick,York,Maine,1.2,43.226977,-70.810888,Hydroelectric
+Somersworth Lower Great Dam,Somersworth,Strafford,New Hampshire,1.2,43.251111,-70.840833,Hydroelectric
+Huntington Falls,Weybridge,Addison,Vermont,5.5,44.0703,-73.1961,Hydroelectric
+Notch Butte Hydro,Shoshone,Lincoln,Idaho,1,42.954384,-114.462563,Hydroelectric
+Pontook Hydro Facility,Dummer,Coos,New Hampshire,10.5,44.632842,-71.24742,Hydroelectric
+New Hogan Power Plant,Valley Springs,Calaveras,California,2.8,38.149582,-120.814942,Hydroelectric
+Pejepscot Hydroelectric Project,Topsham,Sagadahoc,Maine,12.9,43.957448,-70.024158,Hydroelectric
+West End Dam Hydroelectric Project,Carthage,Jefferson,New York,4.2,43.98289,-75.620583,Hydroelectric
+Forestport,Forestport,Oneida,New York,3.4,43.442468,-75.215946,Hydroelectric
+Twin Falls Hydro,North Bend,King,Washington,22.8,47.444554,-121.687812,Hydroelectric
+Chicopee Hydroelectric Station,Chicopee,Hampden,Massachusetts,2.4,42.159595,-72.58279,Hydroelectric
+Ivy River Hydro,Marshall,Madison,North Carolina,1.2,35.771627,-82.61827,Hydroelectric
+El Dorado Hydro Elk Creek,New Meadows,Idaho,Idaho,2.3,45.217784,-116.31577,Hydroelectric
+Rock Creek LP,Placerville,El Dorado,California,3,38.78342,-120.778506,Hydroelectric
+Allegheny No. 5 Hydro Station,Schenley,Armstrong,Pennsylvania,6,40.682875,-79.665298,Hydroelectric
+Allegheny No 6 Hydro Station,Ford City,Armstrong,Pennsylvania,8,40.716389,-79.577222,Hydroelectric
+Bypass,Hazelton,Jerome,Idaho,9.9,42.560876,-114.057461,Hydroelectric
+S E Hazelton A,Hazelton,Jerome,Idaho,8.4,42.586701,-114.067537,Hydroelectric
+Allegheny Hydro No 8,Adrian,Armstrong,Pennsylvania,13.6,40.896596,-79.478982,Hydroelectric
+Allegheny Hydro No 9,Cowansville,Armstrong,Pennsylvania,17.8,40.955961,-79.550681,Hydroelectric
+Middle Fork Irrigation District,Parkdale,Hood River,Oregon,3.3,45.480701,-121.59984,Hydroelectric
+Galesville Project,Azalea,Douglas,Oregon,1.6,42.8489,-123.1778,Hydroelectric
+Slate Creek,Lakehead,Shasta,California,4,40.976859,-122.456251,Hydroelectric
+Marsh Valley Development,McCammon,Bannock,Idaho,1.5,42.625972,-112.149344,Hydroelectric
+Siphon Power Project,Bend,Deschutes,Oregon,5.4,44.033022,-121.3297,Hydroelectric
+Rock Creek I,Twin Falls,Twin Falls,Idaho,2,42.632483,-114.538769,Hydroelectric
+Aziscohos Hydroelectric Project,Wilson Mills,Oxford,Maine,6.8,44.9439,-70.9975,Hydroelectric
+West Delaware Tunnel Plant,Grahamsville,Sullivan,New York,7,41.859601,-74.510259,Hydroelectric
+Little Falls Hydro,Little Falls,Herkimer,New York,13,43.040335,-74.850621,Hydroelectric
+Moretown Generating Station,Moretown,Washington,Vermont,0.3,44.285945,-72.710324,Hydroelectric
+Yough Hydro Power,Confluence,Somerset,Pennsylvania,12.2,39.801637,-79.368214,Hydroelectric
+Quail Creek Hydro Plant #1,Hurricane,Washington,Utah,2.3,37.1854,-113.3583,Hydroelectric
+Clifton Dam 3 Power Station,Converse,Spartanburg,South Carolina,1.2,34.9953,-81.8344,Hydroelectric
+Rapidan Hydro Facility,Mankato,Blue Earth,Minnesota,6.4,44.092689,-94.108817,Hydroelectric
+Herkimer,Herkimer,Herkimer,New York,0.4,43.033577,-74.983391,Hydroelectric
+Ogdensburg,Ogdensburg,St Lawrence,New York,1,44.704089,-75.487049,Hydroelectric
+Great Falls Hydro Project,Paterson,Passaic,New Jersey,9.9,40.915319,-74.180986,Hydroelectric
+Lacomb Irrigation District,Lebanon,Linn,Oregon,1,44.597518,-122.685441,Hydroelectric
+Collins Facility,Wilbraham,Hampden,Massachusetts,1.6,42.1569,-72.4227,Hydroelectric
+Upper Barker,Auburn,Androscoggin,Maine,1,44.08687,-70.229294,Hydroelectric
+Conemaugh Hydro Plant,Saltsburg,Westmoreland,Pennsylvania,4,40.46439,-79.365703,Hydroelectric
+Falls Creek,Cascadia,Linn,Oregon,3.9,44.396815,-122.350246,Hydroelectric
+Broadwater Power Project,Toston,Broadwater,Montana,9.7,46.12061,-111.407656,Hydroelectric
+San Gabriel Hydro Project,Azusa,Los Angeles,California,4.8,34.204311,-117.855714,Hydroelectric
+Port Edwards Mill,Port Edwards,Wood,Wisconsin,6.6,44.3364,-89.8672,Hydroelectric
+Mechanic Falls,Mechanic Falls,Androscoggin,Maine,1.4,44.111236,-70.390673,Hydroelectric
+Pittsfield Hydro,Burnham,Somerset,Maine,1.1,44.721371,-69.411992,Hydroelectric
+Great Lakes Hydro America - ME,Millinocket,Penobscot,Maine,134.3,45.647179,-68.704368,Hydroelectric
+Hillcrest Pump Station,Denver,Denver,Colorado,2,39.6419,-104.9138,Hydroelectric
+Hydro Kennebec Project,Winslow,Kennebec,Maine,15.4,44.563031,-69.619162,Hydroelectric
+Upper Androscoggin,Lewiston,Androscoggin,Maine,1.7,44.087963,-70.212368,Hydroelectric
+Smith Falls Hydro Project,Bonners Ferry,Boundary,Idaho,20.1,48.959547,-116.557375,Hydroelectric
+Opal Springs Hydro,Culver,Jefferson,Oregon,3.3,44.49004,-121.298812,Hydroelectric
+Warm Springs Hydro Project,Geyserville,Sonoma,California,1.2,38.722141,-123.011188,Hydroelectric
+Koma Kulshan Associates,Concrete,Whatcom,Washington,12.4,48.680178,-121.723294,Hydroelectric
+Lee Creek Water Treatment Facility,Van Buren,Crawford,Arkansas,1.3,35.484488,-94.392858,Hydroelectric
+Hastings City Hydroelectric,Hastings,Dakota,Minnesota,4,44.760249,-92.867743,Hydroelectric
+Goodwin Hydroelectric,W. Hartland,Hartford,Connecticut,3.2,41.988611,-73.0194,Hydroelectric
+Wilson Lake Hydroelectric Project,Eden,Jerome,Idaho,8.4,42.628889,-114.174722,Hydroelectric
+Three Forks Water Power Project,Zenia,Trinity,California,1.2,40.199822,-123.523145,Hydroelectric
+Sibley Mill,Augusta,Richmond,Georgia,2.1,33.487881,-81.99252,Hydroelectric
+Norway Point Hydropower Project,Alpena,Alpena,Michigan,4,45.1025,-83.5189,Hydroelectric
+Four Mile Hydropower Project,Alpena,Alpena,Michigan,2,45.0933,-83.5025,Hydroelectric
+Ninth Street Hydropower Project,Alpena,Alpena,Michigan,1.2,45.0717,-83.4381,Hydroelectric
+Terminus Hydroelectric Project,Lemon Cove,Tulare,California,20,36.4156,-119.0069,Hydroelectric
+Chace Mill Winooski One,Winooski,Chittenden,Vermont,7.5,44.49,-73.1875,Hydroelectric
+EHC West Hopkinton,West Hopkinton,Merrimack,New Hampshire,1,43.1897,-71.7483,Hydroelectric
+Kinneytown New Old,Seymour,New Haven,Connecticut,2.2,41.3686,-73.0856,Hydroelectric
+Little Wood Hydro Project,Carey,Blaine,Idaho,2.4,43.425228,-114.025597,Hydroelectric
+Weeks Falls,North Bend,King,Washington,4.2,47.43348,-121.6483,Hydroelectric
+Alice Falls Hydro Project,Keeseville,Clinton,New York,2.2,44.519153,-73.464752,Hydroelectric
+Dry Creek Project,Howe,Butte,Idaho,2.2,44.027444,-112.719439,Hydroelectric
+Stillwater Hydro Electric Project,Stillwater,Saratoga,New York,3.4,42.937465,-73.654393,Hydroelectric
+Rollinsford,Rollinsford,Strafford,New Hampshire,1.4,43.236111,-70.817222,Hydroelectric
+Graniteville Enterprise Division,Augusta,Richmond,Georgia,1,33.477027,-81.982732,Hydroelectric
+Mascoma Hydro,W. Lebanon,Grafton,New Hampshire,1.5,43.633373,-72.317162,Hydroelectric
+Blind Canyon Hydro,Wendell,Gooding,Idaho,1.3,42.69984,-114.822603,Hydroelectric
+Horseshoe Bend Hydroelectric Co,Horseshoe Bend,Boise,Idaho,9.4,43.904085,-116.244193,Hydroelectric
+Kankakee Hydro Facility,Kankakee,Kankakee,Illinois,1.2,41.1128,-87.8681,Hydroelectric
+Longfalls Facility,West Carthage,Jefferson,New York,3,43.980806,-75.624677,Hydroelectric
+Spicer Meadow Project,Murphys,Tuolumne,California,5.5,38.3914,-120.0008,Hydroelectric
+Collierville Powerhouse,Murphys,Calaveras,California,253,38.144636,-120.380497,Hydroelectric
+Hazelton B Hydro,Hazelton,Jerome,Idaho,7.6,42.6051,-114.093,Hydroelectric
+Lochmere Hydroelectric Plant,Tilton,Belknap,New Hampshire,1.2,43.473238,-71.533623,Hydroelectric
+Wappinger Falls Hydroelectric,Wappinger Falls,Dutchess,New York,2,41.598395,-73.922036,Hydroelectric
+Curtis Palmer Hydroelectric,Corinth,Saratoga,New York,59.6,43.2469,-73.8281,Hydroelectric
+Berlin Gorham,Berlin,Coos,New Hampshire,30.4,44.3889,-71.1645,Hydroelectric
+Kanaka,Oroville,Butte,California,1.1,39.558897,-121.296117,Hydroelectric
+Kekawaka Power House,Mirinda,Trinity,California,4.9,40.0941,-123.508983,Hydroelectric
+Schoolfield Dam,Danville,Pittsylvania,Virginia,4.5,36.576778,-79.432503,Hydroelectric
+Falls River Hydro,Ashton,Fremont,Idaho,9,44.0597,-111.3535,Hydroelectric
+Ford Hydro LP,Weippe,Clearwater,Idaho,0.6,46.383828,-115.949338,Hydroelectric
+Sidney A Murray Jr Hydroelectric,Vidalia,Concordia,Louisiana,192,31.088011,-91.618853,Hydroelectric
+Boulder City Lakewood Hydro,Boulder,Boulder,Colorado,3.5,40.0111,-105.3347,Hydroelectric
+Boulder City Betasso Hydro Plant,Boulder,Boulder,Colorado,3,40.0111,-105.3347,Hydroelectric
+Thundermist Hydro,Providence,Providence,Rhode Island,1.1,41.99897,-71.517434,Hydroelectric
+Lower Beaver Falls Project,Beaver Falls,Lewis,New York,1,43.884444,-75.430556,Hydroelectric
+Warm Springs Power Enterprises,Warm Springs,Jefferson,Oregon,18.5,44.724242,-121.247729,Hydroelectric
+Taylor Draw Hydroelectric Facility,Rangely,Rio Blanco,Colorado,2,40.106269,-108.711161,Hydroelectric
+Lateral 10 Ventures,Buhl,Twin Falls,Idaho,2.3,42.647376,-114.89031,Hydroelectric
+South Glens Falls Hydroelectric,South Glens Falls,Saratoga,New York,13.8,43.304413,-73.63993,Hydroelectric
+Avalon Hydropower,Mayodan,ROCKINGHAM,North Carolina,1.2,36.423715,-79.952494,Hydroelectric
+Mile 28 Water Power Project,Eden,Jerome,Idaho,1.4,42.740139,-114.161173,Hydroelectric
+Wailuku River Hydroelectric,Hilo,Hawaii,Hawaii,9.8,19.712994,-155.14857,Hydroelectric
+Black Creek,Snoqualmie,King,Washington,3.7,47.549652,-121.710517,Hydroelectric
+Phoenix Hydro Project,Phoenix,Oswego,New York,2.4,43.227058,-76.302137,Hydroelectric
+Milstead,Conyers,Rockdale,Georgia,1,33.689362,-83.990333,Hydroelectric
+Dunn Paper,Gouverneur,St Lawrence,New York,1,44.336358,-75.50274,Hydroelectric
+Kimberly Mill,Appleton,Outagamie,Wisconsin,2.1,44.2769,-88.3344,Hydroelectric
+Narrows (NC),Badin,Stanly,North Carolina,119,35.4189,-80.0917,Hydroelectric
+Falls Hydro,Badin,Stanly,North Carolina,30,35.3944,-80.0753,Hydroelectric
+High Rock Hydro,Denton,Davidson,North Carolina,37,35.6008,-80.2339,Hydroelectric
+Tuckertown Hydro,New London,Montgomery,North Carolina,39,35.4856,-80.1758,Hydroelectric
+Santeetlah,Robbinsville,Graham,North Carolina,40,35.4475,-83.863889,Hydroelectric
+Cheoah,Tapoco,Graham,North Carolina,143,35.4478,-83.9383,Hydroelectric
+Calderwood,Tallassee,Blount,Tennessee,156,35.4923,-83.9806,Hydroelectric
+Chilhowee,Tallassee,Blount,Tennessee,51,35.5453,-84.0503,Hydroelectric
+Hudson Falls Hydroelectric Project,South Glens Falls,Saratoga,New York,44,43.2958,-73.5956,Hydroelectric
+Dixon Hydroelectric Dam,Dixon,Lee,Illinois,3,41.845306,-89.481286,Hydroelectric
+Harris Energy Realty,Holyoke,Hampden,Massachusetts,0.5,42.205236,-72.592862,Hydroelectric
+Montgomery Creek Hydro,Montgomery Creek,Shasta,California,2.6,40.846806,-121.956446,Hydroelectric
+Medway Hydro,Medway,Penobscot,Maine,3.9,45.6072,-68.5453,Hydroelectric
+Flambeau Crowley Rapids Project,Park Falls,Price,Wisconsin,1.5,45.8683,-90.5844,Hydroelectric
+Flambeau Lower Project,Park Falls,Price,Wisconsin,1.2,45.913526,-90.44746,Hydroelectric
+Quinebaug Lower Project,Brooklyn,Windham,Connecticut,2.4,41.798656,-71.886759,Hydroelectric
+Kaheka Hydro,Puunene,Maui,Hawaii,4.5,20.8886,-156.3569,Hydroelectric
+Boulder City Silver Lake Hydro,Boulder,Boulder,Colorado,3.3,39.991311,-105.50003,Hydroelectric
+Springville Hydroelectric,Camarillo,Ventura,California,1,34.2253,-119.0858,Hydroelectric
+South Fork,Klawock,Prince of Wales Ketchikan,Alaska,1.9,55.563333,-132.891111,Hydroelectric
+Coleman Falls,Coleman Falls,Bedford,Virginia,1.5,37.5035,-79.3006,Hydroelectric
+Holcomb Rock,Holcomb Rock,Lynchburg City,Virginia,0.6,37.5035,-79.3006,Hydroelectric
+Gauley River Power Partners,Summersville,Nicholas,West Virginia,80,38.21921,-80.89061,Hydroelectric
+Mora Drop Hydroelectric Project,Kuna,Ada,Idaho,0.8,43.460012,-116.47254,Hydroelectric
+Tiber Dam Hydroelectric Plant,Chester,Liberty,Montana,7.5,48.318,-111.1018,Hydroelectric
+Kasidaya Creek Hydro,Skagway,Skagway Hoonah Angoon,Alaska,3,59.4072,-135.3408,Hydroelectric
+Rancho Penasquitos,San Diego,San Diego,California,4.4,32.93695,-117.113669,Hydroelectric
+Russell D Smith,Othello,Adams,Washington,6.1,46.7392,-119.1122,Hydroelectric
+Summer Falls Power Plant,Coulee City,Grant,Washington,92,47.5025,-119.2917,Hydroelectric
+Eltopia Branch Canal 4.6,Pasco,Franklin,Washington,2.2,46.378381,-119.254522,Hydroelectric
+Potholes East Canal 66.0,Pasco,Franklin,Washington,2.3,46.378469,-119.254443,Hydroelectric
+Main Canal Headworks,Coulee City,Grant,Washington,26.8,47.6164,-119.2992,Hydroelectric
+Lyons Falls Hydroelectric,Lyons Falls,Lewis,New York,5.5,43.61863,-75.358577,Hydroelectric
+Gouldtown,Lyonsdale,Lewis,New York,2,43.612619,-75.339072,Hydroelectric
+Kosterville,Lyonsdale,Lewis,New York,1,43.614218,-75.332705,Hydroelectric
+Meldahl Hydroelectric Project,Foster,Bracken,Kentucky,105,38.791431,-84.172982,Hydroelectric
+Chester Diversion Hydroelectric Project,Chester,Fremont,Idaho,3.6,44.018333,-111.583611,Hydroelectric
+Brookfield Power Glen Falls Hydro,Glen Falls,Warren,New York,11.3,43.308505,-73.636584,Hydroelectric
+Sears Hydroelectric Plant,Rock Island,Rock Island,Illinois,1.2,41.4614,-90.5803,Hydroelectric
+Arrowrock Hydroelectric Project,Boise,Elmore,Idaho,16,43.595,-115.9233,Hydroelectric
+Twin Cities Hydro LLC,St. Paul,Ramsey,Minnesota,18,44.9156,-93.1994,Hydroelectric
+Lake Dorothy Hydroelectric Project,Juneau,Juneau,Alaska,14.3,58.2325,-134.0533,Hydroelectric
+White River Lock and Dam 1,Batesville,Independence,Arkansas,4.3,35.757401,-91.636887,Hydroelectric
+White River Lock and Dam 2,Locust Grove,Independence,Arkansas,3.5,35.744036,-91.765418,Hydroelectric
+White River Lock and Dam 3,Marcella,Stone,Arkansas,4.3,35.84361,-91.850521,Hydroelectric
+Orono Hydro Station,Orono,Penobscot,Maine,2.7,44.8803,-68.6647,Hydroelectric
+Little Quinnesec Falls Hydro Project,Niagara,Marinette,Wisconsin,9,45.7736,-87.9894,Hydroelectric
+Siphon Drop Power Plant,Winterhaven,Imperial,California,4.4,32.7792,-114.6344,Hydroelectric
+Cannelton Hydroelectric Plant,Hawesville,Hancock,Kentucky,87.9,37.899722,-86.705833,Hydroelectric
+Smithland Hydroelectric Plant,Smithland,Livingston,Kentucky,75.9,37.169636,-88.419518,Hydroelectric
+Willow Island Hydroelectric Plant,Willow Island,Pleasants,West Virginia,44,39.35776,-81.31795,Hydroelectric
+Juniper Ridge Hydroelectric Project,Bend,Deschutes,Oregon,3.3,44.142698,-121.269747,Hydroelectric
+Tieton Dam Hydro Electric Project,Rimrock,Yakima,Washington,13.8,46.658,-121.1287,Hydroelectric
+Garland Canal Power Plant,Powell,Park,Wyoming,2.6,44.7264,-108.8644,Hydroelectric
+SAF Hydroelectric LLC,Minneapolis,Hennepin,Minnesota,9.6,44.978889,-93.247777,Hydroelectric
+Turnbull Hydro,Fairfield,Teton,Montana,13,47.605278,-112.096944,Hydroelectric
+Youngs Creek Hydroelectric Project,Monroe,Snohomish,Washington,7.9,47.7916,-121.8,Hydroelectric
+North Hollywood,Los Angeles,Los Angeles,California,9,34.194444,-118.39028,Hydroelectric
+Upper Pacolet Hydro,Pacolet,Spartanburg,South Carolina,1.1,34.921389,-81.745556,Hydroelectric
+Paia Hydroelectric Plant,Paia,Maui,Hawaii,1.3,20.8867,-156.3378,Hydroelectric
+Fargo Drop,Wilder,Canyon,Idaho,1.1,43.625,-116.899722,Hydroelectric
+Jordan Hydroelectric Project,Moncure,Chatham,North Carolina,4.4,35.654722,-79.068333,Hydroelectric
+Flint Creek Hydroelectric LLC,Philipsburg,Granite,Montana,2,46.2275,-113.294722,Hydroelectric
+Spearfish Hydro,Spearfish,Lawrence,South Dakota,4,44.478333,-103.854722,Hydroelectric
+45 Mile Hydroelectric Project,Culver,Jefferson,Oregon,3,44.528056,-121.152778,Hydroelectric
+C-Drop Hydro,Klamath Falls,Klamath,Oregon,1.1,42.165833,-121.685,Hydroelectric
+Carter Hydro,Berthoud,Larimer,Colorado,2.6,40.324167,-105.208889,Hydroelectric
+Oswegatchie,Edwards,St Lawrence,New York,1.6,44.27,-75.199167,Hydroelectric
+Upper Newton Falls,Newton Falls,St Lawrence,New York,1.4,44.214444,-74.991389,Hydroelectric
+Mahoning Creek Hydroelectric Project,New Bethlehem,Armstrong,Pennsylvania,6.7,40.921111,-79.281667,Hydroelectric
+Nooksack Hydro,Glacier,Whatcom,Washington,2.8,48.907778,-121.814167,Hydroelectric
+South Canal Hydro-1,Montrose,Montrose,Colorado,3.8,38.483333,-107.755,Hydroelectric
+South Canal Hydro-3,Montrose,Montrose,Colorado,3.3,38.470278,-107.771389,Hydroelectric
+Stuyvesant Falls,Stuyvesant,Columbia,New York,4,42.351389,-73.733889,Hydroelectric
+Tri-County Water Hydropower Project,Ridgway,Ouray,Colorado,8,38.239167,-107.758056,Hydroelectric
+Whitman,Ketchikan,Ketchikan Gateway,Alaska,4.8,55.328056,-131.530833,Hydroelectric
+Allison Creek Hydro,Valdez,Valdez Cordova,Alaska,6.5,61.084444,-146.353333,Hydroelectric
+Ball Mountain Hydro,Jamaica,Windham,Vermont,2.4,43.126944,-72.776111,Hydroelectric
+Dorena Hydro-Electric Facility,Cottage Grove,Lane,Oregon,7.5,43.786667,-122.958056,Hydroelectric
+Baker Creek Hydroelectric,Bridgeville,Humboldt,California,0,40.526389,-123.725556,Hydroelectric
+Stillwater B,Old Town,Penobscot,Maine,2.4,44.912667,-68.683833,Hydroelectric
+Orono B,Orono,Penobscot,Maine,3.9,44.884444,-68.663889,Hydroelectric
+Twin Falls (WI),Florence,Florence,Wisconsin,9.2,45.872778,-88.070833,Hydroelectric
+Granby Hydro,Granby,Grand,Colorado,1.2,40.1464,-105.8683,Hydroelectric
+Calligan Creek Hydroelectric Project,Snoqualmie,King,Washington,6,47.6008,-121.68861,Hydroelectric
+Hancock Creek Hydroelectric Project,Snoqualmie,King,Washington,6,47.5722,-121.6897,Hydroelectric
+Timothy Lake Powerhouse,Clackamas,Clackamas,Oregon,1.1,45.370546,-121.756527,Hydroelectric
+King Mill,Augusta,Richmond,Georgia,2,33.485245,-81.991203,Hydroelectric
+Tyee Lake Hydroelectric Facility,Wrangell,Wrangell Petersburg,Alaska,22.6,56.216403,-131.504344,Hydroelectric
+Shavano Falls Hydro,Montrose,Montrose,Colorado,2.8,38.491966,-108.002283,Hydroelectric
+Shavano Falls Hydro Drop 4,Montrose,Montrose,Colorado,4.5,38.450483,-107.776727,Hydroelectric
+Drop 5,Montrose,Montrose,Colorado,2.4,38.404377,-107.810213,Hydroelectric
+Green Island Hydroelectric Station,Green Island,Albany,New York,6,42.748106,-73.69022,Hydroelectric
+Head of U Canal Hydro Project,Jerome,Jerome,Idaho,1.2,42.7628,-114.3958,Hydroelectric
+Caonillas,Utuado,,Puerto Rico,22,18.277,-66.656,Hydroelectric
+Dos Bocas,Arecibo,Arecibo,Puerto Rico,15,18.337,-66.667,Hydroelectric
+Garzas,Penuelas,,Puerto Rico,12.2,18.0733,-66.73,Hydroelectric
+Patillas,Patillas,,Puerto Rico,1.4,18.017,-66.019,Hydroelectric
+Toro Negro,Villalba,,Puerto Rico,8.5,18.1317,-66.488,Hydroelectric
+Yauco,Yauco,,Puerto Rico,34,18.1105,-66.871,Hydroelectric
+Rio Blanco,Naguabo,,Puerto Rico,5,18.268,-65.794,Hydroelectric
+Arlington Outlet Hydroelectric Generator,Fort Worth,Tarrant,Texas,1.3,32.639069,-97.242906,Hydroelectric
+Texon Hydroelectric Project,Russell,Hampden,Massachusetts,1.5,42.221412,-72.85964,Hydroelectric
+Seneca Falls Hydroelectric Project,Seneca Falls,Seneca,New York,5.1,42.915299,-76.78672,Hydroelectric
+Waterloo Hydroelectric Project,Waterloo,Seneca,New York,1.5,42.901914,-76.86233,Hydroelectric
+North Gooding Main Hydro,Gooding,Gooding,Idaho,1.3,43.0451,-114.5588,Hydroelectric
+Jordanelle Dam Hydroelectric Project,Heber,Wasatch,Utah,13,40.596605,-111.423589,Hydroelectric
+Mechanicville Hydroelectric Station,Mechanicville,Saratoga,New York,3,42.876535,-73.680169,Hydroelectric
