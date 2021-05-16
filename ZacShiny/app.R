@@ -80,7 +80,7 @@ state_co2_map <- state_co2 %>%
 #for per capita
 stateCO2_perCapita <- stateCO2_perCapita %>%
   mutate(State = tolower(state.name))
-perCapita_co2_map <- stateCO2_perCapita %>%
+percapita_co2_map <- stateCO2_perCapita %>%
   left_join(state_info, by = "State") %>%
   right_join(usa_states, by = c("State" = "region")) %>%
   rename(Y1990 = "1990", Y2018 = "2018") 
@@ -277,11 +277,101 @@ server <- function(input, output) {
       scale_fill_distiller(palette = "PuBu", direction = "horizantle")
   })
   
+  output$hydro_choro <- renderPlot({
+    ggplot(hydro_map, aes(x = long, y = lat, group = group
+                        , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Hydroelectric Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Hydroelectric Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
+  output$ng_choro <- renderPlot({
+    ggplot(ng_map, aes(x = long, y = lat, group = group
+                          , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Natural Gas Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Natural Gas Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+    
+  })
+  output$coal_choro <- renderPlot({
+    ggplot(coal_map, aes(x = long, y = lat, group = group
+                          , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Coal Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Coal Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
+  output$nuclear_choro <- renderPlot({
+    ggplot(nuclear_map, aes(x = long, y = lat, group = group
+                          , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Nuclear Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Nuclear Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
+  output$solar_choro <- renderPlot({
+    ggplot(solar_map, aes(x = long, y = lat, group = group
+                          , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Solar Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Solar Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
+  output$wind_choro <- renderPlot({
+    ggplot(wind_map, aes(x = long, y = lat, group = group
+                          , fill = Energy_Produced)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Wind Energy Produced by State", 
+           subtitle = "as of 2018",
+           fill = "Wind Energy Produced (Megawatts)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
   
+  output$percapita_choro <- renderPlot({
+    ggplot(percapita_co2_map, aes(x = long, y = lat, group = group
+                         , fill = Y2018)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Per Capita Carbon Dioxide Emissions by State", 
+           subtitle = "as of 2018",
+           fill = "Per Capita Carbon Dioxide Emissions (Metric Tons)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
+  
+  output$state_co2_choro <- renderPlot({
+    ggplot(state_co2_map, aes(x = long, y = lat, group = group
+                         , fill = Y2018)) +
+      geom_polygon(color = "white") +
+      theme_void() +
+      coord_fixed(ratio = 1.3) +
+      labs(title = "Carbon Dioxide Emissions by State", 
+           subtitle = "as of 2018",
+           fill = "Carbon Dioxide Emissions (Million Metric Tons)") +
+      scale_fill_distiller(palette = "PuBu", direction = "horizantle")
+  })
 }
 
 
