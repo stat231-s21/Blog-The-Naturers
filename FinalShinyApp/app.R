@@ -330,7 +330,7 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                  
                  
                  navbarMenu(
-                     title= "Cloropleth Maps",
+                     title= "Choropleth Maps",
                  tabPanel(
                          title="Petroleum",
                          mainPanel(plotOutput(outputId = "petroleum_choro"), width = 12
