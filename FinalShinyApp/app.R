@@ -416,7 +416,7 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                              selectInput(inputId = "leaflet_state1", 
                                          label = "State:",
                                          choices = unique(state_energy_consumption$State),
-                                         selected = "Delaware",
+                                         selected = "Arizona",
                                          multiple = FALSE)
                          ),
                          
@@ -432,7 +432,7 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                              selectInput(inputId = "leaflet_state2", 
                                          label = "State:",
                                          choices = unique(Energy_type_per_state$State),
-                                         selected = "Delaware",
+                                         selected = "Arizona",
                                          multiple = FALSE)
                          ),
                          
