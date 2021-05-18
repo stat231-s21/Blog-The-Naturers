@@ -33,7 +33,7 @@ By building off our mid semester project, we wanted to advance our work and look
 
 To answer these questions, we collected data from the U.S. Energy Information Administration.  The EIA has data that spans from before 1960 all the way to 2021, but the data we most wanted to focus on was for power plants in the US, of which only data from 2018 was available. We were able to find data on power plant location and generation capacity for the major renewable and nonrenewable energy sources including wind, solar, hydroelectric, geothermal, nuclear, coal, petroleum, and natural gas. Included was information on carbon dioxide emissions by state and per capita, as well as energy consumption by state.
 
-# Energy Usage Statistics
+# Energy Usage Statistics & Analysis
 
 ## Leaflet Plots {.tabset .tabset-fade .tabset-pills}
 
@@ -59,7 +59,10 @@ In particular if we analyze just these three plots above, we can start to see ho
 
 ## Energy production in the United States
 
-Lorraine stuff goes here?
+![](images/total_energy_production.png)
+
+
+![](images/average_energy_production.png)
 
 
 ## Choropleth Maps {.tabset .tabset-fade .tabset-pills}
@@ -84,7 +87,6 @@ FIll IN LATER
 
 
 
-# Analysis
 
 
 
