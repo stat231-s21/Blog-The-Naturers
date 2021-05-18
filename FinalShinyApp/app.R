@@ -422,7 +422,7 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                          
                          # Show a plot of the generated distribution
                          mainPanel(
-                             plotOutput("distPlot1Leaflet", height = "300px")
+                             plotOutput("distPlot1Leaflet", height = "300px"), width = 6
                          )
                      ), 
                      br(),
@@ -438,7 +438,7 @@ ui <- navbarPage(theme = shinytheme("sandstone"),
                          
                          # Show a plot of the generated distribution
                          mainPanel(
-                             plotOutput("distPlot2Leaflet")
+                             plotOutput("distPlot2Leaflet"), width = 6
                          )
                      )
                 
