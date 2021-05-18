@@ -123,5 +123,5 @@ While we believe our work builds a good foundation in understanding how differen
 https://www.ucsusa.org/resources/environmental-impacts-natural-gas
 https://www.wind-watch.org/news/2014/05/19/ask-hutch/
 https://www.energysage.com/about-clean-energy/wind/pros-cons-wind-energy/
-https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/#:~:text=How%20efficient%20are%20solar%20panels,are%20not%20above%2020%25%20efficiency.
-https://www.energy.gov/eere/solar/solar-energy-united-states#:~:text=This%20is%20enough%20to%20power,panels%20has%20dropped%20nearly%2070%25%20.
+https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
+https://www.energy.gov/eere/solar/solar-energy-united-states
